@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Late autumn",
-  "dayNumber": 12,
-  "weather": "Overcast and mild. The frost did not return. A low grey sky that felt, for once, like shelter rather than threat.",
+  "dayNumber": 13,
+  "weather": "Clear and cold. The first real autumn sky: blue all the way down to the treeline, no cloud, no apology. The lake this morning was a mirror someone had laid flat on the earth and forgotten to collect.",
   "undercurrent": {
-    "level": 44,
+    "level": 34,
     "stage": 2,
     "phenomenon": "the lake",
-    "note": "The level eases down as the resolution takes hold. The lake is still full, still warm, still present—but the urgency that charged the air at the crest is gone, replaced by a domestic familiarity. The town is not on guard; it is on terms. Gerald's notebook says 'holding' and he has underlined it, which is the truest measurement anyone has taken. The gift of dried lake grasses at Pell Road marks a new exchange—not just pie going out, but something coming back; the accommodation is now bilateral. Russ's unnamed ritual at the dock and the coffee pot at the hardware are the final conversions: the last two skeptics are not converted to belief, exactly, but to presence. Watch for: whether Agnes gives a clear statement that the counting has concluded; whether the waterline begins a slow, deliberate recession in Day 13–14; the final thread to tie is the cheque from the green house, and what the town decides it means."
+    "note": "The waterline has turned. The counting is, by Agnes's reckoning, complete—the lake found nine and was satisfied. Level is easing toward resolution; the urgency is gone and what remains is the domestic familiar. The hum has not stopped but it is no longer felt as pressure; it is felt as presence. The returned are gentle, the dusk gatherings are warm, the scarf stays in the lost-and-found. Tomorrow—Day 14, the coda—the town accepts and names its new normal. Watch for: Agnes giving the final word; the waterline continuing its quiet recession; whether the sign changes at all, or whether the town leaves it at seven forever as a private acknowledgment of what the lake counted and what it found."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 1,
     "premise": "the lake wakes, goes silent, and begins to count the town",
-    "day_in_season": 12,
+    "day_in_season": 13,
     "target_length": 14,
     "next_premise": ""
   }

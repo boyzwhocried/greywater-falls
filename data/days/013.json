@@ -1,0 +1,50 @@
+{
+  "day": 13,
+  "dateline": "Saturday, October the 18th",
+  "weather": "Clear and cold. The first real autumn sky: blue all the way down to the treeline, no cloud, no apology. The lake this morning was a mirror someone had laid flat on the earth and forgotten to collect.",
+  "stage": 2,
+  "lead": {
+    "headline": "The Lake Has Begun to Give the Count Back",
+    "byline": "By Wren Aldercott",
+    "body": "Gerald Pith checked the stick this morning. He has checked it every morning for thirteen days, recording the waterline in the small notebook he keeps in his coat pocket, the one with the red cover that Marigold Vance once called his 'ledger of worry.' This morning the knot he tied on Day 4 was above the water. Not by much—a finger's width, perhaps a little less—but above it, unambiguously, for the first time since the lake began to rise. He made the notation with his usual care. He underlined nothing. He picked up his two mugs and walked to the dock and set one on the planking, and when he came back for breakfast, he told Marigold what he had found, and she put down her spatula and stood still for a moment in the way that people do when something they were bracing for has decided to be gentle.\n\nThe welcome sign on the Carrow Road still reads seven. This paper has reported that number faithfully and will continue to do so. But Agnes Crewe, who has been watching the count longer than anyone and with more instruments than most, came into the Gazette office yesterday afternoon—the first time she has done so in six years—and sat down across from this editor and said, with the particular flatness of someone delivering a routine observation: 'It's satisfied.' She did not elaborate. She accepted a cup of tea. She left. This paper is treating the remark as a weather report, which is the correct way to treat everything Agnes Crewe says.\n\nAt dusk on Friday, seven residents gathered at the shore without any prior arrangement, which is simply what Friday evenings have become in Greywater Falls. The returned were already there—Mr. Whiskers foremost among them, per usual, occupying what has become his customary position of mild authority. They were humming. The gathered residents did not hum back, exactly, but several reported a kind of ease in the chest, a looseness in the jaw, the involuntary release of a breath held perhaps for two weeks. Russ Dunmore was present. He has still not retrieved his scarf from the lost-and-found, and at this point this paper suspects he never will, and that is fine.\n\nThe Gazette has spent thirteen days asking, in its careful and inadequate way, what the lake has been doing. The honest answer is that it has been counting—Mrs. Crewe said so on Day 4, and she meant it literally, and it was true. It counted nine. It found what it was looking for. The counting, by all available evidence, is done. What Greywater Falls is left with is the ordinary extraordinary: a town that knows it was looked at, weighed, and found sufficient. That is not a small thing. Most towns never find out."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 13",
+      "body": "Level: 61 (down from 63 on Day 12; first recorded decrease). Temperature: warm to the hand, as before. Clarity: full; the gravel on the bottom is legible at twelve feet. Welcome sign count: 7. The returned at dusk: 4, including Mr. Whiskers, Doreen Halloway's tabby Biscuit, and two waterfowl that nobody had noticed were gone. All present, all humming, all facing deep water. The held note, this evening, sounded to at least one observer like a sustained exhale."
+    },
+    {
+      "headline": "Agnes Crewe Visits the Gazette; Tea Was Served",
+      "body": "The Gazette can confirm that Agnes Crewe, 91, visited this office on Friday afternoon for the first time since the autumn of 2017, when she came to correct the spelling of her late husband's name in a reprint. She stayed for approximately twenty minutes, made one statement (see lead), examined the Lake Watch clippings pinned to the corkboard, said 'that's about right,' and departed. She declined comment on the waterline. She took two shortbread biscuits for the road."
+    },
+    {
+      "headline": "Dunmore Scarf Remains in Lost-and-Found; Gazette Institutes Waiting Period",
+      "body": "A navy wool scarf, no label, has remained unclaimed in the Gazette's lost-and-found box since Tuesday. Constable Dunmore has been notified. He said he would come by. He has not come by. The Gazette will hold the item for a standard thirty days, after which it will be donated. To whom, in a town of nine, is an open question."
+    },
+    {
+      "headline": "Halloway's Bakery Announces Saturday Hours Extension",
+      "body": "Mayor and proprietor Doreen Halloway has announced that Halloway's Bakery will now remain open until two o'clock on Saturdays, effective immediately. 'People are staying longer,' she said, by way of explanation. There will be crumb cake. There will, Halloway confirmed, also be a new item: a honey-and-oat loaf whose recipe she does not remember acquiring but whose result she called 'correct.' The town is invited."
+    }
+  ],
+  "classifieds": [
+    "FOUND: One navy wool scarf, Gazette office, lost-and-found. Owner knows where to find us.",
+    "HALLOWAY'S BAKERY — Saturday hours now until 2 p.m. Honey-oat loaf, limited quantity. Come early or come second; both are welcome.",
+    "THE KETTLE — Weekend special: crumb cake by the slice or the half-round. The extra slice is still there. It's always there. — M. Vance",
+    "NOTICE: The chairs at the shore will remain out through season's end, per informal town consensus. Those wishing to add a chair may do so. Those wishing to sit in one need not ask permission."
+  ],
+  "record": [
+    "Waterline at the Gerald Pith Memorial Stick: first recorded decrease after 9 days of rise. Notation entered 6:47 a.m., Saturday.",
+    "Agnes Crewe, 91, visited the Gazette offices Friday, Oct. 17. Statement delivered and logged. Shortbread consumed: 2."
+  ],
+  "letters": [
+    {
+      "from": "Gerald Pith, Greywater Falls",
+      "body": "Dear Wren — I want to put something on the record, since that seems to be what the record is for. The water is going back. Not fast, and not all the way, I expect, but the stick was dry above the knot this morning and I have been watching that stick for thirteen days and I know what dry looks like. I don't know what that means, or what any of it means, or whether it is finished or only pausing. What I know is that Mr. Whiskers sat on the dock this morning and looked out at the water and then looked back at me, which is something he used to do before. Before all of this, I mean. He has not looked back at me in a long time. I wanted to say so. — G. Pith, with thanks for the column. It mattered."
+    },
+    {
+      "from": "Agnes Crewe, Lakeside Cottage",
+      "body": "It counts until it's satisfied. Then it rests. We rested too, the last time, and we were better for it. What the water knows about us now it will keep. What we know about the water now we will keep. That is the arrangement. It is not new. — A. Crewe. P.S. The tea was adequate."
+    }
+  ],
+  "editorNote": "This paper is a small operation in a small town that is, by census, nine souls and, by welcome sign, seven, and the lake is the only institution here that has ever kept a count this editor would trust without qualification. Thirteen days ago the water went quiet and warm and this paper reported it and Doreen called it alarmist and she was not wrong and she was not right. We have reported every morning of it. We will report the resting of it with the same exactness. The Gazette's second set of notes—the ones not printed—say only what Agnes Crewe said in this office yesterday afternoon, which is to say they are now exactly as long as they need to be, and no longer."
+}
