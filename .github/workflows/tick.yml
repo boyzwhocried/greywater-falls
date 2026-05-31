@@ -1,12 +1,16 @@
 name: Daily tick
 
 # Greywater Falls advances itself one day each morning. The tick writes a new
-# edition into data/ and commits it. If Vercel is connected to this repo, the
-# commit redeploys the site and the new day goes live on its own.
+# edition into data/ and commits it. Because Vercel is connected to this repo,
+# that commit redeploys the site and the new day goes live on its own.
+#
+# DORMANT BY DEFAULT: until an ANTHROPIC_API_KEY repo secret is set, this job
+# runs on schedule but skips cleanly (a green no-op, no failure emails). Add the
+# secret to wake the town. See docs/HANDBOOK.md.
 
 on:
   schedule:
-    - cron: "0 23 * * *" # 06:00 WIB (UTC+7) — a morning paper
+    - cron: "0 23 * * *" # 06:00 WIB (UTC+7) - a morning paper
   workflow_dispatch: {} # also runnable by hand from the Actions tab
 
 permissions:
@@ -22,19 +26,35 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Is the town awake?
+        id: gate
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -z "$ANTHROPIC_API_KEY" ]; then
+            echo "No ANTHROPIC_API_KEY set. The town stays asleep. Add the secret to wake it."
+            echo "awake=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "awake=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/setup-node@v4
+        if: steps.gate.outputs.awake == 'true'
         with:
           node-version: "22"
           cache: npm
 
-      - run: npm ci
+      - if: steps.gate.outputs.awake == 'true'
+        run: npm ci
 
       - name: Advance the town
+        if: steps.gate.outputs.awake == 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: npm run tick
 
       - name: Publish the edition
+        if: steps.gate.outputs.awake == 'true'
         run: |
           git config user.name "the lake"
           git config user.email "actions@users.noreply.github.com"

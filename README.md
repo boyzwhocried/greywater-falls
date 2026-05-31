@@ -15,6 +15,9 @@ town did today.
 > wet and humming and a little too cold. Nobody is afraid yet. That is the
 > point.
 
+**Full reference:** [`docs/HANDBOOK.md`](docs/HANDBOOK.md) covers architecture,
+cost, how to turn on auto-growth, troubleshooting, and future enhancements.
+
 ## How it works
 
 ```
