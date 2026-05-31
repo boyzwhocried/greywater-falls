@@ -94,3 +94,5 @@ standing terror becomes a standing column. The town is well, and frightened, and
 together, and home, and here those are not contradictions.
 
 *Serving Greywater Falls since 1887, and the lake somewhat longer.*
+
+<!-- git-integration deploy probe 20260531T193906Z -->
