@@ -45,8 +45,9 @@ export default async function ArchivedEdition({
           <Gazette world={world} edition={edition} />
           <nav
             style={{
-              display: "flex",
-              justifyContent: "space-between",
+              display: "grid",
+              gridTemplateColumns: "1fr auto 1fr",
+              alignItems: "center",
               marginTop: 32,
               fontFamily: "var(--font-label)",
               textTransform: "uppercase",
@@ -54,9 +55,15 @@ export default async function ArchivedEdition({
               fontSize: 11,
             }}
           >
-            <span>{prev ? <Link href={`/archive/${prev.day}`}>&larr; Day {prev.day}</Link> : <span />}</span>
-            <Link href="/archive">All editions</Link>
-            <span>{next ? <Link href={`/archive/${next.day}`}>Day {next.day} &rarr;</Link> : <span />}</span>
+            <span style={{ justifySelf: "start" }}>
+              {prev ? <Link href={`/archive/${prev.day}`}>&larr; Day {prev.day}</Link> : null}
+            </span>
+            <Link href="/archive" style={{ justifySelf: "center" }}>
+              All editions
+            </Link>
+            <span style={{ justifySelf: "end" }}>
+              {next ? <Link href={`/archive/${next.day}`}>Day {next.day} &rarr;</Link> : null}
+            </span>
           </nav>
         </div>
       </div>
