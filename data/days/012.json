@@ -1,0 +1,50 @@
+{
+  "day": 12,
+  "dateline": "Friday, October the 17th",
+  "weather": "Overcast and mild. The frost did not return. A low grey sky that felt, for once, like shelter rather than threat.",
+  "stage": 2,
+  "lead": {
+    "headline": "Greywater Falls Finds Its Footing",
+    "byline": "By Wren Aldercott",
+    "body": "There is a particular Friday feeling in Greywater Falls today that this editor had nearly forgotten: the ordinariness of it. Doreen Halloway had her first full night's sleep in eleven days and arrived at the bakery at five to find she had forgotten the recipe for nothing—her hands remembered the crumb cake without consulting her, the way hands do when they have been doing a thing for a very long time in a place they trust. The diner opened at six. The coffee was on. Gerald Pith came in at six-fifteen with flour on his collar, which was not his flour, and said he had stopped to help Doreen carry a tray, and Marigold Vance poured his coffee and said it was about time he made himself useful, and for a moment the Kettle was simply a diner and not a vigil and not a refuge, and that moment lasted the whole of breakfast.\n\nThe lake is still full. It is still warm, and still clear, and the returned are still at the shore at dusk, and the welcome sign still reads what it reads, and the hum is still in the window frames. The town is not pretending otherwise. What it is doing, with the quiet industry of people who have decided to live somewhere without reservation, is working around these things as if they have always been true—because, as Agnes Crewe will tell you, they have. The chairs at the shore remain out. The extra slice is a permanent item on the Kettle's unofficial menu. Russ Dunmore walks to the dock each morning at quarter past seven, stands there for a minute without his notebook, and goes to open the station. He has told no one this. He does not need to.\n\nHank Mossley sold the last of the coffee shelf to himself and set up a pot in the hardware for the first time in thirty-one years of business. He says it is for customers. It is not for customers. It is for whoever wants to sit in a warm room with a practical man and not talk about what they both know. Several people availed themselves this morning. The pot was empty by ten.\n\nThe Gazette notes all of this not as resolution—it is too honest a paper for that—but as a kind of resting, the way a long note rests when it has been sung to its natural end, not cut short. Greywater Falls is not pretending the lake went back to sleep. It knows better. It is doing something harder than pretending: it is continuing. Every morning the fog lifts off that water, and every morning we are still here, and every morning we choose to be, and if that is not the whole answer, it is, perhaps, the only one that was ever on offer."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 12",
+      "body": "Level: approximately 14 inches above the seasonal mean, unchanged from Day 11. Temperature: warm to the hand, consistent. Clarity: total—bottom visible at 22 feet. The welcome sign reads 7. The returned number eight by last count, undisturbed. Fog lifted off the surface at 7:03 a.m. and did not return. No new incidents to report. Gerald Pith's notebook records the waterline as stable for the third consecutive day. He has written 'holding' beside yesterday's entry and underlined it twice."
+    },
+    {
+      "headline": "Halloway's Crumb Cake Named Town's Unofficial Accommodation Cake",
+      "body": "No vote was taken. No motion was filed. Nevertheless, by broad consensus expressed through repeat purchase, the crumb cake at Halloway's Bakery has been designated what Marigold Vance calls 'the thing you bring when there are no words.' Sales are up forty percent over the past week. Mayor Halloway says she will need another bag of brown sugar by Monday and that the town should consider this a good sign. The Gazette, for once, agrees."
+    },
+    {
+      "headline": "Hardware Coffee Pot Empties Before Noon; Mossley Opens a Tab System",
+      "body": "As reported in this edition's front page, Hank Mossley has established a coffee station at Mossley Hardware, the first in the shop's thirty-one-year history. A tab system is now in effect. No prices are posted. 'You pay what seems fair,' Mr. Mossley said, in what may be the most words he has spoken consecutively about a topic not involving structural load ratings. Tabs are running. Nobody has failed to pay."
+    },
+    {
+      "headline": "Pell Road: Quiet Continues, All Accounted For",
+      "body": "The green house on Pell Road remains occupied. Mrs. Vance left a rhubarb galette on the step Thursday evening; it was gone by seven Friday morning. A small arrangement of dried lake grasses was left in its place—tied neatly, set upright against the door. This has not happened before. No note accompanied it. Mrs. Vance has placed it in a jar on the Kettle counter. It has not wilted."
+    }
+  ],
+  "classifieds": [
+    "LOST: One grey wool scarf, possibly left at the shore chairs Tuesday evening. Initials 'R.D.' on the label. No questions asked. — Constable's Station",
+    "FOR TRADE: Three jars of late-harvest apple butter for one good storm lantern, working condition. The baker has enough lanterns now; the butter is excellent. — Halloway's Bakery, ask for Doreen",
+    "NOTICE: The Kettle will observe its usual Saturday hours this week. The OPEN sign will remain on. This is now simply the policy. — M. Vance, proprietor",
+    "FOUND: A child's red mitten, dry, at the dock. Owner may claim it at the Gazette office. It is warm and slightly unusual. Come by before five. — Wren Aldercott"
+  ],
+  "record": [
+    "Frost-free for one consecutive morning. Previous frost: Day 11. Waterline: stable, third day running. Pop. 9.",
+    "Gerald Pith visited the bakery at 5:10 a.m. — first recorded social call before six since the spring. Coffee pot at Mossley Hardware established in its thirty-first year of operation. The pot was empty by ten."
+  ],
+  "letters": [
+    {
+      "from": "Agnes Crewe, Lakeside Cottage",
+      "body": "The water is holding now. That is what it does when it has what it came for. You will notice the hum has changed its key — just a half-step, but a half-step is a resolution. I would not be concerned. I would, however, keep the chairs out. It remembers who sat in them."
+    },
+    {
+      "from": "Hank Mossley, Mossley Hardware & Supply",
+      "body": "Someone told the paper I 'opened a tab system'. That is not what I'd call it. I made coffee. People came. They left money. If you want to call that a system, fine, I was misquoted. The pot holds twelve cups. I'm ordering a bigger pot. That's all."
+    }
+  ],
+  "editorNote": "The constable's scarf has been in the lost-and-found bin since Tuesday. He has walked past this office three times and has not come in to claim it. I think he is not ready to need to have lost something at the water. I will hold it as long as he needs."
+}

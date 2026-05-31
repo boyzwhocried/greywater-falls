@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Late autumn",
-  "dayNumber": 11,
-  "weather": "Clear and cold. First true frost of the season on the grass by dawn; gone by nine. The lake perfectly still, a mirror that showed the sky and kept it.",
+  "dayNumber": 12,
+  "weather": "Overcast and mild. The frost did not return. A low grey sky that felt, for once, like shelter rather than threat.",
   "undercurrent": {
-    "level": 58,
+    "level": 44,
     "stage": 2,
     "phenomenon": "the lake",
-    "note": "The crest has passed. The town has accommodated. The lake holds steady—level unchanged, temperature warm, clarity total—but the urgency has drained from the room. What remains is something closer to ritual: two cups at the dock, a slice on the counter, chairs left out. Russ stepped out of the car. That is the tell. The town's official denial is softening to acceptance. The hum is domestic now. The returned are still there, still counting, but the town is counting back. Thread-tying in progress: the constable yielded, the doctor filed her chart, the diner keeps the light on. Watch for: whether the lake's level begins, slowly, to recede; whether Agnes gives the final word; what quiet gift or acknowledgment closes the season. The strangeness is not over—it will never be over in Greywater Falls—but it has, for now, been set a place at the table."
+    "note": "The level eases down as the resolution takes hold. The lake is still full, still warm, still present—but the urgency that charged the air at the crest is gone, replaced by a domestic familiarity. The town is not on guard; it is on terms. Gerald's notebook says 'holding' and he has underlined it, which is the truest measurement anyone has taken. The gift of dried lake grasses at Pell Road marks a new exchange—not just pie going out, but something coming back; the accommodation is now bilateral. Russ's unnamed ritual at the dock and the coffee pot at the hardware are the final conversions: the last two skeptics are not converted to belief, exactly, but to presence. Watch for: whether Agnes gives a clear statement that the counting has concluded; whether the waterline begins a slow, deliberate recession in Day 13–14; the final thread to tie is the cheque from the green house, and what the town decides it means."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 1,
     "premise": "the lake wakes, goes silent, and begins to count the town",
-    "day_in_season": 11,
+    "day_in_season": 12,
     "target_length": 14,
     "next_premise": ""
   }
