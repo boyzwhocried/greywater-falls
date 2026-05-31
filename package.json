@@ -8,7 +8,8 @@
     "build": "next build",
     "start": "next start",
     "tick": "tsx scripts/tick.ts",
-    "conjure": "tsx scripts/conjure.ts"
+    "conjure": "tsx scripts/conjure.ts",
+    "arc-sim": "tsx scripts/arc-sim.ts"
   },
   "dependencies": {
     "next": "^16.2.6",

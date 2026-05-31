@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
+import type { SeasonArc } from "./arc";
 
 // ---------------------------------------------------------------------------
 // Types: the shape of the town. Shared by the reader (web) and the tick engine.
@@ -63,6 +64,17 @@ export type World = {
   undercurrent: Undercurrent;
   /** the editor persona who writes the paper */
   editor: { slug: string; name: string; voice: string };
+  /** the season-long arc state; the ending engine. May be absent in old data. */
+  season_arc?: SeasonArc;
+};
+
+/** Immutable facts always injected into the director, never summarized away.
+ *  This is the anti-contradiction guard. */
+export type Canon = {
+  immutable: string[];
+  /** residents the lake has taken across seasons; never revive them wrong */
+  gone: string[];
+  established_phenomena: string[];
 };
 
 export type Letter = { from: string; body: string };
@@ -122,6 +134,14 @@ export function getSeeds(): Seed[] {
   }
 }
 
+export function getCanon(): Canon {
+  try {
+    return readJson<Canon>("canon.json");
+  } catch {
+    return { immutable: [], gone: [], established_phenomena: [] };
+  }
+}
+
 /** Every published edition, oldest first. */
 export function getAllEditions(): Edition[] {
   const dir = path.join(DATA_DIR, "days");
@@ -140,4 +160,19 @@ export function getEdition(day: number): Edition | undefined {
 export function getLatestEdition(): Edition | undefined {
   const all = getAllEditions();
   return all[all.length - 1];
+}
+
+/** The most recent N lead+brief headlines, newest first. Feeds the repetition
+ *  guard so the director does not re-run beats it just ran. */
+export function getRecentHeadlines(count: number): string[] {
+  const all = getAllEditions();
+  const lines: string[] = [];
+  for (let i = all.length - 1; i >= 0 && lines.length < count; i--) {
+    const e = all[i];
+    lines.push(e.lead.headline);
+    for (const b of e.briefs) {
+      if (lines.length < count) lines.push(b.headline);
+    }
+  }
+  return lines.slice(0, count);
 }

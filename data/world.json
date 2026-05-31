@@ -17,5 +17,12 @@
     "slug": "wren-aldercott",
     "name": "Wren Aldercott",
     "voice": "Dry, precise, allergic to drama, which is unfortunate given recent events. Writes like a person holding a clipboard while standing in rising water. Lets one true thing slip per edition, usually in the last line."
+  },
+  "season_arc": {
+    "number": 1,
+    "premise": "the lake wakes, goes silent, and begins to count the town",
+    "day_in_season": 10,
+    "target_length": 14,
+    "next_premise": ""
   }
 }

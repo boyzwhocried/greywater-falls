@@ -2,6 +2,10 @@
 
 *A living town that publishes a newspaper. Nobody writes it. It just keeps happening.*
 
+> **Note (v1 historical doc).** This captures the original build. Since then the
+> engine gained the anti-slop safeguards and the seasons/arc director. For the
+> current architecture, costs, and how to run it, see [`HANDBOOK.md`](HANDBOOK.md).
+
 ## What it is
 
 A small fictional town that advances one day at a time, on its own. Each day the town
