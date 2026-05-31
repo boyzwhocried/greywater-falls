@@ -1,12 +1,15 @@
 name: Daily tick
 
-# Greywater Falls advances itself one day each morning. The tick writes a new
-# edition into data/ and commits it. Because Vercel is connected to this repo,
-# that commit redeploys the site and the new day goes live on its own.
+# Greywater Falls advances itself one day each morning: the tick writes a new
+# edition into data/, commits it, then deploys the site so the new day goes live.
 #
-# DORMANT BY DEFAULT: until an ANTHROPIC_API_KEY repo secret is set, this job
-# runs on schedule but skips cleanly (a green no-op, no failure emails). Add the
-# secret to wake the town. See docs/HANDBOOK.md.
+# TWO INDEPENDENT GATES (both safe to leave unset):
+#   ANTHROPIC_API_KEY  - without it the whole job is a clean green no-op (asleep).
+#   VERCEL_TOKEN       - without it the day is still written + committed, but the
+#                        live deploy is skipped (publish it later with
+#                        `vercel deploy --prod`). With it, publishing is fully
+#                        hands-off and does NOT rely on Vercel's git integration.
+# See docs/HANDBOOK.md.
 
 on:
   schedule:
@@ -26,16 +29,22 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Is the town awake?
+      - name: Check gates
         id: gate
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
         run: |
           if [ -z "$ANTHROPIC_API_KEY" ]; then
             echo "No ANTHROPIC_API_KEY set. The town stays asleep. Add the secret to wake it."
             echo "awake=false" >> "$GITHUB_OUTPUT"
           else
             echo "awake=true" >> "$GITHUB_OUTPUT"
+          fi
+          if [ -z "$VERCEL_TOKEN" ]; then
+            echo "can_deploy=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "can_deploy=true" >> "$GITHUB_OUTPUT"
           fi
 
       - uses: actions/setup-node@v4
@@ -54,6 +63,7 @@ jobs:
         run: npm run tick
 
       - name: Publish the edition
+        id: publish
         if: steps.gate.outputs.awake == 'true'
         run: |
           git config user.name "the lake"
@@ -63,6 +73,23 @@ jobs:
             git add data
             git commit -m "town: day ${day}"
             git push
+            echo "published=true" >> "$GITHUB_OUTPUT"
           else
             echo "Nothing to publish today; the town was quiet."
+            echo "published=false" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Deploy to production
+        # Deterministic publish path. Runs only when a new day was written AND a
+        # deploy token is set. Does NOT rely on Vercel's git integration (which
+        # has proven unreliable for this project). Org/project IDs are not secret.
+        if: steps.publish.outputs.published == 'true' && steps.gate.outputs.can_deploy == 'true'
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: team_nK5v7B8Q7nJovIEG2gJn0C5J
+          VERCEL_PROJECT_ID: prj_5RKKR3AFe2ujjsdAJHAhr562bhBs
+        run: npx vercel deploy --prod --yes --token "$VERCEL_TOKEN"
+
+      - name: Note if deploy was skipped
+        if: steps.publish.outputs.published == 'true' && steps.gate.outputs.can_deploy == 'false'
+        run: echo "A new day was committed but VERCEL_TOKEN is unset, so the live site was not redeployed. Add the secret, or run 'vercel deploy --prod' to publish."
