@@ -1,0 +1,50 @@
+{
+  "day": 11,
+  "dateline": "Thursday, October the 16th",
+  "weather": "Clear and cold. First true frost of the season on the grass by dawn; gone by nine. The lake perfectly still, a mirror that showed the sky and kept it.",
+  "stage": 2,
+  "lead": {
+    "headline": "The Town Has Learned to Set an Extra Place",
+    "byline": "By Wren Aldercott",
+    "body": "Something has shifted in Greywater Falls this week, and it is not the sort of shift that makes the news in other towns—no ordinance was passed, no meeting was called, no motion was seconded. It is quieter than that. The chairs at the shore have not been taken in. The Kettle is leaving a slice of something on the counter past close. Gerald Pith carries two mugs to the dock in the morning now, one for himself and one he sets on the planking without explanation, and when Marigold Vance asked him who the second cup was for, he said only, 'Company,' and she nodded and refilled the first without asking further.\n\nConstable Dunmore was seen outside his car on Wednesday evening. He stood at the water's edge for the length of a pipe he did not light, and then went home to bed, and this morning filed no reports, which is its own kind of report. Hank Mossley restocked the coffee shelf at the hardware, which he never does—Mossley Hardware does not sell coffee—and when pressed on it, allowed as how it seemed like a thing to have on hand. It does seem like a thing to have on hand. The town is preparing for company it does not expect to name.\n\nDr. Okonkwo has written up what she is calling, with characteristic precision, a 'shared adaptive response.' All nine residents show identical resting heart rates this week: slower, steadier, in a rhythm that does not match the clock. She presented it to no one and filed it under 'ongoing observation.' The hum that the town felt in its teeth for three weeks has not stopped, exactly; it has settled. Into the radiators, the window frames, the wooden countertops at the Kettle. Greywater Falls now makes a low, even sound the way a well-loved house does in a wind.\n\nAgnes Crewe sat on her step in the first frost of the year and did not go inside until the sun was properly up. A neighbour passing called out to ask if she was cold. 'Not especially,' she said, and looked at the lake. The neighbour kept walking, which was the right thing to do."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 11",
+      "body": "Level: four and a half inches above the old high mark, unchanged since yesterday. Temperature: warm at every depth measured. Clarity: total; the dock rope is visible to the bottom. Welcome sign: seven. Returned: Mr. Whiskers, Pepper, Biscuit, Sailor. All present at the shore at dusk, all oriented to the water, all humming. Toby Fern reports they sat still for longer than usual before turning to go home—a full quarter hour after the light failed."
+    },
+    {
+      "headline": "Constable Dunmore Stood at the Water",
+      "body": "Constable Russ Dunmore, who in ten days of documented lakeshore activity had not once exited his vehicle in the course of those visits, was observed Wednesday evening standing at the water's edge for what witnesses describe as 'a few minutes.' Dunmore confirmed the visit. Asked for comment, he said: 'It's just a lake.' He said it the way a man says something he is working on believing, and the town, to its credit, did not push him on it."
+    },
+    {
+      "headline": "Frost Comes and Goes Without Incident",
+      "body": "The Falls recorded its first hard frost of the autumn overnight, a thin white coat on the grass and the railing of the bandstand that burned off cleanly by nine o'clock. No pipes. No damage. The marigolds on the south side of the diner, which Marigold Vance planted in April and should by all rights have been done weeks ago, were reported unaffected. Vance says she noticed but declines to remark on it."
+    },
+    {
+      "headline": "Pell Road Pie Count: Steady",
+      "body": "The pie left on the step of the green house on Pell Road continues to disappear overnight. Mrs. Vance switched to a deep-dish apple on Tuesday; the dish was empty and washed by morning and set neatly to the right of the mat. She has not changed her practice. There is no record of a complaint from either party, and the Council has agreed, informally, that the arrangement is satisfactory."
+    }
+  ],
+  "classifieds": [
+    "FOUND: One wool scarf, dark green, left folded on the bench by the dock two mornings running. Owner may collect at the Gazette office. It is dry and it smells of cedar.",
+    "SEEKING: Experienced carpenter for minor dock reinforcement. Work is not urgent. Prefer someone comfortable near the water. — G. Pith, call or stop by.",
+    "NOTICE: Halloway's Bakery will be closed Saturday morning and Saturday morning only, as the owner intends, for once, to sit by the lake without a casserole dish. Regulars are encouraged to do the same. — D. Halloway",
+    "FOR TRADE: One working shortwave radio, picks up the coast stations, occasionally picks up something else. Not asking much. Would consider a good thermos. — Mossley Hardware"
+  ],
+  "record": [
+    "First frost of autumn recorded overnight. Cleared by 9 a.m. No damage reported.",
+    "The Greywater Lake waterline: four and one-half inches above historical high. Day eleven of continuous observation."
+  ],
+  "letters": [
+    {
+      "from": "Russ Dunmore, Town Constable",
+      "body": "I want to go on record. Not as constable—as a resident. I have filed a great many reports this month marking things 'no action required.' I am aware of how that has looked. I drove out to that lake eleven nights running and sat in my car and told myself there was nothing to see. There is something to see. I am still the constable and I am still going to tell you to remain calm, because I believe calm is the correct posture here, I really do. But I will tell you it is a calm I am now choosing rather than a calm that comes from looking the other way. There is a difference. I stood at the water last night. I will probably do it again tonight. — R. Dunmore, Constable"
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "The frost comes when the water is ready to rest. It has always been this way. You will notice the cold does not stay. — A. Crewe"
+    }
+  ],
+  "editorNote": "The editor notes that this is the eleventh edition to carry the word 'lake' in its first paragraph. She is no longer surprised by this. She is something else, which she has not yet found the word for, though she suspects Agnes Crewe could supply it."
+}

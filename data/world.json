@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Late autumn",
-  "dayNumber": 10,
-  "weather": "Still. A warm fog off the water that the morning never quite burned away. 14 degrees and even.",
+  "dayNumber": 11,
+  "weather": "Clear and cold. First true frost of the season on the grass by dawn; gone by nine. The lake perfectly still, a mirror that showed the sky and kept it.",
   "undercurrent": {
-    "level": 74,
+    "level": 58,
+    "stage": 2,
     "phenomenon": "the lake",
-    "stage": 3,
-    "note": "The town has stopped pretending nothing is happening and started baking about it instead. The lake is full to the brim, silent, warm, and clear to a depth that should not be possible. Returned pets gather at the shore each evening, facing the water, humming. Nobody has named the thing out loud. The next phase is not panic and not flight; it is accommodation. Greywater absorbs the strange into its routine. Watch for: who leaves, who is brave enough to go to the water, what the lake gives back next, whether anyone remembers the Pell house. Keep it cozy-eerie, never gory. The dread is in the ordinariness."
+    "note": "The crest has passed. The town has accommodated. The lake holds steady—level unchanged, temperature warm, clarity total—but the urgency has drained from the room. What remains is something closer to ritual: two cups at the dock, a slice on the counter, chairs left out. Russ stepped out of the car. That is the tell. The town's official denial is softening to acceptance. The hum is domestic now. The returned are still there, still counting, but the town is counting back. Thread-tying in progress: the constable yielded, the doctor filed her chart, the diner keeps the light on. Watch for: whether the lake's level begins, slowly, to recede; whether Agnes gives the final word; what quiet gift or acknowledgment closes the season. The strangeness is not over—it will never be over in Greywater Falls—but it has, for now, been set a place at the table."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 1,
     "premise": "the lake wakes, goes silent, and begins to count the town",
-    "day_in_season": 10,
+    "day_in_season": 11,
     "target_length": 14,
     "next_premise": ""
   }

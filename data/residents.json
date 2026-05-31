@@ -7,9 +7,21 @@
     "personality": "Warm, formidable, runs the town's morale like a kitchen. Believes a problem with a bake sale attached to it is half-solved. Deflects fear into frosting.",
     "voice": "Brisk and kind, full of plans and pastry. Says 'now' a lot. Only her sentences that trail off are honest.",
     "relationships": [
-      { "with": "agnes-crewe", "type": "old friend and rival", "note": "Agnes knew her mother. Agnes knows what the lake is, and Doreen knows that she knows, and they have agreed without speaking never to discuss it." },
-      { "with": "wren-aldercott", "type": "uneasy ally", "note": "Wants the paper to keep things calm. Wren will not be managed." },
-      { "with": "russ-dunmore", "type": "depends on him", "note": "Needs Russ to keep saying it's nothing for as long as possible." }
+      {
+        "with": "agnes-crewe",
+        "type": "old friend and rival",
+        "note": "Agnes knew her mother. Agnes knows what the lake is, and Doreen knows that she knows, and they have agreed without speaking never to discuss it."
+      },
+      {
+        "with": "wren-aldercott",
+        "type": "uneasy ally",
+        "note": "Wants the paper to keep things calm. Wren will not be managed."
+      },
+      {
+        "with": "russ-dunmore",
+        "type": "depends on him",
+        "note": "Needs Russ to keep saying it's nothing for as long as possible."
+      }
     ],
     "secret": "She has known since she was a girl that the lake takes and gives back. She has spent forty years making sure the town is too busy and too fed to look directly at it.",
     "mood": "Exhausted under the brightness. Planning the next event before the last one ends.",
@@ -30,17 +42,26 @@
     "personality": "Gentle, dogged, incapable of letting a loose thread lie. Loved his cat more than is strictly dignified. The town's accidental investigator.",
     "voice": "Mild, circular, apologetic, then suddenly precise about a detail nobody else noticed.",
     "relationships": [
-      { "with": "marigold-vance", "type": "daily regular", "note": "Sits at the diner counter every morning. Mari humours him; lately she has started listening." },
-      { "with": "russ-dunmore", "type": "frustrated by him", "note": "Keeps bringing Russ evidence. Russ keeps filing it under nothing." }
+      {
+        "with": "marigold-vance",
+        "type": "daily regular",
+        "note": "Sits at the diner counter every morning. Mari humours him; lately she has started listening."
+      },
+      {
+        "with": "russ-dunmore",
+        "type": "frustrated by him",
+        "note": "Keeps bringing Russ evidence. Russ keeps filing it under nothing."
+      }
     ],
     "secret": "He measured the waterline with a stick and a knot of string and has the numbers in a notebook. The water is rising. It has not rained.",
-    "mood": "Torn between joy that Mr. Whiskers is home and dread at how the cat sits.",
+    "mood": "Tender and steady. He has made a ritual of the two mugs and it is holding him together.",
     "status": "present",
-    "arc": "Got his cat back, but the cat came back wrong, and Gerald is the only one keeping written records of everything the town would rather forget.",
+    "arc": "His records are complete; his grief is managed. The two mugs on the dock are the accommodation the town embodies in miniature. He is no longer chasing the cat. He is sitting near him.",
     "memory": [
       "Day 4: Noticed the dock is wet a hand's width above the waterline. Wrote it down. Russ said docks get wet.",
       "Day 7: Mr. Whiskers came home soaked and humming and would not be held. Gerald cried anyway.",
-      "Day 10: The cat sits at the shore at dusk with the others. Gerald sits a little behind him. He has stopped trying to bring him in."
+      "Day 10: The cat sits at the shore at dusk with the others. Gerald sits a little behind him. He has stopped trying to bring him in.",
+      "Day 11: Carried two mugs to the dock at dawn. Set one down on the planking. Mr. Whiskers sat beside it and did not drink and Gerald did not mind."
     ],
     "backstory": "Forty years carrying the town's mail. Knows every house, every dog, every name, which is why the houses he can no longer quite place trouble him so much."
   },
@@ -52,8 +73,16 @@
     "personality": "Blunt, practical, the man who says the quiet part. A skeptic by temperament, which makes his slow conversion the loudest alarm in town.",
     "voice": "Short sentences. Swears he was misquoted. Was not misquoted.",
     "relationships": [
-      { "with": "russ-dunmore", "type": "poker buddy", "note": "They have agreed it's nothing over cards every Thursday. Hank is no longer sure he believes the cards." },
-      { "with": "esme-okonkwo", "type": "respects her", "note": "Went to her about the not-sleeping before he would admit it to himself." }
+      {
+        "with": "russ-dunmore",
+        "type": "poker buddy",
+        "note": "They have agreed it's nothing over cards every Thursday. Hank is no longer sure he believes the cards."
+      },
+      {
+        "with": "esme-okonkwo",
+        "type": "respects her",
+        "note": "Went to her about the not-sleeping before he would admit it to himself."
+      }
     ],
     "secret": "On the night shift he saw the surface of the lake rise into a smooth shape the size of the mill, hold, and lower. He has not told Russ. He told Esmé.",
     "mood": "Rattled and trying to fix it with inventory.",
@@ -74,8 +103,16 @@
     "personality": "Dry, exact, professionally calm. Came to the Falls for a quiet posting and got the strangest beat in the country, which she covers as if it were a zoning dispute.",
     "voice": "Clipboard prose. Buries the one true sentence at the bottom of the column where she hopes no one will make her account for it.",
     "relationships": [
-      { "with": "doreen-halloway", "type": "uneasy ally", "note": "Doreen wants calm coverage. Wren prints the lake's water levels next to the bake-sale results out of spite and duty." },
-      { "with": "agnes-crewe", "type": "best source", "note": "Agnes tells her the truth in riddles. Wren has started believing the riddles." }
+      {
+        "with": "doreen-halloway",
+        "type": "uneasy ally",
+        "note": "Doreen wants calm coverage. Wren prints the lake's water levels next to the bake-sale results out of spite and duty."
+      },
+      {
+        "with": "agnes-crewe",
+        "type": "best source",
+        "note": "Agnes tells her the truth in riddles. Wren has started believing the riddles."
+      }
     ],
     "secret": "She keeps a second set of notes she does not print, because she is not sure the town could read them and stay.",
     "mood": "Holding a clipboard while standing in rising water.",
@@ -96,17 +133,26 @@
     "personality": "Cheerful at full volume over real anxiety. The town's switchboard; everything is heard at her counter first.",
     "voice": "Warm, fast, a little too bright. Laughs to fill silences that are getting longer.",
     "relationships": [
-      { "with": "gerald-pith", "type": "regular and confidant", "note": "He is at her counter every morning. She used to humour his theories. Now she keeps the coffee coming and listens hard." },
-      { "with": "toby-fern", "type": "feeds him after school", "note": "Slips Toby pie. He tells her what the adults won't say." }
+      {
+        "with": "gerald-pith",
+        "type": "regular and confidant",
+        "note": "He is at her counter every morning. She used to humour his theories. Now she keeps the coffee coming and listens hard."
+      },
+      {
+        "with": "toby-fern",
+        "type": "feeds him after school",
+        "note": "Slips Toby pie. He tells her what the adults won't say."
+      }
     ],
     "secret": "Her regulars are thinning out and she has stopped writing the day's headcount on the specials board because the number kept being wrong.",
-    "mood": "Bright and brittle, cooking for more people than show up.",
+    "mood": "Softer. Still keeping the lights on, but not out of fear anymore—out of something more like faith.",
     "status": "present",
-    "arc": "The social heart of the town, watching her counter empty by ones, keeping the lights on and the pie warm as if that will hold everyone in place.",
+    "arc": "The social heart of the town, watching the counter that had thinned begin to feel full again in a different way—not by headcount but by intention. The extra slice is the town's love language now, and she invented it.",
     "memory": [
       "Day 5: Made nine breakfasts out of habit. Served seven. Could not say who the other two were for.",
       "Day 9: Catered half the vigil for free. Said it was nothing. It was not nothing; it was love.",
-      "Day 10: Left the OPEN sign on past close. Just in case."
+      "Day 10: Left the OPEN sign on past close. Just in case.",
+      "Day 11: Gerald asked who the second mug was for. She didn't push. Refilled the first and let it be. The marigolds outside survived the frost. She noticed."
     ],
     "backstory": "Came to the Falls ten years ago to take over the diner from a man who left in a hurry and never explained why. She is starting to understand the hurry."
   },
@@ -118,17 +164,26 @@
     "personality": "Rigorous, calm, a scientist by training in a place that keeps failing to behave like science. Documents everything.",
     "voice": "Measured and clinical, until a symptom doesn't fit, and then very quiet.",
     "relationships": [
-      { "with": "hank-mossley", "type": "patient and friend", "note": "He came to her about the sleeplessness. She believes what he saw because his pulse did not lie." },
-      { "with": "toby-fern", "type": "doctor and listener", "note": "Treats the boy; takes his observations more seriously than the adults do." }
+      {
+        "with": "hank-mossley",
+        "type": "patient and friend",
+        "note": "He came to her about the sleeplessness. She believes what he saw because his pulse did not lie."
+      },
+      {
+        "with": "toby-fern",
+        "type": "doctor and listener",
+        "note": "Treats the boy; takes his observations more seriously than the adults do."
+      }
     ],
     "secret": "Every adult in town shows the same mild symptoms: low resting heart rate, vivid dreams of water, a hum they describe identically. She has charted it. It looks less like illness than like tuning.",
-    "mood": "Professionally calm, privately keeping a chart she shows no one.",
+    "mood": "At peace with the limits of her instruments. The chart is complete. She has stopped waiting for an explanation and started watching for the resolution.",
     "status": "present",
-    "arc": "The town's rational mind, carefully documenting a phenomenon that her instruments confirm and her training cannot explain.",
+    "arc": "The rational mind of the town, arrived at the edge of what science can hold and choosing to keep standing there anyway, taking notes. Her 'shared adaptive response' is the town's accommodation named in clinical language.",
     "memory": [
       "Day 3: Logged the first cases of the not-sleeping. Six patients, identical description of a hum.",
       "Day 7: Examined Mr. Whiskers at Gerald's insistence. The cat was healthy. The cat was also, by every measure, slightly cold and perfectly content.",
-      "Day 10: Took her own pulse. It matched the others. She wrote that down too."
+      "Day 10: Took her own pulse. It matched the others. She wrote that down too.",
+      "Day 11: Wrote up the 'shared adaptive response' and filed it. Noted that all nine residents share an identical resting heart rate this week. Did not file a referral."
     ],
     "backstory": "Trained in the city, came to the Falls for a slower practice. Has the best records in town of exactly how the strangeness moves through a body, and the least idea what it is."
   },
@@ -140,8 +195,16 @@
     "personality": "Bored, earnest, sharp-eyed. The first to notice the things adults are too busy rationalizing to see. Skateboards everywhere.",
     "voice": "Casual, blunt, surprisingly poetic when he forgets to be cool.",
     "relationships": [
-      { "with": "agnes-crewe", "type": "unlikely friend", "note": "Visits her by the lake. She tells him the old stories nobody else will. He believes her." },
-      { "with": "esme-okonkwo", "type": "trusts her", "note": "The one adult who writes down what he says instead of patting his head." }
+      {
+        "with": "agnes-crewe",
+        "type": "unlikely friend",
+        "note": "Visits her by the lake. She tells him the old stories nobody else will. He believes her."
+      },
+      {
+        "with": "esme-okonkwo",
+        "type": "trusts her",
+        "note": "The one adult who writes down what he says instead of patting his head."
+      }
     ],
     "secret": "He has been filming the lake at dusk on his phone. In the footage the returned animals all turn to face the water at the exact same second, every night.",
     "mood": "Vindicated and scared, which at sixteen feel almost the same.",
@@ -162,17 +225,26 @@
     "personality": "Cryptic, unbothered, kind in a flinty way. Has seen this before and is the only one who is not afraid.",
     "voice": "Short riddles delivered like weather reports. Means every word literally; nobody takes her literally.",
     "relationships": [
-      { "with": "doreen-halloway", "type": "old friend and rival", "note": "They have not discussed the lake in forty years and do not intend to start. Each thinks the other handles it wrong." },
-      { "with": "toby-fern", "type": "her listener", "note": "The boy comes to her. She tells him the truth because he is young enough to carry it." }
+      {
+        "with": "doreen-halloway",
+        "type": "old friend and rival",
+        "note": "They have not discussed the lake in forty years and do not intend to start. Each thinks the other handles it wrong."
+      },
+      {
+        "with": "toby-fern",
+        "type": "her listener",
+        "note": "The boy comes to her. She tells him the truth because he is young enough to carry it."
+      }
     ],
     "secret": "She was here the last time, as a girl. The lake took her sister and, a season later, gave back someone who wore her sister's face and was kind and was not her sister. Agnes loved her anyway. That is the whole secret: you love them anyway.",
-    "mood": "Calm. The calm of someone who already knows the ending.",
+    "mood": "Calm. The calm of someone who has seen the last piece settle into place.",
     "status": "present",
-    "arc": "The town's living memory of the last time the lake woke, the only one who is not afraid, gently preparing the boy to understand what is coming.",
+    "arc": "The living memory of the last time, now serving as the town's quiet anchor through the resolution. Her letters are not warnings anymore. They are weather reports for an understood season.",
     "memory": [
       "Day 4: Told Wren 'It's counting again.' Wren printed it. Nobody understood. Agnes did not expect them to.",
       "Day 6: Told Toby about the last time, and her sister, and how you love them anyway.",
-      "Day 10: Set two cups of tea at dusk, the way she has every evening for eighty years. Drank one. Left one at the water's edge."
+      "Day 10: Set two cups of tea at dusk, the way she has every evening for eighty years. Drank one. Left one at the water's edge.",
+      "Day 11: Sat on the step through the first frost. Watched the lake go mirror-still. Wrote two sentences to the Gazette and meant every word of both."
     ],
     "backstory": "Born in the cottage by the lake, will die in it, has outlived everyone who could confirm what she remembers. Which is its own kind of loneliness, and its own kind of proof."
   },
@@ -184,17 +256,26 @@
     "personality": "Decent, tired, deeply invested in everything being fine. Keeps the peace mostly by refusing to acknowledge there is anything to disturb it.",
     "voice": "Official and reassuring, a man reading a statement he wrote himself to feel better.",
     "relationships": [
-      { "with": "hank-mossley", "type": "poker buddy", "note": "Their Thursday game is the last place the lake is still officially nothing. Hank has gone quiet at the table." },
-      { "with": "gerald-pith", "type": "exasperated by him", "note": "Gerald keeps filing reports. Russ keeps marking them 'no action required'. The file is getting thick." }
+      {
+        "with": "hank-mossley",
+        "type": "poker buddy",
+        "note": "Their Thursday game is the last place the lake is still officially nothing. Hank has gone quiet at the table."
+      },
+      {
+        "with": "gerald-pith",
+        "type": "exasperated by him",
+        "note": "Gerald keeps filing reports. Russ keeps marking them 'no action required'. The file is getting thick."
+      }
     ],
     "secret": "He drove out to the lake alone at 3 a.m. to prove to himself it was nothing, sat in the cruiser for an hour, and left without getting out of the car. He has told no one.",
-    "mood": "Holding the line of 'nothing to see' against rising personal evidence.",
+    "mood": "Quieter than he has been in weeks. The line he was holding finally moved, and he moved with it.",
     "status": "present",
-    "arc": "The town's official denial made flesh, maintaining calm by sheer will even as his own nerve quietly fails.",
+    "arc": "The town's official denial made flesh—but the flesh yielded. He stood at the water. He wrote a letter admitting he looked the other way. The arc of denial is closing; what follows is chosen calm.",
     "memory": [
       "Day 4: Closed the missing-cat file. Closed the waterline file. Closed the noise file.",
       "Day 8: Asked the town, formally, to 'remain calm', which everyone correctly heard as the constable being afraid.",
-      "Day 10: Left the cruiser idling at the shore again. Again did not get out."
+      "Day 10: Left the cruiser idling at the shore again. Again did not get out.",
+      "Day 11: Stood at the water's edge without the car between him and it. Filed the letter with the Gazette. Slept."
     ],
     "backstory": "Twenty years keeping a town this small means twenty years of nothing happening, which made him very good at his job and completely unprepared for the one time it didn't hold."
   }
