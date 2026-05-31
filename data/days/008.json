@@ -1,0 +1,28 @@
+{
+  "day": 8,
+  "dateline": "Monday, October the 13th",
+  "weather": "Warm fog, unmoving, 15 degrees at the shore. The lake brimming, clear, silent. The hum now simply the sound the town makes.",
+  "stage": 2,
+  "lead": {
+    "headline": "Gazette Introduces a Standing Column: Lake Watch",
+    "byline": "By Wren Aldercott",
+    "body": "It is the position of this newspaper that a thing reported every day is a thing the town has decided to live beside, and so, beginning today, the Gazette carries a standing column, Lake Watch, recording the water's level, temperature, and clarity, the count at the welcome sign, and the names of the returned. The editor wishes to state plainly that she did not want to start this column and that the need for it is the single most frightening fact in the Falls. LAKE WATCH, Day 8: Level, four inches above the old high mark and rising. Temperature, warm. Clarity, total. Sign, seven. Returned: Mr. Whiskers, Pepper, Biscuit, and as of this morning the Renns' dog, Sailor, soaked and humming and gentle as ever, who sat at the door until let out, and went to the shore, and faced the water with the cats."
+  },
+  "briefs": [
+    { "headline": "LAKE WATCH, Day 8", "body": "Level: four inches above the old high mark and rising. Temperature: warm. Clarity: total. Sign: seven. Returned: Mr. Whiskers, Pepper, Biscuit, and Sailor the dog as of this morning. No fish. No birds along the eastern shore. The hum: continuous, and most residents report they no longer notice it, which Dr. Okonkwo finds the most notable entry of all." },
+    { "headline": "Mayor Admits She Has Always Known", "body": "In a letter to this paper printed below, Mayor Doreen Halloway acknowledges for the first time, after forty years of bake sales held with their backs to the water, that she has known since girlhood what the lake does. 'I thought if we were busy enough we'd be safe enough,' she writes. 'I was running a town on the idea that you can love people too hard for anything to take them. I still half believe it. I'm just not hiding it from you anymore.'" },
+    { "headline": "Constable Found at the Shore Again", "body": "Constable Dunmore was seen, for the third night, parked at the lake with his engine running, not getting out. Asked about it, he said, 'I'm keeping an eye on it.' Asked why he doesn't get out, he was quiet a while and said, 'Because if I get out I might want to stay.' He asked us not to print it. The Gazette has decided the town needs it more than he needs it kept." }
+  ],
+  "classifieds": [
+    "LAKE WATCH submissions welcome. Levels, sightings, returns. The Gazette will print them plainly. No theories. The plain facts are theory enough.",
+    "FOR SALE: Lanterns back in stock, Mossley. 'Not that they help with this. Habit.'",
+    "OFFERED: Tea, dusk, lakeside, second cup free. Crewe. Standing offer. Always was."
+  ],
+  "record": [
+    "Comings and Goings: Sign reads seven. Returned to the shore: three cats, one dog. Dr. Okonkwo asks that the record note the dreams are shared now, the same clear water, the same descent, and that nobody who has had the dream describes it as a nightmare."
+  ],
+  "letters": [
+    { "from": "Doreen Halloway, Mayor", "body": "Alright, Agnes. Alright. Everyone. I've known since I was nine, the year it last woke, and I have spent my whole life making this town too busy to look at the water because I was nine and I was frightened and I never stopped being nine about it. The bake sales were never for the harvest. They were so we'd all be facing the other way. I'm sorry. I'll still bring the lemon cake Monday. But I'll set the chairs facing the lake. I think it's time we looked. I think it's been time for a while. D.H." }
+  ],
+  "editorNote": "The editor notes that she cried setting the Mayor's letter, and that the hum, for the length of the crying, seemed kind. She reports this as a fact, in the new spirit of the paper, and offers no interpretation, having none that would help."
+}

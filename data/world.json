@@ -1,0 +1,21 @@
+{
+  "town": "Greywater Falls",
+  "motto": "Serving Greywater Falls since 1887, and the lake somewhat longer.",
+  "volume": "Vol. CXXXVII",
+  "founded": 1887,
+  "population": 9,
+  "season": "Late autumn",
+  "dayNumber": 10,
+  "weather": "Still. A warm fog off the water that the morning never quite burned away. 14 degrees and even.",
+  "undercurrent": {
+    "level": 74,
+    "phenomenon": "the lake",
+    "stage": 3,
+    "note": "The town has stopped pretending nothing is happening and started baking about it instead. The lake is full to the brim, silent, warm, and clear to a depth that should not be possible. Returned pets gather at the shore each evening, facing the water, humming. Nobody has named the thing out loud. The next phase is not panic and not flight; it is accommodation. Greywater absorbs the strange into its routine. Watch for: who leaves, who is brave enough to go to the water, what the lake gives back next, whether anyone remembers the Pell house. Keep it cozy-eerie, never gory. The dread is in the ordinariness."
+  },
+  "editor": {
+    "slug": "wren-aldercott",
+    "name": "Wren Aldercott",
+    "voice": "Dry, precise, allergic to drama, which is unfortunate given recent events. Writes like a person holding a clipboard while standing in rising water. Lets one true thing slip per edition, usually in the last line."
+  }
+}

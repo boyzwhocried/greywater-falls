@@ -1,0 +1,27 @@
+{
+  "day": 7,
+  "dateline": "Sunday, October the 12th",
+  "weather": "Fog all day, warm and close to the water, thinning up the hill. 14 degrees. The lake near its old high mark now and climbing.",
+  "stage": 2,
+  "lead": {
+    "headline": "Mr. Whiskers Has Come Home",
+    "byline": "By Wren Aldercott",
+    "body": "After six nights, Gerald Pith's cat returned Saturday evening, walking up Sycamore Lane out of the fog soaking wet though no rain has fallen, and humming. Mr. Pith reports the cat is whole, unhurt, eating well, and entirely himself in every respect but two: he will not be picked up, and at dusk he sits at the window facing the lake and will not be moved. \"He's home,\" Mr. Pith said, and wept, and then said, more quietly, \"he's home,\" in a different voice. Dr. Okonkwo examined the animal at Mr. Pith's request and found him healthy, content, and, by every measure she has, very slightly cold, the same cool through and through whether by the fire or the door. Pepper and Biscuit have also returned. They sit with Mr. Whiskers at the shore each evening now, the three of them, facing out, humming the held note the whole town has learned by heart."
+  },
+  "briefs": [
+    { "headline": "The Returned Animals Gather at Dusk", "body": "Each evening at the same minute, witnessed and now filmed by Toby Fern, the returned cats turn as one to face the water. 'Not toward the sunset,' Toby notes. 'Toward the deepest part. All of them. The same second.' He has stopped posting the footage. He will not say why." },
+    { "headline": "Doctor's Chart Now Includes Herself", "body": "Dr. Okonkwo confirms that every adult in the Falls now shows the same three signs: a slowed resting pulse, vivid dreams of clear water, and the hum. 'It doesn't present like an illness,' she said, choosing her words. 'It presents like tuning. Like the town is being brought to the same note.' She took her own pulse for the Gazette. It matched." },
+    { "headline": "Vigil Proposed for the Shore", "body": "Mayor Halloway, who has not gone down to the water in a week, announced Sunday a 'Lakeside Vigil and Bake Sale' for Monday evening. 'If everyone's going to be down there at dusk anyway,' she said, with a brightness that did not reach her eyes, 'they may as well have something to eat.' It is, the Gazette observes, the first event she has ever planned that faces the lake." }
+  ],
+  "classifieds": [
+    "FOUND: Mr. Whiskers. And Pepper. And Biscuit. They found themselves. Pith is updating the list to a shorter, stranger one.",
+    "WANTED: Folding chairs for Monday's vigil, the Mayor, the green or the shore, she hasn't decided, she keeps not deciding.",
+    "FOR SALE: Nothing. Mrs. Vance is just leaving the diner open late. In case."
+  ],
+  "record": [
+    "Comings and Goings: Three cats returned. The sign still reads seven. Whether a returned thing counts as a coming, the Gazette leaves to the Mayor, the constable, and Mrs. Crewe, who when asked only smiled and said, 'It's gone over to the giving. Early this year.'"
+  ],
+  "letters": [
+    { "from": "Gerald Pith, Sycamore Lane", "body": "He's home and I'm grateful and I want to say thank you to the lake which is a mad thing to write in a newspaper. He sits at the window at night. I sit behind him. We watch it together now. I don't bring him in anymore. He doesn't want to come, and I find I don't want to be the one who makes him. We're alright. We're watching. G.P." }
+  ]
+}

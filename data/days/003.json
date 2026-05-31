@@ -1,0 +1,28 @@
+{
+  "day": 3,
+  "dateline": "Wednesday, October the 8th",
+  "weather": "Still. 10 degrees. The drizzle stopped overnight and has not been replaced by anything.",
+  "stage": 1,
+  "lead": {
+    "headline": "The Lake Has Gone Quiet",
+    "byline": "By Wren Aldercott",
+    "body": "There is no good way to report the absence of a sound, so the Gazette will simply state it: as of Tuesday, Lake Greywater makes no noise. No lap at the dock, no slap under the jetty, none of the small constant water-talk the Falls has fallen asleep to for a hundred and thirty years. Anglers report no fish and, more strangely, no bites, no rises, no insects on the surface at dusk. \"It's the dry season,\" said Hank Mossley, who has begun to say this the way other men say grace. The Mayor has announced a Lake Appreciation Bake Sale for Friday \"to celebrate our beautiful waterfront,\" proceeds to the Council. The Gazette has appreciated the lake for some years and does not recall it ever being this still."
+  },
+  "briefs": [
+    { "headline": "Two More Cats Unaccounted For", "body": "In addition to Mr. Whiskers, the Aldous and Renn households report cats absent since Monday. Constable Dunmore advises that cats are cats. Mr. Pith advises that he is keeping a list." },
+    { "headline": "Doctor Notes a Run of Poor Sleep", "body": "Dr. Esmé Okonkwo reports a cluster of patients this week complaining of wakefulness and a persistent hum 'felt more than heard'. She counsels rest, water, and \"telling me if it changes,\" and has, the Gazette understands, begun a chart." },
+    { "headline": "Pie Entries Strong", "body": "Eleven entries by Wednesday noon, a record, though the Mayor notes that two of the entry cards are in a hand she does not recognise and the names do not match any address she knows." }
+  ],
+  "classifieds": [
+    "STILL LOST: Mr. Whiskers, and now Pepper (black, Aldous) and Biscuit (ginger, Renn). Pith is keeping the list. Add yours at the bakery.",
+    "FOR SALE: Ear plugs, wax, full box less two. Fern household. \"They don't help.\"",
+    "WANTED: An explanation. Apply within."
+  ],
+  "record": [
+    "Comings and Goings: The pie register shows eleven entrants for a town of nine. The Mayor is looking into it."
+  ],
+  "letters": [
+    { "from": "Agnes Crewe, Lakeside Cottage", "body": "Wren. It's counting again. You'll want to write that down now, while it's still strange, because in a week it won't be. Tea's on if you come. Bring the boy. A.C." }
+  ],
+  "editorNote": "We ran Mrs. Crewe's letter in full. The Mayor felt it was alarmist. The Gazette's concern is that it was not alarming enough."
+}

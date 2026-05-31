@@ -1,0 +1,27 @@
+{
+  "day": 9,
+  "dateline": "Tuesday, October the 14th",
+  "weather": "Warm, still, luminous fog that held a soft light all evening though there was no moon. 15 degrees. The lake full to the lip of the shore, not spilling, simply full.",
+  "stage": 3,
+  "lead": {
+    "headline": "The Whole Town Came to the Water",
+    "byline": "By Wren Aldercott",
+    "body": "On Monday evening, for the first time in living memory and very possibly the first time ever, every soul in Greywater Falls went down to the lake on purpose. The Mayor set the trestle tables at the shore, chairs facing out, and laid the lemon cake and the good coffee and a great deal more than nine people could eat, and the town came, and sat, and watched the water as the light went strange and soft. Nobody made a speech. The returned animals were already there, and made room. At the minute the hum has kept all week, it changed, the town agrees, into something that was almost the shape of words and was not frightening, and the lake, brimming and clear and warm, lit gently from below for the length of three slow breaths, and then was only a lake again, dark and full. No one ran. Mr. Pith reports he held his cat for the first time in a week and the cat let him. 'We just sat with it,' the Mayor said afterward, her eyes wet, her voice finally matching them. 'All of us. We just sat with it.' The vigil raised 188 dollars. The Council will not be cashing the cheque from the green house on Pell Road. They are not sure it would clear, and they are not sure they want it to."
+  },
+  "briefs": [
+    { "headline": "LAKE WATCH, Day 9", "body": "Level: full to the shore and steady, no longer rising. Temperature: warm as a held hand. Clarity: total and then some. Sign: seven. Returned: the three cats, Sailor the dog, and, this morning, a budgerigar the Aldous family had buried in the spring, who is well, and quiet, and sits at the window facing the lake." },
+    { "headline": "Crewe's Second Cup Was Empty", "body": "Agnes Crewe reports that on the morning after the vigil, both cups by the water were empty, and the second saucer held a single grey stone, smooth and warm. 'That's the lake saying thank you for coming,' she said, untroubled, pocketing the stone. 'It has manners. People forget that. It always had manners.'" },
+    { "headline": "Doctor Reframes Her Findings", "body": "Dr. Okonkwo has revised the heading on her chart from CLUSTER, UNEXPLAINED to, simply, THE FALLS, OCTOBER. 'It isn't spreading and it isn't stopping,' she said. 'It's just what we are now. Slower hearts. The same dream. The hum. I can't cure it because it isn't a sickness. I think it's belonging. I'll keep the chart anyway. Somebody should remember the numbers.'" }
+  ],
+  "classifieds": [
+    "THANK YOU to all who came to the vigil. There will be another. There will, the Mayor suspects, always be another now.",
+    "FOUND: One smooth grey stone, warm, given. Not for sale. Crewe.",
+    "FOR SALE: Lemon cake, by the slice, at the bakery. The Mayor has the recipe from her mother now properly, having finally asked Agnes, who had it all along."
+  ],
+  "record": [
+    "Comings and Goings: Sign reads seven. The town counts nine. The shore, at dusk, counts more than that, and the Gazette has decided this is not a discrepancy to be resolved but a fact to be kept."
+  ],
+  "letters": [
+    { "from": "Toby Fern, age 16", "body": "I always wanted to live somewhere where things happen. I take it back, but also I don't, because tonight the whole town sat by the water and nobody was scared and the lake said thank you and I'm not leaving now. I used to think leaving was the only interesting thing I'd ever do. Turns out staying is. Mrs. Crewe says that's the lake teaching me. Maybe. Or maybe I just grew up in a week. Both, probably. T.F." }
+  ]
+}

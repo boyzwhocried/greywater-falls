@@ -1,0 +1,27 @@
+{
+  "day": 2,
+  "dateline": "Tuesday, October the 7th",
+  "weather": "Cloud, 10 degrees, no wind to speak of. The lake flat as a set table.",
+  "stage": 0,
+  "lead": {
+    "headline": "Pie Entries Open Wednesday; Mayor Pleads for Restraint",
+    "byline": "By Wren Aldercott",
+    "body": "Entries for Saturday's contest open tomorrow, and Mayor Halloway has issued what she calls \"guidance\" and others call \"a warning.\" Following last year's controversy, fillings involving more than one stone fruit will be \"looked at very carefully.\" The Mayor spent Monday at the bakery in unusually high spirits, baking, she said, \"enough to keep the whole town busy through to Christmas, just in case.\" In case of what, she did not say. She said it twice."
+  },
+  "briefs": [
+    { "headline": "Mr. Whiskers Out Past Curfew", "body": "Gerald Pith reports his cat absent two nights running, which Mr. Pith describes as \"not like him at all.\" The Gazette notes that Mr. Whiskers is fourteen and has the run of the town, and wishes Mr. Pith a swift reunion." },
+    { "headline": "Dogs Decline the Shore", "body": "Walkers report their dogs unwilling to go down to the water this week, sitting at the top of the path instead. \"Mine just looks at it,\" said one owner. Mr. Mossley suggests the dry mud smells wrong and that this is a thing dogs do." },
+    { "headline": "A Hum in the Night", "body": "Young Toby Fern reports a low hum audible after dark near the lake and attributes it to the mill. Mr. Mossley, who runs the mill night shift, notes the mill has been idle a fortnight. The matter is considered closed." }
+  ],
+  "classifieds": [
+    "LOST: One cat, grey, answers to Mr. Whiskers, will not come when called, never has. Reward: gratitude. Pith.",
+    "FOR SALE: Winter roast, by the cup, at The Kettle. \"Frankly excessive.\"",
+    "NOTICE: The geese remain available."
+  ],
+  "record": [
+    "Comings and Goings: None recorded. Mr. Pith asks that we count Mr. Whiskers as 'going' but not 'gone'."
+  ],
+  "letters": [
+    { "from": "Marigold Vance, The Kettle", "body": "To my morning regulars: I made nine breakfasts on Sunday from force of habit and served seven and I would like the other two of you to come in, whoever you are, before the eggs turn. The coffee is the good one now. You know where I am." }
+  ]
+}

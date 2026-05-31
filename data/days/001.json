@@ -1,0 +1,27 @@
+{
+  "day": 1,
+  "dateline": "Monday, October the 6th",
+  "weather": "Overcast, 11 degrees, a politeness of drizzle by noon. As forecast, which is to say as always.",
+  "stage": 0,
+  "lead": {
+    "headline": "Halloway Announces Autumn Harvest Fair; Pie Contest Returns",
+    "byline": "By Wren Aldercott",
+    "body": "Mayor Doreen Halloway confirmed Sunday that the Greywater Falls Autumn Harvest Fair will proceed on the green this Saturday, weather permitting, which in October it will not, and the fair will proceed regardless. \"We have never let a little sky stop us,\" the Mayor said, arranging a tower of jam jars as she spoke. The marquee event remains the pie contest, last year decided by a single vote and a quantity of ill feeling that has not entirely settled. Mrs. Halloway will again decline to enter, citing the conflict of also being the judge, the organiser, and the supplier of the trestle tables. Entries open Wednesday at the bakery. The Mayor asks only that contestants \"keep the fillings sensible.\""
+  },
+  "briefs": [
+    { "headline": "Hardware Store Extends Hours for Storm Season", "body": "Mossley Hardware will stay open until six through the autumn. Hank Mossley notes a brisk trade in gutter brackets and reminds residents that he warned them about the gutters in spring." },
+    { "headline": "Diner Reinstates the Good Coffee", "body": "The Kettle has switched back to its winter roast. Marigold Vance describes the change as \"seasonal\" and the response from the morning counter as \"frankly excessive.\"" },
+    { "headline": "Lake Reported Low for the Season", "body": "Several residents note Lake Greywater sitting a foot or more below its usual mark. Mr. Mossley attributes this to the dry September. \"It comes up in the rain,\" he said. \"It always comes up.\"" }
+  ],
+  "classifieds": [
+    "FOR SALE: Apple ladder, twelve rung, one rung optional. Enquire Pith, Sycamore Lane.",
+    "WANTED: Pie judges of strong constitution and no living relatives among the contestants. See the Mayor.",
+    "FREE: Geese. You know the ones. They are by the green. Please."
+  ],
+  "record": [
+    "Comings and Goings: None this week, which is how the Falls prefers it."
+  ],
+  "letters": [
+    { "from": "A. Concerned Ratepayer, Mill Road", "body": "Sir or Madam, the geese on the green have again attempted to enter the post office. I do not know what they want. I am not sure they know what they want. I ask only that the Council form a view. Yours, etc." }
+  ]
+}

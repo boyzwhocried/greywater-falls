@@ -1,0 +1,28 @@
+{
+  "day": 6,
+  "dateline": "Saturday, October the 11th",
+  "weather": "Fog on the water at dawn that did not lift. 13 degrees, warmest at the shore. Still no wind. The lake higher than Thursday, though it has not rained.",
+  "stage": 2,
+  "lead": {
+    "headline": "The Water Is Rising. It Has Not Rained.",
+    "byline": "By Wren Aldercott",
+    "body": "Gerald Pith's notebook and the Gazette's own eyes now agree on the thing the town has spent a week declining to agree on: Lake Greywater is rising, steadily, by perhaps a hand's width a day, and not one drop of rain has fallen since Monday. The water is clear in a way it has never been, clear to a depth that the old charts say the lake does not have. \"You can see all the way down,\" said Mr. Pith, \"and then you can see further than that, and that's where I stopped looking.\" Mr. Mossley, foreman of the idle mill, declined to repeat his dry-season explanation for the first time in a week. Asked what he thought instead, he said, \"I think I'd like everyone to keep their flashlights charged,\" and went to open the store."
+  },
+  "briefs": [
+    { "headline": "Mossley Saw the Water Stand Up", "body": "The Gazette can report, with his reluctant permission, that on Wednesday's night shift Hank Mossley watched the lake's surface rise into a smooth standing shape 'the size of the mill', hold for a slow count, and lower without a splash. He has sold every lantern in the shop. He did not advertise them." },
+    { "headline": "Crewe Tells the Boy About the Last Time", "body": "Agnes Crewe, 91, the only resident who was here when this last happened, has begun to speak of it, to Toby Fern, by her fire. She declined to repeat it to the Gazette except for one line: 'It takes in the autumn, and it gives back in the spring, and what it gives back you love anyway. Mind you remember the order.'" },
+    { "headline": "Constable Requests That Everyone Remain Calm", "body": "Constable Dunmore issued his first formal statement of the season Saturday, asking residents to 'remain calm and go about their routines.' The town heard, correctly, a frightened man. He is, the Gazette notes with sympathy, frightened in an official capacity, which is the loneliest kind." }
+  ],
+  "classifieds": [
+    "FLASHLIGHTS, LANTERNS, BATTERIES: sold out, Mossley Hardware. More ordered. He doesn't know why he keeps ordering more.",
+    "FOR SALE: Two cups of tea at dusk, by the water, no charge, no obligation. One will be taken. Crewe.",
+    "FOOTAGE wanted of the shore at dusk. Ask Fern. Actually don't. He's seen enough."
+  ],
+  "record": [
+    "Comings and Goings: The sign reads seven and Constable Dunmore has stopped repainting it. The green house on Pell Road has a light on now. Nobody we asked has seen anyone turn it on."
+  ],
+  "letters": [
+    { "from": "Agnes Crewe, Lakeside Cottage", "body": "Doreen. You can't out-bake it, love. You never could. Your mother couldn't either, and she made a better lemon cake than you, and I'll say that now because it's true and we're past the point of being polite. Come and have tea. Bring nothing. A." }
+  ],
+  "editorNote": "The editor walked to the shore Saturday to confirm the rise for herself. She confirms it. She also reports that the water is warm, and that standing beside it she felt, very strongly, that it was glad she had come. She is printing that against her better judgement, of which she has, lately, less."
+}

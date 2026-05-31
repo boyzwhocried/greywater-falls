@@ -1,0 +1,28 @@
+{
+  "day": 10,
+  "dateline": "Wednesday, October the 15th",
+  "weather": "Still. A warm fog off the water the morning never quite burned away. 14 degrees and even. The hum, this morning, indistinguishable from quiet.",
+  "stage": 3,
+  "lead": {
+    "headline": "Life Goes On in Greywater Falls, Which Is the Strangest Part",
+    "byline": "By Wren Aldercott",
+    "body": "It is Wednesday. The bakery is open. The diner is open, and Marigold Vance has left the OPEN sign on past closing again, 'just in case', which is now simply what the diner does. Hank Mossley sold a man a gutter bracket. Constable Dunmore wrote a parking notice, the geese, again, and for an hour the Falls was an ordinary small town doing ordinary small things, and the lake at the bottom of the hill was full and warm and silent and waiting, and nobody pretended it wasn't.\n\nThat is the change. Not that the strange came to Greywater Falls. The strange has, by Mrs. Crewe's account, always summered here. The change is that the town has stopped facing the other way. The chairs by the shore have been left out. Every evening the returned go down to the water, and most evenings, now, some of the rest of us go down too, and sit, and the cats make room.\n\nThe Gazette does not know how this story ends. It is not sure it is a story that ends. It is sure of this much: the town is well, and frightened, and together, and home, and these are not contradictions here. They never were. This is Greywater Falls. The lake is part of it. So are we."
+  },
+  "briefs": [
+    { "headline": "LAKE WATCH, Day 10", "body": "Level: full and steady. Temperature: warm. Clarity: total. Sign: seven, and the Council has voted to leave it there, on Mrs. Crewe's advice: 'Let it keep its own count. It's more honest than ours, and it was here first.' Returned to date: three cats, one dog, one budgerigar, and a sense, several residents report, of someone moving about in the green house on Pell Road, of whom nobody is yet afraid." },
+    { "headline": "Mayor Schedules the Next Vigil, and the Next", "body": "Mayor Halloway has put a standing event on the Council calendar: the Lakeside Sit, every evening at dusk, no agenda, no fundraising, bring a chair or use one of the ones left out. 'I spent forty years planning things so we wouldn't have to be still,' she said. 'Turns out still is what the town needed. Still, and facing the right way, and a lemon cake. I was two-thirds wrong. I'll take two-thirds.'" },
+    { "headline": "On the Order of Things, by A. Crewe", "body": "Agnes Crewe asked the Gazette to print a reminder as the season turns: 'It takes in the autumn and gives back in the spring, and what comes back you love anyway, and you mind the order, and you don't grieve early and you don't hope early either. We're in the giving now, which is the gentle part. The taking comes round again, as it does, as it must. But not this year. This year we just sit by the water and we're glad of each other. That's the whole of it. That was always the whole of it.'" }
+  ],
+  "classifieds": [
+    "STANDING NOTICE: The Lakeside Sit, every dusk, all welcome, chairs provided, lake provided, bring yourself. The Mayor.",
+    "FOR SALE: Lemon cake, the proper recipe at last, at Halloway's. 'Better than mine,' the Mayor admits. 'Always was Agnes's.'",
+    "STILL AVAILABLE: The geese. Some things the lake will not take, and the Gazette respects its judgement."
+  ],
+  "record": [
+    "Comings and Goings: Sign reads seven, by choice now. Town counts nine. Shore counts more, by choice now too. The green house has a light on and, this week, a thin line of smoke from the chimney. Whoever it is keeps the place tidy. Mrs. Vance has started leaving a slice of pie on the step. By morning it is gone. She says she doesn't mind who it's for. She says that's rather the point of pie."
+  ],
+  "letters": [
+    { "from": "Wren Aldercott, Editor", "body": "I came to Greywater Falls because I wanted a town where nothing happened, and I have instead got the only beat of my life, and a slower heartbeat, and a dream of clear water I am no longer in any hurry to wake from. I will keep printing the paper. Somebody has to keep the count, even the count the sign won't keep. If you are reading this from somewhere else, and you are wondering how a whole town could sit calmly down beside a thing it cannot explain: come in autumn. Bring a chair. I will save you the second cup. W.A." }
+  ],
+  "editorNote": "The Greywater Gazette is published daily, fog permitting, and lately the fog permits everything. The lake sends its regards."
+}

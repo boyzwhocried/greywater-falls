@@ -1,0 +1,48 @@
+name: Daily tick
+
+# Greywater Falls advances itself one day each morning. The tick writes a new
+# edition into data/ and commits it. If Vercel is connected to this repo, the
+# commit redeploys the site and the new day goes live on its own.
+
+on:
+  schedule:
+    - cron: "0 23 * * *" # 06:00 WIB (UTC+7) — a morning paper
+  workflow_dispatch: {} # also runnable by hand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: greywater-tick
+  cancel-in-progress: false
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - run: npm ci
+
+      - name: Advance the town
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run tick
+
+      - name: Publish the edition
+        run: |
+          git config user.name "the lake"
+          git config user.email "actions@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            day=$(node -e "console.log(require('./data/world.json').dayNumber)")
+            git add data
+            git commit -m "town: day ${day}"
+            git push
+          else
+            echo "Nothing to publish today; the town was quiet."
+          fi

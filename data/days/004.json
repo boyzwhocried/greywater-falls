@@ -1,0 +1,27 @@
+{
+  "day": 4,
+  "dateline": "Thursday, October the 9th",
+  "weather": "Grey, windless, 11 degrees. A faint warmth coming off the water that the season does not account for.",
+  "stage": 1,
+  "lead": {
+    "headline": "Pith Measures the Waterline; The Numbers Do Not Agree",
+    "byline": "By Wren Aldercott",
+    "body": "Gerald Pith, retired of the postal service and unretired of curiosity, spent Wednesday at the lake with a stick and a length of knotted string. His finding, recorded in a notebook he now carries everywhere: the lake is lower than last week by the eye, and yet the dock planks are wet a full hand's width higher than the water reaches. \"It can't be both,\" Mr. Pith said. \"Lower and wetter. It can't be both.\" Constable Dunmore, shown the notebook, observed that docks get wet and closed the matter. Mr. Pith has opened a new page. He has, the Gazette notes, a great many pages left."
+  },
+  "briefs": [
+    { "headline": "Birdsong Absent from the Eastern Shore", "body": "Walkers report the trees along the water gone silent, no birds at the feeders nearest the lake though those further up the hill are busy as ever. \"It's like there's a line,\" said Toby Fern, \"and they all know where it is.\"" },
+    { "headline": "Mill Reports Itself Idle, Again", "body": "For the avoidance of doubt, and at Mr. Mossley's request, the Gazette confirms the mill has not run since September. Whatever hums at night, it is not the mill. Mr. Mossley asked us to print that. He did not say what he thought it was instead." },
+    { "headline": "Constable Advises Calm Re: Cats", "body": "Five cats now on Mr. Pith's list. Constable Dunmore advises residents that there is \"no pattern,\" a phrase Dr. Okonkwo notes is itself a pattern." }
+  ],
+  "classifieds": [
+    "NOTEBOOK refills wanted, lined, any size, urgently. Pith.",
+    "FOR SALE: Storm lanterns and torches, Mossley Hardware, new stock, do not ask why he ordered so many.",
+    "FOUND: A single wet pawprint on the post office step, facing out. Owner unknown. Step since dried."
+  ],
+  "record": [
+    "Comings and Goings: None, officially. Mrs. Vance asks, unofficially, whether anyone remembers the family that used to live in the green house on Pell Road. Nobody at the counter could say. The green house is, everyone agreed, definitely there."
+  ],
+  "letters": [
+    { "from": "Hank Mossley, Mossley Hardware", "body": "Editor. I said the lake's low from the dry season and I'd thank you to keep printing that. I'd thank you. Hank. (You can leave this letter out if you want. Actually leave it out. Actually print it. I don't know. H.)" }
+  ]
+}

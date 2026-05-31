@@ -1,0 +1,27 @@
+{
+  "day": 5,
+  "dateline": "Friday, October the 10th",
+  "weather": "No wind. 12 degrees and rising slightly toward the water. The hum, by several accounts, now audible in daylight.",
+  "stage": 1,
+  "lead": {
+    "headline": "Bake Sale Raises 214 Dollars; Nobody Mentions the Lake",
+    "byline": "By Wren Aldercott",
+    "body": "The Lake Appreciation Bake Sale drew the whole town to the green on Friday and raised 214 dollars for the Council, a sum the Mayor called \"wonderful\" eleven times. The event was, by design, held with its back to the water. Trestle tables faced the shops. Chairs faced the shops. When a child turned hers to look at the lake, she was gently turned back. The lemon cake sold out. The Mayor was radiant and tireless and did not once walk down to the shore she had organised the day to celebrate. \"A wonderful turnout,\" she said, to a green that was, the Gazette counted, holding perhaps a dozen people in a town of nine."
+  },
+  "briefs": [
+    { "headline": "The Hum Now Heard by Day", "body": "Dr. Okonkwo reports that the night-time hum is being heard in daylight by most adults in town, described with unusual consistency: a single low note, 'like a held breath', felt in the teeth. The Doctor's chart, which she will not yet show the Gazette, is said to be very tidy." },
+    { "headline": "The Welcome Sign Disagrees with the Census", "body": "The board at the town limits reading POPULATION 9 was found Friday morning to read POPULATION 7. No one admits to changing it. Constable Dunmore has repainted it to 9. By evening it again read 7. He has repainted it again." },
+    { "headline": "Pell Road Green House: Status Uncertain", "body": "Following Mrs. Vance's question, the Gazette walked to Pell Road. There is a green house. It is tidy, curtained, and gives every impression of being lived in. None of us could name who lives there, and none of us, standing on the step, could make ourselves knock." }
+  ],
+  "classifieds": [
+    "FOR SALE: Lemon cake. SOLD OUT. The Mayor thanks you.",
+    "WANTED: Anyone who recalls the Pell Road family, by name, to speak to G. Pith. He is keeping a list of those too.",
+    "TUNING FORK lost, Fern household. \"Wanted to check the note.\" Returned on its own. Still humming."
+  ],
+  "record": [
+    "Comings and Goings: The sign says seven. The census says nine. The bake sale fed twelve. The Gazette declines to choose."
+  ],
+  "letters": [
+    { "from": "Toby Fern, age 16", "body": "Everyone keeps saying it's the dry season but the lake's getting WARMER and there's no fish and the dogs won't go near it and Mrs. Crewe says it's counting and I believe her. I'm not being weird. I'm the only one being normal about this. Print that." }
+  ]
+}

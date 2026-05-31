@@ -1,0 +1,201 @@
+[
+  {
+    "slug": "doreen-halloway",
+    "name": "Doreen Halloway",
+    "age": 64,
+    "role": "Mayor of Greywater Falls; proprietor of Halloway's Bakery",
+    "personality": "Warm, formidable, runs the town's morale like a kitchen. Believes a problem with a bake sale attached to it is half-solved. Deflects fear into frosting.",
+    "voice": "Brisk and kind, full of plans and pastry. Says 'now' a lot. Only her sentences that trail off are honest.",
+    "relationships": [
+      { "with": "agnes-crewe", "type": "old friend and rival", "note": "Agnes knew her mother. Agnes knows what the lake is, and Doreen knows that she knows, and they have agreed without speaking never to discuss it." },
+      { "with": "wren-aldercott", "type": "uneasy ally", "note": "Wants the paper to keep things calm. Wren will not be managed." },
+      { "with": "russ-dunmore", "type": "depends on him", "note": "Needs Russ to keep saying it's nothing for as long as possible." }
+    ],
+    "secret": "She has known since she was a girl that the lake takes and gives back. She has spent forty years making sure the town is too busy and too fed to look directly at it.",
+    "mood": "Exhausted under the brightness. Planning the next event before the last one ends.",
+    "status": "present",
+    "arc": "Her lifelong strategy of distraction is failing. She is moving from hiding the lake to hosting it, turning the vigil into the town's biggest bake sale yet.",
+    "memory": [
+      "Day 7: Mr. Whiskers came back and she said 'see, nothing to worry about' and then went home and could not sleep.",
+      "Day 9: She organised the Lakeside Vigil and Bake Sale. The whole town came. She did not look at the water once.",
+      "Day 10: Caught herself setting out a tenth chair at the meeting. There are nine of them now. She left it out anyway."
+    ],
+    "backstory": "Born in the Falls. Took the bakery from her mother, who also never spoke of the lake. Elected mayor four times, uncontested, mostly because she remembers everyone's birthday."
+  },
+  {
+    "slug": "gerald-pith",
+    "name": "Gerald Pith",
+    "age": 71,
+    "role": "Retired postman",
+    "personality": "Gentle, dogged, incapable of letting a loose thread lie. Loved his cat more than is strictly dignified. The town's accidental investigator.",
+    "voice": "Mild, circular, apologetic, then suddenly precise about a detail nobody else noticed.",
+    "relationships": [
+      { "with": "marigold-vance", "type": "daily regular", "note": "Sits at the diner counter every morning. Mari humours him; lately she has started listening." },
+      { "with": "russ-dunmore", "type": "frustrated by him", "note": "Keeps bringing Russ evidence. Russ keeps filing it under nothing." }
+    ],
+    "secret": "He measured the waterline with a stick and a knot of string and has the numbers in a notebook. The water is rising. It has not rained.",
+    "mood": "Torn between joy that Mr. Whiskers is home and dread at how the cat sits.",
+    "status": "present",
+    "arc": "Got his cat back, but the cat came back wrong, and Gerald is the only one keeping written records of everything the town would rather forget.",
+    "memory": [
+      "Day 4: Noticed the dock is wet a hand's width above the waterline. Wrote it down. Russ said docks get wet.",
+      "Day 7: Mr. Whiskers came home soaked and humming and would not be held. Gerald cried anyway.",
+      "Day 10: The cat sits at the shore at dusk with the others. Gerald sits a little behind him. He has stopped trying to bring him in."
+    ],
+    "backstory": "Forty years carrying the town's mail. Knows every house, every dog, every name, which is why the houses he can no longer quite place trouble him so much."
+  },
+  {
+    "slug": "hank-mossley",
+    "name": "Hank Mossley",
+    "age": 58,
+    "role": "Owner of Mossley Hardware; night-shift foreman at the old mill",
+    "personality": "Blunt, practical, the man who says the quiet part. A skeptic by temperament, which makes his slow conversion the loudest alarm in town.",
+    "voice": "Short sentences. Swears he was misquoted. Was not misquoted.",
+    "relationships": [
+      { "with": "russ-dunmore", "type": "poker buddy", "note": "They have agreed it's nothing over cards every Thursday. Hank is no longer sure he believes the cards." },
+      { "with": "esme-okonkwo", "type": "respects her", "note": "Went to her about the not-sleeping before he would admit it to himself." }
+    ],
+    "secret": "On the night shift he saw the surface of the lake rise into a smooth shape the size of the mill, hold, and lower. He has not told Russ. He told Esmé.",
+    "mood": "Rattled and trying to fix it with inventory.",
+    "status": "present",
+    "arc": "The town's designated skeptic has run out of explanations and is the most frightened man in the Falls because of it.",
+    "memory": [
+      "Day 2: Told everyone the lake's just low from the dry season. Believed it.",
+      "Day 6: Saw the water stand up on the night shift. Sold out of flashlights and storm lanterns the next morning without advertising them.",
+      "Day 9: Went to the vigil. Stood at the back. Did not eat."
+    ],
+    "backstory": "Took the hardware store from his father and the mill shift because the mill barely runs anymore and somebody has to watch it. Turns out somebody did need to watch it."
+  },
+  {
+    "slug": "wren-aldercott",
+    "name": "Wren Aldercott",
+    "age": 43,
+    "role": "Editor, sole reporter, and typesetter of The Greywater Gazette",
+    "personality": "Dry, exact, professionally calm. Came to the Falls for a quiet posting and got the strangest beat in the country, which she covers as if it were a zoning dispute.",
+    "voice": "Clipboard prose. Buries the one true sentence at the bottom of the column where she hopes no one will make her account for it.",
+    "relationships": [
+      { "with": "doreen-halloway", "type": "uneasy ally", "note": "Doreen wants calm coverage. Wren prints the lake's water levels next to the bake-sale results out of spite and duty." },
+      { "with": "agnes-crewe", "type": "best source", "note": "Agnes tells her the truth in riddles. Wren has started believing the riddles." }
+    ],
+    "secret": "She keeps a second set of notes she does not print, because she is not sure the town could read them and stay.",
+    "mood": "Holding a clipboard while standing in rising water.",
+    "status": "present",
+    "arc": "The narrator of the town's unraveling, trying to decide each day how much truth a community can survive being told.",
+    "memory": [
+      "Day 3: Ran 'The Lake Has Gone Quiet' below the fold. Doreen called it alarmist. It was not alarmist enough.",
+      "Day 8: Started a column called Lake Watch. Hated that it was necessary.",
+      "Day 10: Set the masthead the same as always. Could not bring herself to change the motto. The motto was already true."
+    ],
+    "backstory": "Edited a city daily until it folded, then a string of small-town weeklies, looking for somewhere nothing happened. Found Greywater. Greywater happened."
+  },
+  {
+    "slug": "marigold-vance",
+    "name": "Marigold Vance",
+    "age": 37,
+    "role": "Owner and cook at The Kettle diner",
+    "personality": "Cheerful at full volume over real anxiety. The town's switchboard; everything is heard at her counter first.",
+    "voice": "Warm, fast, a little too bright. Laughs to fill silences that are getting longer.",
+    "relationships": [
+      { "with": "gerald-pith", "type": "regular and confidant", "note": "He is at her counter every morning. She used to humour his theories. Now she keeps the coffee coming and listens hard." },
+      { "with": "toby-fern", "type": "feeds him after school", "note": "Slips Toby pie. He tells her what the adults won't say." }
+    ],
+    "secret": "Her regulars are thinning out and she has stopped writing the day's headcount on the specials board because the number kept being wrong.",
+    "mood": "Bright and brittle, cooking for more people than show up.",
+    "status": "present",
+    "arc": "The social heart of the town, watching her counter empty by ones, keeping the lights on and the pie warm as if that will hold everyone in place.",
+    "memory": [
+      "Day 5: Made nine breakfasts out of habit. Served seven. Could not say who the other two were for.",
+      "Day 9: Catered half the vigil for free. Said it was nothing. It was not nothing; it was love.",
+      "Day 10: Left the OPEN sign on past close. Just in case."
+    ],
+    "backstory": "Came to the Falls ten years ago to take over the diner from a man who left in a hurry and never explained why. She is starting to understand the hurry."
+  },
+  {
+    "slug": "esme-okonkwo",
+    "name": "Esmé Okonkwo",
+    "age": 46,
+    "role": "Town physician (the only one)",
+    "personality": "Rigorous, calm, a scientist by training in a place that keeps failing to behave like science. Documents everything.",
+    "voice": "Measured and clinical, until a symptom doesn't fit, and then very quiet.",
+    "relationships": [
+      { "with": "hank-mossley", "type": "patient and friend", "note": "He came to her about the sleeplessness. She believes what he saw because his pulse did not lie." },
+      { "with": "toby-fern", "type": "doctor and listener", "note": "Treats the boy; takes his observations more seriously than the adults do." }
+    ],
+    "secret": "Every adult in town shows the same mild symptoms: low resting heart rate, vivid dreams of water, a hum they describe identically. She has charted it. It looks less like illness than like tuning.",
+    "mood": "Professionally calm, privately keeping a chart she shows no one.",
+    "status": "present",
+    "arc": "The town's rational mind, carefully documenting a phenomenon that her instruments confirm and her training cannot explain.",
+    "memory": [
+      "Day 3: Logged the first cases of the not-sleeping. Six patients, identical description of a hum.",
+      "Day 7: Examined Mr. Whiskers at Gerald's insistence. The cat was healthy. The cat was also, by every measure, slightly cold and perfectly content.",
+      "Day 10: Took her own pulse. It matched the others. She wrote that down too."
+    ],
+    "backstory": "Trained in the city, came to the Falls for a slower practice. Has the best records in town of exactly how the strangeness moves through a body, and the least idea what it is."
+  },
+  {
+    "slug": "toby-fern",
+    "name": "Toby Fern",
+    "age": 16,
+    "role": "Student; unofficial correspondent for the school paper",
+    "personality": "Bored, earnest, sharp-eyed. The first to notice the things adults are too busy rationalizing to see. Skateboards everywhere.",
+    "voice": "Casual, blunt, surprisingly poetic when he forgets to be cool.",
+    "relationships": [
+      { "with": "agnes-crewe", "type": "unlikely friend", "note": "Visits her by the lake. She tells him the old stories nobody else will. He believes her." },
+      { "with": "esme-okonkwo", "type": "trusts her", "note": "The one adult who writes down what he says instead of patting his head." }
+    ],
+    "secret": "He has been filming the lake at dusk on his phone. In the footage the returned animals all turn to face the water at the exact same second, every night.",
+    "mood": "Vindicated and scared, which at sixteen feel almost the same.",
+    "status": "present",
+    "arc": "The town's early-warning system, finally being believed, now wishing he weren't.",
+    "memory": [
+      "Day 2: Heard the hum first. Blamed the mill. Hank said the mill was off. Nobody listened.",
+      "Day 6: Visited Agnes. She told him about 'the last time'. He did not sleep, but not from the hum.",
+      "Day 10: Posted his dusk footage to the school board. Took it down an hour later. Some things you don't get to un-see for other people."
+    ],
+    "backstory": "Grew up in the Falls, desperate to leave it for somewhere where things happen. He has stopped being careful what he wishes for."
+  },
+  {
+    "slug": "agnes-crewe",
+    "name": "Agnes Crewe",
+    "age": 91,
+    "role": "Eldest resident; lives alone in the cottage nearest the water",
+    "personality": "Cryptic, unbothered, kind in a flinty way. Has seen this before and is the only one who is not afraid.",
+    "voice": "Short riddles delivered like weather reports. Means every word literally; nobody takes her literally.",
+    "relationships": [
+      { "with": "doreen-halloway", "type": "old friend and rival", "note": "They have not discussed the lake in forty years and do not intend to start. Each thinks the other handles it wrong." },
+      { "with": "toby-fern", "type": "her listener", "note": "The boy comes to her. She tells him the truth because he is young enough to carry it." }
+    ],
+    "secret": "She was here the last time, as a girl. The lake took her sister and, a season later, gave back someone who wore her sister's face and was kind and was not her sister. Agnes loved her anyway. That is the whole secret: you love them anyway.",
+    "mood": "Calm. The calm of someone who already knows the ending.",
+    "status": "present",
+    "arc": "The town's living memory of the last time the lake woke, the only one who is not afraid, gently preparing the boy to understand what is coming.",
+    "memory": [
+      "Day 4: Told Wren 'It's counting again.' Wren printed it. Nobody understood. Agnes did not expect them to.",
+      "Day 6: Told Toby about the last time, and her sister, and how you love them anyway.",
+      "Day 10: Set two cups of tea at dusk, the way she has every evening for eighty years. Drank one. Left one at the water's edge."
+    ],
+    "backstory": "Born in the cottage by the lake, will die in it, has outlived everyone who could confirm what she remembers. Which is its own kind of loneliness, and its own kind of proof."
+  },
+  {
+    "slug": "russ-dunmore",
+    "name": "Russ Dunmore",
+    "age": 55,
+    "role": "Town constable (the only one)",
+    "personality": "Decent, tired, deeply invested in everything being fine. Keeps the peace mostly by refusing to acknowledge there is anything to disturb it.",
+    "voice": "Official and reassuring, a man reading a statement he wrote himself to feel better.",
+    "relationships": [
+      { "with": "hank-mossley", "type": "poker buddy", "note": "Their Thursday game is the last place the lake is still officially nothing. Hank has gone quiet at the table." },
+      { "with": "gerald-pith", "type": "exasperated by him", "note": "Gerald keeps filing reports. Russ keeps marking them 'no action required'. The file is getting thick." }
+    ],
+    "secret": "He drove out to the lake alone at 3 a.m. to prove to himself it was nothing, sat in the cruiser for an hour, and left without getting out of the car. He has told no one.",
+    "mood": "Holding the line of 'nothing to see' against rising personal evidence.",
+    "status": "present",
+    "arc": "The town's official denial made flesh, maintaining calm by sheer will even as his own nerve quietly fails.",
+    "memory": [
+      "Day 4: Closed the missing-cat file. Closed the waterline file. Closed the noise file.",
+      "Day 8: Asked the town, formally, to 'remain calm', which everyone correctly heard as the constable being afraid.",
+      "Day 10: Left the cruiser idling at the shore again. Again did not get out."
+    ],
+    "backstory": "Twenty years keeping a town this small means twenty years of nothing happening, which made him very good at his job and completely unprepared for the one time it didn't hold."
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "name": "greywater-falls",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A living town that publishes a newspaper. Nobody writes it. It just keeps happening.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "tick": "tsx scripts/tick.ts",
+    "conjure": "tsx scripts/conjure.ts"
+  },
+  "dependencies": {
+    "next": "^16.2.6",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  },
+  "devDependencies": {
+    "@anthropic-ai/sdk": "^0.100.1",
+    "@types/node": "^25.9.1",
+    "@types/react": "^19.2.15",
+    "@types/react-dom": "^19.2.3",
+    "tsx": "^4.22.4",
+    "typescript": "^6.0.3"
+  }
+}
