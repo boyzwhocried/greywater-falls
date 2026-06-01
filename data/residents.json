@@ -24,14 +24,15 @@
       }
     ],
     "secret": "She has known since she was a girl that the lake takes and gives back. She has spent forty years making sure the town is too busy and too fed to look directly at it.",
-    "mood": "Rested, for the first time. Her hands remembered the recipe. She is feeding the town the way she always has, and this morning it feels like enough.",
+    "mood": "Warm, open, a little proud of the cardamom thing.",
     "status": "present",
-    "arc": "The distraction strategy has become a hosting strategy, and the hosting strategy has become, quietly, love. She is no longer managing the town's fear—she is baking for its peace.",
+    "arc": "The hosting strategy has completed its arc into simple love. She set nine chairs without thinking and left them. That is the whole resolution of her season.",
     "memory": [
       "Day 7: Mr. Whiskers came back and she said 'see, nothing to worry about' and then went home and could not sleep.",
       "Day 9: She organised the Lakeside Vigil and Bake Sale. The whole town came. She did not look at the water once.",
       "Day 10: Caught herself setting out a tenth chair at the meeting. There are nine of them now. She left it out anyway.",
-      "Day 12: Arrived at the bakery at five, slept through the night for the first time in eleven days. The crumb cake came out right without thinking about it. Gerald Pith came early and carried a tray."
+      "Day 12: Arrived at the bakery at five, slept through the night for the first time in eleven days. The crumb cake came out right without thinking about it. Gerald Pith came early and carried a tray.",
+      "Day 14: Made the cardamom thing with no recipe. Set nine chairs without deliberating. Agnes came in and said the morning smelled right. They drank coffee at opposite ends of the counter and that was enough."
     ],
     "backstory": "Born in the Falls. Took the bakery from her mother, who also never spoke of the lake. Elected mayor four times, uncontested, mostly because she remembers everyone's birthday."
   },
@@ -55,16 +56,16 @@
       }
     ],
     "secret": "He measured the waterline with a stick and a knot of string and has the numbers in a notebook. The water is rising. It has not rained.",
-    "mood": "Quietly certain. The stick was dry above the knot. He underlined nothing and that was the most meaningful notation he has made in thirteen days.",
+    "mood": "Quiet and whole. The ledger is complete. Mr. Whiskers slept on his feet.",
     "status": "present",
-    "arc": "The ledger is no longer a ledger of worry. It is a ledger of record, which is a different thing—a thing that says: this happened, and I was paying attention, and now it is changing back, and I was paying attention for that too. He wrote to the paper. That is new.",
+    "arc": "The ledger of worry became a ledger of record became, on the final morning, simply a closed notebook on the kitchen table. He will start a new one eventually. For now he is sitting with the end of this one.",
     "memory": [
-      "Day 4: Noticed the dock is wet a hand's width above the waterline. Wrote it down. Russ said docks get wet.",
       "Day 7: Mr. Whiskers came home soaked and humming and would not be held. Gerald cried anyway.",
       "Day 10: The cat sits at the shore at dusk with the others. Gerald sits a little behind him. He has stopped trying to bring him in.",
       "Day 11: Carried two mugs to the dock at dawn. Set one down on the planking. Mr. Whiskers sat beside it and did not drink and Gerald did not mind.",
       "Day 12: Helped Doreen carry a tray before six. Had flour on his collar. His notebook entry reads 'holding', underlined twice. Carried the two mugs to the dock at half past six anyway.",
-      "Day 13: The waterline had dropped a finger's width below the knot. He told Marigold. She put down the spatula. Mr. Whiskers looked back at him from the dock for the first time in weeks."
+      "Day 13: The waterline had dropped a finger's width below the knot. He told Marigold. She put down the spatula. Mr. Whiskers looked back at him from the dock for the first time in weeks.",
+      "Day 14: Waterline down a second finger's width. Wrote 'returning' with no underline. Walked to the dock with two mugs. Mr. Whiskers came and sat beside the second one. They stayed until the mist lifted. Mr. Whiskers slept inside last night, on Gerald's feet, slightly cold. Gerald did not mind."
     ],
     "backstory": "Forty years carrying the town's mail. Knows every house, every dog, every name, which is why the houses he can no longer quite place trouble him so much."
   },
@@ -119,16 +120,17 @@
       }
     ],
     "secret": "She keeps a second set of notes she does not print, because she is not sure the town could read them and stay.",
-    "mood": "The second notebook is the right length now. She is not sure how she feels about that.",
+    "mood": "Still. The second notebook is closed. The corkboard is still up. She is deciding what the wall looks like after.",
     "status": "present",
-    "arc": "The narrator has arrived at the end of the telling and is sitting with it. The second set of notes is no longer growing. She wrote the editor's note and told the truth about it and that is the most honest thing she has put in print in thirteen days. Tomorrow she will write the last edition of this season and she is already composing it in the marrow.",
+    "arc": "The narrator has finished the telling and is sitting quietly inside it. The Lake Watch column is concluded. She wrote the last edition and told the truth and buried the truest sentence at the bottom the way she always does, and it landed, and that is all a newspaper can do.",
     "memory": [
       "Day 3: Ran 'The Lake Has Gone Quiet' below the fold. Doreen called it alarmist. It was not alarmist enough.",
       "Day 8: Started a column called Lake Watch. Hated that it was necessary.",
       "Day 10: Set the masthead the same as always. Could not bring herself to change the motto. The motto was already true.",
-      "Day 13: Agnes came to the office. Said 'it's satisfied.' Wren poured tea and wrote it down and knew the second notebook was done. The corkboard of Lake Watch clippings looked, for the first time, like a complete thing."
+      "Day 13: Agnes came to the office. Said 'it's satisfied.' Wren poured tea and wrote it down and knew the second notebook was done. The corkboard of Lake Watch clippings looked, for the first time, like a complete thing.",
+      "Day 14: Wrote the final Lake Watch entry. Closed the second notebook. Left the corkboard up. Found a classified notice in the lost-and-found box — addressed to someone she doesn't recognise — and set it aside to look at tomorrow."
     ],
-    "backstory": "Edited a city daily until it folded, then a string of small-town weeklies, looking for somewhere nothing happened. Found Greywater. Greywater happened."
+    "backstory": "On the last day of the season, while closing out the lost-and-found ledger, Wren found a small envelope she does not remember receiving, addressed in a careful hand to a name she does not know. She has set it on her desk. She has not opened it yet."
   },
   {
     "slug": "marigold-vance",
@@ -244,15 +246,16 @@
       }
     ],
     "secret": "She was here the last time, as a girl. The lake took her sister and, a season later, gave back someone who wore her sister's face and was kind and was not her sister. Agnes loved her anyway. That is the whole secret: you love them anyway.",
-    "mood": "Settled. The calm of a forecast that has proven exactly right.",
+    "mood": "Settled and satisfied. The forecast was correct. She has nothing left to predict.",
     "status": "present",
-    "arc": "The season's anchor has given her final weather report. 'It's satisfied.' Two words that close the loop she has been watching for eighty years. She came to the paper herself, which means she wanted the words in the record. She is done warning. She is witnessing.",
+    "arc": "The season's anchor has given her final word and been believed. She is not done — Agnes is never done — but she is resting. She came to the bakery on a Sunday morning, which is the closest thing to celebration she permits herself.",
     "memory": [
       "Day 4: Told Wren 'It's counting again.' Wren printed it. Nobody understood. Agnes did not expect them to.",
       "Day 6: Told Toby about the last time, and her sister, and how you love them anyway.",
       "Day 10: Set two cups of tea at dusk, the way she has every evening for eighty years. Drank one. Left one at the water's edge.",
       "Day 11: Sat on the step through the first frost. Watched the lake go mirror-still. Wrote two sentences to the Gazette and meant every word of both.",
-      "Day 13: Walked to the Gazette for the first time in six years. Said what needed saying. Drank the tea. Took the biscuits. Wrote two sentences to the letters column. Slept well."
+      "Day 13: Walked to the Gazette for the first time in six years. Said what needed saying. Drank the tea. Took the biscuits. Wrote two sentences to the letters column. Slept well.",
+      "Day 14: Had crumb cake and the new cardamom thing at Halloway's. Told Doreen the morning smelled like the lake thinking about something else. Walked home along the water without hurry. Wrote two sentences to the Gazette because the record should end the same way it began: with her words in it."
     ],
     "backstory": "Born in the cottage by the lake, will die in it, has outlived everyone who could confirm what she remembers. Which is its own kind of loneliness, and its own kind of proof."
   },
@@ -276,16 +279,16 @@
       }
     ],
     "secret": "He drove out to the lake alone at 3 a.m. to prove to himself it was nothing, sat in the cruiser for an hour, and left without getting out of the car. He has told no one.",
-    "mood": "Present, unhurried, oddly unburdened. He has left the scarf. He has left something there and he knows it and it is fine.",
+    "mood": "Unburdened, wry about it, newly comfortable with a word called 'normal' having more room in it.",
     "status": "present",
-    "arc": "The denial arc is not just closed; it is composted. He goes to the water, he stands, he does not name what he is doing, and that namelessness is the whole point. He was present at the dusk gathering on Friday. He was present as a resident, not a constable. That is a new category for him.",
+    "arc": "The denial arc has fully composted. His public letter — filed to the Gazette, read by everyone — is the most honest official document he has ever produced. The scarf stays. That is his private monument.",
     "memory": [
-      "Day 4: Closed the missing-cat file. Closed the waterline file. Closed the noise file.",
       "Day 8: Asked the town, formally, to 'remain calm', which everyone correctly heard as the constable being afraid.",
       "Day 10: Left the cruiser idling at the shore again. Again did not get out.",
       "Day 11: Stood at the water's edge without the car between him and it. Filed the letter with the Gazette. Slept.",
       "Day 12: Walked to the dock at 7:15 a.m. without his notebook for the third morning. Left his scarf at the shore on Tuesday and has not retrieved it from the Gazette lost-and-found. Opened the station on time.",
-      "Day 13: Stood at the shore at dusk with six others. Made no report. The scarf is still at the Gazette. He is letting it be there."
+      "Day 13: Stood at the shore at dusk with six others. Made no report. The scarf is still at the Gazette. He is letting it be there.",
+      "Day 14: Walked to the water at dawn. It looked normal. Wrote to the Gazette about the scarf. Filed the station log: 'All quiet. Shore clear. Good morning.' Did not retrieve the scarf."
     ],
     "backstory": "Twenty years keeping a town this small means twenty years of nothing happening, which made him very good at his job and completely unprepared for the one time it didn't hold."
   }

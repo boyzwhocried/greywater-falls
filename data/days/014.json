@@ -1,0 +1,50 @@
+{
+  "day": 14,
+  "dateline": "Sunday, October the 19th",
+  "weather": "Soft and mild, the kind of autumn morning that arrives like an apology for the week before it. A low mist on the water by seven, lifted by nine. The light came in at an angle that made the whole shore look like a memory of itself.",
+  "stage": 1,
+  "lead": {
+    "headline": "The Count Is Settled; the Town Remains",
+    "byline": "By Wren Aldercott",
+    "body": "Gerald Pith checked the stick this morning, as he has every morning for fourteen days, and the water was down another finger's width below the knot. He did not underline this in the red notebook. He closed it, set it on his kitchen table, and poured his own coffee before walking to the dock. He set a mug on the planking in its customary place. Mr. Whiskers came and sat beside it, as he has each morning since he came home, and the two of them stayed there in the low mist until it lifted, and then they came back inside, and that was the whole of it.\n\nDoreen Halloway opened the bakery at five and made crumb cake and something with cardamom that has no name yet but will shortly need one. She set out nine chairs at the long table without thinking about it and then stood and looked at them for a moment and decided that nine was right for today. Agnes Crewe came in at half past eight, as she has not done in many years, accepted a slice of the cardamom thing, and said the morning smelled like 'the lake thinking about something else.' Doreen said that was fine then. Agnes said it was. They drank their coffee at opposite ends of the counter the way people do when they are, on the whole, very glad of each other.\n\nThe welcome sign on Carrow Road still reads seven. This paper has given it a great deal of ink over the past two weeks and will now, respectfully, give it a rest. The lake counted. Agnes told us what it found. The sign will say what the sign says, and the lake will know what it knows, and the two will not, apparently, need to agree in order for Greywater Falls to function. At dusk this evening the returned gathered at the shore in the usual way. The hum was present. Several residents stood near the water without any stated reason. Nobody kept a count of who.\n\nThis edition closes the Gazette's formal coverage of what we have been calling, for fourteen days, the phenomenon of the lake. We will continue to report the waterline—Gerald Pith would write in if we did not—but the column is finished. What replaces it is only the news, which is to say: the crumb cake, the coffee, the mist that lifts, the door that opens, the ordinary days arriving one after another into a town that looked at itself very carefully for two weeks and found it was still here. That is not nothing. In this editor's view, having spent fourteen mornings composing the record, it is, in fact, the whole thing."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 14 — Final Edition",
+      "body": "Waterline: down a second finger's width below the knot. Level reading: receding slowly, no rain. Clarity: clear to depth; the bottom visible in the shallows for the first time in nine days. Temperature: cool, no longer warm. The welcome sign: seven. The returned: present at dusk; humming; gentle; slightly cold; perfectly content. This column is hereby concluded. The Gazette thanks those who wrote in, measured, reported, and stood at the water when there was nothing to do but stand."
+    },
+    {
+      "headline": "Agnes Crewe Reports Morning Smells 'About Right'",
+      "body": "Agnes Crewe, 91, attending Halloway's Bakery for the second Sunday in recent memory, offered what this paper is treating as an all-clear for the season. 'Smells like something that's decided,' she said, regarding neither the cardamom cake nor the weather in particular. She finished her coffee, thanked Doreen, and walked home along the lake road at a pace that suggested no hurry whatsoever. No further elaboration was provided. None was required."
+    },
+    {
+      "headline": "Mossley Hardware Coffee Corner Now Has a Name",
+      "body": "Hank Mossley has taped a piece of card above the coffee station at Mossley Hardware reading, in his own handwriting: THE CORNER. No further description is offered. He says there is nothing to describe. Asked if the pot would stay, he said, 'It's a corner. Corners don't go anywhere.' The Corner hours are whenever Hank is in, which is most hours. The tab system is ongoing."
+    },
+    {
+      "headline": "Mr. Whiskers Resumes Indoor Sleeping; Gerald Pith Reports No Complaints",
+      "body": "After a sustained period of outdoor and dockside residency, Mr. Whiskers, the returned cat belonging to Gerald Pith of Birch Lane, slept inside last night for the first time since his return. He chose Gerald's feet. Gerald reports that the cat was, as has been documented, slightly cold, and that this was, on balance, fine. 'Felt like having him back,' Mr. Pith said. He paused. 'It is having him back,' he added, and that was the end of the interview."
+    }
+  ],
+  "classifieds": [
+    "LOST — one wool scarf, grey with a yellow stripe, last seen in the Gazette lost-and-found box. Owner known to staff; item held indefinitely, no pressure, door always open. — The Greywater Gazette",
+    "KETTLE DINER — Sunday hours extended through October. Extra slice still in effect. The jar of lake grasses is still on the counter and, as far as this establishment is concerned, it lives there now. Come in.",
+    "THANK YOU — to everyone who came out, brought a dish, stood at the water, checked in, or simply kept the light on. You know who you are. The town does too. — D. Halloway, Mayor & Baker",
+    "NOTICE — The Greywater Falls Welcome Sign remains at its posted number. The Lake Roads Department wishes residents to know that no maintenance request has been filed, no maintenance request is pending, and no maintenance request is anticipated. The sign is fine. — Russ Dunmore, Town Constable"
+  ],
+  "record": [
+    "Waterline receding; Gerald Pith's notebook entry for Day 14 reads 'returning' with no underline.",
+    "No incidents reported overnight; Constable Dunmore noted in the station log: 'All quiet. Shore clear. Good morning.'"
+  ],
+  "letters": [
+    {
+      "from": "Agnes Crewe, the cottage nearest the water",
+      "body": "The lake has let us go on. That is what 'satisfied' means. I expect we'll do fine. We generally do, once we've remembered how."
+    },
+    {
+      "from": "Russ Dunmore, Town Constable",
+      "body": "I would like it on the record that I am aware my scarf is at the Gazette. I am choosing to leave it there for the time being. This is not evidence of anything. I walked to the water again this morning and it looked normal, and I have decided that normal is a word with more room in it than I previously thought. That is my full statement. — Constable Dunmore. P.S. I will collect the scarf before it snows."
+    }
+  ],
+  "editorNote": "The second notebook is closed. This is the final Lake Watch column. I do not know what to do with the corkboard. I will leave it up through the week, and then I will take it down, and the wall behind it will be exactly the same as it was, and I suppose that is the point."
+}
