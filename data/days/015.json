@@ -1,0 +1,50 @@
+{
+  "day": 15,
+  "dateline": "Monday, October the 20th",
+  "weather": "Clear and cold, the first real cold of the season. Frost on the dock planking by six, gone by nine. The sky the particular blue that arrives only after the last warmth has been spent, honest and unsentimental.",
+  "stage": 0,
+  "lead": {
+    "headline": "A Monday in October, Straightforwardly Described",
+    "byline": "By Wren Aldercott",
+    "body": "The geese are back on the commons. This is the news. They arrived sometime before dawn on Sunday and have arranged themselves, with their customary confidence, across the better part of the grass between the post office and the old mill road, and by seven this morning they had already defeated Russ Dunmore in a brief territorial negotiation involving a traffic cone and two strongly worded gestures. The constable reports no injuries to himself or the geese. He filed a report anyway, on the grounds that a Monday without paperwork feels incomplete.\n\nDoreen Halloway opened the bakery at the regular hour and put the cardamom thing—it still has no official name, but the town has begun calling it simply 'the cardamom thing' as though that settles it—in the front case. It was gone by eight-fifteen. She made a second batch. This editor was not present for the second batch and cannot comment on its fate, though she notes that Gerald Pith had a particular look about him when he arrived at the Kettle at a quarter to nine, which is later than usual for him. Marigold Vance had already poured his coffee and set it at his spot, which is simply the correct application of pattern recognition after thirteen years of daily custom.\n\nThe lake is at its ordinary autumn level this morning. The dock is clear. The mist lifted early. Gerald Pith checked the stick, noted the measurement with his usual precision, and closed the red notebook, which has been closed since Sunday and which he carries now out of something that is not habit so much as affection for the object itself. He is considering, he told Marigold, starting a new one. She said she would hold off on the sympathy until she saw what colour the cover was.\n\nThere is one small administrative matter this editor will mention in the interest of completeness: the Gazette's lost-and-found box, which normally holds a rotating inventory of reading glasses, single gloves, and the occasional migratory umbrella, contained this morning a sealed envelope that was not there on Friday. It is addressed—clearly, in a hand this editor does not recognise—to a 'Mr. R. Oduya.' There is no Mr. R. Oduya in Greywater Falls. The return address is The Greywater Gazette, 4 Mill Road. We are the return address. This editor has set it aside to look into, in the same way one sets aside a strange sound in an otherwise quiet house: attentively, without alarm, for now."
+  },
+  "briefs": [
+    {
+      "headline": "Geese Return to Commons; Dunmore Issues Advisory",
+      "body": "The Canada geese have resumed their autumn tenure on the commons lawn, arriving overnight Sunday in numbers Constable Dunmore estimates at 'enough.' He advises pedestrians to use the mill-road footpath until the birds establish their territorial intentions. He also advises residents not to 'engage them rhetorically,' a phrase this paper will not elaborate on but does feel deserved."
+    },
+    {
+      "headline": "Halloway's Announces Name Contest for Cardamom Pastry",
+      "body": "Doreen Halloway confirms that the unnamed cardamom item—born last Friday, sold out twice this weekend, already a fixture at the long table—will need a proper name before it appears on the printed menu. Entries may be submitted to the bakery through Sunday. Doreen has final approval. She says she will know the right name when she hears it and that so far she has not heard it. The leading current suggestion, submitted by Gerald Pith, is 'The Thing.' Doreen has not ruled it out."
+    },
+    {
+      "headline": "Kettle Diner Resumes Full Monday Hours; Crumb Cake Elevated to Permanent Saturday Special",
+      "body": "Marigold Vance confirms that the Kettle is back on its regular Monday-through-Saturday schedule following 'an unusual couple of weeks,' which is the official Kettle characterisation of the past fortnight. The crumb cake is now formally listed on the Saturday specials board. The jar of dried lake grasses remains on the counter. Marigold says it is decorative. It is not just decorative."
+    },
+    {
+      "headline": "Mill Road Frost Damages Two Planters; Russ Dunmore's Scarf Still at Gazette",
+      "body": "The overnight frost claimed the last of the petunias in the two planters outside the post office, which Hank Mossley installed in April and which, he notes, 'had a good run.' He will remove the planters this week. Separately, Constable Dunmore's scarf remains in the Gazette's lost-and-found. The Gazette's self-imposed waiting period continues. The constable has not enquired about it, which the Gazette interprets, correctly, as a choice."
+    }
+  ],
+  "classifieds": [
+    "LOST — one brown leather left-hand glove, probably near the commons or the dock, probably last week, possibly before. Sentimental value only. Contact Gerald Pith, Kettle Diner, mornings.",
+    "FOR SALE — Bulk beeswax candles, twelve tapers, never used. Purchase was precautionary. Situation resolved. Contact Hank Mossley, Mossley Hardware.",
+    "NOTICE — Halloway's Bakery requests submissions for the naming of a new pastry item. Serious enquiries only. No prior names containing the words 'lake,' 'hum,' or 'return' will be considered. Doreen thanks everyone in advance.",
+    "FOUND — One sealed envelope, addressee 'Mr. R. Oduya,' held at the Gazette office, 4 Mill Road. If you know this person or are this person, please enquire within. Office hours: weekdays, 9 to 4."
+  ],
+  "record": [
+    "Frost advisory lifted, 9:04 a.m. Waterline at normal autumn mark per G. Pith, red notebook, entry dated this morning.",
+    "Geese present on commons, count approx. 18. Traffic cone relocated. No citations issued."
+  ],
+  "letters": [
+    {
+      "from": "Agnes Crewe, Pell Road Cottage",
+      "body": "Editor — The frost was on time. The geese are back. These are the correct things for this Monday. A season does not end; it steps back and lets the next one through the door. Mind the door. — A.C."
+    },
+    {
+      "from": "Russ Dunmore, Town Constable",
+      "body": "To the Editor — I want it on record that the geese were here first, which is the actual finding of this morning's incident, and that my conduct throughout was professional and appropriate to the situation. I also want it on record that I am aware the scarf is still there. I am aware. That is all. — R. Dunmore, Constable"
+    }
+  ],
+  "editorNote": "The Gazette resumes its ordinary schedule this Monday after a fortnight's unusual circumstances. Regular columns return: the weather, the record, the lost-and-found. We note, for the record, that the lost-and-found box has acquired one item we cannot account for. We are looking into it in the methodical way this paper looks into things. —W.A."
+}

@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Late autumn",
-  "dayNumber": 14,
-  "weather": "Soft and mild, the kind of autumn morning that arrives like an apology for the week before it. A low mist on the water by seven, lifted by nine. The light came in at an angle that made the whole shore look like a memory of itself.",
+  "dayNumber": 15,
+  "weather": "Clear and cold, the first real cold of the season. Frost on the dock planking by six, gone by nine. The sky the particular blue that arrives only after the last warmth has been spent, honest and unsentimental.",
   "undercurrent": {
-    "level": 12,
-    "stage": 1,
-    "phenomenon": "the lake",
-    "note": "The counting is done. The waterline is returning. The hum persists but has become ambient—part of the town's texture now, like the mill wheel or the wind off the ridge. The returned are settled. Agnes is satisfied. The town has accommodated. What remains is not dread but the faint, permanent knowledge that the lake is a presence with preferences, and that Greywater Falls has, for now, met them. The corkboard at the Gazette is still up. By next week it won't be. The scarf is still in the lost-and-found. Season 1 closes quietly, warmly, with the door left slightly ajar—not for the lake, which has what it came for, but for whatever is next."
+    "level": 8,
+    "stage": 0,
+    "phenomenon": "the lost-and-found",
+    "note": "The lake phenomenon has receded into ambient texture. The new strangeness has arrived without announcement: a sealed letter in the Gazette's lost-and-found, addressed to someone who does not yet live here, bearing the Gazette's own address as the return. Wren has noticed it and set it aside. Nobody else knows yet. The undercurrent is very low — this is a thread, not a pull. The town is genuinely calm and ordinary. The geese are back. The frost was on time. The door is open just a crack, and something has slipped a letter through it."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -19,10 +19,10 @@
     "voice": "Dry, precise, allergic to drama, which is unfortunate given recent events. Writes like a person holding a clipboard while standing in rising water. Lets one true thing slip per edition, usually in the last line."
   },
   "season_arc": {
-    "number": 1,
-    "premise": "The lake wakes, goes silent, and begins to count the town.",
-    "day_in_season": 14,
-    "target_length": 14,
-    "next_premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls."
+    "number": 2,
+    "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
+    "day_in_season": 1,
+    "target_length": 31,
+    "next_premise": ""
   }
 }
