@@ -1,0 +1,50 @@
+{
+  "day": 16,
+  "dateline": "Tuesday, October the 21st",
+  "weather": "Overcast and still, the kind of grey that isn't threatening so much as patient. Temperature hovering just above freezing since dawn. No wind to speak of. The lake perfectly flat, the colour of old pewter.",
+  "stage": 0,
+  "lead": {
+    "headline": "Tuesday Arrives on Schedule; Town Has No Objections",
+    "byline": "By Wren Aldercott",
+    "body": "The library reopened this morning after its annual October cleaning, which is the event that officially signals the end of the season's outdoor phase and the beginning of what Greywater Falls calls, without irony, reading weather. Philippa Crane, who has been the library's sole volunteer cataloguer for the past eleven years, reports that the shelves are reorganised, the periodical binders are updated through September, and the reading chairs by the east window have been reupholstered in a green that she describes as 'sensible.' She also reports that a small stack of books was left in the overnight return slot over the weekend by a patron she does not recognise, which is not unusual, except that none of them are in the library's catalogue.\n\nThe books — three slim volumes, cloth-bound, no publisher's mark — were shelved provisionally in the new-acquisitions area while Philippa looks into their provenance. She has not opened them yet, she says, because she likes to process the paperwork first. This editor considers this an admirable practice and a reasonable deferral. The books will keep.\n\nElsewhere: Hank Mossley has ordered a new supply of weatherstripping for the hardware, which he offers every autumn and which the town accepts gratefully and never quite installs until spring. Gerald Pith was at the Kettle before eight this morning — back to his regular hour, Marigold noted, with something close to relief — and he had, by his own account, no particular reason to be early except that the morning felt organised. He did not have the red notebook. He did have a small blue one, still blank, which he set on the counter and did not open.\n\nThe letter in the Gazette's lost-and-found has not been claimed. It was there this morning when this editor arrived at the office, exactly where she left it, addressed to its unrecognised recipient in a hand that is neither hurried nor decorative but simply legible, the way a hand gets when it has written the same address many times before. Greywater Falls does not, at present, contain a Mr. R. Oduya. It is a fact this editor is simply holding, the way you hold a stone you picked up on a walk, not knowing yet whether you will carry it home."
+  },
+  "briefs": [
+    {
+      "headline": "Library Reopens; Three Uncatalogued Volumes Added to New-Acquisitions Shelf",
+      "body": "Philippa Crane confirmed the library is open for regular autumn hours: Tuesday through Saturday, nine to four. The three unrecognised volumes — cloth-bound, no markings on the spines — have been placed on the new-acquisitions shelf pending provenance research. Patrons are asked not to remove them until cataloguing is complete. Philippa estimates this will take 'a few days, assuming the paperwork cooperates.'"
+    },
+    {
+      "headline": "Gerald Pith Observed with Blue Notebook; Contents Unknown",
+      "body": "Gerald Pith arrived at The Kettle at eight o'clock this morning — his customary hour, restored — carrying a small blue-covered notebook which he placed on the counter and did not open. When asked by this reporter whether the notebook had a subject yet, he said 'not exactly.' When pressed, he said 'not yet.' Marigold Vance refilled his coffee without being asked, which is, at this point, simply what happens."
+    },
+    {
+      "headline": "Weatherstripping Season Declared Open by Mossley Hardware",
+      "body": "Hank Mossley confirms a full stock of weatherstripping, door sweeps, and window rope-caulk is now available at Mossley Hardware, 12 Carrow Road. 'Every year,' said Mossley. 'Every year people say they'll do it before the cold.' He declined to speculate on uptake. Stock is ample."
+    },
+    {
+      "headline": "Lost-and-Found: Sealed Letter, Still Unclaimed",
+      "body": "The Gazette's lost-and-found continues to hold one sealed envelope, addressed to Mr. R. Oduya, return address listed as The Greywater Gazette, 4 Mill Road. No individual by that name is known to this office or, as best as can be determined, to the town of Greywater Falls. The letter will be held at the Gazette until claimed. Items in the lost-and-found are held for thirty days. The clock began, as near as this editor can determine, sometime over the weekend."
+    }
+  ],
+  "classifieds": [
+    "FOUND — Three cloth-bound books, no title on spine, left in the overnight return slot at the Greywater Falls Public Library. Contact Philippa Crane at the library to identify. Please bring a description of the contents, as the books have not yet been opened.",
+    "FOR SALE — Weatherstripping, door sweeps, rope-caulk for windows. Mossley Hardware, 12 Carrow Road. Do it before the frost gets proper about it.",
+    "WANTED — A name for the cardamom pastry at Halloway's Bakery. Entries accepted at the bakery counter through Saturday. 'The Thing' remains on the board. Doreen Halloway asks that you do better, or at least differently.",
+    "NOTICE — The Greywater Falls Public Library reading room is now open for the autumn season. East-window chairs freshly upholstered. Quiet is requested and, in the current weather, practically guaranteed."
+  ],
+  "record": [
+    "Library reopened for autumn hours, Tuesday through Saturday, nine to four.",
+    "Lost-and-found: one sealed envelope, held at the Gazette, addressed to Mr. R. Oduya; unclaimed as of press time."
+  ],
+  "letters": [
+    {
+      "from": "Gerald Pith, Pell Road",
+      "body": "Dear Wren — I am writing to say that I bought a blue notebook this morning at the stationer's, which is the only stationer's, so Hank will know which one. I have not written anything in it yet. I want to be careful about the first entry. With a red one you can just start anywhere because red notebooks are for urgency. Blue requires a bit of thought about the subject. I am not in a hurry. I notice that I am not in a hurry, and I want to say that plainly, because it is not a condition I am accustomed to and I am finding it — on the whole — very fine. Yours, Gerald."
+    },
+    {
+      "from": "Russ Dunmore, Town Constable",
+      "body": "Dear Editor — A clarifying note for the record: the territorial situation on the commons has stabilised. The geese have claimed the north half; I have retained jurisdiction over the post-box and the curb. This is an arrangement I am prepared to honour through migration season. I would also like to state, for the record, that I am aware the scarf is still at your office. I know exactly where it is. I am letting it be there on purpose, which is different from forgetting about it. Yours, Constable R. Dunmore, Badge 1."
+    }
+  ],
+  "editorNote": "The lost-and-found box is, as a rule, a civic courtesy — a shelf for things the town did not mean to put down. It has never, to this editor's knowledge, received mail. It is receiving mail now. This editor is noting that, and moving on, and noting that she is moving on."
+}

@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Late autumn",
-  "dayNumber": 15,
-  "weather": "Clear and cold, the first real cold of the season. Frost on the dock planking by six, gone by nine. The sky the particular blue that arrives only after the last warmth has been spent, honest and unsentimental.",
+  "dayNumber": 16,
+  "weather": "Overcast and still, the kind of grey that isn't threatening so much as patient. Temperature hovering just above freezing since dawn. No wind to speak of. The lake perfectly flat, the colour of old pewter.",
   "undercurrent": {
-    "level": 8,
+    "level": 12,
     "stage": 0,
     "phenomenon": "the lost-and-found",
-    "note": "The lake phenomenon has receded into ambient texture. The new strangeness has arrived without announcement: a sealed letter in the Gazette's lost-and-found, addressed to someone who does not yet live here, bearing the Gazette's own address as the return. Wren has noticed it and set it aside. Nobody else knows yet. The undercurrent is very low — this is a thread, not a pull. The town is genuinely calm and ordinary. The geese are back. The frost was on time. The door is open just a crack, and something has slipped a letter through it."
+    "note": "The letter addressed to Mr. R. Oduya remains in the lost-and-found, undisturbed and undiscussed beyond Wren's careful noting of it in the record. Three uncatalogued books have appeared in the library's overnight return slot — a second thread, deniable, easy to explain away. The undercurrent ticks upward only slightly: two strange arrivals in two days, both filed politely under 'pending.' The town does not know they are connected. It is possible they are not. It is also possible something is using Greywater Falls as a forwarding address for people who have not arrived yet."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 1,
+    "day_in_season": 2,
     "target_length": 31,
     "next_premise": ""
   }
