@@ -1,0 +1,50 @@
+{
+  "day": 17,
+  "dateline": "Wednesday, October the 22nd",
+  "weather": "A pale, thin morning, the sky the colour of typing paper held up to a window. Temperature just above freezing. The frost on the commons grass melted by nine. No wind. The lake catching the flat light and giving nothing back.",
+  "stage": 0,
+  "lead": {
+    "headline": "A Wednesday in the Middle of Things",
+    "byline": "By Wren Aldercott",
+    "body": "The geese held the north commons again this morning, as they have held it every morning this week, with the patient territorial conviction of an institution that has never lost a referendum. Russ Dunmore stopped at the edge of the grass at approximately eight o'clock, reviewed the situation, and continued to the post office without filing anything. Progress, this editor supposes, comes in its own shapes.\n\nDoreen Halloway reports a strong Wednesday at the bakery — crumb cake, the cardamom thing (three naming entries received; contest closes Friday), and a new attempt at a brown butter roll that she describes as 'ongoing' and that this editor, who had half of one at quarter past seven, would describe as 'finished, actually, just let it be finished.' The long table had its nine chairs. Gerald Pith was not among the nine this morning, having gone directly to the Kettle, where Marigold Vance reports he arrived at his correct and proper hour and opened the blue notebook for the first time. He wrote one line and closed it. He did not show the line to anyone. He said it was a start.\n\nThe three uncatalogued volumes at the library remain in the new-acquisitions area while Philippa Crane completes her provenance inquiry. She reports the inquiry is going slowly, which she attributes to the books being 'not from anywhere I can readily place,' and which she has noted in the acquisitions log in the same tone one notes that a plant has grown faster than expected: neither alarmed nor unimpressed, simply attentive. The books have not been checked out. Nobody has yet asked to.\n\nThe lost-and-found this morning contained a second envelope. This editor will describe it plainly: it is sealed, same weight and quality of paper as the first, addressed in the same legible hand to a 'Ms. P. Crane.' The return address is, again, The Greywater Gazette, 4 Mill Road. Philippa Crane is the library's volunteer cataloguer. She is already in Greywater Falls. This editor does not know what to make of the distinction — one letter addressed to a stranger, one to a resident — and will not speculate in print. Both letters are in the lost-and-found. Both are noted in the record. The office is very quiet this morning, the way an office gets when a thought is too large to type and too persistent to leave alone."
+  },
+  "briefs": [
+    {
+      "headline": "Geese Negotiations Enter Fourth Day; Constable Adopts Policy of Strategic Non-Engagement",
+      "body": "Russ Dunmore confirmed Wednesday that the north commons remain under the geese's informal jurisdiction and that his office considers the matter 'in a stable holding pattern.' The south half, including the post-box and the curb, remains under constabulary authority. A painted line has not been proposed. Dunmore notes one was not necessary and also that he does not own any paint."
+    },
+    {
+      "headline": "Brown Butter Roll Debuts at Halloway's; Fate Unclear",
+      "body": "Doreen Halloway introduced a brown butter roll to the morning case on a trial basis. By ten o'clock she had sold four and eaten one herself, standing at the counter, without a plate. She called the experiment 'still in progress.' This editor calls it a fait accompli and will say no more on the subject."
+    },
+    {
+      "headline": "Gerald Pith Opens Blue Notebook; Writes One Line",
+      "body": "Gerald Pith, retired postman and keeper of the waterline record, was observed at the Kettle diner on Wednesday morning opening his new blue notebook and writing a single entry. He closed it after approximately forty seconds. He told Marigold Vance, who had not asked, that it was 'something to go on.' She refilled his coffee. The contents of the entry remain unknown and, one suspects, will remain so until Gerald decides otherwise, which is his right."
+    },
+    {
+      "headline": "Halloway's Naming Contest Closes Friday; Three Entries Received",
+      "body": "The contest to name the cardamom pastry that has been dominating the front case at Halloway's Bakery closes this Friday at five. Three entries are currently held by this editor and Doreen Halloway respectively. Halloway says she will announce the winner Saturday morning. She has not ruled out 'The Thing.' She has not ruled out anything. That is, sources say, the whole problem."
+    }
+  ],
+  "classifieds": [
+    "LOST-AND-FOUND at The Greywater Gazette (4 Mill Road): One sealed envelope addressed to Mr. R. Oduya. One sealed envelope addressed to Ms. P. Crane, care of the Greywater Falls Public Library. Return address on both: this office. Both letters await their rightful circumstances. Neither has been opened.",
+    "STILL AVAILABLE: Russ Dunmore's wool scarf, charcoal grey, last seen at the Gazette office. Constable Dunmore has indicated the scarf is, at this time, deliberately at the Gazette. The Gazette confirms it is still here and in good condition.",
+    "WEATHERSTRIPPING — Mossley Hardware has the full autumn stock. Hank Mossley notes he has said this every October for twenty-two years and that you know where to find him.",
+    "NAMING CONTEST: Submit your name for Halloway's cardamom pastry by Friday at 5 p.m. to the bakery counter or the Gazette letterbox. One entry per resident. The Thing is still in the running."
+  ],
+  "record": [
+    "Waterline, Wednesday a.m.: Gerald Pith reports steady; no change from Tuesday. Red notebook remains closed.",
+    "Lost-and-found log, Wednesday a.m.: Two sealed envelopes present; neither claimed nor opened. Second envelope noted for first time: addressee P. Crane, Greywater Falls Public Library."
+  ],
+  "letters": [
+    {
+      "from": "Gerald Pith, Carrow Road",
+      "body": "Dear Wren — I want to say, for the record, that I wrote in the blue notebook this morning. One sentence. I'm not ready to say what it is, but I'll say that it felt like the right sentence, the way a first plank feels right when you're laying a dock — solid underfoot, a little uncertain of what it's attached to yet. The red notebook is on the kitchen table still. I think it's happy where it is. — G.P."
+    },
+    {
+      "from": "Philippa Crane, Greywater Falls Public Library",
+      "body": "Dear Editor — A note regarding the three uncatalogued volumes in the new-acquisitions area: I have now had a chance to examine them more closely, and I can report that they are in excellent condition, clean and carefully bound, with no bookplates, no marginalia, and no library stamps of any kind. One of them has a reader's mark — a small pencilled star — beside a passage on page forty-one that I will not reproduce here, as I have not yet determined whether the volume is part of our collection or not, and it seems improper to quote from a book one has not yet officially received. I will say only that the passage is about arrivals. — P. Crane, Cataloguer"
+    }
+  ],
+  "editorNote": "The naming contest for Doreen's cardamom pastry closes Friday. Submissions to the bakery or the Gazette letterbox. This editor has received three entries and will not be sharing them before the deadline, except to note that one of them is, technically, a question rather than a name, and this editor found it more accurate than any of the others."
+}

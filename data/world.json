@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Late autumn",
-  "dayNumber": 16,
-  "weather": "Overcast and still, the kind of grey that isn't threatening so much as patient. Temperature hovering just above freezing since dawn. No wind to speak of. The lake perfectly flat, the colour of old pewter.",
+  "dayNumber": 17,
+  "weather": "A pale, thin morning, the sky the colour of typing paper held up to a window. Temperature just above freezing. The frost on the commons grass melted by nine. No wind. The lake catching the flat light and giving nothing back.",
   "undercurrent": {
-    "level": 12,
+    "level": 17,
     "stage": 0,
     "phenomenon": "the lost-and-found",
-    "note": "The letter addressed to Mr. R. Oduya remains in the lost-and-found, undisturbed and undiscussed beyond Wren's careful noting of it in the record. Three uncatalogued books have appeared in the library's overnight return slot — a second thread, deniable, easy to explain away. The undercurrent ticks upward only slightly: two strange arrivals in two days, both filed politely under 'pending.' The town does not know they are connected. It is possible they are not. It is also possible something is using Greywater Falls as a forwarding address for people who have not arrived yet."
+    "note": "A second letter has appeared in the Gazette's lost-and-found — same hand, same return address, but this time addressed to Philippa Crane, who is already present in Greywater Falls. The distinction is quiet and important: the first letter went to a stranger; this one went to a resident. The system, whatever it is, can see inside the town now, or could always see inside it. Philippa's letter to the Gazette mentions the star-marked passage about arrivals without knowing about the envelopes. She does not yet know there is a letter for her. Gerald's blue notebook has its first line. The threads are separate and deniable. The town is not watching. But the undercurrent ticks upward, because something is beginning to address people by name."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 2,
+    "day_in_season": 3,
     "target_length": 31,
     "next_premise": ""
   }
