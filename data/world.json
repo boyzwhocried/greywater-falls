@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Late autumn",
-  "dayNumber": 17,
-  "weather": "A pale, thin morning, the sky the colour of typing paper held up to a window. Temperature just above freezing. The frost on the commons grass melted by nine. No wind. The lake catching the flat light and giving nothing back.",
+  "dayNumber": 18,
+  "weather": "Overcast and still, the clouds the particular grey of old pewter, the kind that holds the light without releasing it. Temperature in the mid-thirties. No wind to speak of. The lake perfectly flat, as though something had pressed it smooth from below.",
   "undercurrent": {
-    "level": 17,
+    "level": 20,
     "stage": 0,
     "phenomenon": "the lost-and-found",
-    "note": "A second letter has appeared in the Gazette's lost-and-found — same hand, same return address, but this time addressed to Philippa Crane, who is already present in Greywater Falls. The distinction is quiet and important: the first letter went to a stranger; this one went to a resident. The system, whatever it is, can see inside the town now, or could always see inside it. Philippa's letter to the Gazette mentions the star-marked passage about arrivals without knowing about the envelopes. She does not yet know there is a letter for her. Gerald's blue notebook has its first line. The threads are separate and deniable. The town is not watching. But the undercurrent ticks upward, because something is beginning to address people by name."
+    "note": "Philippa Crane has now mentioned — in her own letter, in her own precise voice — that all three uncatalogued volumes share not just a typeface style but the same physical set of type: the same worn lowercase 'e.' She does not know there is a letter addressed to her in the lost-and-found. She does not connect these things. The threads are still separate and deniable, but they are multiplying quietly. Gerald's notebook has two lines now. Marigold is counting arrivals and departures without writing the number down. The naming contest entry signed only with a circle and the word 'yes' is unaccounted for — no resident has claimed it. The undercurrent ticks up one notch not because anything has crested but because the deniable things are beginning to accumulate into a shape."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 3,
+    "day_in_season": 4,
     "target_length": 31,
     "next_premise": ""
   }
