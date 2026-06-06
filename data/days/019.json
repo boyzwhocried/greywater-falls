@@ -1,0 +1,50 @@
+{
+  "day": 19,
+  "dateline": "Friday, October the 24th",
+  "weather": "Cold and clear, the first real cold of the season — the kind that arrives without ceremony and simply stays. Frost on the mill-road grass. The lake's surface catching the morning light the way glass does: exactly, without interpretation.",
+  "stage": 0,
+  "lead": {
+    "headline": "The Cardamom Thing Has a Name; Greywater Falls Will Learn It Monday",
+    "byline": "By Wren Aldercott",
+    "body": "Doreen Halloway closed the naming contest for her still-unnamed cardamom pastry at five o'clock yesterday afternoon, retrieved the index cards from the mail slot, and has declined to announce the winner until Monday morning, when she will do so from behind the bakery counter with, she says, 'the appropriate level of ceremony.' This editor respects the instinct. A thing that has been building for a week deserves its moment, and Monday is a better stage than Friday, which is always in a hurry.\n\nNine entries were received in total — a number Halloway finds satisfying and this editor finds, in the context of a town of nine, arithmetically interesting. She has thanked all contributors, including the anonymous ones, and says the final selection was not as difficult as she expected and also was. The brown butter roll, meanwhile, has been confirmed as a permanent addition to the Friday board, which this editor considers the week's most actionable piece of news.\n\nElsewhere: Toby Fern submitted a one-page piece to this office proposing that the school paper expand its coverage to include 'environmental conditions at the lake,' a phrase he deployed with the careful neutrality of someone who has been coached to lead with the methodology rather than the finding. This editor told him the Gazette would welcome the data if he wished to share it. He said he would think about it. He did not look like a boy who needed to think about it.\n\nThe frost this morning was the first of the season. Hank Mossley was outside Mossley Hardware at half-past six knocking it off the front step with a broom, which is the town's oldest opening ceremony and the one that requires no announcement. The geese, for their part, were already on the commons, and appeared neither surprised nor inconvenienced by the temperature, which this editor notes purely as a matter of record."
+  },
+  "briefs": [
+    {
+      "headline": "Brown Butter Roll Confirmed as Permanent Friday Item at Halloway's",
+      "body": "Doreen Halloway announced Friday that the brown butter roll, after two weeks of 'ongoing' status, has been formally added to the regular Friday board. 'It was finished,' she said. 'I just had to agree with it.' The cardamom thing's name remains under embargo until Monday."
+    },
+    {
+      "headline": "First Frost of Season; Mossley Hardware Step Cleared by 6:40 A.M.",
+      "body": "Hank Mossley was observed clearing frost from the front step of Mossley Hardware at approximately six-thirty this morning, which residents may take as the town's unofficial first-frost declaration. Mossley noted that weatherstripping inquiries had increased accordingly. He added nothing further."
+    },
+    {
+      "headline": "Toby Fern Proposes Lake Coverage for School Paper; Gazette Extends Standing Welcome",
+      "body": "Toby Fern, sixteen, stopped by the Gazette office Friday morning to propose a column on 'environmental conditions at the lake' for Greywater Falls School's paper. This editor encouraged the effort and suggested he share any data he wished to make part of the record. He said he would consider it. He had, by his expression, already considered it."
+    },
+    {
+      "headline": "Lost-and-Found: Contents Unchanged",
+      "body": "The Gazette's lost-and-found currently holds: one wool scarf (rust-coloured, initialled R.D.), and two sealed envelopes addressed to Mr. R. Oduya and Ms. P. Crane respectively, return address The Greywater Gazette. All items remain present and unclaimed. All items are noted here as a matter of record. This is the third Friday they have been noted."
+    }
+  ],
+  "classifieds": [
+    "LOST-AND-FOUND — Gazette office, 4 Mill Road: one wool scarf, rust-coloured. Two sealed envelopes, as previously noted. Inquire within. Hours 8–5 weekdays.",
+    "FOR SALE — One (1) box of assorted weatherstripping, unopened, various widths. Purchased last autumn with good intentions. Still good intentions; slightly less time. Mossley Hardware can advise on fit. Contact H. Mossley.",
+    "WANTED — Name for a town pastry. Contest now closed. Winner announced Monday. If you did not enter, Doreen says there is always next time. She is already thinking about the brown butter roll.",
+    "NOTICE — First frost of season recorded Friday, October the 24th. Pipes: check them. Geese: they are fine. — R. Dunmore, Town Constable"
+  ],
+  "record": [
+    "Frost logged: Friday, October the 24th, first of the season. Temperature at dawn: 29°F. Mill-road grass, bakery awning, and Gazette front step all affected. No pipes reported.",
+    "Lost-and-found inventory, Gazette office: one wool scarf (R.D.); two sealed envelopes (addressees: R. Oduya; P. Crane). Return address on both: The Greywater Gazette, 4 Mill Road. Received, respectively, Day 15 and Day 17. No claimants as of press time."
+  ],
+  "letters": [
+    {
+      "from": "Doreen Halloway, Halloway's Bakery",
+      "body": "To the editor — I want to say, now that the contest is finished, that I read every entry. I mean that. Even the ones that were clearly jokes, which were also clearly not entirely jokes. The circle and the word 'yes' I've been thinking about since Thursday morning and I expect I'll keep thinking about it. Some entries ask the question better than they answer it. That is not nothing. Winner announced Monday. Come hungry. — D. Halloway"
+    },
+    {
+      "from": "Agnes Crewe, Lakeshore Cottage",
+      "body": "Cold this morning. The lake does not mind. It has been colder. — A. Crewe"
+    }
+  ],
+  "editorNote": "The naming contest is closed. The name will be announced Monday, which gives this editor the weekend to confirm that 'yes' is, in fact, an answer to a question and not a question of its own."
+}
