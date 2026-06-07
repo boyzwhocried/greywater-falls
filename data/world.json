@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Late autumn",
-  "dayNumber": 19,
-  "weather": "Cold and clear, the first real cold of the season — frost on the mill-road grass, the lake's surface catching morning light exactly, without interpretation. Temperature at dawn: 29°F.",
+  "dayNumber": 20,
+  "weather": "Overcast and still, the frost holding in the shadows of the mill-road elms where the sun has not reached. Temperature at dawn: 31°F. The lake this morning is the colour of old pewter — not threatening, only certain.",
   "undercurrent": {
-    "level": 22,
-    "stage": 0,
+    "level": 34,
+    "stage": 2,
     "phenomenon": "the lost-and-found",
-    "note": "The two letters have now been logged in the record for the third consecutive publication. Nobody has claimed them. Nobody has opened them. Philippa Crane has not yet been told there is a letter addressed to her. Toby Fern is sitting on dusk footage he has not shared. The circle-and-yes entry is in the 'unclear' folder alongside the letters. None of these threads are connected in anyone's mind yet — they are simply accumulating, the way frost does, without drama, one degree at a time. The undercurrent rises by two, not because anything has happened, but because the deniable things are beginning to develop a patience about them."
+    "note": "The third letter has forced the matter from accumulation into pattern. Philippa Crane has been told — the second letter's name now belongs to a person who knows she has a letter. The name 'T. Beaumont' is now in the public record, meaning whoever or whatever is sending these letters has named someone the town will now watch for. Toby's Lake Watch column is live: the strangeness is acquiring infrastructure. The undercurrent ticks upward not from drama but from the town beginning, collectively and quietly, to pay a different kind of attention. Agnes's door-not-window letter is the clearest statement of the season's logic anyone has printed. Nobody will act on it today. But it is in the record now."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 5,
+    "day_in_season": 6,
     "target_length": 31,
     "next_premise": ""
   }

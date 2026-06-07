@@ -1,0 +1,50 @@
+{
+  "day": 20,
+  "dateline": "Saturday, October the 25th",
+  "weather": "Overcast and still, the frost holding in the shadows of the mill-road elms where the sun has not reached. Temperature at dawn: 31°F. The lake this morning is the colour of old pewter — not threatening, only certain.",
+  "stage": 2,
+  "lead": {
+    "headline": "A Third Letter Has Arrived; The First Two Are Still Here",
+    "byline": "By Wren Aldercott",
+    "body": "This editor will report it plainly, the way she was trained to report things: there was a third sealed envelope in the Gazette's lost-and-found box this morning. It was not there yesterday at five o'clock, when this editor locked up. The office was locked through the night. The mail slot accepts standard envelopes, and this one is standard in every way — cream-coloured, medium-weight, sealed with a modest tuck rather than a gum-strip, addressed in the same deliberate, unhurried hand as the first two. The name on this one is 'Mr. T. Beaumont.' The return address is, as before, The Greywater Gazette, 4 Mill Road. There is no such person in Greywater Falls at present. This editor has checked the census. She has also checked the county register of recent arrivals, which is Russ Dunmore's jurisdiction, and Russ confirms the register shows no new resident by that name.\n\nFor those keeping the count at home: the first letter, addressed to a 'Mr. R. Oduya,' arrived on Day 15. The second, addressed to 'Ms. P. Crane,' arrived on Day 17 — a name that belongs to a resident who is already here, which this editor noted at the time and has not stopped noting since. The third, as of this morning, addressed to 'Mr. T. Beaumont,' arrived between last evening and seven o'clock today. The three letters sit together in the lost-and-found. They are a set now, which is a different thing than three coincidences in a row, though this editor will allow that the distinction is in the eye of the reader.\n\nPhilippa Crane, this town's library volunteer and the holder of the second letter's name, was informed this morning. She received the news the way she receives most things: with a cataloguer's composure and a question about whether there was a postmark. There is not. She has not asked to open the letter. She said she would like to, and that she also thought it might be better to wait until the sender made their purpose clear. This editor finds this a reasonable position and intends to hold her own version of it for as long as professionally possible.\n\nThe Gazette's lost-and-found column has, since its founding in 1948, reunited thirty-one umbrellas, fourteen scarves, one taxidermied rooster, and a great many mittens with their owners. It has not previously served as a delivery address for correspondence addressed to people who have not yet arrived. This editor notes this not in alarm but in the interest of the full record, which is the only interest she has ever reliably served."
+  },
+  "briefs": [
+    {
+      "headline": "Doreen Halloway Announces Name Monday; Bakery 'Ready'",
+      "body": "Halloway's Bakery will open Monday with, per proprietor Doreen Halloway, 'appropriate ceremony and, weather permitting, the good china cups.' The name of the cardamom pastry will be announced from behind the counter at opening time, eight o'clock. Halloway says she slept on the decision and woke up comfortable with it, which she describes as 'the only test that matters.' The brown butter roll will also be on the Saturday board today, for those who need something to do while they wait."
+    },
+    {
+      "headline": "Gerald Pith Reports Waterline Unchanged; Notes This Differently Than Before",
+      "body": "Gerald Pith measured the waterline at the dock at seven-fifteen this morning and reports it is unchanged from yesterday — holding at the same mark it has held for three days. He told this to Marigold Vance at the Kettle, and she reports that he said it the way you say a thing you are still deciding how to feel about. He opened the blue notebook. He wrote a third line. He said the waterline holding was, in its way, an event."
+    },
+    {
+      "headline": "LAKE WATCH, Day 1 — Level: 22; Temp: 38°F; Clarity: Poor at Centre, Clear at Shore; Sign Count: 7; Returned: Mr. Whiskers (cat, Gerald Pith)",
+      "body": "The Gazette begins a standing Lake Watch column today in partnership with Toby Fern, whose proposal this office accepted Friday. Water level is approximately four inches above the seasonal mean for late October by Gerald Pith's notebook. Surface temperature at the shore is 38°F; the centre cannot be read from the bank. Visibility at the shore is clear; the centre is opaque in the early light. The welcome sign on Route 9 reads 7. The only confirmed returned resident is Mr. Whiskers, Gerald Pith's cat, present and well and, per his owner, slightly cold and entirely fine. Toby Fern, correspondent."
+    },
+    {
+      "headline": "Agnes Crewe Notes the Frost Stayed; Considers This Sufficient",
+      "body": "Agnes Crewe, 91, observed this morning from her cottage step that the frost had not retreated from the mill-road elms by eight o'clock, which she describes as 'the frost staying on purpose.' She did not elaborate when asked, but told this editor that a frost with patience is a different sort of frost. The temperature at eight o'clock was 33°F. The elms concurred."
+    }
+  ],
+  "classifieds": [
+    "LOST-AND-FOUND — Three sealed envelopes currently held at the Gazette, 4 Mill Road: addressed to Mr. R. Oduya, Ms. P. Crane, and Mr. T. Beaumont, respectively. Return address on each is this office. Recipients may collect in person. Hours: weekdays, 8–5; Saturday, 8–noon.",
+    "LOST — One grey wool scarf, believed to be at the Gazette lost-and-found. Owner is aware of its location and has made a considered decision about it. — R. Dunmore, Constable.",
+    "WANTED — Anyone with knowledge of a 'T. Beaumont' recently arrived in or en route to Greywater Falls is asked to contact the Gazette at their convenience. No urgency intended. Some urgency felt.",
+    "FOR SALE — Weatherstripping, draught excluders, storm-window foam tape. Good stock. Come before noon. — Mossley Hardware, 12 Mill Road."
+  ],
+  "record": [
+    "Lost-and-found, Gazette: three sealed envelopes (Mr. R. Oduya; Ms. P. Crane; Mr. T. Beaumont). Unclaimed. Third envelope arrived overnight, date unknown.",
+    "Lake Watch inaugurated, Day 1. Level above seasonal mean. Mr. Whiskers confirmed returned. Sign on Route 9: 7."
+  ],
+  "letters": [
+    {
+      "from": "Philippa Crane, Greywater Falls Public Library",
+      "body": "I understand some readers may wonder why I have not opened the letter addressed to me. I want to say, first, that I appreciate this editor's restraint in not pressing the matter. My position is the librarian's position: an item does not tell you what it is until you have given it the proper context. I am still gathering context. I have also written to my colleague in the city, who I hope will have news about the uncatalogued volumes next week. It occurs to me that I am waiting on two things now that arrived without clear provenance. I find I am more comfortable with this than I expected to be, which is either a good sign or something I will think about later."
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "Three letters is a pattern. A pattern is a door, not a window. You do not look through a door."
+    }
+  ],
+  "editorNote": "This column has always maintained that the Gazette's lost-and-found exists for the town's convenience, and this editor stands by that position. She is, however, beginning to wonder whose town."
+}
