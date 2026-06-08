@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Late autumn",
-  "dayNumber": 20,
-  "weather": "Overcast and still, the frost holding in the shadows of the mill-road elms where the sun has not reached. Temperature at dawn: 31°F. The lake this morning is the colour of old pewter — not threatening, only certain.",
+  "dayNumber": 21,
+  "weather": "Clear and cold, the sky a particular shade of blue that belongs to late autumn alone — bright without warmth, precise without kindness. Temperature at dawn: 28°F. The lake is flat as pressed tin; shore ice has appeared overnight, a thin clear hem four inches wide along the south bank.",
   "undercurrent": {
-    "level": 34,
+    "level": 41,
     "stage": 2,
     "phenomenon": "the lost-and-found",
-    "note": "The third letter has forced the matter from accumulation into pattern. Philippa Crane has been told — the second letter's name now belongs to a person who knows she has a letter. The name 'T. Beaumont' is now in the public record, meaning whoever or whatever is sending these letters has named someone the town will now watch for. Toby's Lake Watch column is live: the strangeness is acquiring infrastructure. The undercurrent ticks upward not from drama but from the town beginning, collectively and quietly, to pay a different kind of attention. Agnes's door-not-window letter is the clearest statement of the season's logic anyone has printed. Nobody will act on it today. But it is in the record now."
+    "note": "The naming of 'The Standing' is the day's soft center, but the anonymous entry — a circle and 'yes,' counted as a ninth entry from a town of nine — has introduced a new seam of unease into Doreen's certainty, one she has chosen not to pull on. The shore ice is a new physical marker of accumulation: the lake is rising, cold, clear. The ice's transparency is the day's strangest detail, rendered plainly by Gerald and confirmed by Agnes in two sentences. No new letter arrived, which is almost as significant as one would have been — the absence has weight now. The undercurrent rises not from drama but from the accumulation of small, precisely observed wrongnesses: clear ice, a risen waterline, a name whose source cannot be confirmed, four entries in a notebook that is not a public record. The town is paying a different kind of attention."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 6,
+    "day_in_season": 7,
     "target_length": 31,
     "next_premise": ""
   }
