@@ -1,0 +1,50 @@
+{
+  "day": 22,
+  "dateline": "Monday, October the 27th",
+  "weather": "Overcast and still, the clouds the colour of old pewter pressing down low without quite breaking. Temperature at dawn: 31°F. No wind. The lake is invisible from the road this morning — a white fog sits on the water in a single flat layer, ending at the shore as if it were a lid.",
+  "stage": 2,
+  "lead": {
+    "headline": "A Fourth Letter Has Arrived; It Is Addressed to Someone Already Here",
+    "byline": "By Wren Aldercott",
+    "body": "There was a fourth sealed envelope in the Gazette's lost-and-found box this morning. This editor will not pretend she did not check before she took off her coat. The envelope is cream-coloured, medium-weight, sealed with the same modest tuck as the previous three, addressed in the same deliberate and unhurried hand. The name on this one is 'Ms. A. Crewe.' The return address is, as before, The Greywater Gazette, 4 Mill Road. Agnes Crewe has lived in Greywater Falls since before most of the buildings on this road were standing. She is not a new arrival. She is the least new arrival this town possesses. This editor notes the distinction because it appears, at last, to be dissolving.\n\nFor those keeping the count at home: the first letter addressed to an existing resident — Philippa Crane — arrived on Day 17. That was, at the time, the detail this editor found most arresting. It has since been joined by a second. This editor walked to Agnes Crewe's cottage before nine o'clock with the envelope in a sealed plastic sleeve, which is either appropriate caution or the behaviour of a woman who has spent too long treating her lost-and-found as an evidence locker and cannot stop now. Agnes opened the door before the knock. She took the sleeve. She held it at arm's length, read the address through the plastic, and said: 'Mm.' Then she set it on the step beside the empty pie plate and asked if Wren would like tea. Wren would, and did.\n\nOver tea, Agnes said the following things: that the handwriting was nice; that cream envelopes are better than white ones because they are less in a hurry; and that she had been expecting something but had not expected to be surprised by what it was. She did not open the letter. She did not say she intended to. When this editor asked if she knew who was sending them, Agnes looked out at the fog on the lake and said, 'It knows the address.' This editor has written that sentence in both of her notebooks. She is not sure it is less alarming the second time.\n\nThe three previous letters remain in the lost-and-found. Agnes Crewe's is now on her step, inside a plastic sleeve, in the fog. The lake is not visible this morning. The fog is perfectly flat. This editor drove back along the shore road and could not see the water at all, only the fog's clean white edge where the land stops — the most orderly thing she has seen all month, and the one she trusts least."
+  },
+  "briefs": [
+    {
+      "headline": "Halloway's Bakery Opens Monday; The Standing Sells Out Again",
+      "body": "Halloway's Bakery opened its Monday board this morning with The Standing front and centre, as promised. The first tray sold out by eight forty-five. Mayor Halloway confirmed the brown butter roll is also available on Mondays as of today, by popular demand, which she attributes to the season. She set nine chairs. She did not count them aloud. This is new."
+    },
+    {
+      "headline": "LAKE WATCH, Day 3 — Level: 26; Temp: 35°F; Clarity: Unknown (Fog Obscures Shore); Sign Count: 7; Returned: Mr. Whiskers (cat, Gerald Pith)",
+      "body": "Correspondent Toby Fern reports that the lake is not visible from the Route 9 access point this morning due to fog. Level is estimated at 26 based on Gerald Pith's shore post, which Fern checked before school. Temperature reading taken at the dock edge at seven-twenty a.m. Clarity could not be assessed. The shore ice is present but obscured. The welcome sign on Route 9 continues to read 7. Mr. Whiskers was observed at the shore edge at six fifty-five before the fog fully settled. He appeared content. He appeared cold. He was facing the water."
+    },
+    {
+      "headline": "Gerald Pith Confirms: Waterline Up a Third Finger-Width Overnight",
+      "body": "Gerald Pith visited the marked post before the Kettle this morning and reports that the waterline has risen an additional finger-width since yesterday's measurement — three total since he began marking. He has entered a fifth line in the blue notebook. Marigold Vance reports he read this one back to himself, twice, and then sat quietly for some time before finishing his coffee. When asked what the line said, he replied that it said what needed saying, which Marigold found acceptable."
+    },
+    {
+      "headline": "Fog Advisory: Constable Dunmore Asks Drivers to Use Headlights on Shore Road",
+      "body": "Constable Russ Dunmore issued a brief advisory this morning asking residents to use headlights on the shore road until the fog clears. He notes that visibility is reduced to approximately forty feet at the Route 9 bend and that the geese, having already staked their commons territory, represent a secondary hazard. He asks drivers to proceed 'with the usual courtesy.' He has not filed any additional lake-related reports. He has also not retrieved his scarf."
+    }
+  ],
+  "classifieds": [
+    "LOST: One grey wool scarf. Last seen at the Gazette lost-and-found, where it is welcome to remain. No retrieval necessary. — R. Dunmore, Town Constable",
+    "FOR SALE: Storm lanterns, weatherstripping, and fog-appropriate high-visibility tape. Mossley Hardware, 12 Mill Road. Open 7 a.m. — H. Mossley",
+    "NOTICE: The Kettle is open through the fog. Coffee is hot. The specials board is up. Count not posted. — M. Vance",
+    "SEEKING: Information regarding a Mr. T. Beaumont and/or a Mr. R. Oduya, mentioned in recent correspondence received by this office. No description available. No urgency implied. — The Greywater Gazette Lost-and-Found"
+  ],
+  "record": [
+    "Lost-and-found, Gazette, 4 Mill Road: four (4) sealed cream envelopes, addressed respectively to Mr. R. Oduya, Ms. P. Crane, Mr. T. Beaumont, and Ms. A. Crewe. The fourth was found this morning. Ms. Crewe's has been delivered to the addressee on the addressee's step. The other three remain in the box. No postmark on any. No return address other than this office.",
+    "Shore post, south bank: waterline up three finger-widths from Day 18 baseline. Lake level estimated at 26 (Lake Watch). Shore ice present, obscured by fog as of 7 a.m. Blue notebook, fifth entry logged, Monday, October the 27th."
+  ],
+  "letters": [
+    {
+      "from": "Agnes Crewe, the cottage at the water's end",
+      "body": "The letter knows my name. That means it learned it somewhere. — A. Crewe"
+    },
+    {
+      "from": "Doreen Halloway, Halloway's Bakery",
+      "body": "Now, I am sure there is a reasonable explanation for the letters and I am not going to be the one to guess at it in print. What I will say is that I set nine chairs this morning and I counted them after, which is something I have never done before, and they were nine, and that is completely fine, and now I would like to talk about the brown butter roll, which is on the Monday board as of today and which is worth your time. Come in before ten. The fog is no excuse."
+    }
+  ],
+  "editorNote": "This editor notes, for the sake of the record, that the lost-and-found at The Greywater Gazette was established in 1948 to reunite residents with objects they had set down somewhere and could not find. It was not established as a postal address, a delivery service, or a correspondence bureau for entities whose name-recognition exceeds their census presence. This editor is updating the policy description as of today. The new policy is: we accept what arrives, we record it plainly, and we do not read things that are not ours to read. This has always been the policy. We are simply writing it down now."
+}

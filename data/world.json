@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Late autumn",
-  "dayNumber": 21,
-  "weather": "Clear and cold, the sky a particular shade of blue that belongs to late autumn alone — bright without warmth, precise without kindness. Temperature at dawn: 28°F. The lake is flat as pressed tin; shore ice has appeared overnight, a thin clear hem four inches wide along the south bank.",
+  "dayNumber": 22,
+  "weather": "Overcast and still, the clouds the colour of old pewter pressing down low without quite breaking. Temperature at dawn: 31°F. No wind. A white fog sits on the lake in a single flat layer, ending at the shore as if it were a lid.",
   "undercurrent": {
-    "level": 41,
+    "level": 52,
     "stage": 2,
     "phenomenon": "the lost-and-found",
-    "note": "The naming of 'The Standing' is the day's soft center, but the anonymous entry — a circle and 'yes,' counted as a ninth entry from a town of nine — has introduced a new seam of unease into Doreen's certainty, one she has chosen not to pull on. The shore ice is a new physical marker of accumulation: the lake is rising, cold, clear. The ice's transparency is the day's strangest detail, rendered plainly by Gerald and confirmed by Agnes in two sentences. No new letter arrived, which is almost as significant as one would have been — the absence has weight now. The undercurrent rises not from drama but from the accumulation of small, precisely observed wrongnesses: clear ice, a risen waterline, a name whose source cannot be confirmed, four entries in a notebook that is not a public record. The town is paying a different kind of attention."
+    "note": "The fourth letter's arrival closes the loop — it has now addressed an existing, named, un-arrivable resident in Agnes Crewe, the town's oldest and most knowing. Agnes's response ('It knows the address') is the season's most direct acknowledgment yet that the letters have intent, not accident. The fog is the day's primary physical correlative: the lake is hidden, not absent; the familiar is obscured rather than changed. Gerald's fifth notebook line, read back to himself twice, marks an escalation in his own awareness — he is no longer just recording, he is listening to what he has written. Doreen counting the chairs after is the quietly devastating beat she would never admit to. The undercurrent rises not from any single event but from the accumulation: four letters, three existing addresses and one new one, fog that cuts visibility to forty feet at the exact bend where you would see the water. The town is rationalising in real time. Wren's new lost-and-found policy, written at the bottom of the editor's note, is the clearest sign yet that the paper itself has accommodated the impossible into its administrative structure."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 7,
+    "day_in_season": 8,
     "target_length": 31,
     "next_premise": ""
   }
