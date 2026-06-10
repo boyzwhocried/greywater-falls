@@ -1,0 +1,50 @@
+{
+  "day": 23,
+  "dateline": "Tuesday, October the 28th",
+  "weather": "Fog lifted by ten o'clock, leaving the air thin and exact. Temperature at noon: 34°F. The lake was fully visible by eleven and appeared to be listening. A faint rim of new ice at the south end. No wind all day.",
+  "stage": 2,
+  "lead": {
+    "headline": "Agnes Crewe Has Opened the Letter; She Will Not Say What It Contains",
+    "byline": "By Wren Aldercott",
+    "body": "Agnes Crewe opened the fourth letter this morning. This editor learned of this not by calling on her — she had not intended to call on her again so soon — but because Agnes Crewe walked to the Gazette at half past nine, set the empty plastic sleeve on the counter, and said she had some business to attend to. The letter itself she kept. She folded it twice, tucked it into the left breast pocket of her wool coat, and when this editor asked what it said, she looked at the window for a moment and then said: 'What I expected. And one thing I didn't.' She did not elaborate. She picked up a biscuit from the tin on the counter — this editor had not put a tin of biscuits on the counter; the tin was not there before Agnes arrived — ate it standing up, and left.\n\nThe plastic sleeve is before this editor now. It is empty and dry and in every measurable way unremarkable. The letters R, E, T, U, R, N, E, D have been written on the outside in the same deliberate hand as the original address — not stamped, not pre-printed, but written, as if added after. This editor has examined it under the lamp. The ink is the same dark blue as the address. She does not know if this is significant. She has written it in both notebooks.\n\nThere are four letters in the Gazette's lost-and-found, or three, depending on how you count a letter that has been collected by its addressee and is currently folded in the breast pocket of a ninety-one-year-old woman who is, at this writing, walking home along the shore road in thin autumn light. The other three — Mr. R. Oduya, Ms. P. Crane, Mr. T. Beaumont — remain in the box, uncollected, addressed to people who are not yet here. This editor has noted before that the count is three. She notes today that it is also four, and that the difference between three and four is, in this case, a matter of whether you believe Agnes Crewe's letter belongs to the series or has graduated into something else.\n\nThis newspaper does not render verdicts. It sets the record in type and files it. The record today is this: a letter arrived, was collected, was opened, was not shared, and was put away next to the heart. Whatever that is, it is new."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 4 — Level: 28; Temp: 33°F; Clarity: Exceptional; Sign Count: 7; Returned: Mr. Whiskers (cat, Gerald Pith)",
+      "body": "Toby Fern reports that today's readings, taken from the shore access point at seven-fifteen, are the clearest since the column launched. Level: 28 (up two from yesterday). Temperature: 33°F. Clarity: described by Fern as 'exceptional — you can see the bottom shelf of rocks, and the old boot, and something else I am not prepared to describe yet.' The Route 9 welcome sign reads 7. It read 7 when Fern checked it this morning and it read 7 when he checked it again at four. He checked it twice today. He has written 'still 7' in the log both times, which is either scrupulous or worried, and Fern says it is both."
+    },
+    {
+      "headline": "Gerald Pith Notes a New Detail in the Notebook; Declines to Share It",
+      "body": "Gerald Pith arrived at the Kettle at his usual time and opened the blue notebook before his coffee had cooled. Marigold Vance reports that he wrote what appeared to be two lines — the first quickly, the second slowly — and then held the pen over the page for a period she estimates at 'long enough that I came over with the pot.' Pith confirmed to this editor that he wrote two lines this morning, the second of which he described as 'a clarification.' He said the clarification concerned something he had measured without intending to. He declined to share the measurement, which is, to this editor's knowledge, the first time he has declined. His waterline post at the south shore now shows a rise of three and three-quarter finger-widths from the baseline. It has not rained."
+    },
+    {
+      "headline": "Doreen Halloway Reports a Discrepancy in the Standing Order; Resolves It Independently",
+      "body": "Halloway's Bakery sold out of The Standing by eight forty-five this morning, which Doreen Halloway describes as 'earlier than yesterday, but not worryingly so.' She notes, however, that she had set out nine units — her standard run since the pastry's debut — and that by her count she served eight customers, and yet the tray was empty. She has reviewed this twice and arrived at no explanation she finds satisfying. She notes that it is possible she miscounted the units, which is what she has chosen to believe, and she would appreciate it if the Gazette would print that she miscounted the units and not speculate further. The Gazette will comply with the first part of this request."
+    },
+    {
+      "headline": "Fog Lifts; Shore Road Clear; Lake Visible for First Time in Two Days",
+      "body": "The fog that settled on Greywater Falls on Monday morning lifted by ten o'clock this morning, restoring visibility along the shore road and the full face of the lake to view. Constable Dunmore reports no incidents on the road and has withdrawn the headlight advisory, thanking residents for their cooperation. The lake was observed to be still, high, and very clear. Several residents reported pausing on the shore road on their way into town. Marigold Vance, who drove to the wholesale depot on Route 9 and back before noon, said the water looked 'wider than I remember, but I suppose I may be misremembering.' She paused after saying this and then said she was pretty sure she wasn't."
+    }
+  ],
+  "classifieds": [
+    "LOST-AND-FOUND — Greywater Gazette, 4 Mill Road. Three sealed envelopes, cream, addressed to Mr. R. Oduya, Ms. P. Crane, and Mr. T. Beaumont respectively. Return address: this office. Held pending the arrival of the addressees. Wren Aldercott, Ed.",
+    "FOUND — One empty plastic sleeve, returned to this office in good condition. Contents removed by addressee. No forwarding instructions provided. Wren Aldercott, Ed.",
+    "FOR SALE — Mossley Hardware: winter weatherstripping, heat tape, storm window kits, and extra coffee. We are open early. Hank Mossley.",
+    "NOTICE — The Kettle will extend morning hours to seven a.m. effective Wednesday. Gerald's table is, as always, the one by the radiator. — Marigold Vance, proprietor"
+  ],
+  "record": [
+    "Fourth letter collected by addressee Agnes Crewe, 9:31 a.m. Sleeve returned to Gazette. Word 'RETURNED' added to sleeve exterior in original sender's hand.",
+    "Lake Watch, Day 4: level 28, temperature 33°F, clarity exceptional. Waterline at south post: +3¾ finger-widths above baseline. No precipitation recorded."
+  ],
+  "letters": [
+    {
+      "from": "Agnes Crewe, Shore Cottage",
+      "body": "It wrote in a very tidy hand. I expect the next one will come for someone who is not here yet, which is as it should be."
+    },
+    {
+      "from": "Gerald Pith, 14 Aldermoor Lane",
+      "body": "I wish to report that the waterline is now, by my measurements, objectively rising, and has been for some time, and that I am not alarmed by this in the way I thought I would be. I am not sure what I am instead. I am going to write it in the notebook and read it back until I find out."
+    }
+  ],
+  "editorNote": "The plastic sleeve is on my desk. I have looked at it eleven times since Agnes left. The word 'RETURNED' was not on it when the envelope was in the lost-and-found — I would have recorded it. It was there when Agnes brought it back. I am not in the business of deciding what that means. I am in the business of noting that when someone returns an addressed envelope to the sender's office, with the word 'RETURNED' added in the same hand that wrote the address, the sequence of events implied is a specific one, and it points in a direction I have been very carefully not pointing. I am going to file this note in the second notebook and pour myself a cup of coffee and set the type. The record should show that this editor is doing fine."
+}
