@@ -1,0 +1,50 @@
+{
+  "day": 24,
+  "dateline": "Wednesday, October the 29th",
+  "weather": "Clear and cold, 29°F at dawn. The ice rim at the south end widened overnight — three inches yesterday, nearly seven today. No wind. The sky the colour of old tin. By midmorning the light had that hard, factual quality that makes everything look like evidence.",
+  "stage": 2,
+  "lead": {
+    "headline": "A Fifth Letter Has Arrived; the Name on It Is Not in Town Yet, Nor on Any Record This Editor Can Find",
+    "byline": "By Wren Aldercott",
+    "body": "There was a fifth envelope in the Gazette's lost-and-found this morning. This editor will state that plainly, before her coat was off, before the coffee was started, at seven forty-two, when she unlocked the office and lifted the lid of the box. The envelope is cream-coloured, medium-weight, sealed with the same modest tuck as the previous four, addressed in the same deliberate and unhurried hand. The name on this one is 'Mr. E. Calloway.' The return address is, as before, The Greywater Gazette, 4 Mill Road. This editor has checked the census, the business licence registry, the last four years of Gazette subscription records, and the town's informal directory — which is to say, she has asked Marigold Vance, who knows everyone, and Russ Dunmore, who has filed a report on nearly all of them. No one in Greywater Falls is named Calloway. No one passing through, to anyone's recollection, has been named Calloway. There is no Calloway on any list this town keeps, and this town keeps more lists than it admits.\n\nThe three letters addressed to the not-yet-arrived — Mr. R. Oduya, Ms. P. Crane, and Mr. T. Beaumont — have each, in time, been followed by the arrival of the addressee or the addressee's name in some form into the ordinary fabric of the town. Philippa Crane arrived on Day 17 and is now a regular at the Kettle. Beaumont's letter preceded a name that has since appeared in three unrelated conversations this editor has had in passing, always offered by the speaker as if recalling someone they met once. This editor notes this not as evidence but as the shape evidence makes before it is complete.\n\nThis editor has set Mr. Calloway's letter in the lost-and-found beside the others, which is the correct procedure, which she updated on Monday, which now includes a notation in the log: 'Letter received, addressee unknown, held pending.' The log has five entries in that column now. She is aware that a fifth entry in a column is the moment a column stops being an anomaly and becomes a record. The difference between an anomaly and a record is, in this business, everything.\n\nThe ice this morning was seven inches wide along the south shore. Gerald Pith measured it. He wrote the number in the blue notebook and then sat for a long time with the pen resting against his chin. Whatever the lake is doing, it is doing it on schedule."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 5 — Level: 31; Temp: 31°F; Clarity: Exceptional, Shore Ice Now Visible from Road; Sign Count: 7; Returned: Mr. Whiskers (cat, Gerald Pith)",
+      "body": "Water level up three units since Day 1 of Lake Watch. Temperature has crossed below freezing for the first time at the surface; the deep centre remains open. Clarity rated exceptional for the third consecutive day — visibility to the lakebed in the shallows is approximately fourteen feet by this correspondent's estimate. The Route 9 welcome sign reads 7, as it has since before this column began. Mr. Whiskers was observed at the south shore at dusk, facing the deep water, in the company of two other animals this correspondent has not previously logged: a mallard drake and a brown rabbit, both sitting dry and still on the ice margin, both oriented toward the open centre of the lake. All three were humming. The rabbit has not been identified. The drake has not been identified. They were still there when this correspondent left. — Filed by Toby Fern, Lake Watch Correspondent"
+    },
+    {
+      "headline": "Gerald Pith Reads the Sixth Notebook Line Aloud; Immediately Asks That It Not Be Printed",
+      "body": "Gerald Pith arrived at the Kettle at his usual time this morning, opened the blue notebook, and wrote what Marigold Vance describes as 'two short lines and then a long one.' He read the long one aloud, apparently by accident — Vance reports he 'said it into the room the way you say a thing you thought you were only thinking.' The content of the line, at Mr. Pith's request, does not appear in this edition. When asked why, he said that writing it down twice seemed like the kind of thing you should decide about more carefully. He drank his coffee. He left the notebook open to the page for four minutes before closing it. He is fine. He says he is fine."
+    },
+    {
+      "headline": "Constable Dunmore Retrieves His Scarf from the Lost-and-Found",
+      "body": "After seventeen days in the Gazette's lost-and-found, Constable Russ Dunmore retrieved his scarf this morning. He stopped in on his regular rounds, accepted a cup of coffee, and lifted the scarf from the box without ceremony. He then paused, looked at the four envelopes remaining in the box, and set the scarf back down on the counter rather than around his neck. 'Just freshening its location,' he told this editor. He left with the scarf over his arm. At last observation it was around his neck. The lost-and-found now contains five letters."
+    },
+    {
+      "headline": "Ice Rim Doubles Overnight; Hank Mossley Notes It Was Wider Than His Arm Span by Eight O'Clock",
+      "body": "Hank Mossley arrived at the hardware at his usual time and went to the south shore before opening the store, which he describes as 'just checking.' The ice rim, which measured approximately three inches on Tuesday, had extended to nearly seven by Wednesday morning. Mossley stood at the edge for a few minutes, then went back and opened the store. He has ordered an additional four bags of ice-melt, which he acknowledged is not the same problem as this, but is a problem he can address. The store was open on time. The coffee was on."
+    }
+  ],
+  "classifieds": [
+    "SEEKING: One brown rabbit, medium-sized, calm temperament. Last seen near south shore at dusk. Answers, possibly, to nothing. If yours, contact the Gazette. — No name given",
+    "FOR SALE: Ice auger, barely used (last winter). Reluctant to sell. Making the call anyway. See Hank at the hardware. Reasonable offers considered.",
+    "LOST AND FOUND — Gazette Office, 4 Mill Road: Five (5) sealed envelopes held for collection. Addressees: Mr. R. Oduya, Ms. P. Crane, Mr. T. Beaumont, and now Mr. E. Calloway. Addressees or parties who know them are encouraged to call in. Hours: 8 to 5 weekdays. Knock after hours.",
+    "NOTICE: The Kettle will open fifteen minutes early (7:45 a.m.) through November as the mornings get longer in the wrong direction. Coffee will be hot. Come in. — M. Vance"
+  ],
+  "record": [
+    "Lost-and-found log updated: Fifth letter received Wednesday, October the 29th, addressed to 'Mr. E. Calloway.' Addressee not found in census or local directory. Letter held per updated protocol. Total letters in box: five (4 unresolved, 1 resolved — A. Crewe, collected and retained by addressee).",
+    "Shore ice extent, south end: Day 20, ~1 in.; Day 21, ~3 in.; Day 22, ~3 in. (fog, unconfirmed); Day 23, ~3 in.; Day 24, ~7 in. Waterline: +3¾ finger-widths above summer mark as of Tuesday. Further measurement pending. Source: G. Pith, blue notebook."
+  ],
+  "letters": [
+    {
+      "from": "Agnes Crewe, shore cottage",
+      "body": "The rabbit is not lost. It knows exactly where it is. So does the drake. I would not bother with the classified. — A.C."
+    },
+    {
+      "from": "Doreen Halloway, Halloway's Bakery",
+      "body": "Just a note to say that I set nine chairs again this morning because nine is the number of chairs that fit sensibly around the tables as laid out, and I will be setting nine chairs every morning because that is how the bakery is arranged and has always been arranged, and it has nothing to do with anything else. The Standing sold out before nine. Now, I do want to say — and I say this as mayor and as someone who has lived here a long time — that a fifth letter is a lot of letters, and I think the town should know that I am looking into the matter with all appropriate attention, and in the meantime everyone is very welcome to come in for a Standing, which I will be making in the usual quantity. Thank you. — D. Halloway, Mayor"
+    }
+  ],
+  "editorNote": "A note on the lost-and-found: This office has, since October the 16th, been receiving sealed envelopes addressed to individuals at this address, by return post, from this address. The policy has been updated twice. The log now has five entries. This editor has, this morning, added a second box to the lost-and-found shelf — one for ordinary items (scarves, reading glasses, a child's mitten that has been here since March) and one for the letters. The letters have their own box now. She is not sure if this is organisation or concession. She suspects it is both. It is, at minimum, the correct thing to do with a series."
+}

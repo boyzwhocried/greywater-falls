@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Late autumn",
-  "dayNumber": 23,
-  "weather": "Fog lifted by ten o'clock, leaving the air thin and exact. Temperature at noon: 34°F. The lake was fully visible by eleven and appeared to be listening. A faint rim of new ice at the south end. No wind all day.",
+  "dayNumber": 24,
+  "weather": "Clear and cold, 29°F at dawn. Ice rim widened to seven inches at the south end overnight. No wind. Sky the colour of old tin. Hard factual light by midmorning.",
   "undercurrent": {
     "level": 60,
     "stage": 2,
     "phenomenon": "the lost-and-found",
-    "note": "Agnes has opened the letter and told no one what it said — only that it contained what she expected and one thing she didn't. The word 'RETURNED' appearing on the sleeve after the fact is the sharpest escalation yet: the sender is annotating their own correspondence in real time, which requires either a presence or a mechanism the town cannot account for. Gerald's refusal to share the second notebook line is the first time his compulsive transparency has cracked, suggesting the measurement was something he is not yet ready to put into words. Doreen's ninth unit disappearing with only eight observable customers is the premise's count-wrong motif arriving at the bakery — intimate, domestic, hard to argue with. Toby's 'something else I am not prepared to describe yet' at the lakebed is held for the next escalation. The fog lifting and the lake coming back into full visibility is a structural beat: the obscuring phase is over, and the town is now looking at the thing directly, in clear autumn light, which is worse. The undercurrent rises to 61, still stage 2, but pressing toward the upper boundary."
+    "note": "A fifth letter — the first addressee for whom no arrival backstory has yet been sketched — is the premise's cleanest escalation yet: the series is no longer about connecting to known or semi-known names, it is generating entirely new ones. The town now has to reckon with the fact that it may be receiving mail on behalf of people who do not yet exist in any record it holds. Russ's retrieval-and-replacement of the scarf is a beautiful small beat: the lost-and-found now means something different than it did when he left the scarf there, and he intuited it without naming it. The rabbit and the drake joining Mr. Whiskers at the shore is the returned expanding beyond a single known pet — the phenomenon is widening its visible footprint. Gerald reading the sixth line aloud by accident and then asking it not be printed is the town's most intimate record-keeping instinct (shared between him and Wren) running up against something that resists documentation. The ice doubling overnight is the lake's own calendar, running faster than the town's. Undercurrent to 65, stage 2 holding, pressing toward the upper edge of stage 2."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 9,
+    "day_in_season": 10,
     "target_length": 31,
     "next_premise": ""
   }
