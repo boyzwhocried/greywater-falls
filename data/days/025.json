@@ -1,0 +1,50 @@
+{
+  "day": 25,
+  "dateline": "Thursday, October the 30th",
+  "weather": "Overcast and still, 27°F at dawn. The ice rim has reached nine inches along the south shore. The sky is the colour of unlined paper. No wind. The kind of cold that does not announce itself.",
+  "stage": 2,
+  "lead": {
+    "headline": "The Lost-and-Found Log Now Has More Entries Than the Town Has Names for Them",
+    "byline": "By Wren Aldercott",
+    "body": "On the morning of Thursday, October the 30th, the Gazette's lost-and-found box contains five letters. This editor will set that sentence in type without modification because the modifications she has considered — 'still,' 'now,' 'as of this writing' — are all ways of suggesting the number might change, and she has decided to stop suggesting things she is no longer confident are true. Five letters. Five names. The box, which previously held a scarf belonging to Constable Dunmore (retrieved Wednesday), one earring of unknown provenance, a child's mitten that has been there since March, and the ordinary flotsam of a small town's pockets, has been reorganised. The mitten is in a paper bag. The earring is in a small envelope. The letters are grouped together and are not touching the mitten.\n\nThis editor updated the lost-and-found policy on Monday. The update was sensible and procedural: items held more than thirty days to be moved to secondary storage; perishables not accepted; letters held pending addressee identification. What the policy does not address — what this editor did not, on Monday, feel was necessary to address — is the question of what to do when the letters do not wait for the addressee to come to them. Mr. R. Oduya's name appeared in conversation before his face appeared at the Kettle counter. Ms. P. Crane's letter preceded her arrival by, this editor calculates, eleven days. Mr. T. Beaumont's name has appeared in three separate conversations this week in the mouths of people who spoke it the way you speak a name you cannot quite place — a name that is almost a memory. The letters, it seems, are less like notices of delivery and more like notices of intent.\n\nThis morning this editor sat at the desk for a longer time than she will report here before opening the second notebook. The notebook now has nine items in it. She wrote the ninth item — about the index card, the sub-ledger, the act of organisation itself — and then looked at the word 'nine' for a moment before closing the cover. She has not yet decided what to do with the notebook's count. She is aware that deciding not to decide is itself a decision, and that the town has been making that particular decision for some weeks now, and that it is, on the whole, working out about as well as it ever does.\n\nThe ice on the south shore was nine inches this morning. Gerald Pith measured it. He wrote the number down. He said nothing about it at the Kettle, which is the first morning since he began measuring that he has not, in some register, noted the measurement aloud. Marigold Vance left his coffee at the end of the counter and did not ask."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 6 — Level: 34; Temp: 29°F; Clarity: Exceptional; Sign Count: 7; Returned: Mr. Whiskers (cat, Gerald Pith), Drake (unidentified), Rabbit (unidentified)",
+      "body": "Filed by Toby Fern, Correspondent. Water level at the dock gauge reads 34, up three from yesterday. Temperature at the surface, 29°F. Clarity remains exceptional — the old boot is still visible through the ice at the south end; by this reporter's estimate it has not moved. The welcome sign on Route 9 reads 7. Checked this morning at seven-fifteen and again at half past. The returned at dusk last evening numbered three: Mr. Whiskers, the drake, and the rabbit. All three face the deep water. The hum, if you stand close enough, comes up through the soles of your boots. This reporter stood for a while. The evening was clear and the hum was steady and the animals were perfectly calm. At no point did any of them turn around."
+    },
+    {
+      "headline": "Gerald Pith Does Not Read the Morning's Measurement Aloud; Marigold Vance Does Not Ask",
+      "body": "Gerald Pith arrived at the Kettle at his usual time, ordered his usual coffee, opened the blue notebook, wrote one line, and closed it. He did not read the line back to himself. He did not share it with Marigold Vance, who was at the far end of the counter with the pot. He sat for twenty-two minutes, finished the coffee, paid, and left. Marigold Vance tells the Gazette that the morning was 'right.' She said this the way a person says a thing that is almost true."
+    },
+    {
+      "headline": "Halloway's Bakery: The Standing, Thursday Edition; Count Matches Tray",
+      "body": "Halloway's Bakery reports that this morning's Standing — the brown butter and cardamom pastry, named by popular contest last Sunday — sold in exact correspondence with the tray prepared: eight portions served, eight customers. Doreen Halloway tells the Gazette she 'counted twice, just to be sure, and it came out the same both times.' She said this pleasantly. This editor notes that 'the same both times' is not the same as 'what I expected' and that Doreen Halloway knows the difference."
+    },
+    {
+      "headline": "Constable Dunmore Notes the Lost-and-Found Box Has Been Reorganised; Files No Report",
+      "body": "Town Constable Russ Dunmore stopped by the Gazette on Thursday morning, as he sometimes does, for reasons he describes as 'just passing.' He observed the reorganised lost-and-found — the letters in their group, the index card on the lid — and stood for a moment with his hands in his coat pockets and his scarf around his neck. 'That's a tidy system,' he said. He did not touch the letters. He had his coffee and left. He has not filed a report. He tells the Gazette this is a judgement call and that the call stands."
+    }
+  ],
+  "classifieds": [
+    "LOST — One grey wool glove, left hand only. Last seen on the Kettle counter, Tuesday morning. If found, please leave with Marigold at the Kettle. The right glove is not lost; this is not a metaphor. — R. Dunmore, Constable",
+    "NOTICE — The Greywater Gazette lost-and-found is open for the submission of misplaced items Monday through Friday, 8 a.m. to 5 p.m. Letters held for unclaimed addressees are logged and stored separately. Inquiries may be directed to the editor. The editor will answer the ones she can. — W. Aldercott, Editor",
+    "FOR SALE — Two cords of split hardwood, seasoned, priced fair. Good heat through February if you're conservative. Hank Mossley, Mossley Hardware, or leave a note at the till. Cash preferred. Fire preferred, this time of year.",
+    "REMINDER — Halloway's Bakery closes early on Fridays through the end of autumn. The Standing available while supplies last. Supplies have, of late, been lasting less long than anticipated. Plan accordingly. — D. Halloway"
+  ],
+  "record": [
+    "Lost-and-found log, updated Thursday: five letters held, addressees pending. Sub-ledger affixed to box lid. Mitten (child's, grey, March) moved to secondary storage.",
+    "Shore ice, south end: nine inches, measured by G. Pith at 7:02 a.m. Thursday, recorded in the blue notebook, not read aloud."
+  ],
+  "letters": [
+    {
+      "from": "Agnes Crewe, the cottage by the water",
+      "body": "The ice was nine inches this morning. Gerald measured it. Nine is not a number this town settles on lightly, and the lake knows that. I have been watching it count."
+    },
+    {
+      "from": "Marigold Vance, The Kettle Diner",
+      "body": "I want to say the morning was fine. Gerald came in, had his coffee, wrote his line, left. Normal as it gets. Except he didn't read it back, not even a little, not even to himself, and he always reads it back. I had the pot ready for a refill he didn't need and I just — stood there with it for a minute. The specials board doesn't have a headcount on it today. I keep meaning to put one up. Anyway, the crumb cake is good this week if anyone's coming in."
+    }
+  ],
+  "editorNote": "This newspaper has, since its founding, maintained a lost-and-found column on the second page. Items submitted, items claimed, items held. The column has never before required a sub-ledger. It requires one now. The sub-ledger is a cream-coloured index card taped to the inside of the box lid. It has five lines on it. The editor notes this without comment, which is itself a comment."
+}

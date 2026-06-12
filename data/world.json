@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Late autumn",
-  "dayNumber": 24,
-  "weather": "Clear and cold, 29°F at dawn. Ice rim widened to seven inches at the south end overnight. No wind. Sky the colour of old tin. Hard factual light by midmorning.",
+  "dayNumber": 25,
+  "weather": "Overcast and still, 27°F at dawn. The ice rim has reached nine inches along the south shore. The sky is the colour of unlined paper. No wind. The kind of cold that does not announce itself.",
   "undercurrent": {
     "level": 60,
     "stage": 2,
     "phenomenon": "the lost-and-found",
-    "note": "A fifth letter — the first addressee for whom no arrival backstory has yet been sketched — is the premise's cleanest escalation yet: the series is no longer about connecting to known or semi-known names, it is generating entirely new ones. The town now has to reckon with the fact that it may be receiving mail on behalf of people who do not yet exist in any record it holds. Russ's retrieval-and-replacement of the scarf is a beautiful small beat: the lost-and-found now means something different than it did when he left the scarf there, and he intuited it without naming it. The rabbit and the drake joining Mr. Whiskers at the shore is the returned expanding beyond a single known pet — the phenomenon is widening its visible footprint. Gerald reading the sixth line aloud by accident and then asking it not be printed is the town's most intimate record-keeping instinct (shared between him and Wren) running up against something that resists documentation. The ice doubling overnight is the lake's own calendar, running faster than the town's. Undercurrent to 65, stage 2 holding, pressing toward the upper edge of stage 2."
+    "note": "The sub-ledger on the box lid is the new beat: Wren has crossed from log into archive, which means the letters are no longer an anomaly she is tracking and have become a collection she is curating. The nine-inch ice measurement being written in the notebook but not spoken aloud is Gerald's most significant silence yet — the notebook had been a way of externalising the measurements into the room, and now it is holding something he cannot release. The count-of-nine appearing simultaneously in the ice measurement, Wren's notebook item count, and the Kettle headcount is the town's mathematics converging without anyone arranging it. Doreen's 'counted twice, same both times' is a new formulation — she is no longer explaining away the wrong count, she is reporting the right count with the emphasis of someone surprised by it. The three returned at the shore are stable and established; resist adding new species too quickly. Undercurrent to 68, stage 2 holding — pressing toward the ceiling of stage 2 but not yet at the cresting threshold. The town is noticing and rationalising, which is exactly the phase directive."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 10,
+    "day_in_season": 11,
     "target_length": 31,
     "next_premise": ""
   }
