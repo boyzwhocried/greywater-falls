@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Late autumn",
-  "dayNumber": 25,
-  "weather": "Overcast and still, 27°F at dawn. The ice rim has reached nine inches along the south shore. The sky is the colour of unlined paper. No wind. The kind of cold that does not announce itself.",
+  "dayNumber": 26,
+  "weather": "31°F, still and overcast. The ice rim has reached eleven inches on the south shore. A thin fog sits at knee height along the shore road. The sky has not changed colour in three days.",
   "undercurrent": {
     "level": 60,
     "stage": 2,
     "phenomenon": "the lost-and-found",
-    "note": "The sub-ledger on the box lid is the new beat: Wren has crossed from log into archive, which means the letters are no longer an anomaly she is tracking and have become a collection she is curating. The nine-inch ice measurement being written in the notebook but not spoken aloud is Gerald's most significant silence yet — the notebook had been a way of externalising the measurements into the room, and now it is holding something he cannot release. The count-of-nine appearing simultaneously in the ice measurement, Wren's notebook item count, and the Kettle headcount is the town's mathematics converging without anyone arranging it. Doreen's 'counted twice, same both times' is a new formulation — she is no longer explaining away the wrong count, she is reporting the right count with the emphasis of someone surprised by it. The three returned at the shore are stable and established; resist adding new species too quickly. Undercurrent to 68, stage 2 holding — pressing toward the ceiling of stage 2 but not yet at the cresting threshold. The town is noticing and rationalising, which is exactly the phase directive."
+    "note": "The sixth letter is the beat that tips the series from 'record' to 'correspondence' — Wren named it herself in the lead. The name 'D. Harrow' resonating in Doreen's and Marigold's and Gerald's ears without a source is the first time the letters have reached into the residents' memories rather than just their curiosity. This is qualitatively new: the letters are no longer arriving into an administrative system, they are arriving into the town's interior life. Doreen setting aside the ninth Standing 'in case someone comes' is the most significant accommodation gesture since Marigold stopped writing the headcount on the specials board — she is now actively preparing for the not-yet-arrived. Gerald's recognition of the name Harrow, unspoken, is the first thing in three days that has interrupted his silence, and the interruption was itself silent. Russ's letter asking for 'estimated time of arrival' is the constable's unconscious shift from oversight to expectation. Undercurrent holding at 68, stage 2 — the ceiling is close but the town is still rationalising rather than reckoning. The next beat should bring a name closer to arrival, or have the letters respond to the town's notice of them."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 11,
+    "day_in_season": 12,
     "target_length": 31,
     "next_premise": ""
   }

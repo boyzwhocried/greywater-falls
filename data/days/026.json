@@ -1,0 +1,50 @@
+{
+  "day": 26,
+  "dateline": "Friday, October the 31st",
+  "weather": "31°F, still and overcast. The ice rim has reached eleven inches on the south shore. A thin fog sits at knee height along the shore road. The sky has not changed colour in three days.",
+  "stage": 2,
+  "lead": {
+    "headline": "A Sixth Letter Has Arrived; This One Is Addressed to Someone the Town Almost Remembers",
+    "byline": "By Wren Aldercott",
+    "body": "There was a sixth envelope in the Gazette's lost-and-found this morning. This editor will not say she was surprised. Surprise requires a prior certainty that something will not happen, and this editor has, over the course of the past two weeks, quietly retired that certainty regarding the lost-and-found box. The envelope is cream-coloured, medium-weight, sealed with the same modest tuck as the previous five, addressed in the same deliberate hand. The name on this one is 'Ms. D. Harrow.' The return address is, as before, The Greywater Gazette, 4 Mill Road. There is no Ms. Harrow in any record this editor has checked. There is, however, something else.\n\nThis editor asked Doreen Halloway about the name at half past eight. Doreen was behind the bakery counter, arranging the morning's Standings on the tray. She said — and this editor is quoting from her notes — 'Harrow. Now. That's not — ' and then she stopped, and set a Standing down, and looked at the window the way Agnes Crewe sometimes looks at the window, and said: 'I don't know anyone by that name. But I feel like I've said it before.' She had the tray arranged correctly when this editor left. The count matched. She did not turn around.\n\nThis editor asked Marigold Vance the same question at the Kettle counter. Marigold refilled the coffee before answering. She said: 'Harrow. Like a field harrow, or like the verb?' This editor said she did not know. Marigold said: 'I've heard that name. I just can't remember from whom.' She said it lightly, the way she says the things she is not entirely sure she should say. Gerald Pith was at the counter. He did not look up from his notebook. This editor waited. He did not offer the name recognition he clearly had.\n\nThe lost-and-found policy, as updated on Monday, provides a procedure for letters held pending addressee identification. It does not provide a procedure for letters whose names ring, faintly and without source, in the ears of people who have never met anyone by that name. Six letters is not an anomaly. Six letters is a correspondence. This editor has written the name 'D. Harrow' in both notebooks and is aware, as she sets this sentence in type, that she wrote it in the second notebook first."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 7 — Level: 37; Temp: 29°F; Clarity: Exceptional, Bottom Visible at Twelve Feet; Sign Count: 7; Returned: Mr. Whiskers (cat, Gerald Pith), Drake (unidentified), Rabbit (unidentified)",
+      "body": "Correspondent Toby Fern reports that the south-shore ice now measures eleven inches, up from nine. The water beneath the ice is, he notes, 'clearer than it should be — you can see bottom at twelve feet and the light down there is wrong.' All three returned were at the shore at dusk, facing the deep water. The hum was audible from the road. The welcome sign on Route 9 reads 7. Toby checked it on the way out and again on the way back. It read 7 both times. He reports this as a fact and not an observation."
+    },
+    {
+      "headline": "Gerald Pith Opens the Notebook at the Counter; Reads Nothing Aloud; Marigold Vance Notes the Name 'Harrow'",
+      "body": "Gerald Pith arrived at the Kettle at his usual time. He opened the blue notebook. He wrote the morning's measurement — eleven inches, south shore — and closed it again without reading it back. When this editor mentioned the name on the sixth letter, he did not look up. He said, after a pause: 'I may have heard that.' He did not say when or from whom. Marigold Vance, who had been at the far end of the counter, came closer. She said she had too. They looked at each other briefly. The coffee pot was in her hand and she had forgotten she was holding it."
+    },
+    {
+      "headline": "Halloway's Bakery: The Standing, Friday Edition; Nine Prepared, Eight Served, One Set Aside",
+      "body": "Doreen Halloway reports that she prepared nine Standings this morning — 'by habit,' she says, and then: 'or by something.' Eight customers came and were served. The ninth was set aside on the back counter in a cloth-lined basket. It has not been discarded. When asked what she intended to do with it, Doreen said: 'I'll leave it. Someone might come.' She said this without emphasis, which in Doreen's register is a kind of emphasis."
+    },
+    {
+      "headline": "Constable Dunmore Inquires About Lost-and-Found Procedure; Does Not File a Report",
+      "body": "Constable Dunmore stopped by the Gazette at nine-fifteen to ask — his word — 'procedurally' what happens when a letter in the lost-and-found goes uncollected past thirty days. This editor pointed him to the updated policy. He read it. He asked whether there was a provision for letters that were, as he put it, 'addressed to people who might be coming.' This editor said the policy did not currently address that. He nodded. He straightened his scarf. He said: 'Right. Just checking.' He did not file a report."
+    }
+  ],
+  "classifieds": [
+    "FOR TRADE: One full cord of dry split hardwood, ready for stacking. Will accept preserved goods, baked goods, or honest conversation. Leave note at Mossley Hardware. — H. Mossley",
+    "FOUND: One blue wool glove, left hand only, recovered from the shore access path Friday morning. Left at the Kettle counter. If yours, you will know it. — M. Vance",
+    "NOTICE: The Gazette lost-and-found is operating under updated procedures as of Monday. Letters held pending addressee identification. All other items handled per existing policy. Enquiries to the editor. — W. Aldercott",
+    "REMINDER: Halloway's Bakery will be open Saturday. The Standing is available while supply lasts. Supply has lately been either exactly enough or one more than expected. Come early either way. — D. Halloway"
+  ],
+  "record": [
+    "South-shore ice measured at eleven inches Friday morning by Gerald Pith. Notebook entry filed; not read aloud. Third consecutive silent measurement.",
+    "Sixth letter received at Gazette lost-and-found: addressee Ms. D. Harrow, return address The Greywater Gazette, 4 Mill Road. No match found in census, registry, subscription records, or informal town directory. Held pending."
+  ],
+  "letters": [
+    {
+      "from": "Agnes Crewe, Shore Road Cottage",
+      "body": "The ones who are coming know the way because they have been shown it. They are not lost. They are early. There is a difference. I had crumb cake this morning and it was correct.\n— A. Crewe"
+    },
+    {
+      "from": "Russ Dunmore, Constable",
+      "body": "For the record: I asked about the lost-and-found procedure this morning in my official capacity as town constable and not because I was alarmed by anything in particular. I am wearing the scarf. The scarf is fine. I would like readers to note that I have not filed any report about any letter because there is nothing in the relevant statutes about letters and I am a man who works from statutes. That said. If anyone has information about a Ms. D. Harrow — address of origin, direction of travel, estimated time of arrival — I would not be opposed to a quiet word. Purely procedurally.\n— Constable R. Dunmore"
+    }
+  ],
+  "editorNote": "This is the thirty-first of October. The town has never made much of Halloween — too small for it, Doreen says; the children have to drive to Harwick for the good streets. But the date is what it is, and this editor will note, without comment, that the lost-and-found has been lively this week in ways that have nothing to do with the season."
+}
