@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Late autumn",
-  "dayNumber": 26,
-  "weather": "31°F, still and overcast. The ice rim has reached eleven inches on the south shore. A thin fog sits at knee height along the shore road. The sky has not changed colour in three days.",
+  "dayNumber": 27,
+  "weather": "28°F, still and grey. The fog has not lifted from the shore road since Thursday. The ice rim is now audible at night — a low, intermittent tick — and residents on the south side of Pell Road report hearing it through closed windows.",
   "undercurrent": {
     "level": 60,
     "stage": 2,
     "phenomenon": "the lost-and-found",
-    "note": "The sixth letter is the beat that tips the series from 'record' to 'correspondence' — Wren named it herself in the lead. The name 'D. Harrow' resonating in Doreen's and Marigold's and Gerald's ears without a source is the first time the letters have reached into the residents' memories rather than just their curiosity. This is qualitatively new: the letters are no longer arriving into an administrative system, they are arriving into the town's interior life. Doreen setting aside the ninth Standing 'in case someone comes' is the most significant accommodation gesture since Marigold stopped writing the headcount on the specials board — she is now actively preparing for the not-yet-arrived. Gerald's recognition of the name Harrow, unspoken, is the first thing in three days that has interrupted his silence, and the interruption was itself silent. Russ's letter asking for 'estimated time of arrival' is the constable's unconscious shift from oversight to expectation. Undercurrent holding at 68, stage 2 — the ceiling is close but the town is still rationalising rather than reckoning. The next beat should bring a name closer to arrival, or have the letters respond to the town's notice of them."
+    "note": "The note is the qualitative shift this phase has been building toward — not a new letter but a reply, not an arrival but a timetable. The correspondent has acknowledged the town's care of the box, confirmed transit for the six named, and given a specific arrival window for D. Harrow: before the ice reaches the dock. The dock freezes in the third week of November. This is now a deadline, and deadlines change the texture of a story from mystery to expectation. Russ requesting the dock freeze schedule is the constable beginning to prepare in earnest — he is triangulating a date. Agnes's line ('The dock freezes from the outside in. Everything here does.') is the most direct confirmation she has offered yet that she knows how this proceeds. Gerald going to the Gazette before the Kettle — breaking the sequence for the first time — means the measurement now has a destination beyond the notebook. Wren losing the distinction between the two notebooks is the private archive collapsing into the public record, which is either clarity or the end of her ability to protect the town from the full shape of the thing. Level at 72, stage 2 holding — the timetable is set but D. Harrow has not arrived. The next beat is either the arrival or evidence that arrival is imminent. Do not let the arrival land without weight."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 12,
+    "day_in_season": 13,
     "target_length": 31,
     "next_premise": ""
   }

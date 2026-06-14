@@ -1,0 +1,50 @@
+{
+  "day": 27,
+  "dateline": "Saturday, November the 1st",
+  "weather": "28°F, still and grey. The fog has not lifted from the shore road since Thursday. The ice rim is now audible at night — a low, intermittent tick — and residents on the south side of Pell Road report hearing it through closed windows.",
+  "stage": 2,
+  "lead": {
+    "headline": "The Letters Have Begun to Answer Questions Nobody Asked Them",
+    "byline": "By Wren Aldercott",
+    "body": "On the morning of Saturday, November the 1st, the Gazette's lost-and-found box contains six letters. This editor opened the box at seven fifty-one, before the coffee, before the coat was fully off, because she has learned to check early. There was no seventh letter this morning. She is recording that absence as carefully as she has recorded each arrival, because the absence of a thing, in this office, has begun to feel like its own kind of event.\n\nWhat there was, instead, was a fold of paper tucked beneath the letters — not an envelope, not sealed, not addressed to anyone. It was folded once, in thirds, the way you fold a note before passing it across a counter. This editor unfolded it. The handwriting is the same as the letters — the same deliberate, unhurried hand that has been addressing cream envelopes to people who have not yet arrived. The note contains three lines. The first line reads: 'The ones you are holding are in transit.' The second line reads: 'D. Harrow will arrive before the ice reaches the dock.' The third line reads: 'Thank you for keeping the box tidy.' This editor read the note twice, placed it in the second notebook, and then, after a moment, placed a copy of it in the first notebook as well. She is aware that she has lost the distinction between the two notebooks, and that this is either a clerical failure or a kind of honesty, and she has not yet determined which.\n\nThis editor brought the note to Russ Dunmore at nine o'clock. He read it in the doorway of the constable's office with his scarf already around his neck. He read it a second time. He said: 'The dock freezes in the third week of November.' He said this in the tone of a man confirming a procedural fact. He did not look up from the page. This editor asked if he intended to file a report. He said: 'I'm going to need a moment.' That was forty minutes ago. No report has been filed, which is, this editor believes, the appropriate response to a note that thanks you for tidying a box.\n\nThe ice this morning was twelve inches on the south shore. Gerald Pith measured it and came directly to the Gazette rather than the Kettle, which is the first time in the history of this arrangement that he has altered the sequence. He stood in the doorway with the blue notebook open and said: 'She measured right, whoever she is.' This editor asked how he knew the measurement was right. He tapped the notebook once, the way he taps a column of figures that has come out correctly, and left. Marigold Vance had his coffee waiting when he arrived at the counter twelve minutes later, which means she had started it before he came through the door, which means she had been expecting him anyway, which is the kind of thing the town is doing more and more, lately — expecting, without being told to expect."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 8 — Level: 41; Temp: 27°F; Clarity: Exceptional, Bottom Visible at Fifteen Feet; Sign Count: 7; Returned: Mr. Whiskers (cat, Gerald Pith), Drake (unidentified), Rabbit (unidentified)",
+      "body": "Filed by Toby Fern, staff correspondent. The lake is clearer than it has any right to be at the start of November. At dusk the returned three stood at the south shore, facing the deep water, humming. The note they held was lower than last week by approximately a half-step. Toby Fern reports standing with them long enough to feel the pitch change move through the soles of his boots before he noticed it in the air. He writes: 'I don't think the hum is getting louder. I think we're getting better at hearing it.' The Route 9 sign still reads 7. Toby Fern checked it on the way home and again, out of an abundance of caution, on the way back."
+    },
+    {
+      "headline": "Halloway's Bakery: The Standing, Saturday Edition; The Reserved One Was Still There at Closing",
+      "body": "Doreen Halloway prepared nine Standings this morning and served eight. The ninth, reserved on Friday, was carried over to Saturday and placed on the back counter beneath a clean cloth. Doreen reports that it was still there at closing. She has not eaten it. She has not thrown it away. When asked for comment, she said: 'Now. If someone comes tomorrow, I want them to have a fresh one. I'll make ten.' This editor has recorded this statement without editorial modification. Doreen turned back to the counter before this editor left."
+    },
+    {
+      "headline": "Agnes Crewe Submits Two Lines to the Gazette; One of Them Is About the Dock",
+      "body": "Agnes Crewe's letter arrived by hand this morning, slid under the Gazette door at an unknown hour. The full text is published in the Letters column. One of the two sentences is about the dock. Agnes has been here before. She is not alarmed. This editor finds neither of these facts as reassuring as they probably should be."
+    },
+    {
+      "headline": "Constable Dunmore Has Requested the Dock Freeze Schedule from the County Records Office",
+      "body": "Constable Russ Dunmore filed a formal records request this morning with the Harwick County Archive for historical ice-over dates for Greywater Lake dock, years 1980 to present. He described this to the Gazette as 'standard seasonal preparedness.' He used the word 'preparedness' twice in one sentence. The county archive is closed on Saturdays. He has asked that they call him Monday morning, first thing."
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One wool blanket, grey-green, found folded on the south shore bench three mornings running. Unclaimed. In good condition. Dry, which is worth noting. Inquire at the Gazette. — W. Aldercott",
+    "NOTICE: Mossley Hardware will stock additional weatherstripping through November. Also lanterns. Also, by popular though unspoken request, extra wicks. — H. Mossley",
+    "LOST: One blue mitten, child's size, last seen in the Gazette lost-and-found box, March through October. Has been moved to secondary storage in a paper bag. Still here. — The Gazette",
+    "WANTED: Information regarding the name D. Harrow. Not urgent. Just whenever you remember. Leave a note at the Gazette counter. — W. Aldercott"
+  ],
+  "record": [
+    "Ice rim, south shore: twelve inches as of 7:04 a.m. Saturday. Measured by G. Pith. Recorded without comment, which is itself a comment.",
+    "Lost-and-found log, entry 7: One folded note, unaddressed, in the hand of the correspondent. Received overnight. Contents on file. Held pending — pending what, this editor is still working out."
+  ],
+  "letters": [
+    {
+      "from": "Agnes Crewe, cottage by the water",
+      "body": "The dock freezes from the outside in. Everything here does."
+    },
+    {
+      "from": "Russ Dunmore, Constable, Greywater Falls",
+      "body": "I want to be clear that my request to the county archive is a routine procedural matter and does not represent any official position on the content of correspondence held in the Gazette's lost-and-found box. I am simply establishing a baseline. Procedurally. The note was written on the same paper as the envelopes. I noticed that. I am noting that I noticed. That is all I am doing at this time. The scarf is helping."
+    }
+  ],
+  "editorNote": "This is the one hundred and fourteenth edition of the Greywater Gazette to be set in type by this editor alone. There is nothing remarkable about that number. This editor is noting it anyway."
+}
