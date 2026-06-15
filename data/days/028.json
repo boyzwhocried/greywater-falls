@@ -1,0 +1,50 @@
+{
+  "day": 28,
+  "dateline": "Sunday, November the 2nd",
+  "weather": "24°F, clear and windless. The fog lifted from the shore road sometime before dawn — residents on Pell Road report the change by feel rather than sight, a different quality of cold, dry and exact. The ice tick, which had been intermittent, has been continuous since approximately four in the morning.",
+  "stage": 2,
+  "lead": {
+    "headline": "The Town Has Begun to Set a Place for Someone It Has Not Met",
+    "byline": "By Wren Aldercott",
+    "body": "On the morning of Sunday, November the 2nd, the fog is gone. This editor stepped out at six forty-five and the shore road was simply there — visible, sharp-edged, frost-rimed in the windless cold — and the effect was less like the fog had lifted than like the town had been returned, quietly and without ceremony, to a higher resolution. The ice on the south shore was, by Gerald Pith's measurement, thirteen and a half inches. He did not come to the Gazette first this morning. He came to the Gazette second. This editor has concluded that Saturday's visit was an exception rather than a new order of operations, and is recording that conclusion here because she has learned that writing things down is the only way to establish whether they are true.\n\nDoreen Halloway opened the bakery at seven, which is standard for a Sunday. By eight, she had set nine Standings on the tray and placed one in the back, separate, on a small plate that did not previously exist in the bakery's inventory. This editor asked about the plate. Doreen said: 'It's a nice plate, now. I found it in the back.' She did not say whose it was. She did not say it was for D. Harrow. She did not say anything further on the subject, which in Doreen Halloway's register is the equivalent of saying quite a lot. The plate is cream-coloured. It has a narrow blue border. It is, this editor will note without comment, the same approximate colour as the envelopes.\n\nRuss Dunmore came by the Gazette at half past eight. He was carrying a folded sheet of paper, which he said was a print of the county dock-freeze records for the past fifteen years, obtained by driving to the county office in Alderton at seven this morning, which is a forty-minute drive, which means he left Greywater Falls before the fog had fully cleared. The average third-week freeze date, he said, reading from the sheet in the tone of a man who has rehearsed the sentence, is November the nineteenth. The earliest on record: November the fourteenth. He folded the sheet back up and put it in his breast pocket. He said: 'Just good to have the numbers.' He left. The scarf was still on.\n\nThis editor has been in this office for nineteen years. She has printed births and deaths and the occasional excitement of a variance permit. She has learned to read the town's silences the way a reader learns a writer's habits — the pauses that mean something, the ones that mean nothing, the ones the writer does not know are there. The silence in Greywater Falls this morning is not the silence of a town that does not know what is coming. It is the silence of a town that has decided, without meeting about it, that the right thing to do is to set a place and wait. This editor finds this, on balance, moving. She finds it other things, too, and those she will keep in the notebook that is now, more or less, the same notebook."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 9 — Level: 45; Temp: 26°F; Clarity: Exceptional, Bottom Visible at Eighteen Feet; Sign Count: 7; Returned: Mr. Whiskers (cat, Gerald Pith), Drake (unidentified), Rabbit (unidentified)",
+      "body": "Filed by Toby Fern. Lake level at 45, up four points. Temperature at the surface: 26°F. Clarity: exceptional — the bottom is visible at eighteen feet, which is three more than yesterday. The Route 9 sign still reads 7. The returned three gathered at dusk in the usual place, facing the usual direction. The hum has been continuous since four a.m. Fern notes that the fog lifted from the shore road at approximately the same moment. He describes the correlation as 'probably nothing, probably not.' The sign still says 7. He checked twice."
+    },
+    {
+      "headline": "Halloway's Bakery: The Standing, Sunday Edition; The Plate in the Back Is New; Doreen Does Not Say Whose It Is",
+      "body": "Halloway's Bakery opened at seven. Nine Standings prepared. Eight served by half past ten. The ninth is on the back counter on a cream-coloured plate with a blue border. Mayor Halloway confirmed the plate is 'from the back,' which this paper takes to mean she does not intend to explain it. The bakery smelled, per two independent sources, of brown butter and something slightly like rain."
+    },
+    {
+      "headline": "Gerald Pith Measures Thirteen and a Half Inches; Notes the Fog Cleared Before He Got There",
+      "body": "Gerald Pith was at the south shore by six-fifteen. Measurement: thirteen and a half inches of ice. He noted in his notebook that the fog had cleared before his arrival, which he described at the Kettle counter as 'first time I've had a clear sight line in a week.' Marigold Vance brought the coffee without being asked. He wrote the measurement. He did not elaborate. The number, he said, was already there when he arrived."
+    },
+    {
+      "headline": "Constable Dunmore Drives to Alderton Before Seven; Returns with Fifteen Years of Dock-Freeze Records; Considers This Routine",
+      "body": "Constable Russ Dunmore drove to the county office in Alderton Sunday morning to collect historical dock-freeze data. The office does not open on Sundays. Constable Dunmore reports that the duty archivist was in early 'for unrelated reasons' and was 'very helpful.' Average freeze date: November 19th. Earliest on record: November 14th. Constable Dunmore described obtaining this information as 'just good to have the numbers.' He returned to Greywater Falls by half past eight and appears to be fine."
+    }
+  ],
+  "classifieds": [
+    "LOST-AND-FOUND (Gazette, 4 Mill Road): Six letters held, all pending addressee arrival. Policy: items held until claimed. No exceptions have been necessary. No exceptions are anticipated. — W. Aldercott, Ed.",
+    "SEEKING INFORMATION: Any person with knowledge of a D. Harrow — first name unknown, expected in Greywater Falls before mid-November — is asked to contact the Gazette. This is a courtesy notice, not an alarm. — W. Aldercott, Ed.",
+    "MOSSLEY HARDWARE: Ice cleats, door sweeps, storm lanterns, and weatherstripping in stock. The coffee pot is on until noon. — H. Mossley",
+    "NOTICE from Halloway's Bakery: Sunday hours 7 a.m. to 2 p.m. The Standing is available while supplies last. One is not available, as it is being held. You will know if it is for you. — D. Halloway, Mayor & Proprietor"
+  ],
+  "record": [
+    "Ice, south shore: 13.5 in. (G. Pith, measuring). Lake level: 45. Fog cleared from shore road, estimated 5:40 a.m. Dock-freeze average: Nov. 19. Earliest on record: Nov. 14.",
+    "Lost-and-found: six letters, held. New plate at Halloway's Bakery, cream with blue border, one Standing thereupon, unclaimed as of press time."
+  ],
+  "letters": [
+    {
+      "from": "Agnes Crewe, lakeshore cottage",
+      "body": "The fog left because it was finished. That is how fog works and also how most other things work. The clear days at the end are not a gift. They are so you can see properly. — A. Crewe"
+    },
+    {
+      "from": "Russ Dunmore, Constable",
+      "body": "I want to clarify for the record that driving to Alderton on a Sunday morning is a normal and procedurally sound action that any public official might take at any time. The records I obtained are public records. The dock freezes from the outside. I know this because it says so in the county data and also because Agnes Crewe said so in this paper on Saturday and she has not, in my experience, been wrong about physical processes. The scarf is helping. — R. Dunmore, Constable"
+    }
+  ],
+  "editorNote": "This paper goes to print on Sundays at noon. It has always gone to print at noon. The presses — such as they are; this editor is the press — wait for nothing and no one, which has always been the point. Today this editor is aware, for the first time, that 'noon' and 'before the ice reaches the dock' are both just ways of saying: before the thing that comes next."
+}

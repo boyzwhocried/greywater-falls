@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Late autumn",
-  "dayNumber": 27,
-  "weather": "28°F, still and grey. The fog has not lifted from the shore road since Thursday. The ice rim is now audible at night — a low, intermittent tick — and residents on the south side of Pell Road report hearing it through closed windows.",
+  "dayNumber": 28,
+  "weather": "24°F, clear and windless. The fog lifted from the shore road sometime before dawn. The ice tick has been continuous since approximately four in the morning.",
   "undercurrent": {
     "level": 60,
     "stage": 2,
     "phenomenon": "the lost-and-found",
-    "note": "The note is the qualitative shift this phase has been building toward — not a new letter but a reply, not an arrival but a timetable. The correspondent has acknowledged the town's care of the box, confirmed transit for the six named, and given a specific arrival window for D. Harrow: before the ice reaches the dock. The dock freezes in the third week of November. This is now a deadline, and deadlines change the texture of a story from mystery to expectation. Russ requesting the dock freeze schedule is the constable beginning to prepare in earnest — he is triangulating a date. Agnes's line ('The dock freezes from the outside in. Everything here does.') is the most direct confirmation she has offered yet that she knows how this proceeds. Gerald going to the Gazette before the Kettle — breaking the sequence for the first time — means the measurement now has a destination beyond the notebook. Wren losing the distinction between the two notebooks is the private archive collapsing into the public record, which is either clarity or the end of her ability to protect the town from the full shape of the thing. Level at 72, stage 2 holding — the timetable is set but D. Harrow has not arrived. The next beat is either the arrival or evidence that arrival is imminent. Do not let the arrival land without weight."
+    "note": "The fog's departure is the town's first unobstructed view of itself in weeks — clarity as escalation rather than relief. The plate at Halloway's is the key beat today: Doreen has moved from passive accommodation (setting a Standing aside) to active preparation (producing a new object, a vessel, a specific place-setting for someone she has not named). This is the town's first physical act of hospitality toward the not-yet-arrived. Russ driving to Alderton before dawn to pull fifteen years of freeze data confirms he has accepted the timetable and is now working within it rather than against it. Gerald's measurement at 13.5 inches is the first reading taken in clear conditions — no fog, no ambiguity. The lake at 18-foot clarity is approaching bottom-visibility that will eventually begin to show things. The continuous ice tick since 4 a.m. is the dock's clock running. D. Harrow has not arrived. The window is November 14–19. That is 12–17 days from now. Pressure holds at 68, stage 2 — the arrival is still pending but the town's accommodation of it has become concrete and object-level. Next beat: either the first sign of Harrow's approach (a name spoken by a new voice, a seventh letter with new information, someone on the road) or the lake itself providing evidence. Do not let it stall."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 13,
+    "day_in_season": 14,
     "target_length": 31,
     "next_premise": ""
   }
