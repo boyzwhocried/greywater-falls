@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Late autumn",
-  "dayNumber": 28,
-  "weather": "24°F, clear and windless. The fog lifted from the shore road sometime before dawn. The ice tick has been continuous since approximately four in the morning.",
+  "dayNumber": 29,
+  "weather": "18°F, overcast and still. A thin snow fell between two and four in the morning and stopped without accumulating. The lake surface is the same colour as the sky.",
   "undercurrent": {
     "level": 60,
     "stage": 2,
     "phenomenon": "the lost-and-found",
-    "note": "The fog's departure is the town's first unobstructed view of itself in weeks — clarity as escalation rather than relief. The plate at Halloway's is the key beat today: Doreen has moved from passive accommodation (setting a Standing aside) to active preparation (producing a new object, a vessel, a specific place-setting for someone she has not named). This is the town's first physical act of hospitality toward the not-yet-arrived. Russ driving to Alderton before dawn to pull fifteen years of freeze data confirms he has accepted the timetable and is now working within it rather than against it. Gerald's measurement at 13.5 inches is the first reading taken in clear conditions — no fog, no ambiguity. The lake at 18-foot clarity is approaching bottom-visibility that will eventually begin to show things. The continuous ice tick since 4 a.m. is the dock's clock running. D. Harrow has not arrived. The window is November 14–19. That is 12–17 days from now. Pressure holds at 68, stage 2 — the arrival is still pending but the town's accommodation of it has become concrete and object-level. Next beat: either the first sign of Harrow's approach (a name spoken by a new voice, a seventh letter with new information, someone on the road) or the lake itself providing evidence. Do not let it stall."
+    "note": "The grey envelope is the escalation beat: a new format (grey, not cream), addressed to no one, with a temporal statement rather than a name. 'Nearly now' is the correspondent's first assertion about timing — it is not a date but it is a tightening. The town's response is characteristic: Russ notes it is not a date and files nothing; Marigold looks up the etymology and posts it as public information; Agnes validates it without alarm. The plate moving to the front shelf is Doreen's second physical act of preparation — it is now visible from the street. The sparrow is the fourth returned, introduced quietly (it sits, it looks cold, it does what sparrows do), accumulating the returned roster without fanfare. Gerald's longest-yet entry, unread aloud, holds the pressure without releasing it. Bottom visibility at twenty feet is approaching a threshold but not yet named as such. Next beat: the number from Gerald's notebook, or the first outside sign of Harrow's approach — a car on Route 9, a name on a phone, a stranger's question at the Kettle. Window: November 14–19, now 11 days out."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 14,
+    "day_in_season": 15,
     "target_length": 31,
     "next_premise": ""
   }
