@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Late autumn",
-  "dayNumber": 29,
-  "weather": "18°F, overcast and still. A thin snow fell between two and four in the morning and stopped without accumulating. The lake surface is the same colour as the sky.",
+  "dayNumber": 30,
+  "weather": "16°F, clear and brittle. No wind. The lake surface is flat enough to read from.",
   "undercurrent": {
     "level": 60,
     "stage": 2,
     "phenomenon": "the lost-and-found",
-    "note": "The grey envelope is the escalation beat: a new format (grey, not cream), addressed to no one, with a temporal statement rather than a name. 'Nearly now' is the correspondent's first assertion about timing — it is not a date but it is a tightening. The town's response is characteristic: Russ notes it is not a date and files nothing; Marigold looks up the etymology and posts it as public information; Agnes validates it without alarm. The plate moving to the front shelf is Doreen's second physical act of preparation — it is now visible from the street. The sparrow is the fourth returned, introduced quietly (it sits, it looks cold, it does what sparrows do), accumulating the returned roster without fanfare. Gerald's longest-yet entry, unread aloud, holds the pressure without releasing it. Bottom visibility at twenty feet is approaching a threshold but not yet named as such. Next beat: the number from Gerald's notebook, or the first outside sign of Harrow's approach — a car on Route 9, a name on a phone, a stranger's question at the Kettle. Window: November 14–19, now 11 days out."
+    "note": "The second grey envelope is the escalation beat: a recipient name (R. Calloway, rhyming with E. Calloway already in the stack), a declarative statement about the dock, and a first signature — H. H is not Harrow's first name; it is the correspondent's initial, and it is also the first assertion of authorial identity. The town's calibration of Gerald's new schedule (Marigold adjusting the coffee start time) is the town's accommodation in its most domestic form. The fifteen-and-a-half inch threshold Gerald names aloud is the first time he has framed a measurement as a threshold rather than a number — a shift from record-keeping to interpretation. Twenty-two-foot clarity and the shape of the Ames rowboat is Toby's next partial description of the lakebed — an object, not a feature, not yet named directly. Box now holds nine items, which is the census number, which is not an accident but has not been named yet. Next beat: the box reaches ten items (one over census), or a stranger's car is seen on Route 9, or Russ asks someone other than Wren about the letters."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 15,
+    "day_in_season": 16,
     "target_length": 31,
     "next_premise": ""
   }

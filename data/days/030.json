@@ -1,0 +1,50 @@
+{
+  "day": 30,
+  "dateline": "Tuesday, November the 4th",
+  "weather": "16°F, clear and brittle. No wind. The lake surface is flat enough to read from.",
+  "stage": 2,
+  "lead": {
+    "headline": "Something Has Begun to Write Back on a Schedule",
+    "byline": "By Wren Aldercott",
+    "body": "On the morning of Tuesday, November the fourth, this editor arrived at the Gazette at seven thirty-one to find not one new item in the lost-and-found box but two: a second grey envelope, addressed — this time — to a name. The name is not D. Harrow. The name is R. Calloway, and there is no R. Calloway in any record this editor has access to, though there is an E. Calloway in the fifth letter, cream-coloured, in the box's own stack of outgoing correspondence. This editor stood at the box for some time considering the relationship between an R and an E, and the order of the alphabet, and the way a series implies a next term. The card inside the second grey envelope reads: 'The dock will be ready before we are.' It is signed, as the first grey card was not, with a single letter: H.\n\nGerald Pith arrived at the Gazette at eight oh four — first again, which means the pattern that was an exception last Saturday has become, in three days, a habit. He measured fifteen and a half inches on the south shore. He read that number from the blue notebook, which is the first time in several days that he has read a measurement aloud. He said: 'Fifteen and a half. That's the fourteen-inch threshold passed, if you're keeping track.' This editor told him she was keeping track. He said: 'Good.' He tapped the cover of the notebook once, closed it, and went to the Kettle. Marigold Vance had confirmed by phone — before Gerald arrived — that she had started the coffee at eight, not seven forty-five, meaning she has adjusted her estimate of Gerald's new route schedule. The town is calibrating around the changed order of things. It is doing this the way it does everything: quietly, competently, and without a meeting.\n\nDoreen Halloway came to the Gazette at half past nine, which she does not do often. She came to place a classified — the text is printed below, under her name, without amendment. She also said, standing in the doorway with her coat still on: 'The Standing on that plate has been fresh every morning for a week, now. I don't see any reason to change that.' This editor asked how long she intended to keep it. Doreen looked at the window. She said: 'Until.' She did not finish the sentence, and this editor did not ask her to, because some sentences in this town have always ended at 'until' and the town has gotten on fine.\n\nThe index card signed H is now in the second notebook. This editor has noticed that H is the first letter of three of the nine residents' surnames — Halloway, Hank, Harrow — and has decided not to note this in the first notebook, because some observations belong in the second one, and the second one is not for the town to read. Ten days until November the fourteenth. The dock is still open water at the far end. Gerald Pith says fifteen and a half inches will not reach it for another week. He said this looking out the Gazette's front window at the tree line, which he cannot see the lake from, but he looked there anyway, which is its own kind of knowing."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 11 — Level: 52; Temp: 22°F; Clarity: Exceptional, Bottom Visible at Twenty-Two Feet; Sign Count: 7; Returned: Mr. Whiskers, Drake, Rabbit, Sparrow",
+      "body": "Filed by Toby Fern, correspondent. Water level up four points overnight. Clarity now twenty-two feet — first time I've been able to make out the shape of what I think is the old rowboat, the Ames family one that went under in '09 or thereabouts. Shape only. The returned four were at the shore at dusk again, facing the deep water, the hum starting around five-twenty. I stayed until five-forty. The sparrow sat on the rabbit's back for about a minute and a half and neither of them moved about it. The sign on Route 9 still says 7. Checked twice. Noted."
+    },
+    {
+      "headline": "A Second Grey Envelope Arrives; Signed, This Time; Box Now Holds Nine Items",
+      "body": "The Gazette's lost-and-found box received its ninth item this morning: a grey envelope containing a single index card. The card is addressed to R. Calloway and signed with the letter H. The sender's address is, again, The Greywater Gazette, 4 Mill Road. This editor notes that the lost-and-found was not, prior to Season 2, Day 14, understood to be a viable return address. It is understood to be one now."
+    },
+    {
+      "headline": "Halloway's Bakery: The Standing Remains; Doreen Says 'Until' and Closes the Subject",
+      "body": "The bakery opened at seven. Nine Standings were made. Eight were served by half past nine. The ninth remains on the cream-and-blue plate, front shelf, visible from the street. Doreen Halloway placed a classified in this edition. She was in good spirits and said the brown butter was right this morning. The plate did not come up again."
+    },
+    {
+      "headline": "Constable Dunmore Counts Ten Days; Does Not Cross Out the Pencil Circle; The Scarf Remains in Service",
+      "body": "Russ Dunmore stopped outside the Gazette window at eight fifty, did not come in, consulted something in his breast pocket, looked at the date on the notice board, and continued to his office. This editor observed this from the desk. He has not filed a report. He has also not uncircled November the fourteenth, which this editor regards as the relevant data point."
+    }
+  ],
+  "classifieds": [
+    "BAKERY, HALLOWAY'S — Daily Standing (brown butter roll, plain). One reserved, plate front shelf. Inquire within. No note necessary. — D. Halloway",
+    "LOST-AND-FOUND, GREYWATER GAZETTE — Items held for: E. Calloway; D. Harrow; R. Calloway; and others. Box is tidy. Pick-up at 4 Mill Road, any hour this editor is in. — W. Aldercott, Ed.",
+    "FOR WEATHERSTRIPPING — Mossley Hardware, 7 Pell Road. In stock. Hank says the south-facing frames need it first. He means yours. — H. Mossley",
+    "NOTICE, THE KETTLE — Morning service continues. Coffee is on by seven. Gerald Pith's stool is not reserved but is understood to be his. First booth is open. Come in out of the cold. — M. Vance"
+  ],
+  "record": [
+    "Gerald Pith, 71, measured 15.5 inches on the south shore at approximately 7:45 a.m., the first measurement read aloud in four days.",
+    "A second grey envelope received at the Gazette lost-and-found; ninth item total; signed H; addressed to R. Calloway; no further postmark."
+  ],
+  "letters": [
+    {
+      "from": "Agnes Crewe, the cottage nearest the water",
+      "body": "The card is signed H. H is not a signature. H is a direction. North is also just a letter, on a compass, and it still points somewhere."
+    },
+    {
+      "from": "Doreen Halloway, Halloway's Bakery, 2 Mill Road",
+      "body": "I have a classified below, which is where the business goes. Up here I'll only say: there is nothing strange about keeping a warm thing warm for someone who is expected. My mother kept a lamp in the window for six weeks the winter of 1987 and nobody thought anything of it. Now. The brown butter is right and the coffee is on and the door is open. That is all a bakery can do."
+    }
+  ],
+  "editorNote": "The lost-and-found box is now a correspondence department. This editor has begun sorting by date received rather than by name, because name is not always the operative field. She is aware that this is a sentence she could not have written two weeks ago."
+}
