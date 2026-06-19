@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Late autumn",
-  "dayNumber": 31,
-  "weather": "9°F, overcast and still. A low ceiling of cloud the colour of old pewter. No wind at all. The lake is a mirror that does not show the sky.",
+  "dayNumber": 32,
+  "weather": "28°F, first hard frost of the season. Clear sky, absolutely clear, no clouds, no wind. The lake is a mirror. A thin white rind of ice at the outermost pilings, exactly where Agnes said it would begin.",
   "undercurrent": {
-    "level": 60,
-    "stage": 2,
+    "level": 78,
+    "stage": 3,
     "phenomenon": "the lost-and-found",
-    "note": "The box has crossed ten — one over census — and the new envelope bears Wren's own surname with a wrong initial, which is the correspondent's first direct address to a named resident rather than a future arrival. T. Aldercott does not exist; H knows the editor's name; the window seat note is domestic and specific in a way the dock note was not. Russ walking the dock and counting is his first physical inspection — he has moved from paper records to the wood itself. The Ames rowboat standing upright is Toby's escalation: not a shape, not a silhouette, but an impossibility stated quietly in a letter to the editor. Gerald naming a 'rate' rather than a 'number' means two residents are now framing — not just recording. Doreen baking ten without comment is the town's accommodation at its most complete: she did not explain; she simply adjusted. Next beat: the dock freezes from the outside in (as Agnes said it would), beginning at the pilings — a partial freeze only, but visible and dateable; or a stranger's car is seen on Route 9; or Russ asks Agnes directly what she knows."
+    "note": "The dock has begun to freeze from the outside in, precisely as Agnes Crewe stated in print. The prediction is now on the dock itself, confirmed by two witnesses before eight a.m. The town has crossed from 'something is happening' into 'something is arriving.' Russ opened a file; this is the constabulary's first official acknowledgment. Agnes told Wren to set out the good cups, which is the most direct instruction she has given. The box holds ten items — one over census — and no new envelope today, which is its own kind of pressure: the correspondence has said what it needed to say. The next beat is the middle planks freezing (around the 11th), the shore end on the 14th, and then D. Harrow arrives or the lake does something that constitutes an arrival. Doreen's turnovers carry the same pattern as the blue border: the town is beginning to rhyme with itself. Toby put his phone away, which means even the observer has passed the threshold of what documentation can hold."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 17,
+    "day_in_season": 18,
     "target_length": 31,
     "next_premise": ""
   }
