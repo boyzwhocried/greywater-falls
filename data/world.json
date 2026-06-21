@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Late autumn",
-  "dayNumber": 32,
-  "weather": "28°F, first hard frost of the season. Clear sky, absolutely clear, no clouds, no wind. The lake is a mirror. A thin white rind of ice at the outermost pilings, exactly where Agnes said it would begin.",
+  "dayNumber": 33,
+  "weather": "26°F, dead calm. Overcast — the first clouds in four days, low and even, the colour of old pewter. No snow. The lake is no longer a mirror; it is the same grey as the sky, and the horizon between them has dissolved.",
   "undercurrent": {
-    "level": 78,
+    "level": 88,
     "stage": 3,
     "phenomenon": "the lost-and-found",
-    "note": "The dock has begun to freeze from the outside in, precisely as Agnes Crewe stated in print. The prediction is now on the dock itself, confirmed by two witnesses before eight a.m. The town has crossed from 'something is happening' into 'something is arriving.' Russ opened a file; this is the constabulary's first official acknowledgment. Agnes told Wren to set out the good cups, which is the most direct instruction she has given. The box holds ten items — one over census — and no new envelope today, which is its own kind of pressure: the correspondence has said what it needed to say. The next beat is the middle planks freezing (around the 11th), the shore end on the 14th, and then D. Harrow arrives or the lake does something that constitutes an arrival. Doreen's turnovers carry the same pattern as the blue border: the town is beginning to rhyme with itself. Toby put his phone away, which means even the observer has passed the threshold of what documentation can hold."
+    "note": "The correspondence is closed — no new envelope today, and the town has read that silence correctly as completion rather than absence. The box holds ten items and will hold ten items until the arrival. The town convened at noon; eight residents sat at the Kettle counter and looked at everything that has happened and said: we will be ready. Doreen brought a covered plate to the Gazette without being asked. Marigold extended hours. Russ called it a meeting and meant it. Gerald wrote the projection in ink. Agnes did not attend and did not need to. The middle planks are glazed. The shore-end freeze is coming around the 11th-12th. After the shore end, the arrival. The next beat is the shore end freezing, which is the signal. D. Harrow — or whoever H has been writing on behalf of — arrives or the lake constitutes an arrival in some other form. Toby's rowboat is still upright at twenty-eight feet. The hum is at its lowest recorded note. The town is not frightened. The town is making soup. This is the cresting: the strangeness is fully open, accommodated, prepared for. Everything now moves toward the resolution."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 18,
+    "day_in_season": 19,
     "target_length": 31,
     "next_premise": ""
   }
