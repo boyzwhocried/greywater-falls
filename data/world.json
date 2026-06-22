@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Late autumn",
-  "dayNumber": 33,
-  "weather": "26°F, dead calm. Overcast — the first clouds in four days, low and even, the colour of old pewter. No snow. The lake is no longer a mirror; it is the same grey as the sky, and the horizon between them has dissolved.",
+  "dayNumber": 34,
+  "weather": "24°F, a breath of wind from the northwest — the first directional wind in five days. The overcast has thinned to gauze; pale winter light pressing through without quite arriving. The lake is perfectly still despite the wind, which is not how lakes work.",
   "undercurrent": {
-    "level": 88,
+    "level": 91,
     "stage": 3,
     "phenomenon": "the lost-and-found",
-    "note": "The correspondence is closed — no new envelope today, and the town has read that silence correctly as completion rather than absence. The box holds ten items and will hold ten items until the arrival. The town convened at noon; eight residents sat at the Kettle counter and looked at everything that has happened and said: we will be ready. Doreen brought a covered plate to the Gazette without being asked. Marigold extended hours. Russ called it a meeting and meant it. Gerald wrote the projection in ink. Agnes did not attend and did not need to. The middle planks are glazed. The shore-end freeze is coming around the 11th-12th. After the shore end, the arrival. The next beat is the shore end freezing, which is the signal. D. Harrow — or whoever H has been writing on behalf of — arrives or the lake constitutes an arrival in some other form. Toby's rowboat is still upright at twenty-eight feet. The hum is at its lowest recorded note. The town is not frightened. The town is making soup. This is the cresting: the strangeness is fully open, accommodated, prepared for. Everything now moves toward the resolution."
+    "note": "Agnes's letter tonight is the pivot: she has moved the arrival window from the 11th-12th to tonight's cold snap as the shore-end trigger, meaning the arrival is now closer than any projection allowed. The town is not panicking — it is finishing its Saturday with the forward lean of people who feel the date arriving. Wren has not yet moved the cups from the shelf to the table, but she read Agnes's letter twice. The rowboat's shadow is the new signal — Toby has filed it, Agnes has named it, and it points toward something below the surface that remembers its own light. The undercurrent is at its fullest extent. The resolution beat is the shore end freezing and whatever constitutes the arrival."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 19,
+    "day_in_season": 20,
     "target_length": 31,
     "next_premise": ""
   }

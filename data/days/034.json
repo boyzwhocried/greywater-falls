@@ -1,0 +1,50 @@
+{
+  "day": 34,
+  "dateline": "Saturday, November the 8th",
+  "weather": "24°F, a breath of wind from the northwest — the first directional wind in five days. The overcast has thinned to gauze; pale winter light pressing through without quite arriving. The lake is perfectly still despite the wind, which is not how lakes work.",
+  "stage": 3,
+  "lead": {
+    "headline": "The Town Is Ready; the Shore End Has Not Yet Frozen; the Kettle Light Is On",
+    "byline": "By Wren Aldercott",
+    "body": "On the morning of Saturday, November the eighth, Greywater Falls woke early and did not make a fuss about it. Gerald Pith was at the south shore at six twenty-two — the earliest he has gone, by this editor's reckoning, in seventeen days of measurement — and found the middle planks of the dock frozen through now, not glazed, frozen in the true sense, white and opaque and carrying the weight of a man without complaint. He measured seventeen and five-eighths inches, which is an increase of three-eighths over yesterday and a deceleration in the rate, and he said so when he came to the Gazette at seven fourteen: 'The rate is slowing.' He said it carefully, the way he says careful things, and then he added: 'That is not the same as stopping.' He went to the Kettle. Marigold had the coffee on. This is no longer news; this is the town's heartbeat, and this editor records it today because a heartbeat is worth recording, and because it may be the last morning she records it this way, before whatever comes next changes the way mornings go.\n\nDoreen Halloway opened Halloway's Bakery at six-thirty, which is a Saturday half-hour earlier than her sign says and which she has not explained to anyone. The plate with the blue border was on the front shelf when this editor walked past at seven o'clock. The Standing on it was fresh. The bakery smelled of cardamom and something sweeter that this editor could not identify and did not try to, because there are mornings when the right response to a smell is to let it be what it is. Doreen was behind the counter in her good apron — not the flour-dusted working one, the clean one with the embroidered edge that she wears for the harvest festival and the Christmas market — and she said 'good morning' in the brisk, decisive way she says things when she has already considered all the alternatives and found them wanting. She did not say anything about the plate. The plate did not require commentary.\n\nRuss Dunmore came to the Gazette at eight fifty with a form he had typed himself on the station's old machine — the keys stick on the F and the W, which gives his official documents a particular cadence. The form was titled, in the careful typography of a man working around two broken keys, 'NOTICE O_ ANTICIPATED ARRI_AL — GREY_ATER _ALLS (PROVISIONAL).' He set it on the desk and said it was for the record and that he wasn't sure which record and that perhaps this editor could help with that. This editor told him she would print the relevant portions. He said: 'That's what I figured.' He looked at the lost-and-found box the way he always does — counting without wanting to — and it still held ten items, and he nodded once, and he left to go open the station for the morning. He did not look back at the box. That is new.\n\nThe shore end of the dock is still open water. Gerald's projection gives it three to four days — the eleventh or the twelfth, as this paper has printed twice now — and the town is holding that window the way you hold a date circled on a calendar: not with dread, not with impatience, but with a quiet forward lean that has become the town's resting posture for this particular November. Agnes Crewe has not written. Agnes Crewe does not need to write. The cups are on the shelf, the plate is on the counter, the Kettle light is on, and eight residents of Greywater Falls are going about a Saturday with the particular unhurried attention of people who know that the thing they have been waiting for is close enough now that hurrying would be rude."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 15 — Level: 73; Temp: 15°F; Clarity: Exceptional, Visible to Twenty-Nine Feet; Sign Count: 7; Returned: Mr. Whiskers, Drake, Rabbit, Sparrow",
+      "body": "Filed by Toby Fern, Lake Watch correspondent. Water level at south-shore gauge: 73 (undercurrent scale). Surface temperature: 15°F. Clarity: exceptional — twenty-nine feet, the lakebed fully visible, the Ames rowboat upright and distinct at the bottom, its gunwales undamaged. The Route 9 welcome sign reads 7. The four returned gathered at the outer shore at dusk as usual, facing the deep water, the hum low and continuous. Toby's note, appended to the filed copy: 'The rowboat's shadow is pointing the wrong way for the angle of the light. I have checked this twice. I don't have a category for it yet.'"
+    },
+    {
+      "headline": "Dock Freeze Update: Middle Planks Solid; Shore End Still Open; Gerald Pith Notes the Rate Is Slowing, Not Stopping",
+      "body": "Gerald Pith's Saturday measurement confirms the middle planks have frozen through overnight. 'Glazed Thursday, frozen Friday, solid Saturday,' he said at the Gazette this morning, reading from the blue notebook in the precise, slightly apologetic voice of a man whose notebook has been right about everything for two weeks. The shore-end planks remain unfrozen. Gerald's revised projection: three to four days, dependent on tonight's wind direction holding. He has drawn a line in the notebook under the dates November 11th and 12th and has not drawn a line under any other dates."
+    },
+    {
+      "headline": "Constable Dunmore Files a Provisional Arrival Notice; Is Uncertain Which Register It Belongs In; This Paper Will Hold a Copy",
+      "body": "Russ Dunmore delivered to the Gazette this morning a self-typed form noticing the anticipated arrival of an unnamed correspondent, designated 'H,' in connection with the active lost-and-found correspondence. The form acknowledges the correspondence, the ten items in the box, and the three grey envelopes addressed to residents not yet in Greywater Falls. Russ said: 'I don't know which filing system this is for. I know it's for one.' The Gazette will hold the copy in the lost-and-found box, which is the correct address for this matter, and has been for some weeks now."
+    },
+    {
+      "headline": "Halloway's Bakery Opens at Six-Thirty on a Saturday; Doreen Wears the Good Apron; No Further Explanation Is Offered or Required",
+      "body": "Halloway's Bakery opened thirty minutes ahead of its Saturday schedule. The plate with the blue border held a fresh Standing on the front shelf. Doreen Halloway was in the clean embroidered apron she reserves for the harvest festival and the Christmas market. When asked about the early opening, she said: 'Now. Just seemed right.' Three customers came in before eight. None of them mentioned the apron. None of them needed to."
+    }
+  ],
+  "classifieds": [
+    "LOST-AND-FOUND, The Greywater Gazette, 4 Mill Road: The box holds ten items. All are held pending collection. The correspondence is complete. The address remains open.",
+    "KETTLE DINER — Saturday hours extended through the foreseeable future. Hot soup and full pot. Marigold says: come as you are, come when you need to. We're on.",
+    "WANTED: One additional place setting, good quality, not precious. Must be presentable. Contact D. Halloway, Halloway's Bakery, Mill Road. Ask for Doreen.",
+    "FOR THE RECORD — The Ames rowboat, reported missing from the south shore, September 14th, has been located at approximately twenty-nine feet depth, south quadrant. It is upright. It is in good condition. No salvage is planned at this time. — Filed, R. Dunmore, Constable."
+  ],
+  "record": [
+    "Gerald Pith to the south shore, six twenty-two a.m.; dock middle planks confirmed frozen through; measurement seventeen and five-eighths inches; noted in the blue notebook and at this office.",
+    "Russ Dunmore delivered one provisional arrival notice to the Gazette, eight fifty a.m.; filed in the lost-and-found box per mutual agreement; the F-key and W-key on the station typewriter remain in need of service."
+  ],
+  "letters": [
+    {
+      "from": "Toby Fern, Lake Watch Correspondent, Greywater Falls",
+      "body": "Dear Wren — I've been thinking about the rowboat shadow and I think I need to say it plainly: the light hits the bottom of the lake from the south-southwest at that depth and time of day. The shadow from the Ames rowboat is falling north-northeast. I know what shadows do and they don't do that. I'm not saying it's bad. I'm not saying anything except what I can observe, which is what the Watch is for, and what I can observe is that the rowboat is casting a shadow from a light source I can't locate from above the surface. I asked Agnes about it when I stopped at her step on my way home. She said: 'Things that have been down a long time sometimes remember their own light.' I wrote that down. I'm still working on the category."
+    },
+    {
+      "from": "Agnes Crewe, the cottage nearest the water",
+      "body": "The shore end will go in the cold snap. The cold snap is tonight. Three days earlier than the middle estimate, two days earlier than the early one. Put the cups on the table, Wren. Not the shelf. The table."
+    }
+  ],
+  "editorNote": "This editor has been putting off setting out the good cups. She found them this morning on the second shelf, wrapped in a cloth, and she took the cloth off and looked at them for a while. She has not moved them to the table yet. She is getting there."
+}
