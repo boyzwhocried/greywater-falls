@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Late autumn",
-  "dayNumber": 34,
-  "weather": "24°F, a breath of wind from the northwest — the first directional wind in five days. The overcast has thinned to gauze; pale winter light pressing through without quite arriving. The lake is perfectly still despite the wind, which is not how lakes work.",
+  "dayNumber": 35,
+  "weather": "19°F at dawn, dropping through the day. The sky sealed white, windless. The lake a mirror of a sealed sky. Shore end of the dock froze at 4:14 p.m. The first true stillness of the season — the hum gone quiet at dusk for the first time.",
   "undercurrent": {
-    "level": 91,
+    "level": 88,
     "stage": 3,
     "phenomenon": "the lost-and-found",
-    "note": "Agnes's letter tonight is the pivot: she has moved the arrival window from the 11th-12th to tonight's cold snap as the shore-end trigger, meaning the arrival is now closer than any projection allowed. The town is not panicking — it is finishing its Saturday with the forward lean of people who feel the date arriving. Wren has not yet moved the cups from the shelf to the table, but she read Agnes's letter twice. The rowboat's shadow is the new signal — Toby has filed it, Agnes has named it, and it points toward something below the surface that remembers its own light. The undercurrent is at its fullest extent. The resolution beat is the shore end freezing and whatever constitutes the arrival."
+    "note": "The cresting has occurred. The shore end froze at four-fourteen. The correspondent arrived at four-nineteen. R. Calloway is in the green house on Pell Road — she placed item eleven in the box herself: 'Thank you. I have it now.' The returned animals went quiet at dusk. The rowboat's light is visible at thirty-one feet. The level drops slightly because the arrival has landed — the pressure of anticipation is releasing into the reality of presence. Resolution is the next phase: the town learns what it has received, and whether Agnes's secret holds. The second undercurrent to watch: the green house has a quiet occupant nobody is afraid of, and now there are two. Mrs. Vance's pie will be on a different step tomorrow, or the same step with a different implication."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 20,
+    "day_in_season": 21,
     "target_length": 31,
     "next_premise": ""
   }
