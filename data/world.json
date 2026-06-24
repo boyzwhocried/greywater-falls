@@ -3,15 +3,15 @@
   "motto": "Serving Greywater Falls since 1887, and the lake somewhat longer.",
   "volume": "Vol. CXXXVII",
   "founded": 1887,
-  "population": 9,
+  "population": 10,
   "season": "Late autumn",
-  "dayNumber": 35,
-  "weather": "19°F at dawn, dropping through the day. The sky sealed white, windless. The lake a mirror of a sealed sky. Shore end of the dock froze at 4:14 p.m. The first true stillness of the season — the hum gone quiet at dusk for the first time.",
+  "dayNumber": 36,
+  "weather": "19°F at first light, climbing to 24°F by midmorning, then holding. The sky opened — pale winter blue, clear as the lake, almost impolitely bright. No wind. The dock ice made no sound. The hum returned at dusk, one full step lower than anyone had yet heard it.",
   "undercurrent": {
-    "level": 88,
+    "level": 91,
     "stage": 3,
     "phenomenon": "the lost-and-found",
-    "note": "The cresting has occurred. The shore end froze at four-fourteen. The correspondent arrived at four-nineteen. R. Calloway is in the green house on Pell Road — she placed item eleven in the box herself: 'Thank you. I have it now.' The returned animals went quiet at dusk. The rowboat's light is visible at thirty-one feet. The level drops slightly because the arrival has landed — the pressure of anticipation is releasing into the reality of presence. Resolution is the next phase: the town learns what it has received, and whether Agnes's secret holds. The second undercurrent to watch: the green house has a quiet occupant nobody is afraid of, and now there are two. Mrs. Vance's pie will be on a different step tomorrow, or the same step with a different implication."
+    "note": "The cresting has fully arrived. The correspondent is in the town. The box is still open — Agnes confirmed it. The hum resumed lower, which means the lake is not done. Two letters remain unaccounted for: R. Calloway received hers and came. T. Aldercott's letter has been logged but that resident has not yet arrived — the town does not know this person. The green house on Pell Road now has two quiet occupants, and Mrs. Vance's pie step has changed. The population is ten by cup count, nine by census, seven by sign. The sign will not change. The level ticks up slightly because the strangeness has not peaked — it has only revealed its first face. The box is not closed. Resolution begins next but the channel is still open, and what that means is the next season's seed."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 21,
+    "day_in_season": 22,
     "target_length": 31,
     "next_premise": ""
   }
