@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 10,
   "season": "Late autumn",
-  "dayNumber": 36,
-  "weather": "19°F at first light, climbing to 24°F by midmorning, then holding. The sky opened — pale winter blue, clear as the lake, almost impolitely bright. No wind. The dock ice made no sound. The hum returned at dusk, one full step lower than anyone had yet heard it.",
+  "dayNumber": 37,
+  "weather": "8°F at first light, climbing no higher than 14°F by afternoon. Pewter sky, low and close. The lake fully sealed, shore to shore. Dock flags down at noon. The hum returned at the ice-line at dusk, steady for eleven minutes and fourteen seconds.",
   "undercurrent": {
-    "level": 91,
+    "level": 93,
     "stage": 3,
     "phenomenon": "the lost-and-found",
-    "note": "The cresting has fully arrived. The correspondent is in the town. The box is still open — Agnes confirmed it. The hum resumed lower, which means the lake is not done. Two letters remain unaccounted for: R. Calloway received hers and came. T. Aldercott's letter has been logged but that resident has not yet arrived — the town does not know this person. The green house on Pell Road now has two quiet occupants, and Mrs. Vance's pie step has changed. The population is ten by cup count, nine by census, seven by sign. The sign will not change. The level ticks up slightly because the strangeness has not peaked — it has only revealed its first face. The box is not closed. Resolution begins next but the channel is still open, and what that means is the next season's seed."
+    "note": "CRESTING, fully in the open. A second letter to T. Aldercott has arrived — the channel has sent twice to the same name and no one has come yet. Calloway is present and has named what she is (a librarian, someone who indexes things) without naming what she found. The town is no longer wondering whether the box is strange; it is adjusting its procedure to accommodate a strange box, which is the town's defining move. Agnes's line 'the channel isn't particular' is the season's thesis stated plainly. The resolution begins when T. Aldercott either arrives or doesn't, and the town makes room either way. The undercurrent holds high because the second letter is unresolved. The rowboat has shifted north — it is moving. The flags came down without an order: the town's unconscious is ahead of its conscious. Wren's final sentence is the season's emotional peak in print."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 22,
+    "day_in_season": 23,
     "target_length": 31,
     "next_premise": ""
   }
