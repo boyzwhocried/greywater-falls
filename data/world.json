@@ -3,15 +3,15 @@
   "motto": "Serving Greywater Falls since 1887, and the lake somewhat longer.",
   "volume": "Vol. CXXXVII",
   "founded": 1887,
-  "population": 10,
+  "population": 11,
   "season": "Late autumn",
-  "dayNumber": 37,
-  "weather": "8°F at first light, climbing no higher than 14°F by afternoon. Pewter sky, low and close. The lake fully sealed, shore to shore. Dock flags down at noon. The hum returned at the ice-line at dusk, steady for eleven minutes and fourteen seconds.",
+  "dayNumber": 38,
+  "weather": "4°F at first light, rising no higher than 9°F by midday. Sky the white of old paper, close and still. No wind. The lake sealed entirely, shore to shore, one unbroken pane. Smoke from every chimney going straight up.",
   "undercurrent": {
-    "level": 93,
+    "level": 91,
     "stage": 3,
     "phenomenon": "the lost-and-found",
-    "note": "CRESTING, fully in the open. A second letter to T. Aldercott has arrived — the channel has sent twice to the same name and no one has come yet. Calloway is present and has named what she is (a librarian, someone who indexes things) without naming what she found. The town is no longer wondering whether the box is strange; it is adjusting its procedure to accommodate a strange box, which is the town's defining move. Agnes's line 'the channel isn't particular' is the season's thesis stated plainly. The resolution begins when T. Aldercott either arrives or doesn't, and the town makes room either way. The undercurrent holds high because the second letter is unresolved. The rowboat has shifted north — it is moving. The flags came down without an order: the town's unconscious is ahead of its conscious. Wren's final sentence is the season's emotional peak in print."
+    "note": "CRESTING and beginning to turn. Both letters to T. Aldercott have been collected. The box is at thirteen. The channel has delivered what it came to deliver — two arrivals, one who indexes and one who carries a typewriter — and the hum at dusk was shorter than it has been, which is the first sign of the arc pulling back. The lake has said what it came to say. The town is now in the position of having received the message and not yet knowing what to do with having received it, which is the precise emotional register of the season's peak. The undercurrent holds high because resolution has not yet begun — the box is still open, the rowboat has not moved, Agnes has not gone inside for good — but the note of urgency is dropping. The level edges down because the second arrival has arrived: the channel has been answered. What comes next is not escalation but the long, quiet, warm work of accommodation."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 23,
+    "day_in_season": 24,
     "target_length": 31,
     "next_premise": ""
   }
