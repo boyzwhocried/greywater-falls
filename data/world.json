@@ -3,15 +3,15 @@
   "motto": "Serving Greywater Falls since 1887, and the lake somewhat longer.",
   "volume": "Vol. CXXXVII",
   "founded": 1887,
-  "population": 11,
+  "population": 13,
   "season": "Late autumn",
-  "dayNumber": 38,
-  "weather": "4°F at first light, rising no higher than 9°F by midday. Sky the white of old paper, close and still. No wind. The lake sealed entirely, shore to shore, one unbroken pane. Smoke from every chimney going straight up.",
+  "dayNumber": 39,
+  "weather": "3°F at first light, steadying to 7°F by noon. Sky clear and high and very blue. No wind to speak of — a southward drift, too gentle to be called a wind, the first movement of air in four days. The lake sealed and white and still.",
   "undercurrent": {
-    "level": 91,
-    "stage": 3,
+    "level": 70,
+    "stage": 2,
     "phenomenon": "the lost-and-found",
-    "note": "CRESTING and beginning to turn. Both letters to T. Aldercott have been collected. The box is at thirteen. The channel has delivered what it came to deliver — two arrivals, one who indexes and one who carries a typewriter — and the hum at dusk was shorter than it has been, which is the first sign of the arc pulling back. The lake has said what it came to say. The town is now in the position of having received the message and not yet knowing what to do with having received it, which is the precise emotional register of the season's peak. The undercurrent holds high because resolution has not yet begun — the box is still open, the rowboat has not moved, Agnes has not gone inside for good — but the note of urgency is dropping. The level edges down because the second arrival has arrived: the channel has been answered. What comes next is not escalation but the long, quiet, warm work of accommodation."
+    "note": "The channel has delivered everything it came to deliver. Thirteen items in the box; no new ones today. The hum shortened again — six minutes twelve seconds — and the rowboat's shadow has corrected itself, which is the clearest sign the arc is resolving: things that were wrong are becoming right, not violently, but by degrees, the way the town always does things. Wren moved the cups. Agnes placed a classified for a chair. The undercurrent is dropping toward accommodation; the strangeness is not ending, it is settling in, becoming part of the town's fabric rather than its wound. The box will go back to page three. The hum will be shorter tomorrow. The returned will keep gathering, but more quietly, more routinely — the way the lake hums when it has said everything and is simply breathing. Level drops meaningfully today; stage holds at 3 because Agnes's chair classified and Toby's corrected shadow are loose threads still being braided into the ordinary, not resolved out of existence."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 24,
+    "day_in_season": 25,
     "target_length": 31,
     "next_premise": ""
   }
