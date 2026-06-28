@@ -3,15 +3,15 @@
   "motto": "Serving Greywater Falls since 1887, and the lake somewhat longer.",
   "volume": "Vol. CXXXVII",
   "founded": 1887,
-  "population": 13,
+  "population": 15,
   "season": "Late autumn",
-  "dayNumber": 39,
-  "weather": "3°F at first light, steadying to 7°F by noon. Sky clear and high and very blue. No wind to speak of — a southward drift, too gentle to be called a wind, the first movement of air in four days. The lake sealed and white and still.",
+  "dayNumber": 40,
+  "weather": "2°F at dawn, holding to 5°F by midmorning. Sky low and pale, the colour of old linen. A light snow — not falling so much as arriving, each flake finding its place without hurry. The lake sealed and white and undisturbed beneath it. Quarter inch of accumulation in the square by afternoon.",
   "undercurrent": {
-    "level": 70,
+    "level": 52,
     "stage": 2,
     "phenomenon": "the lost-and-found",
-    "note": "The channel has delivered everything it came to deliver. Thirteen items in the box; no new ones today. The hum shortened again — six minutes twelve seconds — and the rowboat's shadow has corrected itself, which is the clearest sign the arc is resolving: things that were wrong are becoming right, not violently, but by degrees, the way the town always does things. Wren moved the cups. Agnes placed a classified for a chair. The undercurrent is dropping toward accommodation; the strangeness is not ending, it is settling in, becoming part of the town's fabric rather than its wound. The box will go back to page three. The hum will be shorter tomorrow. The returned will keep gathering, but more quietly, more routinely — the way the lake hums when it has said everything and is simply breathing. Level drops meaningfully today; stage holds at 3 because Agnes's chair classified and Toby's corrected shadow are loose threads still being braided into the ordinary, not resolved out of existence."
+    "note": "The channel is closed; the box holds thirteen and is done. The hum is at four minutes fifty-one seconds and still shortening — it is not fading so much as finishing, the way a note finishes when it has been sustained exactly as long as it needed to be. The undercurrent is resolving warmly: the strangeness is now furniture, not weather. Calloway and T. Aldercott are finding lodgings. Gerald set his notebook on the shelf. Agnes stayed inside. The rowboat's shadow falls correctly. These are not ends; they are the new ordinary. Level drops significantly — the pressure has become accommodation. Stage holds at 2 because the phenomenon is still present, merely settled; it will not reach 0 while the returned still gather and the hum still sounds. Next season's thread is not yet visible, only faintly felt, like a cold draft from a door that hasn't opened yet."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,8 +21,8 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 25,
+    "day_in_season": 26,
     "target_length": 31,
-    "next_premise": ""
+    "next_premise": "In the spring, when the ice goes out, the lake gives something back that is not an animal — a set of keys, a coat, a pair of boots still laced — and the objects are dry, and warm, and they fit someone in town exactly, someone who has never lost them."
   }
 }
