@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Late autumn",
-  "dayNumber": 40,
-  "weather": "2°F at dawn, holding to 5°F by midmorning. Sky low and pale, the colour of old linen. A light snow — not falling so much as arriving, each flake finding its place without hurry. The lake sealed and white and undisturbed beneath it. Quarter inch of accumulation in the square by afternoon.",
+  "dayNumber": 41,
+  "weather": "3°F at dawn, rising to 7°F by mid-morning. Sky clear for the first time in a week — the pale winter blue that means the clouds have finished their business and moved on. The lake's ice catching the low sun and throwing it back as a long, clean glare. No wind. The snow from yesterday still on the rooftops, undisturbed.",
   "undercurrent": {
-    "level": 52,
+    "level": 38,
     "stage": 2,
     "phenomenon": "the lost-and-found",
-    "note": "The channel is closed; the box holds thirteen and is done. The hum is at four minutes fifty-one seconds and still shortening — it is not fading so much as finishing, the way a note finishes when it has been sustained exactly as long as it needed to be. The undercurrent is resolving warmly: the strangeness is now furniture, not weather. Calloway and T. Aldercott are finding lodgings. Gerald set his notebook on the shelf. Agnes stayed inside. The rowboat's shadow falls correctly. These are not ends; they are the new ordinary. Level drops significantly — the pressure has become accommodation. Stage holds at 2 because the phenomenon is still present, merely settled; it will not reach 0 while the returned still gather and the hum still sounds. Next season's thread is not yet visible, only faintly felt, like a cold draft from a door that hasn't opened yet."
+    "note": "The box is closed and still and holds thirteen. The hum reached three minutes even — a round number, a done-number — and the lake appears to be counting done and not-done and has arrived at done. The returned are gentle and present and unhurried. The undercurrent is furniture now, not weather: T. Aldercott at the worktable, Calloway with the archive, Gerald without the notebook, Marigold writing the headcount on the specials board. The strange has been absorbed so thoroughly that the accommodation is indistinguishable from the ordinary life of the town. Level continues to fall — pressure resolved into warmth. Stage holds at 2 because the returned still gather and the hum still sounds, but both are diminishing toward a natural finish, not an ending but a settling. The next thread is not yet visible. It is cold, and somewhere a door has a draft that has no source, and nobody has mentioned it yet."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,8 +21,8 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 26,
+    "day_in_season": 27,
     "target_length": 31,
-    "next_premise": "In the spring, when the ice goes out, the lake gives something back that is not an animal — a set of keys, a coat, a pair of boots still laced — and the objects are dry, and warm, and they fit someone in town exactly, someone who has never lost them."
+    "next_premise": "The Gazette's archive cataloguing project — begun by Calloway and Gerald on a Wednesday in November — turns up a complete edition from a date that has not happened yet, typeset in Wren Aldercott's hand, reporting on a spring the town has not yet lived through."
   }
 }
