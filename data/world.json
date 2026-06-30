@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Late autumn",
-  "dayNumber": 41,
-  "weather": "3°F at dawn, rising to 7°F by mid-morning. Sky clear for the first time in a week — the pale winter blue that means the clouds have finished their business and moved on. The lake's ice catching the low sun and throwing it back as a long, clean glare. No wind. The snow from yesterday still on the rooftops, undisturbed.",
+  "dayNumber": 42,
+  "weather": "Overcast by mid-morning, 4°F, warmest of the week. No wind. Ice on the lake dull and unremarkable. Light ambiguous snow in the afternoon. Clear by evening.",
   "undercurrent": {
-    "level": 38,
+    "level": 44,
     "stage": 2,
     "phenomenon": "the lost-and-found",
-    "note": "The box is closed and still and holds thirteen. The hum reached three minutes even — a round number, a done-number — and the lake appears to be counting done and not-done and has arrived at done. The returned are gentle and present and unhurried. The undercurrent is furniture now, not weather: T. Aldercott at the worktable, Calloway with the archive, Gerald without the notebook, Marigold writing the headcount on the specials board. The strange has been absorbed so thoroughly that the accommodation is indistinguishable from the ordinary life of the town. Level continues to fall — pressure resolved into warmth. Stage holds at 2 because the returned still gather and the hum still sounds, but both are diminishing toward a natural finish, not an ending but a settling. The next thread is not yet visible. It is cold, and somewhere a door has a draft that has no source, and nobody has mentioned it yet."
+    "note": "The box holds thirteen and is furniture now. The hum at two minutes forty seconds — shorter, cleaner, finishing rather than fading. Toby's notation stripped of parenthetical comment: the documentation has grown into the town's body the way scar tissue does, unremarkable, load-bearing. Calloway's announcement is the season's quietest conclusive act: she is staying. The arc does not require resolution to be resolved; it requires accommodation, and the accommodation is complete. The south-window draft at Mossley Hardware is the new thread, barely begun — a draft from a sealed window, noted once, not filed, not discussed. It is the faintest possible irregularity. It has no urgency. It is only there, the way the next thing is always already there before anyone has named it. Level falling toward 40; stage holds at 2 while the returned still gather, but the pressure is now warmth rather than weight. The season is composing its last paragraph."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,8 +21,8 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 27,
+    "day_in_season": 28,
     "target_length": 31,
-    "next_premise": "The Gazette's archive cataloguing project — begun by Calloway and Gerald on a Wednesday in November — turns up a complete edition from a date that has not happened yet, typeset in Wren Aldercott's hand, reporting on a spring the town has not yet lived through."
+    "next_premise": "The south-facing window at Mossley Hardware has been sealed since August. The draft that comes through it is warm."
   }
 }
