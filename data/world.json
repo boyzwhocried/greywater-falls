@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Late autumn",
-  "dayNumber": 43,
-  "weather": "Cold and clear. Hard frost overnight; the square glazed by six a.m. Sky pale and high and empty. Temperature 1°F at dawn, rising to 3°F by noon. No wind. The ice on the lake without seam or blemish, as though it has been there always.",
+  "dayNumber": 44,
+  "weather": "Overcast and still. A low, pale sky that holds the cold without releasing it. Temperature 28°F through the morning, easing to 31°F by afternoon. No wind at all. The smoke from three chimneys rises perfectly straight. The lake's ice is the colour of old pewter under the cloud cover.",
   "undercurrent": {
-    "level": 38,
+    "level": 30,
     "stage": 2,
     "phenomenon": "the lost-and-found",
-    "note": "Level falling steadily toward 35 — the warmth-pressure now, not weight. The box is furniture. The hum at two minutes fifteen seconds: shorter, cleaner, finished not fading. The season's last paragraph is written. The south-window draft has stopped — a seed that opened and closed without escalating, which is the town's most characteristic move. T. Aldercott has the third look now, the one that is neither searching nor relieved but deciding-what-comes-next. Agnes's cups are on the table. The coda is one day out. Stage holds at 2 only because the returned still gather; the pressure is entirely warmth now, the warmth of a room after the difficult conversation has gone well. The next strangeness is dormant in the south window's silence — something sealed that was not sealed before, something that may or may not hold. No urgency. Not yet named."
+    "note": "Level settling toward 28 — the warmth-pressure now, entirely. The box is furniture. Gerald's first decrease is the season's formal inflection point; the lake is drawing back, the hum is shortening, and the returned are unhurried. T. Aldercott's third look has become a working arrangement. The plate with the blue border is on the second shelf. Russ sat in the chair for twelve minutes and said nothing, which is the longest voluntary stay he has managed all season, and it cost him nothing. Toby's 'The Shortening' is the right name for this phase and he knows it. The coda is here. Stage holds at 2 because the returned still gather, but the pressure is pure resolution — warm, unhurried, conclusive. The next strangeness is still dormant behind the south window's silence: something sealed, patient, not yet named. It will wait."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,8 +21,8 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 29,
+    "day_in_season": 30,
     "target_length": 31,
-    "next_premise": "The south-facing window at Mossley Hardware has been sealed since August. The draft that comes through it is warm."
+    "next_premise": "The south-facing window at Mossley Hardware was sealed against the draft in late autumn — but on the first warm day of spring, something on the other side will knock, politely, twice, and wait."
   }
 }
