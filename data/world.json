@@ -4,14 +4,14 @@
   "volume": "Vol. CXXXVII",
   "founded": 1887,
   "population": 15,
-  "season": "Late autumn",
-  "dayNumber": 44,
-  "weather": "Overcast and still. A low, pale sky that holds the cold without releasing it. Temperature 28°F through the morning, easing to 31°F by afternoon. No wind at all. The smoke from three chimneys rises perfectly straight. The lake's ice is the colour of old pewter under the cloud cover.",
+  "season": "Early winter",
+  "dayNumber": 45,
+  "weather": "Clear and cold, the first genuinely clear morning in a fortnight. Temperature 24°F at dawn, climbing to 29°F by midday. The sky is a pale hard blue that does not offer warmth but offers light. No wind. The lake's ice holds its pewter colour under the sun and gives it back slightly brighter.",
   "undercurrent": {
-    "level": 30,
-    "stage": 2,
+    "level": 12,
+    "stage": 1,
     "phenomenon": "the lost-and-found",
-    "note": "Level settling toward 28 — the warmth-pressure now, entirely. The box is furniture. Gerald's first decrease is the season's formal inflection point; the lake is drawing back, the hum is shortening, and the returned are unhurried. T. Aldercott's third look has become a working arrangement. The plate with the blue border is on the second shelf. Russ sat in the chair for twelve minutes and said nothing, which is the longest voluntary stay he has managed all season, and it cost him nothing. Toby's 'The Shortening' is the right name for this phase and he knows it. The coda is here. Stage holds at 2 because the returned still gather, but the pressure is pure resolution — warm, unhurried, conclusive. The next strangeness is still dormant behind the south window's silence: something sealed, patient, not yet named. It will wait."
+    "note": "The season has closed. Level drops to 12 — the box is furniture now, fully absorbed into the ordinary. The hum lasted one minute nine seconds and ended in four seconds of silence, which is the season's formal punctuation. The returned are unhurried and present. Agnes's cups are on the table. The second notebook is closed but not put away. The strange is not gone; it has been accommodated, which is what Greywater Falls does, and it is sleeping now in the way strange things sleep: with one eye not entirely shut. The plate with the blue border is in the back cupboard. Gerald has opened a page headed 'Spring.' The next strangeness is patient and has not yet announced itself, but the east alcove at the library is now empty and awaiting shelves, and the south window has been quiet all season for a reason that has not yet been given a name. Stage holds at 1 because the returned still come home cold and the box still holds thirteen and the lake is still the lake."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,8 +21,8 @@
   "season_arc": {
     "number": 2,
     "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 30,
+    "day_in_season": 31,
     "target_length": 31,
-    "next_premise": "The south-facing window at Mossley Hardware was sealed against the draft in late autumn — but on the first warm day of spring, something on the other side will knock, politely, twice, and wait."
+    "next_premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls — and they are set in years that have not happened yet."
   }
 }
