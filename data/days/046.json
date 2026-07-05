@@ -1,0 +1,50 @@
+{
+  "day": 46,
+  "dateline": "Thursday, November the 20th",
+  "weather": "Overcast and still, 26°F all morning with no intention of improving. A low ceiling of cloud the colour of old pewter sits over the valley without moving. No wind. The lake is flat under the ice. The geese are where the geese always are in November, which is to say underfoot.",
+  "stage": 0,
+  "lead": {
+    "headline": "Thursday Arrives; the Town Opens Its Doors in the Ordinary Way; the Geese Return to the Square",
+    "byline": "By Wren Aldercott",
+    "body": "On the morning of Thursday, November the twentieth, Greywater Falls conducted itself with the straightforward competence of a town that has recently been through something and has elected, in the sensible manner of small places, to resume. The bakery lights came on at six. The hardware's coffee pot was on by six-fifty. The Kettle flipped its sign at seven-fifteen. The constable's cruiser made its single slow loop of the square at seven-forty and parked where it always parks, and Russ Dunmore went inside and made his own coffee, and the morning proceeded.\n\nThe geese were back in the square by eight — seven of them, which is the number that was there in October and which no one has been tracking closely enough to confirm stayed consistent through the season's stranger weeks, but which feels, this morning, correct. They occupied the northeast corner of the square near the elm tree and conducted their own business with the focused indifference geese bring to every situation, and Hank Mossley, stepping out for his first hardware errand of the day, observed them with the look of a man who is pleased to have geese back where geese belong and did not say so out loud because it would have required explaining what he meant, and he did not have the words for it, and in this he resembled most of the town.\n\nDoreen Halloway baked seven Standings this morning — the Thursday number, the ordinary Thursday number, the number that has nothing to do with anything except how many people typically want a Standing on a Thursday in late November — and she set them in the case and turned on the case light and put on the everyday apron, the blue cotton one with the flour pocket, and opened the bakery door at six-thirty, which is when the bakery door opens, and that was that. Gerald Pith came in at seven-twenty for his Standing and his copy of yesterday's paper, which he had not yet collected, and he stood at the counter eating the Standing and reading the Wednesday edition with the mild, unhurried attention of a man reviewing familiar territory, and when he finished he folded the paper under his arm and said to Doreen: 'Good Standing.' She said: 'Now. It always is.' He left. She refilled the napkin holder.\n\nCalloway was at the library when this editor passed at half past nine, visible through the east window — not the east alcove, which has been empty since 2009 and which this editor has walked past eleven thousand times without giving it particular thought, but the regular east window — with her acquisition ledger and her pencil and her morning tea. She waved. This editor waved back. It is a short walk from the Gazette to the library and this editor takes it often and has never before felt the need to note which windows Calloway was visible through, and so she will not speculate as to why she noted it today."
+  },
+  "briefs": [
+    {
+      "headline": "Gerald Pith Opens New Section in the Blue Notebook; Labels It 'Winter Baseline'; Declines to Explain the Terminology",
+      "body": "Gerald Pith confirmed this morning at the Kettle that his Thursday shore measurement — taken at six-fifty, before the light was fully up — showed sixteen and seven-eighths inches, a further marginal decrease consistent with the trend established earlier this week. He has opened a new section in the blue notebook, which he describes as a 'winter baseline' against which spring readings can be compared. Marigold Vance had his coffee ready. He did not need a refill. He left at eight twenty-nine. The notebook is blue. The pen is black. These are the only facts this editor has been able to confirm."
+    },
+    {
+      "headline": "Doreen Halloway Announces Thursday Pie: Quince and Brown Sugar, Available from Two O'Clock; Notes Quince Is 'Seasonal and That's the Point'",
+      "body": "Halloway's Bakery will offer a quince-and-brown-sugar pie from two o'clock this afternoon, while quantities last. Doreen Halloway describes the filling as 'thick, now, properly thick, none of that runny business' and the crust as 'the Thursday crust,' which appears to differ from the Wednesday crust in ways she declined to specify but which regular customers will reportedly recognise on contact. Orders may be placed at the counter. The bakery will close at five."
+    },
+    {
+      "headline": "Hank Mossley Reports Hardware Inventory Complete; Winter Stock 'Where It Ought to Be'; Recommends Weatherstripping Before the Real Cold Arrives",
+      "body": "Hank Mossley completed his end-of-season hardware inventory Wednesday afternoon and reports that stock levels are, in his word, 'square.' Flashlights, storm lanterns, weatherstripping, and ice-melt are at full winter supply. He recommends that any resident who did not attend to their window seals in October attend to them now, before what he describes as 'the real cold,' which he expects within the fortnight. He did not specify what distinguishes the real cold from the cold currently in evidence. He said he'd know it when it came."
+    },
+    {
+      "headline": "Greywater Falls Public Library: East Alcove to Be Assessed for New Shelving; Calloway Notes the Space Has Been 'Sitting Empty Long Enough'",
+      "body": "Town librarian Calloway confirmed Thursday morning that the library's east alcove — vacant since the previous cataloguer's departure in 2009 — is to be assessed for the installation of new shelving before the new year. 'It's good square footage going to waste,' Calloway said, 'and I have acquisitions that need a home.' The alcove faces the library's north courtyard and receives indirect light in winter. A shelving unit has been sourced. Installation is expected in the coming weeks, pending the usual."
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One pair of insulated waders, men's size 10, lightly used, surplus to present requirements. Contact G. Pith, care of the Gazette. No reasonable offer refused.",
+    "WANTED: Someone to take the remaining three jars of this summer's crabapple preserves before this editor runs out of reasons to keep them. First come. No jar deposit required. Inquire at the Gazette office.",
+    "NOTICE: The Thursday evening card game at Mossley Hardware will resume its regular schedule this week, commencing at seven. R. Dunmore and H. Mossley confirm attendance. Two seats available. Enquire at the counter.",
+    "COMMUNITY NOTICE: The Kettle will trial an extended Thursday closing of eight o'clock through the winter months. M. Vance notes that 'people seem to want somewhere warm a little longer these days' and has adjusted the soup accordingly."
+  ],
+  "record": [
+    "Shore measurement (G. Pith), Thursday, 6:50 a.m.: sixteen and seven-eighths inches. Trend: decreasing. Season status: closed.",
+    "East alcove, Greywater Falls Public Library: empty. Shelving assessment scheduled. Last occupant departed Wednesday, September the 3rd, 2009, mid-afternoon."
+  ],
+  "letters": [
+    {
+      "from": "Marigold Vance, The Kettle",
+      "body": "Just a note to say the extended Thursday hours start tonight and everyone is welcome. I've made the white bean soup — the proper one, with the smoked heel and the thyme from the garden before the frost took it — and there's bread. It's cold out and it's going to keep being cold out and I figure that's reason enough. Come in. Sit down. The pot is on and I've got nowhere to be."
+    },
+    {
+      "from": "Russ Dunmore, Constable, Greywater Falls",
+      "body": "For the record: the lost-and-found box on the Gazette shelf holds thirteen items. I reviewed them Tuesday as part of the standard end-of-season check and all items remain correctly logged. The box is in good order. The shelf is in good order. There is nothing further to report regarding the box at this time, and I want to say that in writing because it is, genuinely, a thing I am glad to be able to say. That's all. — R.D."
+    }
+  ],
+  "editorNote": "This paper returns today to its regular winter schedule: Tuesday and Thursday editions, with a Saturday supplement when events warrant. There are, as of this morning, no events warranting a supplement. The lost-and-found box holds thirteen items. The library will open at nine. The Kettle is open. The bakery is open. The hardware is open. The constable's office is open. This editor considers this a complete accounting of Greywater Falls and notes, without further comment, that she slept well."
+}

@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 45,
-  "weather": "Clear and cold, the first genuinely clear morning in a fortnight. Temperature 24°F at dawn, climbing to 29°F by midday. The sky is a pale hard blue that does not offer warmth but offers light. No wind. The lake's ice holds its pewter colour under the sun and gives it back slightly brighter.",
+  "dayNumber": 46,
+  "weather": "Overcast and still, 26°F all morning with no intention of improving. A low ceiling of cloud the colour of old pewter sits over the valley without moving. No wind. The lake is flat under the ice. The geese are where the geese always are in November, which is to say underfoot.",
   "undercurrent": {
-    "level": 12,
-    "stage": 1,
-    "phenomenon": "the lost-and-found",
-    "note": "The season has closed. Level drops to 12 — the box is furniture now, fully absorbed into the ordinary. The hum lasted one minute nine seconds and ended in four seconds of silence, which is the season's formal punctuation. The returned are unhurried and present. Agnes's cups are on the table. The second notebook is closed but not put away. The strange is not gone; it has been accommodated, which is what Greywater Falls does, and it is sleeping now in the way strange things sleep: with one eye not entirely shut. The plate with the blue border is in the back cupboard. Gerald has opened a page headed 'Spring.' The next strangeness is patient and has not yet announced itself, but the east alcove at the library is now empty and awaiting shelves, and the south window has been quiet all season for a reason that has not yet been given a name. Stage holds at 1 because the returned still come home cold and the box still holds thirteen and the lake is still the lake."
+    "level": 8,
+    "stage": 0,
+    "phenomenon": "the east alcove",
+    "note": "The season has closed and the town is ordinary in all the ways it knows how to be ordinary. The level drops to 8 — the accommodation is complete, the hum is memory, the returned are simply home. The new thread is barely a thread: Calloway has mentioned the east alcove in passing, has used the word 'acquisitions,' has noted it has been sitting empty long enough. This is true. It has been sitting empty long enough. The shelving unit has been sourced. Nobody is afraid of new shelves. The phenomenon has not announced itself yet and will not for some days; it is patient, and the books are patient, and the alcove has had fourteen years of practice at waiting. Stage holds at 1 because the town is calm but the alcove is in the record now, and things that get into the record have a way of becoming the next thing the town has to accommodate."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -19,10 +19,10 @@
     "voice": "Dry, precise, allergic to drama, which is unfortunate given recent events. Writes like a person holding a clipboard while standing in rising water. Lets one true thing slip per edition, usually in the last line."
   },
   "season_arc": {
-    "number": 2,
-    "premise": "Something is using the Gazette's lost-and-found as a postal address — and the letters it sends back are addressed to people who have not yet arrived in Greywater Falls.",
-    "day_in_season": 31,
-    "target_length": 31,
-    "next_premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls — and they are set in years that have not happened yet."
+    "number": 3,
+    "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls — and they are set in years that have not happened yet.",
+    "day_in_season": 1,
+    "target_length": 32,
+    "next_premise": ""
   }
 }
