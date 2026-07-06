@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 46,
-  "weather": "Overcast and still, 26°F all morning with no intention of improving. A low ceiling of cloud the colour of old pewter sits over the valley without moving. No wind. The lake is flat under the ice. The geese are where the geese always are in November, which is to say underfoot.",
+  "dayNumber": 47,
+  "weather": "Clear and cold, 22°F at first light, climbing no higher than 27°F by afternoon. The sky is a hard, particular blue that belongs only to the first real cold of the season. The lake ice has thickened overnight to one and three-quarter inches.",
   "undercurrent": {
-    "level": 8,
+    "level": 10,
     "stage": 0,
     "phenomenon": "the east alcove",
-    "note": "The season has closed and the town is ordinary in all the ways it knows how to be ordinary. The level drops to 8 — the accommodation is complete, the hum is memory, the returned are simply home. The new thread is barely a thread: Calloway has mentioned the east alcove in passing, has used the word 'acquisitions,' has noted it has been sitting empty long enough. This is true. It has been sitting empty long enough. The shelving unit has been sourced. Nobody is afraid of new shelves. The phenomenon has not announced itself yet and will not for some days; it is patient, and the books are patient, and the alcove has had fourteen years of practice at waiting. Stage holds at 1 because the town is calm but the alcove is in the record now, and things that get into the record have a way of becoming the next thing the town has to accommodate."
+    "note": "Still ordinary in every visible way. The shelving unit has been ordered. The twenty-three items in the back room — 'some I have not yet had occasion to open' — are now in the record, and things that get into the record have a way of becoming the next thing. Calloway has noted the alcove catches morning light in winter and makes the dust motes visible; she swept, she says. Level nudges to 10 — the thread is slightly more there, the way a door is slightly more open than it was yesterday, though to look at it you would call it closed. Stage holds at 0. The books that will appear have not appeared yet. They are patient."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 3,
     "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls — and they are set in years that have not happened yet.",
-    "day_in_season": 1,
+    "day_in_season": 2,
     "target_length": 32,
     "next_premise": ""
   }
