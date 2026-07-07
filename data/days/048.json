@@ -1,0 +1,50 @@
+{
+  "day": 48,
+  "dateline": "Saturday, November the 22nd",
+  "weather": "Overcast and still, 24°F through the morning. A low grey sky that makes the town look like a photograph of itself — every edge softened, every chimney smoke going straight up in the windless air. By afternoon the temperature has not moved. The lake ice reflects nothing.",
+  "stage": 0,
+  "lead": {
+    "headline": "Saturday; the Town Runs Its Errands; the Library's East Alcove Stands Empty One More Weekend",
+    "byline": "By Wren Aldercott",
+    "body": "On the morning of Saturday, November the twenty-second, Greywater Falls went about its Saturday business with the quiet, purposeful air of a place that has agreed, without discussing it, to let the week go. The sky came in low and grey before first light and stayed there — not threatening, not dramatic, simply present in the way of skies that have arrived with an intention and seen no reason to revise it — and under this sky the town ran its errands. Hank Mossley opened the hardware at seven-thirty. Marigold Vance had the Kettle going before that. Doreen Halloway had the bakery lit well before six, which is a Saturday custom, the week being longer on Saturdays than the calendar suggests.\n\nCalloway did not open the library on Saturdays, as a rule, and did not open it today. This editor passed the building at nine-fifteen on the way to the post office and noted the CLOSED sign in the front door glass and the particular quality of silence that libraries have when they are closed, which is different from the silence of closed hardware stores and closed bakeries — heavier, more deliberate, as if the books themselves are being quiet on purpose. The east alcove window was dark. The shelving unit has been ordered and is not yet arrived and so the alcove is the same as it has always been since 2009, which is to say: empty. This editor noted the east alcove window was dark and continued to the post office.\n\nGerald Pith measured the lake before eight and wrote the figure in the blue notebook and was at the Kettle by eight-seventeen. He reported the ice at one and seven-eighths inches — nearly Hank's Monday projection, and it is only Saturday, which Gerald noted in the notebook with the addition of a parenthetical that read, in its entirety, '(cf. Mossley, Nov. 21).' He drank his coffee and told Marigold the ice was ahead of schedule, and Marigold said that the cold had been very committed this week, and Gerald agreed that it had, and this was the morning's main conversation at the Kettle counter and it was, on the whole, a satisfying one.\n\nThis editor filed the Saturday edition at noon and walked home through the grey still air and found, on the Gazette's step — not in the letterbox, but on the step itself, which is the detail this editor's hand has now written down twice in two places before she has decided what to do with it — a library return slip, blank, the kind with the lined columns for TITLE and DATE DUE and BORROWER, which Calloway uses and which are printed in the library's own office in small batches, and which are not the kind of thing that blows off a desk and down the street and lands centered on a step. The slip was blank. This editor has put it on the layout table. She has not yet decided what it means, and she has found, over the last several years, that she is better at this work when she lets the undecided things sit undecided for a while."
+  },
+  "briefs": [
+    {
+      "headline": "Gerald Pith Reports Ice at One and Seven-Eighths Inches; Notes Thickening Ahead of Projection; Adds Parenthetical to the Blue Notebook",
+      "body": "Gerald Pith measured the lake ice at the near shore at seven-fifty-two this morning and recorded one and seven-eighths inches — ahead of Hank Mossley's Monday estimate by at least a day, possibly two. Gerald noted this in the blue notebook's ICE DEPTH column with characteristic care and a parenthetical cross-reference. He told Marigold Vance at the Kettle counter. She said the cold had been very committed. He agreed it had. He left at eight twenty-nine."
+    },
+    {
+      "headline": "Doreen Halloway Offers Saturday Loaf in Addition to Standings; Reports the Morning Quiet and the Quince Finished",
+      "body": "The bakery had its Saturday loaf — a honey and oat, available whole or halved — alongside the usual Standings this morning. Doreen reported the quince from Thursday is gone, which she called 'as it should be,' and that the Saturday crowd came in small groups and stood longer at the counter than usual, which she attributed to the grey sky making people want to linger. 'Now,' she said. 'That's what a bakery is for.' She said this without qualification and meant it entirely."
+    },
+    {
+      "headline": "Hank Mossley Advises Pipe Insulation for Households Not Yet Prepared; Notes Hardware Is Stocked; Declines to Elaborate on the Word 'Yet'",
+      "body": "Hank Mossley spent a portion of Saturday morning moving the pipe insulation foam to the front of the hardware display, a seasonal relocation he makes on the first grey-sky Saturday of winter, by custom and without announcement. He told at least two customers the cold was 'ahead of itself this year,' a phrase that, in Hank's usage, constitutes a warning. The hardware is fully stocked. The coffee pot was on."
+    },
+    {
+      "headline": "Greywater Falls Public Library Closed Saturday; East Alcove Undisturbed; Shelving Due First Week of December",
+      "body": "The library observed its regular Saturday closure. Calloway confirmed by note Thursday that the shelving unit from the Alderton co-op is expected the first week of December, weather and roads permitting. The east alcove's 'LOCAL INTEREST AND HISTORY' designation remains penciled in the acquisition ledger. The alcove itself is eleven feet by eight and has been empty since the middle of a Wednesday in 2009, and the shelving unit has been ordered, and December is ten days away."
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One pair surplus chest waders, barely used, excellent condition. Size 11. Prefer local buyer. G. Pith, c/o The Kettle.",
+    "WANTED: Anyone with memories of the library's east alcove from 2009 or earlier — items catalogued there, visitors, the feel of the room. Not urgent. Calloway, Greywater Falls Public Library.",
+    "NOTICE: The Kettle will observe extended Saturday hours through December. Soup until close. Coffee always. M. Vance.",
+    "LOST: One library return slip, blank, standard lined format. If found, please return to the Gazette. W. Aldercott."
+  ],
+  "record": [
+    "Lake ice measured at one and seven-eighths inches, Saturday, November the 22nd, by G. Pith. Noted ahead of projection.",
+    "One blank library return slip found on the Gazette step, Saturday, November the 22nd. Provenance unknown. Item retained by the editor."
+  ],
+  "letters": [
+    {
+      "from": "Calloway, Greywater Falls Public Library",
+      "body": "Dear Wren — I wanted to note, for the record, that I placed no return slips anywhere outside the library this week. All slips are accounted for in the office, with the exception of the number that are in use at the front desk. I swept the alcove on Thursday morning as mentioned and found it clean, which I already knew, as I swept it on Wednesday also. I am looking forward to the shelving unit. I think the alcove will be much improved with something in it. — C."
+    },
+    {
+      "from": "Agnes Crewe, cottage nearest the water",
+      "body": "The slip is not lost. Something is deciding what to put on it. Leave it on the table."
+    }
+  ],
+  "editorNote": "This editor has left the slip on the layout table. Agnes Crewe's advice and Calloway's accounting are both in the record, and they are not contradictory, precisely, though they arrive at the same blank piece of paper by very different roads. The alcove will have its shelves by December. The slip will have whatever it has when it has it. The town is warm inside and cold outside and the ice is ahead of schedule and it is Saturday and this is all there is to report, and this editor has no further comment at this time, and the layout table is right where it has always been."
+}

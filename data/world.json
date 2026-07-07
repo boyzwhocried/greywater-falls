@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 47,
-  "weather": "Clear and cold, 22°F at first light, climbing no higher than 27°F by afternoon. The sky is a hard, particular blue that belongs only to the first real cold of the season. The lake ice has thickened overnight to one and three-quarter inches.",
+  "dayNumber": 48,
+  "weather": "Overcast and still, 24°F through the morning. A low grey sky that makes the town look like a photograph of itself — every edge softened, every chimney smoke going straight up in the windless air. By afternoon the temperature has not moved. The lake ice reflects nothing.",
   "undercurrent": {
-    "level": 10,
+    "level": 14,
     "stage": 0,
     "phenomenon": "the east alcove",
-    "note": "Still ordinary in every visible way. The shelving unit has been ordered. The twenty-three items in the back room — 'some I have not yet had occasion to open' — are now in the record, and things that get into the record have a way of becoming the next thing. Calloway has noted the alcove catches morning light in winter and makes the dust motes visible; she swept, she says. Level nudges to 10 — the thread is slightly more there, the way a door is slightly more open than it was yesterday, though to look at it you would call it closed. Stage holds at 0. The books that will appear have not appeared yet. They are patient."
+    "note": "The blank return slip on the Gazette's layout table is the first object associated with the alcove that has moved of its own accord — or rather, of an accord nobody can account for. Calloway's inventory is complete; the slip is not hers. It is not blown there; the day was windless. The note from Agnes ('something is deciding what to put on it') is the first time Agnes has spoken about the alcove directly, and Agnes does not waste words. The thread is slightly more visible — the door is a degree more open — but to any observer the town is ordinary, the slip is a misplaced piece of library stationery, and the alcove is simply a room waiting for its shelves. Level nudges to 14. Stage holds at 0. The books have not appeared yet. They are, as noted, patient."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 3,
     "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls — and they are set in years that have not happened yet.",
-    "day_in_season": 2,
+    "day_in_season": 3,
     "target_length": 32,
     "next_premise": ""
   }
