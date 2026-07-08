@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 48,
-  "weather": "Overcast and still, 24°F through the morning. A low grey sky that makes the town look like a photograph of itself — every edge softened, every chimney smoke going straight up in the windless air. By afternoon the temperature has not moved. The lake ice reflects nothing.",
+  "dayNumber": 49,
+  "weather": "Clear and sharp, 19°F, the coldest morning of the season. Pale mineral blue sky, no wind. Every surface rimed with frost that catches the early sun and turns copper before burning off. By noon still nineteen degrees. The lake a mirror. The ice has no give.",
   "undercurrent": {
-    "level": 14,
+    "level": 17,
     "stage": 0,
     "phenomenon": "the east alcove",
-    "note": "The blank return slip on the Gazette's layout table is the first object associated with the alcove that has moved of its own accord — or rather, of an accord nobody can account for. Calloway's inventory is complete; the slip is not hers. It is not blown there; the day was windless. The note from Agnes ('something is deciding what to put on it') is the first time Agnes has spoken about the alcove directly, and Agnes does not waste words. The thread is slightly more visible — the door is a degree more open — but to any observer the town is ordinary, the slip is a misplaced piece of library stationery, and the alcove is simply a room waiting for its shelves. Level nudges to 14. Stage holds at 0. The books have not appeared yet. They are, as noted, patient."
+    "note": "The swept floor is the second object-event: the blank return slip arrived Wednesday, the swept floor was found Sunday, and Calloway's explanation — that she swept it Wednesday herself — is entirely plausible and entirely insufficient, because Calloway's broom does not leave a floor that clean, and because the floor's condition is precisely what one would expect if something had been set down and then removed. Nothing has been set down. The shelving has not arrived. Wren has written this in the second notebook but has not printed it. Agnes walked to the shore at first light and came back satisfied, which Agnes's satisfaction is a data point, not a comfort. Level ticks to 17: the thread has another small tug on it. Stage holds at 0. The books are still patient. The alcove is clean and waiting."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 3,
     "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls — and they are set in years that have not happened yet.",
-    "day_in_season": 3,
+    "day_in_season": 4,
     "target_length": 32,
     "next_premise": ""
   }

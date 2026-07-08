@@ -1,0 +1,50 @@
+{
+  "day": 49,
+  "dateline": "Sunday, November the 23rd",
+  "weather": "Clear and sharp, 19°F, the coldest morning of the season. The sky has gone a pale mineral blue, the kind that looks expensive and feels like swallowing glass. No wind. Every surface has a rime on it — the Gazette's windowsill, the bakery awning, the library's east-facing glass — that the early sun turns, briefly, the colour of a old copper coin. By noon it is still nineteen degrees. The lake is a mirror. The ice has no give.",
+  "stage": 0,
+  "lead": {
+    "headline": "Sunday; Clear and Cold; the Town Keeps Its Own Hours; Calloway Finds the Alcove Swept",
+    "byline": "By Wren Aldercott",
+    "body": "On the morning of Sunday, November the twenty-third, Greywater Falls woke to the coldest air of the season and handled it the way the town handles most adversity — by putting the kettle on and not discussing it directly. The sky was the kind of blue that has no warmth in it at any angle, and the ice on the lake had done something definite overnight that Hank Mossley, passing the shore at eight-fifteen on his way to unlock the hardware for the weekend holdouts who always need a fitting on a Sunday, clocked at two full inches and said, quietly, to no one present: 'There it is.' He wrote it on a receipt slip in the breast pocket of his coat and did not elaborate, which is his usual practice when a number confirms something he would prefer not to have confirmed.\n\nThe Kettle opened at seven. Marigold Vance had the griddle going before light, and the Sunday crowd — smaller than the weekday crowd, slower, the kind of people who come in without looking at the specials board because they already know what they want — filled the counter by eight and stayed. Gerald Pith arrived at his usual time, ordered his coffee, and reported the ice figure to Marigold, who said 'two inches exactly, then' in the tone of a woman closing a parenthesis she had opened some days ago. She refilled his cup without being asked. The morning had, by nine, the quality of a Sunday that knows what it is and does not require improvement.\n\nCalloway does not work Sundays. Calloway is precise about this. And yet she appeared at the library at half past ten — she will say, if asked, that she went only to retrieve a scarf she had left on Friday — and found, upon unlocking the east alcove door, which she had locked behind her on Friday after the measuring and the sketching and the note about LOCAL INTEREST AND HISTORY, that the alcove floor had been swept. Not mopped, not refinished — swept, clean, with the particular thoroughness of someone who intended to put something down on it and wanted the surface right. The broom Calloway keeps in the library closet was in its place. The alcove's own corner, where a second broom had once hung on a hook that is now empty, bore no evidence of disturbance. Calloway stood in the doorway for a moment and then retrieved her scarf and locked the alcove again and walked home and, as far as this editor can confirm, did not ring anyone.\n\nShe rang this editor at noon. Said: 'I swept it on Wednesday. I forgot I'd swept it.' This editor wrote that down. It is, as explanations go, complete and sufficient, and this editor has set it in type and will leave it here at the bottom of the column where, she has found, the true sentences tend to settle: Calloway does not own a broom that leaves a floor that clean, and Wednesday was the day this editor received the blank return slip, and neither of these facts is the kind that goes in the second notebook unless they belong together."
+  },
+  "briefs": [
+    {
+      "headline": "Hank Mossley Confirms Lake Ice at Two Full Inches; Notes Figure Arrived Two Days Ahead of His Own Projection; Says 'There It Is'",
+      "body": "Hank Mossley measured the lake ice at the near shore at eight-fifteen Sunday morning and confirmed it at exactly two inches, the figure he projected for Monday. Mossley, who does not revise his projections but does note when the world is ahead of them, recorded the measurement on a receipt slip from his coat pocket. The hardware will be open Sunday ten to two for fittings and insulation. 'Two inches is decorative,' Mossley said. 'Two and a half is a question. We'll know by Tuesday.' He was not asked what the question was."
+    },
+    {
+      "headline": "Marigold Vance Reports Griddle Going Before First Light; Sunday Special Is the Egg Plate; Counter Full by Eight, Which She Notes Is Early for a Sunday",
+      "body": "The Kettle opened Sunday at seven, and Marigold Vance reports the counter reached capacity by eight o'clock, which she describes as 'early for a Sunday — people wanted somewhere to be.' The Sunday special is the egg plate with the brown bread and the small pot of jam that comes from a jar that Marigold declines to identify the provenance of, saying only that it is from 'up the hill somewhere.' The white bean soup is gone; a new pot, which Marigold has not announced, is reportedly on the back burner. She will confirm nothing about the new pot except that it is 'not bean.'"
+    },
+    {
+      "headline": "Calloway Reports East Alcove Floor Swept; Attributes the Sweep to Her Own Wednesday Preparations; Shelving Due First Week of December",
+      "body": "Town librarian R. Calloway stopped by the library Sunday morning to retrieve a scarf and noted the east alcove floor to be cleanly swept, which she confirms she completed on Wednesday in advance of the shelving unit's arrival. Calloway emphasises the shelving is due the first week of December and that the alcove is ready for it. The acquisition ledger's layout sketch — three shelves, LOCAL INTEREST AND HISTORY in pencil, lightly — remains on her desk. Calloway has no further comment on the alcove at this time."
+    },
+    {
+      "headline": "Agnes Crewe Observed Walking to the Shore at First Light; Returned Before Breakfast; Neighbours Report She Appeared 'Satisfied,' Which Is Her Usual Expression",
+      "body": "Agnes Crewe was seen walking the path to the lake shore at approximately six-fifty Sunday morning, before full light, which neighbours note is not unusual for her in any season. She returned before seven-thirty. Mrs. Dunmore, who was salting her step at the time, reports Agnes looked 'satisfied, the way she always looks,' which is a fair description of Agnes Crewe's ordinary expression and therefore difficult to interpret as anything more. Agnes could not be reached for comment, which is also her ordinary practice and also difficult to interpret as anything more."
+    }
+  ],
+  "classifieds": [
+    "FOR THE RECORD: Ice at two inches as of Sunday morning, November the twenty-third. Do not drive on the lake. Do not walk on the lake. The lake is not a road. It is a lake. — R. Dunmore, Constable",
+    "WANTED: One place setting, blue-bordered, any age or pattern so long as the border is genuine blue and the glaze is right. Not a copy. Will know it when I see it. — D. Halloway, Halloway's Bakery",
+    "PIPE INSULATION still in stock at Mossley Hardware. If you have not yet addressed your pipes, address your pipes. Sunday hours ten to two. — H. Mossley",
+    "LOST, possibly: one blue wool scarf, library property, recovered Sunday. Never mind. — R. Calloway, Greywater Falls Public Library"
+  ],
+  "record": [
+    "Lake ice measured at 2.0 inches, Sunday, November the 23rd. First time ice has reached the two-inch mark this season. Measured by H. Mossley, recorded independently by G. Pith.",
+    "East alcove, Greywater Falls Public Library: floor confirmed swept, door re-locked, shelving unit pending. No other changes noted. Scarf recovered."
+  ],
+  "letters": [
+    {
+      "from": "Gerald Pith, Pell Road",
+      "body": "Dear Wren — Two inches. I want to note that two inches is where I placed the second threshold in the blue notebook, which I opened on Thursday and which now has entries for four consecutive days, all of them in the same direction. I mentioned this to Marigold this morning and she said, 'Yes, Gerald,' in the way she says it when she has already thought of the same thing. I do not wish to alarm anyone. I simply note that the threshold has been crossed, and that I drew a small horizontal line in the margin at the two-inch entry, which is the notation I use for thresholds, and that the line is now in the book in ink. The notebook is available for inspection at any time. I am at the Kettle every morning. The coffee is usually ready."
+    },
+    {
+      "from": "R. Calloway, Greywater Falls Public Library",
+      "body": "Wren — I want to be clear about the alcove floor. I swept it on Wednesday, after the measuring, before I locked up for the week. I am meticulous about leaving a clean surface when I am preparing a space for shelving. The floor was clean on Wednesday and it was clean on Sunday and these are the same clean, and I am writing this letter because I understand you will note the thing regardless and I would prefer the Gazette to have the correct explanation on file rather than a gap where an explanation should be. The shelving arrives in December. The alcove will be ready. There is nothing else to say about the alcove floor. — R. Calloway. P.S. The scarf is fine."
+    }
+  ],
+  "editorNote": "This editor walked to the library at nine this morning, on the usual route, for no particular reason. Calloway was not there — it is a Sunday. The alcove window caught the low sun at an angle and threw a bar of light across the floor in the shape and length of a bookshelf. This editor stood at the window for some time. The layout table has the return slip on it still, and this morning, in the light, it seems less like a thing that arrived and more like a thing that is waiting to be filled in."
+}
