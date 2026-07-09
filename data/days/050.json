@@ -1,0 +1,50 @@
+{
+  "day": 50,
+  "dateline": "Monday, November the 24th",
+  "weather": "Overcast and grey, 23°F. The sky has come down close, the way it does before snow that doesn't arrive. No wind. The cold is the perfectly still kind, the kind that sits in the lungs. The lake surface is white from shore to shore. The ice holds. By afternoon a flat light off the clouds that makes everything look slightly earlier than it is.",
+  "stage": 0,
+  "lead": {
+    "headline": "Monday; the Town Returns to Its Week; the East Alcove Awaits Its Shelves in Orderly Silence",
+    "byline": "By Wren Aldercott",
+    "body": "On the morning of Monday, November the twenty-fourth, Greywater Falls resumed the business of a Monday with the particular relief of a town that has gotten through a cold weekend intact. The bakery opened. The diner opened. The hardware opened, though Hank Mossley had opened it already, at seven, because the hardware opens when Hank is cold and the coffee is ready and there is nothing more to be said on the subject. The library opened at nine, which is when the library opens on Mondays, and Calloway was behind the desk at nine-oh-three, which is when Calloway is behind the desk on Mondays, and the east alcove was locked, which is how it has been since Sunday, and the shelving unit is still on order from the Alderton supply co-op and is still estimated for the first week of December, and none of this is news.\n\nWhat is news — in the strict technical sense of being a thing that occurred and that a newspaper may therefore set in type — is that Gerald Pith measured the lake ice at seven-fifty and recorded two and one-eighth inches and appeared at the Kettle counter at eight-seventeen with this figure written in the blue notebook in the column headed ICE DEPTH that he opened on Friday, and that he reported the figure to Marigold Vance, who had the coffee ready, and that Marigold said 'eighth of an inch in one day' in the tone of a person doing arithmetic she doesn't particularly want to do, and Gerald said yes, and Marigold refilled his cup, and they left it there. This is the seventh consecutive morning of Gerald's winter baseline. The direction continues to be unambiguous.\n\nThis editor walked to the library at ten-fifteen on the routine Monday pass. Calloway was at the desk with the acquisition ledger open and was, she said, reviewing the shelving specifications one more time before the order was confirmed. She showed this editor the sketch: three shelves, pine, LOCAL INTEREST AND HISTORY written above in pencil. The alcove door at the end of the reading room was closed. The morning light came through the east window of the alcove — not the alcove door, but the alcove's window, which is on the exterior wall and does not require the door to be open — and lay across the reading room floor in a long pale stripe, the way winter light does at ten in the morning at this latitude. This editor noted the stripe on the floor, and the closed door at the end of it, and the acquisition ledger open on the desk, and the pencilled notation that can still be changed, and walked back through the cold to the Gazette.\n\nThe blank return slip is still on the layout table. It has been there three days. This is not a thing this editor plans to report on further until there is a second thing to put beside it — and she is aware, having now written that sentence in both notebooks, that she is already expecting one."
+  },
+  "briefs": [
+    {
+      "headline": "Gerald Pith Records Two and One-Eighth Inches of Ice; Winter Baseline Now Seven Entries; Direction Described as 'Unambiguous'",
+      "body": "Gerald Pith measured the lake ice at seven-fifty Monday morning and entered the figure in the ICE DEPTH column of the blue notebook, which now contains seven consecutive daily readings since the column was opened on Friday. Asked whether the rate of accumulation concerned him, Mr. Pith said: 'It is what it is doing.' He drank his coffee and returned the notebook to his breast pocket. The column's direction is not ambiguous."
+    },
+    {
+      "headline": "Doreen Halloway Resumes Monday Hours; Reports Seven Standings Baked; Notes the Quince Has Been Restocked",
+      "body": "Halloway's Bakery opened at its usual Monday hour with seven Standings and a fresh quince pie and the small loaves that appear on Mondays and nowhere else. Mayor Halloway, when asked how the weekend had gone, said 'Now. Fine. Cold, but fine,' and wrapped a loaf without being asked for a customer who had not yet requested one but was clearly going to. The quince ran out on Saturday and has been restocked. The pie register is correct."
+    },
+    {
+      "headline": "Calloway Reviews Shelving Specifications; Confirms Alcove Layout; Notes 'LOCAL INTEREST AND HISTORY' Notation Still in Pencil, Which Means It Can Still Be Changed",
+      "body": "Library director Calloway confirmed Monday that the east alcove shelving order remains on track for delivery in the first week of December and that she is reviewing the specifications one final time before confirming the order. The alcove sketch in the acquisition ledger shows three shelves. The section header is written in pencil. Asked whether she had decided on the notation, Calloway said she preferred to wait until the shelves were in and she could see how it looked. This is a reasonable position."
+    },
+    {
+      "headline": "Marigold Vance Runs Monday Soup; Notes the Counter Was Quiet by Nine-Thirty, Which She Calls 'Correct for a Monday'",
+      "body": "The Kettle ran its Monday lentil soup for the lunch hour and reported a steady if quiet morning crowd after the early rush cleared around nine-thirty. Marigold Vance said the morning felt 'right-sized,' which is the word she uses for Mondays that behave themselves. The new pot on the back burner was, as of this afternoon, still not announced. Asked about it, Ms. Vance said only that it wasn't ready yet."
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One pair rubber waders, men's size 10, used two seasons, sound condition. Selling as the current season suggests a different approach. Contact G. Pith, mornings at the Kettle.",
+    "NOTICE: Greywater Falls Public Library will hold extended Monday hours through December in anticipation of the east alcove reopening. All overdue materials may be returned without fine through November 30th. Calloway, Librarian.",
+    "WANTED: Good winter reading — fiction preferred, not too long, something with an ending. Leave recommendations at the Gazette or slip them under the library door. We are all of us looking for the right kind of story right now.",
+    "LOST: One grey wool glove, left hand only, last seen near the lake shore path Monday morning. If found, please leave at Mossley Hardware, where it is warm and the coffee is on."
+  ],
+  "record": [
+    "Lake ice measured at two and one-eighth inches Monday morning by G. Pith; seventh consecutive entry in the winter baseline column; rate of accumulation holding.",
+    "Greywater Falls Public Library east alcove shelving unit on order; estimated arrival first week of December; alcove floor clean; door locked; section notation provisional."
+  ],
+  "letters": [
+    {
+      "from": "Russ Dunmore, Town Constable",
+      "body": "Dear Editor — I want to put it on record, now that the weather has settled into what it is and folks are getting their footing under them, that the ice advisory I filed last Friday remains in effect and residents are reminded that two inches is not a threshold for any activity on the lake surface. The recreational threshold is four inches minimum and even then I would want to have a look at it myself before anybody made plans. I am not saying anything unusual is happening. The ice is doing what ice does when the temperature is what it is. That is all I am saying. Two inches is a good solid number and it will get where it is going when it is ready. — Russ Dunmore, Constable, Greywater Falls"
+    },
+    {
+      "from": "Agnes Crewe, Lake Road",
+      "body": "Editor — Someone asked me at the shore this morning what I was looking for. I was not looking for anything. I go to the shore to look at what is there, not to find what isn't. There is a difference. The ice is two inches and the sky is the colour it goes before it decides. The alcove has a clean floor and the shelves are coming. A clean floor is the right way to receive something. You do not put a thing on a dirty floor. — A. Crewe"
+    }
+  ],
+  "editorNote": "This editor notes, for the record, that the layout table in the Gazette office has been cleared for typesetting except for one item: a blank library return slip, which has been there since Saturday and which is not in the way of anything and which this editor has therefore left where it is. There is no editorial reason to mention this. It is mentioned anyway."
+}

@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 49,
-  "weather": "Clear and sharp, 19°F, the coldest morning of the season. Pale mineral blue sky, no wind. Every surface rimed with frost that catches the early sun and turns copper before burning off. By noon still nineteen degrees. The lake a mirror. The ice has no give.",
+  "dayNumber": 50,
+  "weather": "Overcast and grey, 23°F. The sky has come down close, the way it does before snow that doesn't arrive. No wind. The cold is the perfectly still kind, the kind that sits in the lungs. The lake surface is white from shore to shore. The ice holds. By afternoon a flat light off the clouds that makes everything look slightly earlier than it is.",
   "undercurrent": {
-    "level": 17,
+    "level": 19,
     "stage": 0,
     "phenomenon": "the east alcove",
-    "note": "The swept floor is the second object-event: the blank return slip arrived Wednesday, the swept floor was found Sunday, and Calloway's explanation — that she swept it Wednesday herself — is entirely plausible and entirely insufficient, because Calloway's broom does not leave a floor that clean, and because the floor's condition is precisely what one would expect if something had been set down and then removed. Nothing has been set down. The shelving has not arrived. Wren has written this in the second notebook but has not printed it. Agnes walked to the shore at first light and came back satisfied, which Agnes's satisfaction is a data point, not a comfort. Level ticks to 17: the thread has another small tug on it. Stage holds at 0. The books are still patient. The alcove is clean and waiting."
+    "note": "Agnes's letter is the third object-event: the blank return slip on Wednesday (received Saturday), the swept floor on Sunday, and now Agnes's public letter naming the clean floor as 'the right way to receive something' — which is the first time a resident has spoken, in print, about the alcove as if it is already in the business of receiving. Agnes did not say what it is receiving. She did not need to. The shelving is still on order. The door is still locked. But Agnes is now on record in the Gazette, which means the town has begun, quietly and collectively, to notice the thing this editor has been writing in the second notebook. Level ticks to 19: the thread has been seen. Stage holds at 0: it has not yet been named."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 3,
     "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls — and they are set in years that have not happened yet.",
-    "day_in_season": 4,
+    "day_in_season": 5,
     "target_length": 32,
     "next_premise": ""
   }
