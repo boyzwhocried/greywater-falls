@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 50,
-  "weather": "Overcast and grey, 23°F. The sky has come down close, the way it does before snow that doesn't arrive. No wind. The cold is the perfectly still kind, the kind that sits in the lungs. The lake surface is white from shore to shore. The ice holds. By afternoon a flat light off the clouds that makes everything look slightly earlier than it is.",
+  "dayNumber": 51,
+  "weather": "Overcast and holding still, 19°F. The cold deepened overnight without announcement. The sky is the colour of old envelope paper and makes no promises. By mid-morning a fine dry snow arrived — not the kind that accumulates, but the kind that drifts sideways and disappears against the grey, so that the town cannot quite agree, by noon, whether it snowed or did not snow.",
   "undercurrent": {
-    "level": 19,
-    "stage": 0,
+    "level": 28,
+    "stage": 2,
     "phenomenon": "the east alcove",
-    "note": "Agnes's letter is the third object-event: the blank return slip on Wednesday (received Saturday), the swept floor on Sunday, and now Agnes's public letter naming the clean floor as 'the right way to receive something' — which is the first time a resident has spoken, in print, about the alcove as if it is already in the business of receiving. Agnes did not say what it is receiving. She did not need to. The shelving is still on order. The door is still locked. But Agnes is now on record in the Gazette, which means the town has begun, quietly and collectively, to notice the thing this editor has been writing in the second notebook. Level ticks to 19: the thread has been seen. Stage holds at 0: it has not yet been named."
+    "note": "The shelving unit has arrived one week early — a logistical fact that is also, this editor notes privately, the first time the external world has moved toward the alcove rather than the alcove moving toward it. The returned have shifted their bearing by eighteen degrees, which Toby has put in the Watch column and in a letter. Agnes has confirmed in print that Calloway already knows when the room is ready. Three convergences in one day: the early delivery, the shifted bearing, the letter. The level climbs to 28. Stage moves to 1: something is off. The town cannot quite yet name what it is watching, but it has begun, in the way of small towns, to watch."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 3,
     "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls — and they are set in years that have not happened yet.",
-    "day_in_season": 5,
+    "day_in_season": 6,
     "target_length": 32,
     "next_premise": ""
   }
