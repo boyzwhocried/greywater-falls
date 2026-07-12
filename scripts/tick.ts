@@ -19,7 +19,12 @@
  */
 import fs from "node:fs";
 import path from "node:path";
-import Anthropic from "@anthropic-ai/sdk";
+import Anthropic, {
+  RateLimitError,
+  InternalServerError,
+  APIConnectionError,
+  APIConnectionTimeoutError,
+} from "@anthropic-ai/sdk";
 import type { Canon, Edition, Resident, Seed, World } from "../lib/data";
 import {
   SYSTEM_PROMPT,
@@ -45,6 +50,27 @@ const DAYS = path.join(DATA, "days");
 const MEMORY_KEEP = 6;
 const DRY = process.argv.includes("--dry");
 const NO_CRITIC = process.env.GREYWATER_NO_CRITIC === "1";
+
+const RETRYABLE_ERRORS = [RateLimitError, InternalServerError, APIConnectionError, APIConnectionTimeoutError];
+
+async function withRetry<T>(
+  fn: () => Promise<T>,
+  label: string,
+  maxRetries: number = 3
+): Promise<T> {
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    try {
+      return await fn();
+    } catch (err) {
+      const isRetryable = RETRYABLE_ERRORS.some((E) => err instanceof E);
+      if (!isRetryable || attempt === maxRetries) throw err;
+      const delay = Math.pow(2, attempt - 1) * 1000;
+      console.warn(`Retry ${attempt}/${maxRetries} after ${delay / 1000}s: ${(err as Error).message}`);
+      await new Promise((r) => setTimeout(r, delay));
+    }
+  }
+  throw new Error("unreachable");
+}
 
 function readJson<T>(p: string): T {
   return JSON.parse(fs.readFileSync(p, "utf8")) as T;
@@ -188,25 +214,43 @@ async function main(): Promise<void> {
   });
 
   // ---- generate, then critique, then regenerate once if flagged --------
-  let result = await generateDay(client, basePrompt, null);
+  let result = await withRetry(() => generateDay(client, basePrompt, null), "generateDay");
   if (!NO_CRITIC) {
-    const verdict = await critique(client, {
-      edition: result.edition,
-      canon,
-      directive: plan.directive,
-      recentHeadlines: recentHeadlines(15),
-      prevDateline: recentEditions(1)[0]?.dateline ?? "(none)",
-    });
+    let verdict: { verdict: "ok" | "revise"; worst: string; issues: string[] };
+    try {
+      verdict = await withRetry(
+        () => critique(client, {
+          edition: result.edition,
+          canon,
+          directive: plan.directive,
+          recentHeadlines: recentHeadlines(15),
+          prevDateline: recentEditions(1)[0]?.dateline ?? "(none)",
+        }),
+        "critique"
+      );
+    } catch (err) {
+      console.warn(`Critic unavailable after retries: ${(err as Error).message}. Publishing without critic review.`);
+      verdict = { verdict: "ok", worst: "none", issues: [] };
+    }
     if (verdict.verdict === "revise") {
       console.log(`Critic flagged (${verdict.worst}): ${verdict.issues.join("; ")}. Regenerating once...`);
-      result = await generateDay(client, basePrompt, verdict.issues.join("; "));
-      const second = await critique(client, {
-        edition: result.edition,
-        canon,
-        directive: plan.directive,
-        recentHeadlines: recentHeadlines(15),
-        prevDateline: recentEditions(1)[0]?.dateline ?? "(none)",
-      });
+      result = await withRetry(() => generateDay(client, basePrompt, verdict.issues.join("; ")), "generateDay (retry)");
+      let second: { verdict: string; worst: string; issues: string[] };
+      try {
+        second = await withRetry(
+          () => critique(client, {
+            edition: result.edition,
+            canon,
+            directive: plan.directive,
+            recentHeadlines: recentHeadlines(15),
+            prevDateline: recentEditions(1)[0]?.dateline ?? "(none)",
+          }),
+          "critique (retry)"
+        );
+      } catch (err) {
+        console.warn(`Critic unavailable after retries: ${(err as Error).message}. Publishing without second review.`);
+        second = { verdict: "ok", worst: "none", issues: [] };
+      }
       if (second.verdict === "revise") {
         // Better to publish a slightly-off day than to stall the town forever.
         console.warn(`Critic still flags (${second.worst}): ${second.issues.join("; ")}. Publishing best effort.`);
