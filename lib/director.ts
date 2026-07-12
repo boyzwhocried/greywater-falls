@@ -7,7 +7,7 @@ import type { Canon, Edition, Resident, Seed, World } from "./data";
 // tick script, so this module can be reasoned about and tested in isolation.
 // ---------------------------------------------------------------------------
 
-export const TICK_MODEL = "claude-sonnet-4-6";
+export const TICK_MODEL = "claude-sonnet-5";
 /** The critic is a cheap second opinion; haiku is plenty. */
 export const CRITIC_MODEL = "claude-haiku-4-5";
 
