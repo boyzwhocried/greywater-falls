@@ -1,0 +1,49 @@
+{
+  "day": 52,
+  "dateline": "Wednesday, November the 26th",
+  "weather": "Overcast, 17°F, with a fine dry snow that drifts sideways and does not accumulate. The lake steams faintly at the shoreline where the ice has not yet closed over.",
+  "stage": 2,
+  "lead": {
+    "headline": "Wednesday; Calloway Assembles the Shelves; the First Book Is Already There",
+    "byline": "By Wren Aldercott",
+    "body": "On the morning of Wednesday, November the twenty-sixth, Calloway began assembly of the shelving unit in the east alcove at nine-fifteen, having laid the pieces out the previous evening and found, as she told this editor, 'everything present and nothing missing, which is its own kind of surprise.' She worked methodically. The first shelf went up at nine forty. The second at ten past ten. By eleven the unit stood as sketched — three shelves, pine, LOCAL INTEREST AND HISTORY inked above them now, not pencilled, a change Calloway made this morning without remark and which this editor noted without asking why the pencil had finally been trusted enough to become ink.\n\nAt eleven-oh-five, with the third shelf not yet fully seated in its brackets, Calloway found a book on the second shelf. She had not put it there. She is certain of this in the way a librarian is certain of shelves: she knows what she has touched. The book is bound in green cloth, unmarked on the spine, and its title page reads THE WINTER THE FALLS WENT QUIET, with a publication year of two thousand and twenty-six. Calloway telephoned this editor at eleven-twenty. This editor walked to the library. The book was real in every sense that matters to a body standing in a room — it had weight, it had the particular smell of old glue and paper, its pages had been turned by someone, some number of times, enough to soften the corners. It described, in its opening chapter, a delivery truck turning too sharply onto Cress Street on a Tuesday in November, and a librarian remembering a broom she had never used.\n\nCalloway has placed the book on the desk rather than the shelf, which she says is 'temporary, until I decide what temporary means here.' Russ Dunmore was called and came and looked at the book and did not open it past the first page and filed nothing, which he told this editor was 'not the same as filing nothing because there's nothing to file.' Agnes Crewe was not called. She arrived on her own, at half past noon, stood in the alcove doorway for the length of time it takes to read one sentence, and said only that a shelf, once it is level, will hold whatever is given to it, and that this is not a comment on furniture. She went home for lunch.\n\nThis editor has typeset the book's title in full, which is a thing she debated doing and has decided, on balance, to do, because a newspaper that will not print the true and verifiable facts of its own town on the grounds that they are alarming is not a newspaper this editor intends to run. The book's copyright page lists no publisher. Its final chapter, which this editor did not read past the first line before closing the cover, begins with a date. The date is next Tuesday."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 33 — Ice Two and One-Half Inches; Level 28, Stage 2; Water Temperature Steady at 39°F; Clarity to Twenty-Six Feet; Sign Still Reads 7; Five Returned Now Gather at Dusk, Bearing Shifted a Further Six Degrees",
+      "body": "Toby Fern reports the returned — cat, rabbit, sparrow, and now two others he has not yet identified from the treeline's distance — held their dusk position four minutes longer than yesterday. The hum, he notes, did not drop at all this evening. It held its note the entire time he watched, which he says is new, and which he has written down twice to be sure he believed himself."
+    },
+    {
+      "headline": "Calloway Confirms Shelving Assembly Complete Save Third Bracket; Declines to Speculate on Book's Origin; Notes 'LOCAL INTEREST AND HISTORY' Now Inked, Not Pencilled",
+      "body": "Calloway told this editor she intends to finish the third shelf before deciding anything further. 'One thing at a time,' she said, 'is still a policy, even now.'"
+    },
+    {
+      "headline": "Doreen Halloway Reports Eight Standings Against a Thursday-Sized Thursday Order; Says the Extra One 'Seemed Called For'; Declines to Say by What",
+      "body": "The everyday apron remained on all morning. The eighth Standing sold to Hank Mossley at eleven, who said only 'good' about it, twice."
+    },
+    {
+      "headline": "Russ Dunmore Files Report on Library Book Without Filing an Incident; Notes This Is a New Category of Filing He Has Had to Invent This Morning",
+      "body": "The report is three lines long. Russ read the first line of the book's final chapter over Calloway's shoulder and has, per this editor's observation, not mentioned Thursday's poker game since."
+    }
+  ],
+  "classifieds": [
+    "WANTED: A second broom to hang on the empty hook in the east alcove closet, for symmetry, not necessity. Inquire Calloway, library desk.",
+    "FOR SALE: One (1) box of storm lanterns, barely used, Hank Mossley's, no questions about timing.",
+    "LOST: The word 'coincidence,' last seen in general circulation sometime around Sunday. Reward offered by this editor personally for its safe return.",
+    "NOTICE: The Kettle's Thursday soup will be announced when it is ready and not one day before. — M. Vance"
+  ],
+  "record": [
+    "Births: none. Deaths: none. Returned: five (cat, rabbit, sparrow, two unidentified, bearing steady).",
+    "Library circulation: one item shelved that was never checked out. Status: unresolved, temporary, on the desk."
+  ],
+  "letters": [
+    {
+      "from": "Toby Fern",
+      "body": "The hum didn't drop tonight. I've written down every dusk since Day 27 and it always drops a half-step right before dark, like it's tired, and tonight it just held there, steady, like it was waiting on something instead of finishing something. Agnes says a room being readied and a room being used are two different silences. I asked her which one this was. She said ask her Friday."
+    },
+    {
+      "from": "Gerald Pith",
+      "body": "Two and one-half inches, seven forty-five this morning, rate holding but I want to note for the record that the ice near the alcove-facing shore (which is not a real category, I know, but I've started thinking in it anyway) was smoother than the rest by a margin I could feel through my boot before I could see it. Marigold said I should write that down separately. I have. See margin, Day 52."
+    }
+  ]
+}
