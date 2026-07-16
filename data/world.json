@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 52,
-  "weather": "Overcast, 17°F, fine dry snow that drifts and does not settle",
+  "dayNumber": 53,
+  "weather": "Overcast, 15°F, fine dry snow that drifts and does not settle",
   "undercurrent": {
-    "level": 39,
+    "level": 44,
     "stage": 2,
     "phenomenon": "the east alcove",
-    "note": "A physical object has crossed over: a book with a real publication year in the future and a final chapter that opens on next Tuesday's date. This is the first artifact, not just an atmosphere. Wren has printed the title in full, which she debated and did anyway — the town's accommodation reflex extending, now, to typesetting the impossible as routine fact. The hum held steady at dusk for the first time instead of dropping, which Toby has correctly flagged as a change in kind, not degree. Russ invented a new filing category rather than name what he's filing. Level climbs to 39. The town is no longer merely watching; it has begun handling the evidence with tongs, which is its own kind of acknowledgment."
+    "note": "Second artifact confirmed in under twenty-four hours, and the first book relocated itself back to the shelf overnight without hands, which is a new category of event: not creation but return. Calloway's log now formalizes observation into procedure, the town's classic move of domesticating dread into paperwork. Russ has named his invented category aloud, which is closer to admission than he intends. The hum's steady-at-dusk behavior has repeated, which Toby correctly reads as pattern rather than anomaly now. Agnes's letter today is the most direct yet: she has told Wren, in effect, that the final chapter's date is known to her too, and that Friday (tomorrow) is when Toby gets his promised answer. Level climbs to 44. Two days from the promised Friday reveal, the private notebook's undisclosed date sits five days out and closing."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 3,
     "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls — and they are set in years that have not happened yet.",
-    "day_in_season": 7,
+    "day_in_season": 8,
     "target_length": 32,
     "next_premise": ""
   }

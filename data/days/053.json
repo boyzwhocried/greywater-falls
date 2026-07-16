@@ -1,0 +1,50 @@
+{
+  "day": 53,
+  "dateline": "Thursday, November the 27th",
+  "weather": "Overcast, 15°F, fine dry snow that drifts and does not settle",
+  "stage": 2,
+  "lead": {
+    "headline": "Thursday; a Second Book Is Found Beside the First; Neither Is Where Calloway Left It",
+    "byline": "By Wren Aldercott",
+    "body": "On the morning of Thursday, November the twenty-seventh, Calloway arrived at the library at eight-fifty, ahead of her usual nine, to find that THE WINTER THE FALLS WENT QUIET was no longer on the desk where she had placed it Wednesday afternoon as a temporary measure whose temporariness she had not yet defined. It was back on the second shelf, spine flush with the bracket, precisely where she had first found it. Beside it stood a second volume. This one is bound in the same green cloth, and its title page reads A SPRING THAT DID NOT COME, with a publication year of two thousand twenty-seven. Calloway telephoned this editor at nine-oh-two. This editor was already dressed.\n\nThe two books, side by side, present a curious consistency: the same binder's stitching, the same faint smell of glue not yet fully cured, the same absence of a publisher's name on the copyright page. This editor examined both spines under the desk lamp and found neither warm nor cold to the touch, a detail Esmé Okonkwo later confirmed independently with a thermometer, out of what she described as 'professional habit, not professional concern.' The second book's opening chapter describes a foreman at the old mill checking a gauge that reads two and one-half inches and saying, to no one, 'there it is.' Hank Mossley, informed of this passage by this editor at the hardware store shortly after ten, went quiet for a length of time this editor is comfortable calling notable, and then asked whether the book said what he said next. This editor declined to read further in his presence. He did not press.\n\nRuss Dunmore came to the library at ten-thirty, examined both volumes without opening either past its first page, and told this editor he was filing the second book under the same category he invented Wednesday, which he has now named, in his own hand, on his own initiative: PENDING, NOT INCIDENT. He asked this editor not to print the category. This editor is printing the category. Agnes Crewe did not come to the library today. She sent no letter. Toby Fern, stopping by after school with his phone still recording the dusk shore from the day before, asked this editor a question this editor has decided to record rather than answer: whether a book that describes a thing before it happens is a warning, a schedule, or simply a very patient kind of memory.\n\nCalloway has moved both books to the third shelf, which is now fully seated in its brackets, and has begun, at this editor's suggestion and against her own better judgment, keeping a log of what appears and when. The log has two entries. It is Thursday. Doreen Halloway, asked in passing outside the bakery whether she had heard about the second book, said only that she'd baked to a seven-loaf order this morning and gotten seven loaves, which she called 'a relief,' and did not elaborate on relief from what."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 34 — Level 39, Stage 2; Water Temperature 39°F; Clarity to Twenty-Nine Feet; Sign Still Reads 7; Six Returned Now Gather at Dusk, Hum Holding Steady Rather Than Dropping",
+      "body": "Gerald Pith measured ice at two and five-eighths inches at seven-forty and noted the alcove-facing shore section remained smoother by boot-feel than by sight, a discrepancy he has now logged for the second consecutive day. Toby Fern's dusk count recorded a sixth returned animal, a grey tabby unringed and unclaimed, taking its place facing the deepest water beside the others. The hum held its note through dusk and into full dark, which Toby notes is the second time in two days this has occurred, where previously it had dropped every night without exception."
+    },
+    {
+      "headline": "Calloway Begins Formal Log of East Alcove Shelf Contents; Two Entries to Date; Declines to Predict a Third",
+      "body": "The log, kept in a marbled composition book borrowed from the library's own supply closet, records date, time found, title, and publication year for each volume. Calloway has left a column for 'publisher' that she expects to remain empty and has not removed it anyway."
+    },
+    {
+      "headline": "Doreen Halloway Reports Seven Standings Against a Seven-Loaf Thursday Order; Calls the Match 'A Relief'; Declines to Say Relief From What",
+      "body": "The bakery opened at its usual hour. The quince pie sold through by noon. Gerald Pith came for his Standing and reported it was good, as it always is."
+    },
+    {
+      "headline": "Russ Dunmore Names His New Filing Category 'Pending, Not Incident' in His Own Hand; Requests It Not Be Printed",
+      "body": "The constable's Thursday poker night with Hank Mossley remains, for the second week, unmentioned by either man in this editor's hearing."
+    }
+  ],
+  "classifieds": [
+    "FOUND: One grey tabby, unringed, gentle, slightly cold, sitting at the shore facing west at dusk. Owner may claim at any time. No hurry.",
+    "WANTED: A publisher's name, any publisher's name, for two volumes recently acquired by the Greywater Falls Public Library. Reward: the satisfaction of a completed ledger column. — L. Calloway",
+    "FOR SALE: Ice cleats, size 9 and up, restocked Wednesday. — Mossley Hardware",
+    "NOTICE: The Thursday card game continues at its usual hour. Subjects discussed remain, by long agreement, nothing in particular. — H. Mossley"
+  ],
+  "record": [
+    "Births: none. Deaths: none. Arrivals: two volumes, provenance unconfirmed. Departures: none.",
+    "Welcome sign, Cress Street: reads 7. Census: 15."
+  ],
+  "letters": [
+    {
+      "from": "L. Calloway, Head Librarian",
+      "body": "I have worked in this building for eleven years and I know the weight of every book I have ever shelved. These two do not weigh wrong. That is the part I keep returning to. If they were lighter, or colder, or smelled of something other than glue, I could file them under strange and be done with it. They are ordinary in every way except the one that matters. I am keeping the log because a librarian keeps a log. I am not keeping the log because I expect it to explain anything."
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "A shelf does not ask where a book has been. It asks only that the book be level. You are all very worried about where these came from. Ask instead where they are going, and you will find you already know, because you have read the first line and closed the cover, same as I did, forty years too early and never finished the sentence. Friday. Ask the boy what I told him."
+    }
+  ],
+  "editorNote": "This editor has now confirmed, by her own hand and Calloway's marbled log, that the alcove has produced a second object where a week ago it produced none. She notes, for the record and for herself, that both volumes concern events already come to pass in this town by the time their descriptions reached print, save one chapter in one book, which opens on a date five days from today, and which this editor has still not read past its first line, and does not yet know if that is caution or cowardice."
+}
