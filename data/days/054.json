@@ -1,0 +1,50 @@
+{
+  "day": 54,
+  "dateline": "Friday, November the 28th",
+  "weather": "Overcast, 14°F, fine dry snow that drifts and does not settle",
+  "stage": 2,
+  "lead": {
+    "headline": "Friday; Agnes Gives Toby His Answer; a Third Book Confirms a Date This Editor Has Been Withholding",
+    "byline": "By Wren Aldercott",
+    "body": "On the morning of Friday, November the twenty-eighth, Toby Fern walked to Agnes Crewe's cottage before school, as he has done most Fridays this autumn, but today for a specific and promised reason: Agnes had told him Friday was when he would get his answer. This editor was not present for the conversation and has only Toby's account of it, given at the Gazette office at four that afternoon, which this editor is printing largely as given because the boy has earned the right to be quoted directly rather than summarized into calm. Agnes told him, he says, that the hum holding steady at dusk instead of dropping is not the lake calling. It is the lake listening. She told him the difference matters and that he would know which was which by whether the returned turned toward the shore or away from it. He has checked his footage. They have not turned away.\n\nSeparately, and this editor stresses separately, because Calloway did not know of Agnes's conversation with Toby when she opened the library at eight-thirty, a third book was found on the shelf beside the other two. It is bound in the same green cloth. Its title page reads THE ALCOVE KEEPS ITS OWN HOURS, publication year two thousand twenty-eight. Its opening chapter, which this editor read in full this time, standing at the desk with Calloway's log open beside her, describes a girl at a cottage door and an old woman answering a question about listening versus calling. This editor set the book down, checked the time Toby had given for his visit against the time implied in the chapter, and found them to agree within the half hour.\n\nThis editor has, until today, kept one fact out of print: the second notebook contains a date, given to her by Agnes some days ago, for what Agnes calls 'the final chapter's opening.' This editor has weighed the argument that printing it manufactures the thing it names, and the argument that a newspaper which conceals a known date from a town entitled to it is not doing its job, and has decided, as of this morning, in favor of the second argument, with one qualification: she is printing the date without printing what Agnes says it is the date of. The date is Wednesday next. Readers may do with five days what they will.\n\nCalloway has begun a second, separate log tonight, apart from the shelf log, which she is calling, in her own words, 'a log of what the books get right, so that at least someone in this town is keeping score honestly.' The first entry, filed at six this evening, reads: Toby Fern, cottage door, eight-ten a.m., confirmed. This editor has read that entry twice and has decided it belongs on the record, and has put it there, and gone home, and the snow outside the window is not settling on anything, which this editor notes only because it is true."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 35 — Level 44, Stage 2; Water Temperature 39°F; Clarity to Thirty-One Feet; Sign Still Reads 7; Seven Returned Now Gather at Dusk, Hum Steady Rather Than Falling",
+      "body": "Gerald Pith reports ice at two and five-eighths inches, a rate he now calls 'unambiguous, and I mean it more than I meant it Tuesday.' A seventh returned animal, a doe, was noted at the shore at dusk by Toby Fern, facing the water alongside the others. The doe did not turn away."
+    },
+    {
+      "headline": "Calloway Opens Second Log 'To Keep Score Honestly'; First Entry Confirms a Detail From Book Three Within the Half Hour",
+      "body": "The library's third volume, THE ALCOVE KEEPS ITS OWN HOURS, was found on the shelf at eight-thirty this morning. Calloway declined to speculate further on the book's origin and referred this editor to the log itself, which she says will 'speak for what I won't.'"
+    },
+    {
+      "headline": "Doreen Halloway Reports Seven Standings, Friday Order, Matched Exactly; Calls It 'Ordinary, and Grateful for It'",
+      "body": "The bakery's Friday count returned to the expected number after two days of unrequested extras. Mrs. Halloway declined to say whether she considered this a resolution or a pause."
+    },
+    {
+      "headline": "Russ Dunmore Declines to Attend Thursday's Card Game Two Weeks Running; Hank Mossley Notes It Without Comment",
+      "body": "The Thursday game, an eleven-year standing arrangement, went unplayed for the second consecutive week. Mr. Dunmore was reached for comment and said only that he had 'paperwork.' Mr. Mossley confirmed the pot was on regardless."
+    }
+  ],
+  "classifieds": [
+    "WANTED: One (1) partner for Thursday cards, evenings, no questions about last two weeks. Inquire H. Mossley, Hardware.",
+    "FOR SALE: Storm lanterns, flashlights, pipe insulation foam. Ahead of the cold, as usual. Mossley Hardware.",
+    "LOST: A number that used to hold still. If found, return to the specials board at the Kettle. No reward, only relief.",
+    "NOTICE: The library will be open regular hours through the weekend. The east alcove remains open to the public. Calloway."
+  ],
+  "record": [
+    "Births: none. Deaths: none. Marriages: none.",
+    "Library patrons this week: 41, up from 22. East alcove visits specifically: 41."
+  ],
+  "letters": [
+    {
+      "from": "Agnes Crewe",
+      "body": "The boy asked the right question at the right door. That is rarer than people think and I told him so. Tell Wren the date is hers to print now, not mine to keep. A clean floor waits the same whether you name the day or not. Go on and name it."
+    },
+    {
+      "from": "Toby Fern",
+      "body": "She said listening, not calling, and I believe her because she's never once told me a comfortable lie. The doe didn't turn away either. I don't know if that's supposed to make me feel better. It doesn't, exactly. But I'm glad I know."
+    }
+  ],
+  "editorNote": "This editor has printed a date today for the first time without printing what it is a date of. That is not caution. It is the only kind of honesty available to a woman who has read the last line of a book she has not finished."
+}

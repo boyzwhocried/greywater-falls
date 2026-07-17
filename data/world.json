@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 53,
-  "weather": "Overcast, 15°F, fine dry snow that drifts and does not settle",
+  "dayNumber": 54,
+  "weather": "Overcast, 14°F, fine dry snow that drifts and does not settle",
   "undercurrent": {
-    "level": 44,
+    "level": 49,
     "stage": 2,
     "phenomenon": "the east alcove",
-    "note": "Second artifact confirmed in under twenty-four hours, and the first book relocated itself back to the shelf overnight without hands, which is a new category of event: not creation but return. Calloway's log now formalizes observation into procedure, the town's classic move of domesticating dread into paperwork. Russ has named his invented category aloud, which is closer to admission than he intends. The hum's steady-at-dusk behavior has repeated, which Toby correctly reads as pattern rather than anomaly now. Agnes's letter today is the most direct yet: she has told Wren, in effect, that the final chapter's date is known to her too, and that Friday (tomorrow) is when Toby gets his promised answer. Level climbs to 44. Two days from the promised Friday reveal, the private notebook's undisclosed date sits five days out and closing."
+    "note": "Three books now, each confirmed against real events within the half hour. Calloway's second log formalizes verification the way the first log formalized appearance, which is the town's move squared: not just documenting the strange but grading its accuracy. Agnes has released Wren from withholding the date, which shifts the weight of disclosure from Agnes (riddle-teller) to Wren (typesetter), a handoff that matters. Toby's threshold (listening vs. calling) reframes the hum without resolving it, and the returned not turning away is the detail that will sit worst with the town once they notice it collectively. Russ's absence from poker two weeks running is the clearest behavioral tell yet that he is no longer performing 'nothing' even to Hank. Five days now stand between today and the printed date; four remain to the private notebook's undisclosed one, which is closing faster than the public date, a gap Wren has not yet reconciled in print."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 3,
     "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls — and they are set in years that have not happened yet.",
-    "day_in_season": 8,
+    "day_in_season": 9,
     "target_length": 32,
     "next_premise": ""
   }
