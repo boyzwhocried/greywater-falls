@@ -84,6 +84,11 @@ function pad(n: number): string {
 function clamp(n: number, lo: number, hi: number): number {
   return Math.max(lo, Math.min(hi, n));
 }
+/** Guards the critic prompt (which assumes edition.briefs exists) against a model
+ * response that skipped required tool-schema fields, since schemas aren't hard-enforced. */
+function isValidEdition(edition: PublishedDay["edition"] | undefined | null): boolean {
+  return !!edition?.lead?.headline && !!edition.lead.body && Array.isArray(edition.briefs);
+}
 
 function recentEditions(count: number): Edition[] {
   const files = fs.readdirSync(DAYS).filter((f) => f.endsWith(".json")).sort();
@@ -215,7 +220,19 @@ async function main(): Promise<void> {
 
   // ---- generate, then critique, then regenerate once if flagged --------
   let result = await withRetry(() => generateDay(client, basePrompt, null), "generateDay");
-  if (!NO_CRITIC) {
+  if (!isValidEdition(result.edition)) {
+    console.warn("Generated edition is missing its lead story or briefs list. Regenerating once...");
+    result = await withRetry(
+      () =>
+        generateDay(
+          client,
+          basePrompt,
+          "The previous draft was missing its lead story or briefs list. Return the full edition with every required field filled in, especially `lead` and `briefs`."
+        ),
+      "generateDay (malformed retry)"
+    );
+  }
+  if (!NO_CRITIC && isValidEdition(result.edition)) {
     let verdict: { verdict: "ok" | "revise"; worst: string; issues: string[] };
     try {
       verdict = await withRetry(
