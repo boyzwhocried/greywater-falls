@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 54,
-  "weather": "Overcast, 14°F, fine dry snow that drifts and does not settle",
+  "dayNumber": 55,
+  "weather": "Overcast, 13°F, fine dry snow that drifts and does not settle",
   "undercurrent": {
-    "level": 49,
+    "level": 53,
     "stage": 2,
     "phenomenon": "the east alcove",
-    "note": "Three books now, each confirmed against real events within the half hour. Calloway's second log formalizes verification the way the first log formalized appearance, which is the town's move squared: not just documenting the strange but grading its accuracy. Agnes has released Wren from withholding the date, which shifts the weight of disclosure from Agnes (riddle-teller) to Wren (typesetter), a handoff that matters. Toby's threshold (listening vs. calling) reframes the hum without resolving it, and the returned not turning away is the detail that will sit worst with the town once they notice it collectively. Russ's absence from poker two weeks running is the clearest behavioral tell yet that he is no longer performing 'nothing' even to Hank. Five days now stand between today and the printed date; four remain to the private notebook's undisclosed one, which is closing faster than the public date, a gap Wren has not yet reconciled in print."
+    "note": "First subtraction event: two books vanish as a fourth appears, and the fourth's content is about the act of removal itself, a self-reflexive turn that raises the strangeness a notch without yet crossing into stage 3 (the town looking back at itself as subject). Calloway's third log (hourly tally) is the town's move cubed. Russ's direct question to Wren, and his act of writing down her answer, marks the first time an official has treated Wren's uncertainty as data rather than reassurance-seeking. The private date gap (four days to undisclosed vs. printed date) is now explicitly named as unshown arithmetic Wren is sitting on; this should surface soon. Doreen's exact match two days running is a small held breath, not resolution. Keep escalating through small procedural absurdities (logs about logs) rather than spectacle."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 3,
     "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls — and they are set in years that have not happened yet.",
-    "day_in_season": 9,
+    "day_in_season": 10,
     "target_length": 32,
     "next_premise": ""
   }

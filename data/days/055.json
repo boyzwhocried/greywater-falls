@@ -1,0 +1,50 @@
+{
+  "day": 55,
+  "dateline": "Saturday, November the 29th",
+  "weather": "Overcast, 13°F, fine dry snow that drifts and does not settle",
+  "stage": 2,
+  "lead": {
+    "headline": "Saturday; a Fourth Book Names No Date, and Calloway Finds the First Two Missing",
+    "byline": "By Wren Aldercott",
+    "body": "On the morning of Saturday, November the twenty-ninth, Calloway opened the library at her usual nine to find the east alcove's third shelf holding only two volumes where three had stood the night before. THE WINTER THE FALLS WENT QUIET and A SPRING THAT DID NOT COME were gone. THE ALCOVE KEEPS ITS OWN HOURS remained, and beside it, new, a fourth book in the same green cloth, its title page reading A KEEPING, with no publication year printed where a publication year has appeared on every prior volume. Calloway telephoned this editor at nine-oh-six. This editor notes, for the record she is keeping in the second notebook, that this is the first entry in either of Calloway's logs to describe a subtraction rather than an addition.\n\nThis editor read the fourth book's opening chapter standing at the desk, as has become the custom of these mornings, and found it concerned not with a future event but with the shelf itself — a description, plain and almost administrative in tone, of two books being removed from a shelf by a hand the chapter declines to name, on a morning it declines to date. Calloway, informed of this, said only that a log which cannot account for what leaves is not much of a log, and began, this afternoon, a third one: a tally of the shelf's contents, taken at the top and bottom of every hour she is in the building. Russ Dunmore came at eleven, examined the fourth book without opening it past the first page, and asked this editor directly, for the first time in this matter, whether she thought the two missing books still existed somewhere. This editor told him she did not know, which was true, and which he wrote down, which was new.\n\nAgnes Crewe was seen this morning at the shore rather than the library, standing at the waterline in her good coat for the length of time it takes to drink a cup of tea gone cold, though she carried no cup. Toby Fern, who found her there on his way to check his footage, asked her about the missing books. She told him that a shelf keeps what it needs and returns what it borrowed, and that this was true of libraries before it was ever true of anything stranger, and went home without further comment. Toby has added this to a page in his own notebook he has started titling, in pencil, THINGS AGNES SAYS THAT TURN OUT TO BE ABOUT THE LAKE.\n\nThis editor has now printed, across five editions, the appearance of four books and the disappearance of two, a running account whose net total this editor could compute exactly and has chosen, this once, not to show the arithmetic of in the paper, though it sits finished in the second notebook beside a date now four days off rather than five."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 36 — Level 49, Stage 2; Water Temperature 38°F; Clarity to Thirty-Three Feet; Sign Still Reads 7; Seven Returned Gather at Dusk, None Turning Away",
+      "body": "Ice measured at two and five-eighths inches by Gerald Pith's own account, a rate he calls 'still slowing, not stopped.' The alcove-facing shore ice remains smoother by boot-feel than by eye, a discrepancy Gerald has now given its own page."
+    },
+    {
+      "headline": "Calloway Opens Third Log to Track Subtractions; First Entry Records Two Volumes Missing, One Unaccounted",
+      "body": "The hourly tally began at one o'clock this afternoon. Calloway declines to say what she will do if the count changes between her own visits to the desk."
+    },
+    {
+      "headline": "Doreen Halloway Reports Seven Standings Against a Seven-Loaf Saturday Order; No Extra, No Deficit",
+      "body": "Asked whether an exact match two days running signified anything, the mayor said she'd rather it not, and went on serving."
+    },
+    {
+      "headline": "Russ Dunmore Asks Wren Whether the Missing Books Still Exist; Writes Down Her Answer for the First Time",
+      "body": "The constable's file on the alcove, still marked PENDING, NOT INCIDENT, gained a fourth page this morning. He has not attended poker in three weeks now."
+    }
+  ],
+  "classifieds": [
+    "LOST: two green cloth-bound volumes, titles and authors withheld for lack of either. Last seen on the library's third shelf. Reward: none offered, none expected. Inquire Calloway, the library.",
+    "FOR SALE: waders, size ten, barely worn. Ice underfoot is not yet water underfoot, but Gerald says give it time. Inquire Mossley Hardware.",
+    "WANTED: a fourth for Thursday cards. Hank Mossley, ask at the hardware counter, coffee provided, no questions about the empty chair.",
+    "NOTICE: The Kettle's Saturday hours extended through the new year. Ask about what's on the back burner. It's close."
+  ],
+  "record": [
+    "Library, east alcove: four volumes appeared, two vanished, over five consecutive days; third log opened to track subtraction hourly.",
+    "Constable's file on the alcove now four pages under 'Pending, Not Incident'; poker absence enters its third week."
+  ],
+  "letters": [
+    {
+      "from": "Gerald Pith",
+      "body": "To the Editor: I want it on record, separate from the ice, that I do not think a book missing is the same kind of fact as a book appearing, though I could not tell you why the first troubles me more. I have started a page for it. See also A. Crewe, and now, I suppose, see also Calloway."
+    },
+    {
+      "from": "Calloway",
+      "body": "A library keeps what it needs. I did not choose that policy and I would not have written it this way, but I have kept stranger rules than this one without complaint, and I intend to keep this one the same way: on time, in ink, and without asking the shelf to explain itself twice."
+    }
+  ],
+  "editorNote": "A reader asked this week whether five days of books add up to anything beyond themselves. This editor's honest answer is that she has done the sum and is not printing it, which is either restraint or cowardice, and she has not yet decided which, and intends to say so again once she has."
+}
