@@ -1,0 +1,49 @@
+{
+  "day": 56,
+  "dateline": "Sunday, November the 30th",
+  "weather": "Overcast, 12°F, fine dry snow that drifts and does not settle",
+  "stage": 2,
+  "lead": {
+    "headline": "Sunday; the Fifth Book Names Itself After the Log, and the Log Begins to Disagree With the Clock",
+    "byline": "By Wren Aldercott",
+    "body": "On the morning of Sunday, November the thirtieth, Calloway opened the library at nine to find the shelf unchanged from her nine p.m. check the night before, which she noted with visible relief in the third log's margin, a relief this editor is choosing to record because it did not last the hour. At her ten o'clock tally, a fifth volume had appeared, bound in the same green cloth, its title page reading THE HOURLY ACCOUNT, with a publication year of two thousand twenty-nine. Its opening chapter is not a scene. It is a table. The table has two columns, headed TAKEN and KEPT, and the hours down its left side run from nine in the morning to nine at night, in the sort of neat ruled boxes Calloway herself favors. This editor confirms that the table's hours for today, up to and including ten o'clock, match Calloway's own log exactly, box for box. This editor also confirms that the table continues past ten o'clock, all the way to nine tonight, and that its far column, for hours not yet arrived, is not blank. It is filled in.\n\nCalloway telephoned this editor at ten-forty, later than her usual call, because she says she spent the first half hour deciding whether to telephone at all. She read the filled boxes aloud over the line in a voice this editor is describing as level because it was, in fact, level, which was itself the alarming part. She has since begun a fourth log, which she is calling, without irony this editor can detect, 'the log that checks the other logs,' cross-referencing her three existing tallies against the book's table hour by hour as the day proceeds, to see, in her words, 'whether the afternoon agrees with what's already written down about it.'\n\nRuss Dunmore arrived at the library at noon and stood at the desk for some time without speaking, reading the table's remaining boxes with the particular stillness this editor has come to associate with him doing arithmetic he does not want to finish. He did not ask this editor a question today. He copied the table into his own notebook, hour by hour, in full, including the boxes that have not happened yet, and initialed the bottom of the page, which he has never done before on any of the four prior entries in the alcove file. He left without his usual line about pending status. This editor asked him, once, whether he meant to file it as an incident now. He said he'd let the four o'clock box answer that, and left.\n\nThis editor has weighed, across six editions now, the question of what a newspaper owes a town when the newspaper itself is named, however obliquely, in the thing it is covering, and has decided the answer today is only this: the four o'clock box, read this morning at ten-forty, says that at four o'clock the Gazette's front window will be dark and its door unlocked, which is not this editor's habit on a Sunday, and which this editor fully intends, as of six o'clock this evening, having kept the door locked and the light on since three, to have proven wrong by simple stubbornness before this paper reaches a single doorstep."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 37 — Level 55, Stage 2; Water Temperature 38°F; Clarity to Thirty-Four Feet; Sign Still Reads 7; Seven Returned Gather at Dusk, Holding the Note Longer Than Toby's Watch Has Ever Timed",
+      "body": "Toby Fern reports the held note at dusk ran forty full seconds past its usual length before dropping, the longest departure from pattern he has logged since he began timing it. He has added a stopwatch function to his phone's recording routine. He declines to say what he expects it to eventually measure."
+    },
+    {
+      "headline": "Doreen Halloway Bakes Nine Standings Against a Seven-Loaf Sunday Order, and Two Go Unclaimed by Closing",
+      "body": "Doreen baked to what she calls 'a nine-loaf morning,' two more than the order called for and two more than have been claimed by any name in the pie register in nine years of keeping one. Both unclaimed loaves sat on the blue-bordered plate at closing. She wrapped them anyway, set them on the step, and said only, 'well, someone's coming,' before locking up. She did not say who she meant."
+    },
+    {
+      "headline": "Calloway Opens Fourth Log to Check the Other Three Against the Clock; Says the Afternoon 'Owes Her an Answer by Nine'",
+      "body": "The library's fourth ledger, opened at ten-forty this morning, tracks whether each hour's actual shelf contents match the fifth book's table for that hour. Calloway confirms perfect agreement through two o'clock. She has declined to speculate on three, four, or the remaining boxes, saying only that a log that predicts itself correctly enough times stops being a log and starts being something she does not have a word for yet."
+    },
+    {
+      "headline": "Russ Dunmore Copies a Table of Hours Not Yet Arrived Into His Own Notebook, Initials the Page, Declines Further Comment",
+      "body": "The constable's fifth entry in the alcove file is the first to include his signature. He would not say whether this constitutes filing it as an incident, referring only, when asked, to 'what the four o'clock box says,' and leaving before this editor could ask him to explain what he meant by that."
+    }
+  ],
+  "classifieds": [
+    "FOUND: Two loaves, quince, wrapped and left on the bakery step past closing. If they are yours, you will know why. — D. Halloway",
+    "WANTED: A fifth chair for the reading table in the east alcove. The four we have no longer seem sufficient to the traffic. Inquire at the desk. — Calloway",
+    "NOTICE: The Gazette office will observe its usual Sunday hours today, door locked, light on, out of what this editor is calling stubbornness and declining to call anything else.",
+    "LOST: One afternoon's certainty, somewhere between two o'clock and four. Reward offered to whoever finds it first."
+  ],
+  "record": [
+    "Library hours, Sunday: nine to five, east alcove access by request only, Calloway's own.",
+    "Gazette office hours, Sunday: nine to six, door locked as a matter of record, light kept on throughout."
+  ],
+  "letters": [
+    {
+      "from": "Gerald Pith",
+      "body": "Wren — the ice is at two and three-quarters now, which I note only because it is exactly what the second book's table would have predicted if the second book had a table, which it did not, but the fifth one does, for the lake, not the ice, and I have started a page cross-referencing the two anyway. I don't like that they agree. I like less that I expected them to. Sixteen and seven-eighths at the shore stick, still climbing, still no rain. — G.P."
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "A table only knows the hours you already gave it. It does not know the ones you take back. Lock your door if it makes the evening easier. The evening does not need your door to arrive on time."
+    }
+  ]
+}

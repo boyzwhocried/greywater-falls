@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 55,
-  "weather": "Overcast, 13°F, fine dry snow that drifts and does not settle",
+  "dayNumber": 56,
+  "weather": "Overcast, 12°F, fine dry snow that drifts and does not settle",
   "undercurrent": {
-    "level": 53,
+    "level": 58,
     "stage": 2,
     "phenomenon": "the east alcove",
-    "note": "First subtraction event: two books vanish as a fourth appears, and the fourth's content is about the act of removal itself, a self-reflexive turn that raises the strangeness a notch without yet crossing into stage 3 (the town looking back at itself as subject). Calloway's third log (hourly tally) is the town's move cubed. Russ's direct question to Wren, and his act of writing down her answer, marks the first time an official has treated Wren's uncertainty as data rather than reassurance-seeking. The private date gap (four days to undisclosed vs. printed date) is now explicitly named as unshown arithmetic Wren is sitting on; this should surface soon. Doreen's exact match two days running is a small held breath, not resolution. Keep escalating through small procedural absurdities (logs about logs) rather than spectacle."
+    "note": "The fifth book introduces predictive self-reference at sub-day granularity (an hourly table extending past the moment of reading), a meaningful escalation from the fourth book's retrospective subtraction. Calloway's fourth log (checking logs against the clock) is recursion at a new order. Russ's signature on the copied table marks his first unambiguous act of taking the phenomenon as real rather than merely documenting it as pending. Doreen's excess (nine against seven, two unclaimed) breaks the exact-match pattern in a new direction rather than repeating it, and the unclaimed loaves left on the step (echoing Mrs. Vance's pie-on-the-step ritual) quietly suggest the town is now provisioning for a guest it has not named. Wren's private stubbornness (door locked, light on) is the first time she has staged a direct test against the books' claims rather than merely reporting them; whether she wins or loses this small contest should surface next, and either answer should unsettle rather than resolve. Hold stage 2; do not cross into stage 3 (the town looking back at itself as subject) until the town collectively notices Wren's test as a test, or Calloway's fourth log completes its self-check."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 3,
     "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls — and they are set in years that have not happened yet.",
-    "day_in_season": 10,
+    "day_in_season": 11,
     "target_length": 32,
     "next_premise": ""
   }
