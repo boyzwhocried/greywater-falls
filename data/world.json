@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 56,
-  "weather": "Overcast, 12°F, fine dry snow that drifts and does not settle",
+  "dayNumber": 57,
+  "weather": "Overcast, 11°F, the same fine dry snow, still not settling",
   "undercurrent": {
-    "level": 58,
+    "level": 60,
     "stage": 2,
     "phenomenon": "the east alcove",
-    "note": "The fifth book introduces predictive self-reference at sub-day granularity (an hourly table extending past the moment of reading), a meaningful escalation from the fourth book's retrospective subtraction. Calloway's fourth log (checking logs against the clock) is recursion at a new order. Russ's signature on the copied table marks his first unambiguous act of taking the phenomenon as real rather than merely documenting it as pending. Doreen's excess (nine against seven, two unclaimed) breaks the exact-match pattern in a new direction rather than repeating it, and the unclaimed loaves left on the step (echoing Mrs. Vance's pie-on-the-step ritual) quietly suggest the town is now provisioning for a guest it has not named. Wren's private stubbornness (door locked, light on) is the first time she has staged a direct test against the books' claims rather than merely reporting them; whether she wins or loses this small contest should surface next, and either answer should unsettle rather than resolve. Hold stage 2; do not cross into stage 3 (the town looking back at itself as subject) until the town collectively notices Wren's test as a test, or Calloway's fourth log completes its self-check."
+    "note": "Wren's stubbornness test resolved in her favor, but Calloway's fourth log independently caught the same disagreement and chose to preserve rather than correct it — the town now has a documented instance of the books being demonstrably wrong, which is escalation disguised as relief. Russ's four words ('So it can lose') mark a genuine shift: he is now rooting for the phenomenon's fallibility rather than merely tracking its accuracy, which is closer to fear than his prior stance of detached filing. Doreen's caution about the two exact matches bookending a nine suggests she is starting to suspect an internal logic to the count rather than randomness. Hold stage 2. The town noticing Wren's test AS a test (rather than just an anecdote) is the stage-3 trigger; today it is being treated as a data point in Calloway's log, not yet as a subject of collective self-regard. Save that crossing for a beat where the town explicitly discusses what it means that the books can be caught, not just that they were."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 3,
     "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls — and they are set in years that have not happened yet.",
-    "day_in_season": 11,
+    "day_in_season": 12,
     "target_length": 32,
     "next_premise": ""
   }

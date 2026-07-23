@@ -1,0 +1,49 @@
+{
+  "day": 57,
+  "dateline": "Monday, December the 1st",
+  "weather": "Overcast, 11°F, the same fine dry snow, still not settling",
+  "stage": 2,
+  "lead": {
+    "headline": "Monday; the Four O'Clock Box Was Wrong, and This Editor Does Not Know What That Means Yet",
+    "byline": "By Wren Aldercott",
+    "body": "This editor kept her word. The Gazette's door was locked and the light was on at four o'clock yesterday afternoon, in direct and deliberate contradiction of the fifth book's table, and this editor is reporting that fact first, before any other business of the day, because she believes a newspaper owes its readers the outcome of a test before it owes them the next mystery. The window was lit. The door was locked. Simple stubbornness, as promised, carried the hour. This editor sat at her desk with the second notebook open and watched the clock go past four and then past four-fifteen and felt, she will admit once and not again, something like relief, though relief is not quite the word for winning an argument with a book that has not been published.\n\nWhat this editor did not anticipate, and did not print yesterday because she did not yet know it, is that Calloway's fourth log, the one built to check the other three against the clock, recorded the same four o'clock box and found it wrong in exactly the manner this editor made it wrong. Calloway's entry, filed at four-oh-one, reads: 'Table said dark and unlocked. Was lit and locked. First disagreement between book and log since the fifth volume appeared. Noting the disagreement rather than correcting it.' This editor telephoned Calloway at four-thirty to confirm the wording. She confirmed it, then added, unprompted, that she intends to leave the wrong box in the log rather than strike it, because a log that erases its own errors, in her words, 'stops being a log and starts being a wish.'\n\nRuss Dunmore came to the Gazette office at five, read Calloway's entry over this editor's shoulder, and said, for the first time in this matter, four words this editor is printing exactly as given: 'So it can lose.' He did not elaborate further and this editor did not press him, though she notes he did not initial anything today, and did not open a fifth page in the alcove file, and left holding the door open a moment longer than the cold outside required, as if deciding whether the fact changed what kind of file it was.\n\nDoreen Halloway baked seven Standings against a seven-loaf Monday order and reports it matched exactly, and said, when this editor stopped by the bakery this morning, that she'd heard about the door and the light and was glad of it, in a voice this editor is choosing to describe as glad and leaving at that, because Doreen did not offer more and this editor did not require it of her. What this editor will say, and will not qualify further, is that a book can be wrong about the Gazette and still be right, so far, about everything else it has claimed, and that this editor does not yet know which of those two facts is the more dangerous to have printed."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 38 — Level 61, Stage 2; Water Temperature 37°F; Clarity to Thirty-Six Feet; Sign Still Reads 7; Seven Returned Gather at Dusk, Hum Held the Note a Full Minute Past Toby's Longest Prior Timing",
+      "body": "Toby Fern's stopwatch recorded the dusk hum sustaining sixty-one seconds without falling, the longest hold logged since he began timing it in October. He notes the returned did not turn, toward the shore or away from it, for the duration. Agnes was not present at the shore this evening for the first time in eleven days."
+    },
+    {
+      "headline": "Calloway's Fourth Log Records Its First Disagreement With the Fifth Book; Declines to Correct the Entry",
+      "body": "The four o'clock box, checked against the Gazette office at the appointed hour, read 'dark, unlocked.' The office was lit and locked. Calloway has left the box as written beside her own correction, calling it, in her words, 'the first time the book has been caught rather than confirmed.' She has not yet checked the remaining evening boxes against the clock and says she intends to, 'whatever it costs the log's average.'"
+    },
+    {
+      "headline": "Doreen Halloway Reports Seven Standings Against a Seven-Loaf Monday Order, Matched Exactly; Calls the Match a Relief She Isn't Ready to Trust",
+      "body": "The Standing plate went out at the usual hour. All seven were claimed by noon. Doreen says two exact matches and a nine in between is not a pattern she can name yet, but it is one she has started watching for before she opens the oven rather than after."
+    },
+    {
+      "headline": "Gerald Pith Cross-References the Library Log Against His Own Ice Notebook for the First Time; Finds No Correlation, Reports It Anyway",
+      "body": "Gerald's fourth ice entry, taken this morning, reads two and three-quarters inches. He has begun a facing page comparing his measurements to Calloway's shelf counts by date, and reports, disappointed and thorough, that the two columns do not move together. 'I checked because it would have been tidy,' he told this editor. 'It isn't. I'm writing that down too.'"
+    }
+  ],
+  "classifieds": [
+    "WANTED: One (1) place setting, blue border, to match a plate already in daily use. Inquire Halloway's Bakery. Doreen says it's for no one in particular and would like it kept that way.",
+    "FOR SALE: Storm lanterns, flashlights, and pipe insulation foam, all in stock and none of it a coincidence. Mossley Hardware. Coffee on all morning.",
+    "NOTICE: The Gazette office will keep its door locked and its light on at four o'clock daily until further notice. This is not a policy. It is a position.",
+    "LOST: A green cloth book titled THE WINTER THE FALLS WENT QUIET, last seen on the east alcove's third shelf. Finder need not return it. The library would simply like to know where it went."
+  ],
+  "record": [
+    "Library east alcove: five volumes present as of Sunday 9:00 p.m. tally; unchanged as of Monday 9:00 a.m. tally.",
+    "Gazette office: door locked, light lit, 4:00 p.m. Monday, contra fifth volume's table. Logged by both parties."
+  ],
+  "letters": [
+    {
+      "from": "Marigold Vance",
+      "body": "Gerald had his coffee at eight-oh-two and told me about the door before I'd even poured it, which tells you something about how fast that news moved down the counter. I said good for Wren. I meant it. Somebody in this town ought to be allowed to win one, even a small one, even against a book. The new pot is close to ready. I'm not saying more than that yet, but I wanted it on record that I said 'close' out loud today, to Gerald, at eight-oh-two, and he wrote the time down before I could stop him."
+    },
+    {
+      "from": "Hank Mossley",
+      "body": "Sold the last of the good flashlights this morning and ordered more before noon. Somebody asked if I knew something. I said I was misquoted. I was not misquoted. That's all I've got to say about the door business except that I'd have kept mine locked too, and I don't even have a book telling me not to."
+    }
+  ]
+}
