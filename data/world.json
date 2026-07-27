@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 57,
-  "weather": "Overcast, 11°F, the same fine dry snow, still not settling",
+  "dayNumber": 58,
+  "weather": "Overcast, 10°F, the same fine dry snow, still not settling",
   "undercurrent": {
     "level": 60,
     "stage": 2,
     "phenomenon": "the east alcove",
-    "note": "Wren's stubbornness test resolved in her favor, but Calloway's fourth log independently caught the same disagreement and chose to preserve rather than correct it — the town now has a documented instance of the books being demonstrably wrong, which is escalation disguised as relief. Russ's four words ('So it can lose') mark a genuine shift: he is now rooting for the phenomenon's fallibility rather than merely tracking its accuracy, which is closer to fear than his prior stance of detached filing. Doreen's caution about the two exact matches bookending a nine suggests she is starting to suspect an internal logic to the count rather than randomness. Hold stage 2. The town noticing Wren's test AS a test (rather than just an anecdote) is the stage-3 trigger; today it is being treated as a data point in Calloway's log, not yet as a subject of collective self-regard. Save that crossing for a beat where the town explicitly discusses what it means that the books can be caught, not just that they were."
+    "note": "Wren has now moved the town from noticing that a discrepancy exists to discussing what the discrepancy MEANS as a category, in print, publicly, for the first time — this is adjacent to but not yet the stage-3 trigger, since the town is discussing the books' fallibility as a concept rather than discussing the fact that Wren staged a deliberate test and the town watched her do it self-consciously as an experiment. Doreen's 'a drawer is still a drawer' and Agnes's letter both nudge toward the town starting to develop a shared vocabulary/theory for the phenomenon rather than just cataloguing instances, which is the real precursor to stage 3. Hold stage 2 one more beat; let the next escalation be the town collectively recognizing itself as a control group or experiment, which should feel like a genuine crossing, not another log entry. Gerald's 'things that agree with each other before they should' column is quietly the most dangerous line in today's edition and should pay off later."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 3,
     "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls — and they are set in years that have not happened yet.",
-    "day_in_season": 12,
+    "day_in_season": 13,
     "target_length": 32,
     "next_premise": ""
   }

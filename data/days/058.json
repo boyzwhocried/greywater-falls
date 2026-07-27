@@ -1,0 +1,49 @@
+{
+  "day": 58,
+  "dateline": "Tuesday, December the 2nd",
+  "weather": "Overcast, 10°F, the same fine dry snow, still not settling",
+  "stage": 2,
+  "lead": {
+    "headline": "Tuesday; Calloway Names the Fourth Log's Disagreement a Category, Not an Incident, and Wren Asks the Town What a Book Being Wrong Is Worth",
+    "byline": "By Wren Aldercott",
+    "body": "Calloway telephoned this editor at eight-fifteen yesterday morning, before the library had opened, to report that she had spent the night thinking about what to call Sunday's disagreement between the fifth book's four o'clock box and the plain fact of a locked door and a lit window. She has decided, she said, that it is not an error, which implies correction, and it is not a coincidence, which implies it will not recur. She is calling it, in the fourth log's new header, a discrepancy, ruled and dated, with its own column, separate from TAKEN and KEPT. This editor asked her whether one discrepancy makes a category. Calloway said that one exact match had once been called luck too, and now Doreen weighs her flour against it, and hung up before this editor could answer that.\n\nThis editor raises this in print because it is time the town discussed not merely that the books can be caught, but what it means that they can. A book that is right nine times and wrong once is not less strange for the exception; it is only differently strange, the way a clock that loses four minutes a day is not comforting for keeping the hour approximately. Russ Dunmore, asked directly at the Gazette office yesterday afternoon whether the alcove file would be reclassified now that a discrepancy has a name, said he had read the fourth log's new header twice and did not care for how official it looked. He has not initialed the new page either.\n\nDoreen Halloway, reached at the bakery counter, was asked whether she thought a book that names its own exceptions was more trustworthy or less. She set down her flour scoop before answering, which this editor is noting because Doreen rarely stops moving to talk. 'Now,' she said, 'a thing that keeps its own excuses in a drawer is still keeping a drawer.' She would not be drawn further and returned to the ovens, though this editor observed she left the scoop where it lay for longer than the sentence required.\n\nThis editor has kept a running arithmetic in the second notebook of every claim the books have made against every claim this town has independently verified, and the column marked WRONG now has one entry to the column marked RIGHT's eleven, and this editor is no longer certain which of those two numbers is supposed to be reassuring."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 39 — Level 63, Stage 2; Water Temperature 37°F; Clarity to Thirty-Seven Feet; Sign Still Reads 7; Seven Returned Gather at Dusk, Facing the Deepest Water Without Turning",
+      "body": "The count at the shore held at seven. The hum was measured by Toby Fern at sixty-three seconds, a new record broken twice in four days. No new returned reported."
+    },
+    {
+      "headline": "Calloway's Fourth Log Adds a Named Column for 'Discrepancy'; Calls It Neither Error Nor Coincidence",
+      "body": "The library's cross-referencing log has been re-ruled to include a third heading beside TAKEN and KEPT. Calloway declined to say how many discrepancies would constitute a pattern, only that she would know the number when she reached it."
+    },
+    {
+      "headline": "Gerald Pith Reports Ice at Two and Three-Quarter Inches; Notes the Alcove-Facing Shore Froze Smooth Before the Rest of the Lake for the Second Time",
+      "body": "Gerald's notebook now carries nine consecutive entries in one direction. He has begun a margin column he is calling, in pencil, 'things that agree with each other before they should.'"
+    },
+    {
+      "headline": "Doreen Halloway Reports Seven Standings Against a Seven-Loaf Tuesday Order; Says She Has Stopped Calling the Matches Ordinary Out Loud",
+      "body": "Doreen confirmed the count and declined further comment beyond noting that she weighs the flour before she opens the oven now, not after."
+    }
+  ],
+  "classifieds": [
+    "WANTED: A second pair of hands at the bakery, mornings only. Must not ask why the ovens are watched. Inquire Halloway's.",
+    "FOUND: One brass button, plain, no maker's mark, on the shore path near the alcove-facing bend. Holding at the constable's office, unfiled.",
+    "FOR SALE: Storm lanterns, gently used, six remaining. Ask for Hank. He was not misquoted.",
+    "NOTICE: The Kettle's extended hours continue through the week. New pot on the back burner. Not yet named. Ask again Friday."
+  ],
+  "record": [
+    "Births: none. Deaths: none. Returned: none new. Standings served: 7 of 7.",
+    "Library alcove: five volumes present, zero vanished since Saturday. Fourth log discrepancies logged: 1."
+  ],
+  "letters": [
+    {
+      "from": "Gerald Pith",
+      "body": "To the Editor: I have cross-referenced my ice notebook against Calloway's new discrepancy column and found, I will admit, nothing conclusive, which I am reporting anyway because a null result is still a result and somebody ought to keep track of the times things don't line up as faithfully as the times they do. The alcove-facing ice went smooth two days before the rest for the second time this season. I do not know what that means. I am writing it down regardless. — G. Pith"
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "A drawer that keeps its own excuses is still a drawer, Doreen's right about that, though she'll wish she hadn't said it so plain. A shelf that admits to losing is closer to honest than one that swears it never has. Watch which one gets trusted first. — A. Crewe"
+    }
+  ]
+}
