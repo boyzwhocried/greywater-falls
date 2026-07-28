@@ -1,0 +1,50 @@
+{
+  "day": 60,
+  "dateline": "Thursday, December the 4th",
+  "weather": "Overcast, 8°F, the same fine dry snow, still not settling",
+  "stage": 2,
+  "lead": {
+    "headline": "Thursday; Doreen Declines a Second Time, and This Editor Names What the Refusal Is Testing",
+    "byline": "By Wren Aldercott",
+    "body": "Doreen Halloway baked seven Standings against a seven-loaf Thursday order yesterday and, for the second day running, declined to say whether it matched. This editor is not printing that as a small thing. Wednesday's silence could have been a slip, a tired woman not wanting to perform an answer at her own counter. Two days of it in a row is a policy. This editor asked her outright, at half past ten, whether she now intends never to confirm a match again. Doreen wiped her hands on her apron, which this editor has learned to read as a woman buying herself a sentence, and said, 'Now, I've spent forty years being the one who tells this town its numbers are fine. I'd like a week where somebody else carries that.' She went back to the ovens. This editor let her.\n\nWhat this editor did not let go was the matter of who, exactly, is meant to carry it instead. Gerald Pith's margin column has quietly become the town's shared ledger in all but name, three domains folded into one line, and yesterday he added a fourth without asking anyone's permission: he wrote down that Doreen's silence itself was now a data point, alongside ice and log and Standings, on the grounds that a refusal to report is still a report. This editor thinks he may be right and finds that she does not like being agreed with on this particular point.\n\nRuss Dunmore, informed of Gerald's fourth entry at the station in the afternoon, said something this editor is printing because he asked her to, which he has not done before: 'Write down that I said I don't think Gerald's wrong anymore, and I don't like that I don't.' He still has not initialed the alcove file. This editor notes that his letter this week, printed below, comes closer than anything he has said aloud to admitting why.\n\nAgnes Crewe, asked for comment at her door in the late afternoon, said only that a town which stops counting its own bread has usually decided it trusts something else to keep the count. She would not say what. She rarely does, this late in a season, and this editor has stopped expecting her to. The one true thing this editor will commit to print today, and only once, is this: the town has not lost its arithmetic. It has started handing the sum to something else and calling that trust."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 41 — Level 68, Stage 2; Water Temperature 36°F; Clarity to Thirty-Nine Feet; Sign Still Reads 7; Seven Returned Gather at Dusk, Hum Held Sixty-Three Seconds, a New Record",
+      "body": "Toby Fern's stopwatch put the held note two seconds past Monday's mark. He reports the returned did not turn toward or away from the water for the duration, same as last week, and that a doe among them lay down on the frozen verge rather than standing, which he has not seen before and has not yet found a category for."
+    },
+    {
+      "headline": "Gerald Pith Adds a Fourth Line to His Margin Column: 'Doreen's Silence' Alongside Ice, Log, and Standings",
+      "body": "Gerald told this paper he considers a declined answer a data point same as a given one, 'the way a stopped clock is still telling you something, just not the time.' He has not yet drawn a line connecting the four entries. He says he is in no hurry to."
+    },
+    {
+      "headline": "Calloway's Discrepancy Column Remains Blank Six Days Running; Fifth Book's Table Otherwise Unchanged",
+      "body": "Calloway reports no further disagreements since the fourth's, and says she has started to wonder whether a column can be a kind of waiting room. She has not shelved a sixth book, though the east alcove's newest arrival, the fifth, remains open on its stand to the same page it opened to on the day it appeared."
+    },
+    {
+      "headline": "Halloway's Bakery Reports Seven Standings Against a Seven-Loaf Thursday Order; Owner Declines Comment on Match for the Second Consecutive Day",
+      "body": "Doreen Halloway has posted, in place of her usual chalkboard tally, a single line reading 'baked as ordered.' Regulars report the loaves taste the same as ever. This editor can confirm the flour was weighed."
+    }
+  ],
+  "classifieds": [
+    "LOST: One pewter thimble, engraved M.V., last seen on the Kettle's back windowsill. Reward: pie, Marigold's choice.",
+    "WANTED: Someone to walk the shore road with Gerald at dawn who is not Marigold, so Marigold can sleep past six once this month.",
+    "FOR SALE: Storm lanterns, slightly used, Mossley Hardware. Ask Hank why he still has so many in stock.",
+    "NOTICE: The library's east alcove remains open during regular hours. Patrons are asked not to remove the newest volume from its stand. It has not asked to be removed."
+  ],
+  "record": [
+    "Births: none. Deaths: none. Returned: none new. Standings: seven baked, match undisclosed.",
+    "Library alcove volumes present: five. Discrepancy column: blank."
+  ],
+  "letters": [
+    {
+      "from": "Russ Dunmore, Constable",
+      "body": "I want it in the paper plain, since I asked Wren to write it down and she did. I don't think Gerald's wrong anymore about the ice and the log and the bread all reading the same way. I have spent two months calling that nothing so the nothing would hold a little longer. I know how that ends. I am not ready to say the next word out loud, the one Doreen won't say either, but I have started leaving the file open on my desk instead of in the drawer, which is as close as I've got to an initial."
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "A house that stops keeping its own ledger has usually found a bigger book to trust. That is not a bad thing, provided you remember who wrote the first one. Ask the shelf who it thinks it's keeping time for. It won't answer in words. Neither did I, most of my life, and I turned out fine, mostly."
+    }
+  ],
+  "editorNote": "This editor is aware she has now printed the phrase 'the same animal from opposite ends' twice and intends, barring some clarifying mercy, not to print it a third time. The town does not need the metaphor repeated. It needs to decide, soon, what it is going to do about the animal."
+}
