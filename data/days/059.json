@@ -1,0 +1,49 @@
+{
+  "day": 59,
+  "dateline": "Wednesday, December the 3rd",
+  "weather": "Overcast, 9°F, the same fine dry snow, still not settling",
+  "stage": 2,
+  "lead": {
+    "headline": "Wednesday; Gerald Names the Category Wren Wouldn't, and the Town Sits With It",
+    "byline": "By Wren Aldercott",
+    "body": "Gerald Pith came to the Gazette office at seven yesterday morning, before this editor had the stove lit, and asked to see the second notebook. This editor said no, on the grounds that it is not for print and never has been, and Gerald said he understood, and then asked instead whether the second notebook and his own margin column, the one titled 'things that agree with each other before they should,' were tracking the same thing by different names. This editor sat with that question longer than she is proud of. The honest answer is yes.\n\nWhat Gerald has been building, quietly, across four pages of ice measurements he insists have no bearing on the library, is a ledger of coincidence: the ice smoothing at the alcove-facing shore before the rest of the lake, the fifth book's table matching Calloway's log hour for hour before it didn't, Doreen's Standings matching the day's order exactly for six days running before yesterday's near miss. He has not claimed these things cause one another. He has only observed, in his own mild circular way, that they keep arriving early to agreements they haven't made yet. He asked this editor yesterday whether a town could be a kind of instrument, the way his stick and knotted string are an instrument, and whether an instrument that keeps reading true before the thing it measures has happened is still an instrument or has become something else.\n\nThis editor put that question to Doreen at the bakery counter, and to Russ at the station, separately, without telling either what the other said. Doreen set down her cloth and said, after a silence this editor will not pretend was brief, that she has wondered for forty years whether this town does the noticing or the noticing does the town, and that she has never once been comfortable with either answer. Russ said only that he had read Gerald's margin column twice, same as Calloway's discrepancy header, and that he was beginning to suspect the two men were describing the same animal from opposite ends without either one touching it. He still has not initialed the alcove file.\n\n      This editor is printing Gerald's phrase in full today, and will use it again, because it names a thing this paper has been circling for six editions without saying: that this is no longer a matter of one shelf, one log, one bakery scale keeping unlikely time with itself. It is the whole town, keeping time with something none of us set the clock for, and reading true, so far, more often than any of us are willing to call comfort."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 40 — Level 65, Stage 2",
+      "body": "Water Temperature 37°F; Clarity to Thirty-Eight Feet; Sign Still Reads 7; Seven Returned Gather at Dusk, Holding the Note through a held silence Toby clocked at sixty-four seconds, a new record he reports 'without much surprise left in it.'"
+    },
+    {
+      "headline": "Gerald Pith's Margin Column Gains a Third Entry: Ice, Log, and Standings Named in the Same Line for the First Time",
+      "body": "Gerald declined to call it a theory. He called it 'a list that keeps wanting to be one sentence.' Marigold, asked for comment at the counter, said only that she agreed with the list."
+    },
+    {
+      "headline": "Calloway Reports the Fifth Book's Table Now Includes a Discrepancy Column of Its Own, Left Blank Since Sunday",
+      "body": "She confirmed the blank has not filled in the two days since the door and the light. She is choosing, for now, not to read that as good news, and asked this editor to print that she is choosing it, not assuming it."
+    },
+    {
+      "headline": "Doreen Halloway Bakes Seven Standings Against a Seven-Loaf Wednesday Order; Declines, for the First Time, to Say Whether It Matched",
+      "body": "She told this editor to check the till herself. This editor did. It matched. Doreen has not asked for the number back."
+    }
+  ],
+  "classifieds": [
+    "WANTED: a second stick, longer than the first, for a man who no longer trusts the knot. Inquire G. Pith, no obligation to explain why.",
+    "FOR SALE: one specials board, chalk removable, headcount column optional. The Kettle, ask for Marigold. Price negotiable, sincerity not.",
+    "LOST: certainty, somewhere between the bakery scale and the fourth log. If found, do not return. We are managing without it.",
+    "NOTICE: the alcove reading room will remain open past its posted hours this week. Bring your own theory. Calloway will keep the coffee on and the discrepancy column visible."
+  ],
+  "record": [
+    "Ice: two and seven-eighths inches, alcove-facing shore, per G. Pith's notebook, eighth consecutive entry in one direction.",
+    "Fifth book's discrepancy column: one entry (Sunday), unchanged as of press time."
+  ],
+  "letters": [
+    {
+      "from": "Agnes Crewe",
+      "body": "A drawer that agrees with the room it's in was never just a drawer. Ask the room what it's been keeping time for. I have. It doesn't answer in words either."
+    },
+    {
+      "from": "Russ Dunmore",
+      "body": "For the record: I have not initialed Gerald's column and I do not intend to. Some things stay un-official longest by staying un-named. I am aware this is the same argument Calloway lost."
+    }
+  ]
+}

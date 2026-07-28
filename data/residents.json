@@ -24,16 +24,16 @@
       }
     ],
     "secret": "She has known since she was a girl that the lake takes and gives back. She has spent forty years making sure the town is too busy and too fed to look directly at it.",
-    "mood": "Steadier but newly guarded, having said more aloud than she meant to.",
+    "mood": "Steadier but newly guarded, having said more aloud than she meant to, and now retreating one step further into ambiguity by choice.",
     "status": "present",
-    "arc": "The exact matches have pushed Doreen from unspoken worry to a single, uncharacteristic public admission that she no longer calls the matches ordinary out loud.",
+    "arc": "The exact matches have pushed Doreen from a single public admission to a deliberate refusal to confirm the day's match herself, a small but pointed withdrawal from participating in the town's accounting.",
     "memory": [
-      "Day 46: Seven Standings, Thursday number, all served. Everyday apron. Quince pie from two. Gerald came for his Standing. Said it was good. It always is.",
       "Day 52: Baked eight Standings against a seven-loaf Thursday order, a day early. Said the extra 'seemed called for.' Did not say by what.",
       "Day 54: Seven Standings against a seven-loaf Friday order. Called it ordinary, and grateful for it.",
       "Day 55: Seven Standings against a seven-loaf Saturday order, matched exactly. Said she'd rather it not mean anything. Kept serving.",
       "Day 57: Seven Standings against a seven-loaf Monday order, matched exactly. Called it a relief she isn't ready to trust. Heard about the door and was glad.",
-      "Day 58: Seven Standings against a seven-loaf Tuesday order, matched exactly. Set down her scoop mid-sentence. Called a self-correcting book 'still a drawer.'"
+      "Day 58: Seven Standings against a seven-loaf Tuesday order, matched exactly. Set down her scoop mid-sentence. Called a self-correcting book 'still a drawer.'",
+      "Day 59: Baked seven Standings against a seven-loaf order. Told Wren to check the till herself rather than confirm it. It matched. She has not asked for the number back."
     ],
     "backstory": "Born in the Falls. Took the bakery from her mother, who also never spoke of the lake. Elected mayor four times, uncontested, mostly because she remembers everyone's birthday."
   },
@@ -57,16 +57,16 @@
       }
     ],
     "secret": "He measured the waterline with a stick and a knot of string and has the numbers in a notebook. The water is rising. It has not rained.",
-    "mood": "Quietly proud of a null result, treating it as seriously as any positive one.",
+    "mood": "Quietly electrified by his own restraint, having named a pattern and immediately distrusted the naming.",
     "status": "present",
-    "arc": "Gerald's cross-referencing habit sharpens into pattern-hunting, now tracking coincidences of timing rather than just of measurement.",
+    "arc": "Gerald's cross-referencing habit crosses from measurement into synthesis: he is the first to name ice, log, and bakery matches as one phenomenon rather than three, without yet claiming to know what binds them.",
     "memory": [
-      "Day 49: Two inches. Drew the threshold line in ink. Told Marigold. She already knew. The notebook has four consecutive entries, all one direction.",
       "Day 50: Two and one-eighth inches. Seventh entry. Told Marigold the direction is unambiguous. She already knew.",
       "Day 52: Two and one-half inches. Noted the alcove-facing shore ice felt smoother through the boot before it looked smoother. Started a margin note. Marigold told him to write it down separately.",
       "Day 55: Ice at two and five-eighths inches. Wrote a letter to the Gazette about missing books troubling him more than appearing ones. Started a new page. Cross-referenced Calloway for the first time.",
       "Day 57: Cross-referenced ice depth against shelf counts for the first time. Found no correlation. Wrote it down anyway.",
-      "Day 58: Ice at two and three-quarter inches. Started a margin column titled 'things that agree with each other before they should.'"
+      "Day 58: Ice at two and three-quarter inches. Started a margin column titled 'things that agree with each other before they should.'",
+      "Day 59: Named ice, the fourth log, and Doreen's Standings in one line in his margin column. Called it a list that keeps wanting to be one sentence. Did not finish the sentence."
     ],
     "backstory": "Forty years carrying the town's mail. Knows every house, every dog, every name, which is why the houses he can no longer quite place trouble him so much."
   },
@@ -125,14 +125,14 @@
     "secret": "She keeps a second set of notes she does not print, because she is not sure the town could read them and stay.",
     "mood": "Restless in her own victory, now pushing the town toward a conversation she isn't sure it wants to have.",
     "status": "present",
-    "arc": "Having won her private test, Wren now tries to make the town reckon publicly with what a fallible book means, rather than letting the win sit as a private relief.",
+    "arc": "Having won her private test, Wren now tries to make the town reckon publicly with what a fallible book means, and today extends that reckoning to Gerald's cross-domain pattern, printing the phrase 'the same animal from opposite ends' in her own lead for the first time.",
     "memory": [
-      "Day 50: Typeset Agnes's letter. Set the word 'receive' in type. Left the slip on the layout table. Did not move it.",
       "Day 52: Read the first line of the book's last chapter. Closed it. Printed the title in full anyway. Did not print the date of the final chapter. Wrote it in the second notebook instead.",
       "Day 54: Printed the date without printing what it is a date of. Read the third book's opening chapter in full this time.",
       "Day 55: Read the fourth book, A KEEPING. Computed the net total of appeared versus vanished. Did not print it. Told Russ she didn't know if the missing books still existed. Meant it.",
       "Day 57: Kept the door locked and the light lit at four o'clock, against the fifth book's table. Won. Printed it first, before any other news. Told herself relief was not quite the right word and left it in anyway.",
-      "Day 58: Printed her own running tally, one WRONG against eleven RIGHT, and asked in the lead which number should worry the town more."
+      "Day 58: Printed her own running tally, one WRONG against eleven RIGHT, and asked in the lead which number should worry the town more.",
+      "Day 59: Printed Gerald's phrase in full. Asked Doreen and Russ the same question separately. Got two answers that agreed without either of them hearing the other."
     ],
     "backstory": "Wren keeps a second notebook that she does not print. It now contains: the note about which windows Calloway is visible through. She does not know yet why she wrote it down."
   },
@@ -255,14 +255,14 @@
     "secret": "She was here the last time, as a girl. The lake took her sister and, a season later, gave back someone who wore her sister's face and was kind and was not her sister. Agnes loved her anyway. That is the whole secret: you love them anyway.",
     "mood": "Watchful, offering her riddles a little more pointedly than usual.",
     "status": "present",
-    "arc": "Agnes's attention on the water continues, but today she speaks directly to the town's growing vocabulary for the phenomenon, nudging it without naming it outright.",
+    "arc": "Agnes's attention on the water continues; today she speaks directly to the town's emerging shared vocabulary, reframing Doreen's 'drawer' line from last week into a question about what the room itself has been keeping time for.",
     "memory": [
-      "Day 48: Wrote to the Gazette about the return slip. Said something is deciding what to put on it. Said leave it on the table. Went back inside.",
       "Day 49: Walked to the shore before first light. The ice was two inches. The alcove window caught the sun at an angle I recognised. Came home. Had breakfast. Said nothing.",
       "Day 50: Wrote to the Gazette about the floor. Said what a clean floor is for. Went back inside. The sky is deciding.",
       "Day 54: Told Toby listening, not calling. Told Wren the date is hers to print now. Went back inside.",
       "Day 55: Stood at the shore in her good coat, no cup. Told Toby a shelf keeps what it needs and returns what it borrowed. Went home.",
-      "Day 58: Wrote to the Gazette that a shelf admitting fault is closer to honest than one that swears it never errs, and asked which gets trusted first."
+      "Day 58: Wrote to the Gazette that a shelf admitting fault is closer to honest than one that swears it never errs, and asked which gets trusted first.",
+      "Day 59: Wrote to the Gazette that a drawer which agrees with its room was never just a drawer. Asked what the room has been keeping time for. Said it doesn't answer in words either."
     ],
     "backstory": "Born in the cottage by the lake, will die in it, has outlived everyone who could confirm what she remembers. Which is its own kind of loneliness, and its own kind of proof."
   },
@@ -286,16 +286,16 @@
       }
     ],
     "secret": "He drove out to the lake alone at 3 a.m. to prove to himself it was nothing, sat in the cruiser for an hour, and left without getting out of the car. He has told no one.",
-    "mood": "Wary of official-looking things, unwilling to formalize what he still hopes will fail.",
+    "mood": "Wary of official-looking things, now explicitly refusing to let two frameworks touch in his presence.",
     "status": "present",
-    "arc": "Russ resists Calloway's new named column, sensing that giving the discrepancy a header is a step toward legitimizing the phenomenon rather than merely tracking it.",
+    "arc": "Russ resists Calloway's named column and now Gerald's as well, articulating for the first time that un-naming a thing is itself a strategy, even as he admits by comparison that Calloway already lost that argument.",
     "memory": [
-      "Day 50: Filed the ice advisory. Read Agnes's letter in the Gazette. Read it again. Filed nothing in response.",
       "Day 52: Filed a three-line report on the library book without filing it as an incident. Read the first line of the final chapter. Has not mentioned poker night since.",
       "Day 54: Missed the card game a second week. Said 'paperwork.' Did not elaborate.",
       "Day 55: Asked Wren whether the missing books still exist. Wrote down her answer. Added a fourth page to the alcove file, still marked Pending, Not Incident.",
       "Day 57: Read Calloway's disagreement entry over Wren's shoulder. Said 'So it can lose.' Did not initial anything. Left holding the door open a moment too long.",
-      "Day 58: Told Wren he didn't care for how official Calloway's new column looked. Left the alcove file un-initialed again."
+      "Day 58: Told Wren he didn't care for how official Calloway's new column looked. Left the alcove file un-initialed again.",
+      "Day 59: Told Wren that Gerald and Calloway are describing the same animal from opposite ends. Refused to initial Gerald's column. Wrote a letter admitting he knows how that refusal ends."
     ],
     "backstory": "Twenty years keeping a town this small means twenty years of nothing happening, which made him very good at his job and completely unprepared for the one time it didn't hold."
   }
