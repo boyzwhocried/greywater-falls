@@ -1,0 +1,49 @@
+{
+  "day": 61,
+  "dateline": "Friday, December the 5th",
+  "weather": "Overcast, 7°F, the dry snow finally starting to catch in the fence lines",
+  "stage": 2,
+  "lead": {
+    "headline": "Friday; Esmé Puts a Number on What Gerald Only Named, and This Editor Asks What an Instrument Does When It Notices Itself",
+    "byline": "By Wren Aldercott",
+    "body": "Esmé Okonkwo came to the Gazette office yesterday afternoon carrying a chart she has kept since Day 11 and has not, until now, offered for print. It shows every adult in this town sharing an identical resting heart rate, a shared description of the same low hum, and, this week, something new: the four measurements Gerald Pith has been folding into one line of his margin column, ice depth, the fourth log's discrepancy column, Doreen's Standings, and Doreen's silence about them, track within a single beat of each other's rhythm across the last five days. Esmé is careful, as she is always careful, to say this is correlation and not cause. Then she said something she does not usually let herself say: 'I have stopped asking what is doing this to us and started asking what we are for.'\n\nThis editor pressed her on the difference, since it did not sound like much of one at first. Esmé said an illness happens to a body. An instrument is played. She would not commit to which word fit the town, only that she no longer believed the first one covered what her chart showed. She left the chart with this editor, unpublished in full, on the condition that only the summary run today. This editor is honoring that condition, though not without noting that the second notebook now holds a fifth page it did not have on Wednesday, and that the page is titled, in Esmé's hand and not this editor's own, 'Tuning, Continued.'\n\nGerald, told of the chart at the diner counter this morning, went very quiet in the particular way he goes quiet before he says something exact. He asked whether a thing that is being tuned can also be the one doing the tuning, the way a bell rings and is also, in some sense, ringing itself. Marigold poured his coffee before he'd finished the sentence, which this editor takes as its own kind of answer. Russ Dunmore, informed of the chart by telephone, said he would like it on the record that he still has not initialed anything, and that he considers this a distinction worth keeping even if nobody else does.\n\nThe one true thing this editor will set down today, and will not soften with a question mark: an instrument that has begun to listen to its own note is no longer merely playing. It is asking to be heard."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 42 — Level 71, Stage 2; Water Temperature 36°F; Clarity to Forty-One Feet; Sign Still Reads 7; Seven Returned Gather at Dusk, Hum Held Sixty-Six Seconds",
+      "body": "The hum's held note lengthened again at dusk, three seconds past Thursday's record. Toby Fern, timing from the dock with his stopwatch, reports the returned did not turn toward or away from the water for the duration, as has become their habit. The sign on Route 9 still reads 7. The census still says 9."
+    },
+    {
+      "headline": "Esmé Okonkwo Shares a Five-Day Chart Linking Physician's Adaptive-Response Data to Gerald Pith's Margin Column; Declines to Publish in Full",
+      "body": "The town physician's chart, kept privately since Day 11, was offered to this paper in summary only. It shows the ice, the fourth log's discrepancy column, and the bakery's Standings tracking within a beat of the resting heart rates Esmé has logged in every adult resident."
+    },
+    {
+      "headline": "Calloway's Discrepancy Column Records Its First New Entry in Seven Days; Declines to Say What It Records",
+      "body": "The library's fourth log, blank in its discrepancy column since Sunday last, gained a single dated mark yesterday with no accompanying note. Calloway, reached by telephone, said only that some entries are allowed to be quiet."
+    },
+    {
+      "headline": "Halloway's Bakery Reports Seven Standings Against a Seven-Loaf Friday Order; Doreen Declines Comment for the Third Consecutive Day",
+      "body": "The count matched again. Doreen confirmed the loaf order and nothing else, and returned to the ovens before this editor could finish the question."
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One (1) stick-and-string water level gauge, hand-calibrated, gently used, comes with four pages of notes the seller insists have no bearing on anything. Inquire G. Pith.",
+    "LOST: Specials board eraser. Last seen making the headcount disappear before it could be wrong. Reward: pie.",
+    "NOTICE: The Kettle's Friday soup is white bean again, proper recipe, ready by eleven. The back-burner pot is not yet the soup you're asking about.",
+    "WANTED: Someone to initial the alcove file. Constable declines to specify why he hasn't. Apply within, bring your own pen."
+  ],
+  "record": [
+    "Births: none. Deaths: none. Returns: none new; seven remain at the shore.",
+    "Snowfall: dry, still not settling. Fence lines beginning to catch."
+  ],
+  "letters": [
+    {
+      "from": "Marigold Vance",
+      "body": "Wren — you can print that Gerald went quiet at my counter this morning, I don't mind, but I want it said plain that I poured the coffee because it was ready, not because I was answering him. Though I suppose I was doing both. I've started writing my own margin note next to the register, just a little tally, nothing like Gerald's. I haven't shown it to anyone. I don't know why I'm telling you except that you're the one who prints things and I wanted one thing about this written down by somebody who isn't already tuned to it, if there is such a person left."
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "A bell doesn't ask to be heard. It's struck, and it rings, and it doesn't much mind which. Ask Gerald what struck him before he asks what he's ringing for. Tell Esmé her chart is a kind and careful way of saying the same thing I said about the drawer. The room was always keeping time. Now it's learning the tune has words."
+    }
+  ]
+}
