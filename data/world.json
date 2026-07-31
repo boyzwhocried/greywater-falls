@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 61,
-  "weather": "Overcast, 7°F, the dry snow finally starting to catch in the fence lines",
+  "dayNumber": 62,
+  "weather": "Overcast, 6°F, snow holding an inch on the fence rails now",
   "undercurrent": {
     "level": 60,
     "stage": 2,
     "phenomenon": "the east alcove",
-    "note": "Gerald's cross-domain naming (ice/log/Standings as one pattern) is the seed of the town recognizing itself as a shared instrument rather than separate anecdotes. Doreen's refusal to check her own till, and Russ explicitly linking Gerald's and Calloway's frameworks without either touching the other, are the last steps before someone says the word 'experiment' or 'control group' aloud in print. Reserve that exact crossing for stage 3: it should be a specific named moment (likely Wren or Esmé), not another accretion. Held at stage 2 deliberately; the town now has a shared vocabulary but has not yet turned it on itself as subjects."
+    "note": "Calloway has now asked, in Wren's presence, the exact question the note flagged as reserved for stage 3 (town testing library vs. library testing town). Russ has named the three frameworks as 'arms of one filing cabinet' without initialing or crossing. Held deliberately at stage 2 for one more beat: the crossing word itself ('experiment'/'control group') has still not been spoken aloud in print by Wren or Esmé. Doreen volunteering the match unprompted today is a small reversal of her withdrawal arc and should be reckoned with, not ignored, next edition. The eighth returned and eighth loaf arriving same-day is the closest the count has come to breaking its own 'seven' pattern; reserve the actual crossing to stage 3."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 3,
     "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls — and they are set in years that have not happened yet.",
-    "day_in_season": 16,
+    "day_in_season": 17,
     "target_length": 32,
     "next_premise": ""
   }

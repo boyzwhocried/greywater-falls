@@ -1,0 +1,49 @@
+{
+  "day": 62,
+  "dateline": "Saturday, December the 6th",
+  "weather": "Overcast, 6°F, snow holding an inch on the fence rails now",
+  "stage": 2,
+  "lead": {
+    "headline": "Saturday; Calloway Asks the Question Russ Has Been Refusing to Initial, and This Editor Watches the Word Arrive",
+    "byline": "By Wren Aldercott",
+    "body": "Calloway came by the Gazette office yesterday afternoon, snow still on her coat, and asked this editor a question she said had been sitting in her mouth for three days: if the alcove's shelves keep producing books that agree with events before they happen, and Gerald's margin column keeps producing measurements that agree with each other before they should, was the library testing the town, or was the town testing the library, and was there any way left to tell the two apart. This editor did not have an answer ready. This editor is not sure one exists that doesn't require a word neither Calloway nor Russ has yet said aloud in this paper, though both have circled it for a week now the way a dog circles a chair it isn't sure is safe to sit in.\n\nRuss Dunmore, asked directly whether he would use that word, the one this editor is not printing today because it belongs to whoever says it first and not to a headline, said he wouldn't, not yet, but that he had started thinking of the alcove file, Gerald's column, and Doreen's silence as three arms of one filing cabinet he has been refusing to admit is a single drawer. He said this with the particular flatness of a man reading a thing he has already decided is true. He still has not initialed anything. This editor believes now that the not-initialing has become, in Gerald's own phrase, its own kind of report.\n\nDoreen, told of Calloway's question at the bakery, did not set down her cloth this time. She kept kneading and said only that a town testing itself and a town being tested by something patient enough to wait forty years for the right decade would look, from the counter, exactly the same, and that she had given up trying to tell the difference sometime around 1987. She did not say what happened in 1987. This editor has learned, by now, which silences to leave alone.\n\nThe one true thing this editor will set down today: a question that everyone in town can now ask in the same words is no longer a private worry. It is a shared instrument tuning toward the moment somebody plays it out loud, and this editor suspects that moment is close enough now to smell, the way you smell snow before it starts."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 43 — Level 74, Stage 2; Water Temperature 36°F; Clarity to Forty-Two Feet; Sign Still Reads 7; Eight Returned Gather at Dusk, Hum Held Sixty-Nine Seconds",
+      "body": "The eighth returned joined the shore gathering for the first time last evening, a barn cat belonging to no one who has claimed it. Toby Fern's stopwatch recorded the hum's longest hold yet. He has stopped asking Agnes for a category and started simply logging the number."
+    },
+    {
+      "headline": "Calloway's Discrepancy Column Adds Its First Entry in Nine Days; Reads Only 'Agrees, and Knows It'",
+      "body": "The fifth book's table has not changed its shelving pattern, but the discrepancy column, blank since Sunday week, now carries a single line in Calloway's hand. She declined to elaborate beyond confirming the words are hers and not copied from any shelved text."
+    },
+    {
+      "headline": "Gerald Pith Folds Calloway's New Entry Into His Margin Column Within the Hour",
+      "body": "Mr. Pith learned of the discrepancy column's new line at the diner counter shortly after nine and had it copied into his own ledger, beside ice, log, and Standings, before his coffee cooled. He would not say what the fifth line meant. He said it was too early to say and wrote that down too."
+    },
+    {
+      "headline": "Halloway's Bakery Reports Eight Standings Against a Seven-Loaf Saturday Order; Doreen Confirms the Extra Loaf Without Being Asked",
+      "body": "For the first time in five days Doreen volunteered a number before this paper requested one. She said the eighth loaf 'seemed called for again' and would not say by what, echoing her own words from Day 52. She has not explained why she chose today to speak."
+    }
+  ],
+  "classifieds": [
+    "LOST: One barn cat, grey, no collar, believed to be the eighth at the shore. Not claiming ownership. Just would like to know its name if it had one. — R. Okafor, Birch Lane",
+    "FOR SALE: Storm lanterns, slightly used, six remaining. Ask for Hank. Do not ask him what comes after two inches.",
+    "WANTED: A second pair of hands at the diner Saturday mornings. Must not mind long silences or Gerald's coffee schedule. — M. Vance",
+    "NOTICE: The library's east alcove reading table will be roped for inventory this coming week. Patrons are asked not to remove the rope. — E. Calloway"
+  ],
+  "record": [
+    "Births: none. Deaths: none. Returned: one, unclaimed, barn cat, Day 62.",
+    "Marriages: none. Bake sale proceeds, Saturday: $61, all to the library roof fund."
+  ],
+  "letters": [
+    {
+      "from": "Russ Dunmore, Constable",
+      "body": "I'd like it in the paper that I told Calloway I understood the question before I told her I wouldn't answer it. Those aren't the same thing and I want the difference on record while it still matters to make it. I still haven't initialed the file. Ask me again next week."
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "A drawer that agrees with the room was never just a drawer, I said that already. Now the room is asking the drawer's permission before it moves the furniture. That's new. Watch the furniture."
+    }
+  ]
+}
