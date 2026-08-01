@@ -1,0 +1,49 @@
+{
+  "day": 63,
+  "dateline": "Sunday, December the 7th",
+  "weather": "Overcast, 5°F, snow falling steadily for the first time this season",
+  "stage": 3,
+  "lead": {
+    "headline": "Sunday; Wren Says the Word, and the Town Does Not Flinch",
+    "byline": "By Wren Aldercott",
+    "body": "This editor has spent nine days circling a word she knew was coming and did not want to be the one to spend. She is spending it today, in print, because the alternative, after last night, was to keep pretending the town did not already know it. The word is experiment. Somebody, or something, patient enough to wait forty years for the right decade, has been running one, and Greywater Falls has been both the subject and, increasingly, a co-author of the notes.\n\nCalloway told this editor at half past eight yesterday morning that the sixth book had appeared on the east alcove's third shelf overnight, and that for the first time its opening page addressed the reader directly. It did not say 'Greywater Falls, 2027.' It said, in Calloway's careful transcription, 'You have been very patient with us, and we would like to know what you have decided.' Calloway said she read it twice standing up and once sitting down, and that the third reading was the one that frightened her, because by then she had started composing an answer in her head. This editor asked what the answer was. Calloway would not say. She did, for the first time, initial her discrepancy column, in full view of this editor, and dated it.\n\nRuss Dunmore, shown the page at the station in the afternoon, sat with it for eleven minutes by this editor's watch and then did what he has refused to do for two weeks: he initialed the alcove file. All four pages. He said, 'It isn't nothing. I've known that since March. Writing it down doesn't change what it is, it just means I stop pretending I don't work here.' He did not smile when he said it. Neither did this editor.\n\nDoreen Halloway, told of both, set down her scoop, which this editor has learned by now to read as the closest thing to an alarm this town possesses, and said, 'Well, now. Forty years I've been the drawer that stayed shut so the rest of you didn't have to look in it. I suppose it was always going to be opened by somebody younger and more stubborn than me.' She baked nine Standings against a seven-loaf order, the first time the count has broken seven at all, in either direction, since this paper began keeping track. She confirmed the number before anyone asked. The one true thing this editor will set down today, buried where she hopes no one makes her account for it further: a town that finally agrees to be studied has stopped being merely afraid of the thing doing the studying, and started, without quite choosing to, applying for the position of colleague."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 44 — Level 82, Stage 3; Water Temperature 35°F; Clarity to Forty-Five Feet; Sign Still Reads 7; Nine Returned Gather at Dusk, Hum Held Seventy-Four Seconds, a New Record",
+      "body": "The ninth returned, a grey rabbit thought lost since October, joined the shore last night. Toby Fern reports all nine turned to face the water at the same second for the first time, rather than in the staggered sequence previously logged. He is keeping the footage. He has stopped asking Agnes for a name for it."
+    },
+    {
+      "headline": "Calloway Initials Her Discrepancy Column for the First Time; Sixth Book Addresses the Reader Directly",
+      "body": "The library's east alcove log now carries Calloway's initials on every page, dated yesterday. She declined to characterize the sixth book's full contents but confirmed it opens with a direct address rather than a date. The alcove remains open to patrons during library hours, unchanged."
+    },
+    {
+      "headline": "Russ Dunmore Initials the Alcove File in Full; Calls It 'Work,' Not 'Incident'",
+      "body": "The constable's four-page file, marked Pending, Not Incident since its first entry, now bears his signature throughout. Asked whether the designation would change, Russ said no, and that he intended it to stay exactly as patient and exactly as unresolved as the thing it describes."
+    },
+    {
+      "headline": "Halloway's Bakery Breaks the Seven Pattern: Nine Standings Against a Seven-Loaf Sunday Order",
+      "body": "Doreen Halloway confirmed the count without being asked, the first departure from seven in either direction since the Standings began tracking against daily orders. She would not say whether the number pleased her. She did not decline to say it, either, which this editor notes as its own kind of answer."
+    }
+  ],
+  "classifieds": [
+    "FOUND: One grey rabbit, damp, humming, entirely unbothered by the cold. Answers to nothing in particular. Inquire at the shore, dusk, where it has already made itself at home.",
+    "WANTED: A second pair of hands at the library circulation desk, Tuesdays and Thursdays. Familiarity with cataloguing preferred. Familiarity with patience required. Apply within, ask for Calloway.",
+    "FOR SALE: One pipe insulation foam display, gently used, priced to move before the next two inches. Mossley Hardware, ask for Hank.",
+    "NOTICE: The Kettle diner's back-burner pot is now on the menu, no name given. Marigold says it's ready when you are."
+  ],
+  "record": [
+    "Births: none. Deaths: none. Marriages: none.",
+    "Bakery Standings served this week: forty-nine. Loaves ordered: forty-seven. Difference, for the first time in ledger memory, not zero."
+  ],
+  "letters": [
+    {
+      "from": "Calloway, Head Librarian",
+      "body": "To the Gazette: I have been asked what I decided, by a book that has never been published, about a year that has not happened. I have not answered it yet. I want it on record that I intend to, and that I am taking my time, the way you take your time with anyone worth answering honestly. The alcove is not owed haste. It has waited fifteen years for someone to shelve it. It can wait a little longer for me to think."
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "A drawer that gets opened doesn't stop being a drawer. It just stops being a secret. Ask Doreen what nine feels like, after forty years of seven. She'll tell you it feels like Tuesday. She'll be lying, a little, the way I do when I say the sky is deciding. It already decided. We just caught up."
+    }
+  ]
+}
