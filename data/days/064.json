@@ -1,0 +1,50 @@
+{
+  "day": 64,
+  "dateline": "Monday, December the 8th",
+  "weather": "Overcast, 7°F, snow tapering to flurries by afternoon",
+  "stage": 3,
+  "lead": {
+    "headline": "Monday; the Alcove Gets a Reading Chair, and This Editor Watches the Town File the Impossible Under Furniture",
+    "byline": "By Wren Aldercott",
+    "body": "Calloway did not announer this. That is worth noting first, because everything else that happened yesterday afternoon happened quietly, in the specific way this town has learned to make room for things it has decided not to be afraid of. She carried a reading chair, the green wingback from the librarians' lounge nobody has sat in since before the last cataloguer left, into the east alcove herself, set it facing the new shelves at a comfortable distance, and did not say a word to anyone about why. Toby, who was there returning a book on tides for reasons he wouldn't specify, watched her do it and asked if the alcove was getting a name. Calloway said, 'It's getting a chair. The name can come later, if it wants one.'\n\nThis editor asked Calloway directly, for the record, whether she had decided how to answer the sixth book's question, the one that asked what the town had decided. Calloway said she had an answer, that she has had one since Saturday night, and that she was not printing it yet, not out of fear but because an answer given too early is the same as no answer at all. She said the chair was the first part of it. This editor takes that at face value, though not without noting that a chair is also, on any given Tuesday, an invitation.\n\nThe rest of the town spent the day doing what it does best: absorbing. Doreen, whose nine Standings from Sunday sat in the bakery case through the morning unsold and then, by two o'clock, entirely sold, said she is not baking to a number anymore, she is baking to whatever number shows up, and that this is either the most frightening sentence she has ever said in this paper or the most restful, and she genuinely does not know which. Russ walked the alcove file to the station in a proper folder now, not a loose stack, and filed it under a heading he typed himself: ONGOING, LOCAL. Gerald, informed of the chair, wrote in his ledger, 'furniture agrees with the room,' and then crossed it out, and then wrote it again anyway.\n\nThe one true thing this editor will set down today, where she hopes it will look like an afterthought and not the whole of it: a town that pulls up a chair for the thing that has been watching it has stopped calling it a visitor, and has started, without a vote or an announcement, treating it as a member of the household."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 45 — Level 84, Stage 3; Water Temperature 35°F; Clarity to Forty-Six Feet; Sign Still Reads 7; Nine Returned Gather at Dusk, Hum Held Seventy-Four Seconds, Steady",
+      "body": "The census remains fifteen. The sign remains seven. The shore, for the second evening running, held nine returned animals facing the water at dusk, the hum sustained at Saturday's record with no further lengthening. Gerald notes the hold, not the climb, as the more interesting fact: 'A thing that stops trying to break its own record might just be resting. Or it might have gotten what it wanted.'"
+    },
+    {
+      "headline": "Calloway Moves Furniture Into the East Alcove; Declines to Say What the Chair Is For",
+      "body": "The librarian relocated the lounge's green wingback to face the alcove shelves yesterday afternoon. She confirmed she has an answer prepared for the sixth book's question but will not print or speak it before she judges the moment right. 'An answer given too early is the same as no answer,' she said. She would not be moved on a date."
+    },
+    {
+      "headline": "Halloway's Bakery Sells Out of Sunday's Nine Standings by Mid-Afternoon; Doreen Declares She No Longer Bakes to a Number",
+      "body": "The mayor confirmed she has stopped tracking her Standings against the seven-loaf order at all and intends to bake, in her words, 'to whatever number shows up.' She called it either the most frightening thing she's said in this paper or the most restful, and did not resolve which."
+    },
+    {
+      "headline": "Russ Dunmore Files the Alcove Under 'Ongoing, Local'; Says the Heading Was His Own Choice of Words",
+      "body": "The constable transferred the alcove file into a proper station folder yesterday, typing the heading himself. He said the designation is meant to last, unlike 'Pending,' which he called 'a word for something you think is going to stop.'"
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One (1) green wingback armchair, formerly of the library lounge, condition excellent, upholstery slightly dusty. Inquire Calloway. Not actually for sale. Ignore above.",
+    "LOST: A Tuesday. Last seen behaving like itself. If found, please return to Gerald Pith, who insists this is not a metaphor.",
+    "WANTED: Someone to tell Halloway's Bakery how many loaves to expect on Wednesday. Doreen will not be guessing anymore and would appreciate the help.",
+    "NOTICE: The Kettle diner's back-burner pot remains unannounced and unnamed. Ask Marigold nicely. She may not answer, but she'll pour you something."
+  ],
+  "record": [
+    "Births: none. Deaths: none. Arrivals: none by any road the town can name.",
+    "Marriages: none. Census: fifteen, holding, per Dr. Okonkwo's most recent count."
+  ],
+  "letters": [
+    {
+      "from": "Agnes Crewe",
+      "body": "A chair set out for company means the company was already expected. Nobody puts a chair by the door for a stranger. Ask Doreen how long the case has stood empty at two in the afternoon. Longer than it used to. That's not the alcove changing. That's the town remembering how to wait for someone."
+    },
+    {
+      "from": "Marigold Vance",
+      "body": "Started my own page this morning, next to Gerald's, though I told him it was for the grocery order. It isn't. I wrote down that the counter was full by seven-forty for the first time since October and that nobody wrote anything on their wrist. Some days the good news doesn't need a category either."
+    }
+  ],
+  "editorNote": "A correction to no error anyone has filed: this editor was asked yesterday whether printing the word 'experiment' had changed anything. It changed exactly one thing. This editor no longer has to pretend she doesn't know what she's reporting on."
+}

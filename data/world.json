@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 63,
-  "weather": "Overcast, 5°F, snow falling steadily for the first time this season",
+  "dayNumber": 64,
+  "weather": "Overcast, 7°F, snow tapering to flurries by afternoon",
   "undercurrent": {
-    "level": 84,
+    "level": 83,
     "stage": 3,
     "phenomenon": "the east alcove",
-    "note": "Crossing achieved: Wren named 'experiment' in print, Russ initialed the file in full, Calloway initialed her column, and Doreen broke the seven-pattern to nine and confirmed it unasked. All four load-bearing withholdings resolved same-day, deliberately, as the crest. Next beat (resolving phase) should let the town settle into its new accommodation: the alcove becomes a standing feature, Calloway answers the book's question, and the number nine (matching the census, not the sign) starts to feel less like a rupture and more like an arrival. Do not let stage climb further; hold at 3 briefly then ease. Reserve Calloway's actual answer to the book for the resolving days, not today."
+    "note": "Crest held one more day and begins its ease: Calloway's chair is the first visible sign of the resolving posture, an accommodation gesture rather than a new escalation. Doreen has released the number itself as an object of anxiety, baking to whatever appears rather than tracking deviation, which further drains the undercurrent's fuel. Russ's 'ONGOING, LOCAL' heading formalizes permanence over crisis. Reserve Calloway's actual answer to the book for a coming resolving day; today was staging (the chair) not the answer itself. Let level ease gradually from here, stage should hold at 3 only briefly longer before easing to 2 in the resolving days."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 3,
     "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls — and they are set in years that have not happened yet.",
-    "day_in_season": 18,
+    "day_in_season": 19,
     "target_length": 32,
     "next_premise": ""
   }
