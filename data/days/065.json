@@ -1,0 +1,49 @@
+{
+  "day": 65,
+  "dateline": "Tuesday, December the 9th",
+  "weather": "Overcast, 8°F, the flurries stopped sometime before dawn and did not resume",
+  "stage": 3,
+  "lead": {
+    "headline": "Tuesday; Calloway Sits Down in the Chair, and Answers the Sixth Book in Front of Witnesses",
+    "byline": "By Wren Aldercott",
+    "body": "Calloway did it at eleven this morning, with the alcove door propped open and no announcement beyond asking this editor, Russ, Doreen, and Toby to be there if they cared to be. She sat in the green wingback, facing the shelves, for the better part of four minutes without speaking, and then she said, aloud, to the room: 'We have decided to keep reading.' She did not read it from a card. She had clearly practiced it and clearly did not need to.\n\nThis editor asked what that meant, exactly, in the way a newspaper needs a thing to mean something. Calloway said it meant the library would not board up the alcove, would not remove the shelves, and would not stop cataloguing whatever arrives, but that it would also stop treating each new book as a crisis requiring a locked door and a lit lamp, the posture this editor herself kept for weeks. She said the alcove would get a card catalogue entry like any other, dated by year of appearance rather than year of publication, filed under a new heading she has typed and pinned above the shelf: LOCAL FUTURES, UNCONFIRMED. Russ, standing by the window with his hat still on, said that heading was close enough to his own 'Ongoing, Local' that he considered the two departments now, in his words, 'reading off the same page,' and did not seem entirely comfortable saying so.\n\nDoreen asked to see the sixth book itself, the one that asked what the town had decided, and Calloway let her hold it. Doreen read the question on the first page, then the answer Calloway had pinned beneath it on an index card, and handed it back without comment beyond, 'Well. That's a decision, all right.' Toby, filming on his phone for the school paper, asked Calloway if she was scared the shelves would take the answer as an invitation to bring more, faster. Calloway said that was exactly the risk, and that she had decided to accept it, because the alternative, refusing to answer at all, seemed to her a worse kind of experiment: one that never learns anything because it never says anything back.\n\nThe one true thing this editor will set down today, where the town has already stopped flinching enough to make it easy to bury: an answer given in a library, to no one anyone can point to, is still an answer, and this town, having spent forty years perfecting the art of not looking directly at the lake, has now spent one afternoon looking directly at something else entirely and calling it, cheerfully, a card catalogue entry."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 46 — Level 79, Stage 3; Water Temperature 35°F; Clarity to Forty-Six Feet; Sign Still Reads 7; Nine Returned Gather at Dusk, Hum Held Seventy-One Seconds, Down Slightly",
+      "body": "The hum eased three seconds from Monday's steady mark, the first backward movement recorded since the Watch began noting duration. Toby, who logged it, declined to call the dip a category of anything. Gerald called it 'the room exhaling' and did not elaborate further than that."
+    },
+    {
+      "headline": "Calloway Pins 'Local Futures, Unconfirmed' Above the East Alcove Shelf; First Formal Heading Since 2009",
+      "body": "The card catalogue entry is dated by year of appearance, not publication, a distinction Calloway says she considered for three days before settling on. She says the sixth book will be the alcove's first cataloged item by end of week."
+    },
+    {
+      "headline": "Halloway's Bakery Bakes Eleven Standings Against a Nine-Loaf Tuesday Order; Doreen Calls the Gap 'Someone Else's Business Now'",
+      "body": "Doreen confirmed the count to this editor without checking the till, the first time she has reported a number from memory rather than verification since the paper began tracking. She says she intends to keep doing so."
+    },
+    {
+      "headline": "Russ Dunmore Cross-Files the Alcove Under Both Station Headings; Calls the Overlap 'Housekeeping, Not News'",
+      "body": "The constable added Calloway's 'Local Futures, Unconfirmed' as a cross-reference beneath his own 'Ongoing, Local' tab. He declined to say which heading he trusts more, on the grounds that the question assumes there's a difference."
+    }
+  ],
+  "classifieds": [
+    "FOUND: one green wingback chair cushion, slightly damp, slightly warm, in the east alcove overnight. Calloway says it isn't hers to claim and isn't anyone else's either. Ask at the library.",
+    "WANTED: someone to sit the second chair in the alcove, Thursdays, no reading required. Inquire with Calloway. She says she'll explain when there's something to explain.",
+    "Halloway's Bakery now takes standing orders 'as they come.' Doreen says don't ask her what that means, just bring a basket.",
+    "LOST: the habit of checking the welcome sign twice on the way into town. If found, please do not return it."
+  ],
+  "record": [
+    "Library card catalogue: new heading added, 'LOCAL FUTURES, UNCONFIRMED,' dated December 9th.",
+    "Station log cross-reference filed, alcove file to card catalogue, Constable R. Dunmore, initialed."
+  ],
+  "letters": [
+    {
+      "from": "Calloway, Head Librarian",
+      "body": "I want it in the paper plainly, since Wren will bury the true part where nobody looks: I did not answer the sixth book because I was brave. I answered it because a library that refuses new patrons on the grounds that it doesn't like where they're from stops being a library. We catalogue what arrives. That's the whole of the job. It always has been."
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "A shelf that gets a chair isn't waiting anymore, it's hosting. Ask Calloway who she thinks is coming to sit in it. She already knows. She just hasn't decided if she's allowed to say it out loud yet, same as the rest of you."
+    }
+  ]
+}
