@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 66,
-  "weather": "Overcast, 7°F, the flurries holding off, the air very still",
+  "dayNumber": 67,
+  "weather": "Overcast breaking to thin sun by noon, 6°F, first flurries since November holding at the edges of town",
   "undercurrent": {
-    "level": 76,
+    "level": 70,
     "stage": 3,
     "phenomenon": "the east alcove",
-    "note": "Second full-strength day past the crest's actual peak (Calloway's spoken answer, Day 65). Level easing by small increments as directed: 80 to 76. Gerald's ice plateau and the hum's near-flat hold (71 to 72) reinforce the glide toward stage 2, expected within a day or two. Doreen's unverified count and Marigold's mirrored extra-cup gesture are the clearest signs the town has moved from vigilance to hospitality; nothing left to escalate at full stage 3, next beats should begin softening toward stage 2 without any single dramatic turn."
+    "note": "Crest fully spent; Agnes's move to the second chair is the arc's emotional peak, not a new escalation, so level continues its planned glide down (73 to 70). Hum shortening two nights running (72 to 68 to 68... actually 68 to 68, correcting: 72->68 over two days) and Lake Watch level dropping in step both signal the town sliding from stage 3 toward stage 2 within the next day or two, right on schedule for the resolving phase to follow. Doreen's short bake and jar-drawdown, Russ's refusal to escalate filing, and Agnes naming her own chair rather than the town naming it for her are all signs of accommodation completing itself rather than intensifying. Nothing left unresolved that needs a bigger beat than this; next few days should ease, not climb."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 3,
     "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls, and they are set in years that have not happened yet.",
-    "day_in_season": 21,
+    "day_in_season": 22,
     "target_length": 32,
     "next_premise": ""
   }

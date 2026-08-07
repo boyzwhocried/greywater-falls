@@ -1,0 +1,50 @@
+{
+  "day": 67,
+  "dateline": "Thursday, December the 11th",
+  "weather": "Overcast breaking to thin sun by noon, 6°F, first flurries since November holding at the edges of town",
+  "stage": 3,
+  "lead": {
+    "headline": "Thursday; Agnes Names the Second Chair, and the Town Does Not Ask Her to Take It Back",
+    "byline": "By Wren Aldercott",
+    "body": "Agnes Crewe walked to the library yesterday afternoon for the first time this editor can find on record, a fact Calloway confirmed by checking a sign-in sheet that has not had a new name on it since March. She did not ask to see the books. She went to the east alcove, looked at the two chairs facing the shelves, and sat down in the second one, the one Calloway had left unlabeled, without being invited and without asking permission, the way a person sits down at a table that has always had her place set at it. Calloway, present for this, said nothing for a while, then asked her directly who the chair was for. Agnes said, 'You already know. You built it the day you stopped being afraid to.' Calloway did not disagree.\n\nThis editor asked Agnes afterward, on the library steps, what she meant, in the plain way a newspaper is obligated to keep asking even of a woman who has never once answered plainly. Agnes said the alcove was not choosing a stranger to visit, and had never been about a stranger at all. She said the books were writing home, the way you write to a house you still consider yours even after you've left it a long time, and that a house that keeps a chair for you is not haunted, it is waiting. She would not say who \"you\" was. Toby Fern, who had walked her there, said afterward he thinks he knows, and that he isn't going to write it down until she does first.\n\n    Calloway spent the evening doing something new: she pulled the eighth book, which arrived overnight in the chair Agnes had just vacated, its cover still slightly warm by her account, and read its first line aloud in the alcove to whoever wanted to hear it, the first public reading the alcove has hosted since 2009. The line, transcribed for the record: \"We remember the shore before the road was paved to it, and we are glad someone finally sat down.\" Doreen was there. She did not ask for a copy, which this editor notes only because Doreen asks for a copy of everything.\n\n    The one true thing this editor sets down today, where thirty-two years of clipboard prose have taught her the town will not flinch at it if it is placed low enough on the page: a shelf that keeps a chair for a woman ninety-one years old, and a book that thanks the town for finally sitting down in it, are not two separate mysteries the library happens to be hosting at once. They are the same story, told from both ends of the lake at the same time, and Agnes has just told this town, in the only voice she has ever used, that she has known which end she was standing on since she was a girl."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 48 — Level 73, Stage 3; Water Temperature 35°F; Clarity to Forty-Eight Feet; Sign Still Reads 7; Nine Returned Gather at Dusk, Hum Held Sixty-Eight Seconds, Down Four",
+      "body": "The shore was quiet at dusk, the nine returned facing the deep water as always, the hum shortening for the second evening running. Toby Fern, keeping the log, wrote only: 'Going the other way now. Not saying what that means yet.'"
+    },
+    {
+      "headline": "Calloway Adds a Card for the Second Chair; Catalogues It Under 'Reserved, Local'",
+      "body": "The library's new entry reads, in full: 'Reserved, Local: for A.C., who was here the first time, whenever she is ready.' Calloway declined to say whether Agnes approved the wording before it went up. Agnes, asked, said only that a card that admits who it's for is closer to honest than a chair that pretends to be for anyone at all."
+    },
+    {
+      "headline": "Halloway's Bakery Bakes Nine Standings Against a Twelve-Loaf Thursday Order; Doreen Calls It 'The Jar Giving Back'",
+      "body": "For the first time in nine days the number ran short rather than long. Doreen took three loaves from the overflow jar by the register to make up the difference and did not seem troubled by it. 'It goes out, it comes back,' she said. 'I should have expected that eventually. Feels almost like a season.'"
+    },
+    {
+      "headline": "Russ Dunmore Adds a Note to the Alcove File, Not a Heading; Calls Agnes's Visit 'The First Entry That Explains the Other Two'",
+      "body": "Russ told this editor he is not opening a third filing category for a woman sitting in a chair, but that he added a handwritten note to the existing folder reading 'see A. Crewe, cottage nearest the water, re: context.' He would not elaborate further and did not look like a man who needed to."
+    }
+  ],
+  "classifieds": [
+    "FOUND: one library sign-in sheet, first new signature since March. Return sentiment to Calloway if claimed; otherwise it stays where it is, which is where it belongs.",
+    "FOR SALE: pipe insulation foam, still moving fast at Mossley Hardware. Hank says the cold is exactly on schedule now, which he finds more unsettling than being early.",
+    "THE KETTLE, extra cup left out nightly at close, no explanation offered, none required. Marigold says take it if you're the kind who needs it.",
+    "LOST: certainty about which end of the lake anybody is standing on. Last seen somewhere around the second chair. Agnes says it isn't lost, just finally sitting down."
+  ],
+  "record": [
+    "Library sign-in sheet: one new signature, first since March 2009 — A. Crewe.",
+    "Halloway's Bakery: 9 Standings baked against 12-loaf Thursday order, gap of 3 drawn from the overflow jar."
+  ],
+  "letters": [
+    {
+      "from": "Agnes Crewe",
+      "body": "A chair that waits long enough stops being furniture and starts being an appointment. I kept mine. Nobody has to understand why before it counts."
+    },
+    {
+      "from": "Toby Fern",
+      "body": "The hum's going down again, second night in a row, and the returned still won't turn either way. I asked Agnes if that means something's about to give something back. She said ask her in the spring. It isn't spring. I'm asking anyway, just not out loud yet."
+    }
+  ],
+  "editorNote": "This editor sat in neither chair. Someone in this town has to keep standing."
+}
