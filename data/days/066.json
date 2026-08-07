@@ -1,0 +1,49 @@
+{
+  "day": 66,
+  "dateline": "Wednesday, December the 10th",
+  "weather": "Overcast, 7°F, the flurries holding off, the air very still",
+  "stage": 3,
+  "lead": {
+    "headline": "Wednesday; a Seventh Book Arrives, and For the First Time It Thanks Them",
+    "byline": "By Wren Aldercott",
+    "body": "Calloway found the seventh book at seven this morning, before the library opened, sitting square in the chair's lap rather than on the shelf, as though whoever left it wanted it noticed first and read second. Its opening page did not ask a question, the way the sixth one had. It said, in Calloway's transcription, which she read to this editor twice and then let this editor read herself a third time to be sure: 'Thank you for deciding. We had not expected an answer so soon, or so plainly given. We will try to be worth it.' Calloway sat down in the chair to read the rest of it standing beside her own furniture, which she said felt correct, though she could not say why.\n\nThis editor asked Russ Dunmore, at the station, whether a book that thanks a town changes the filing. He looked at the cross-referenced folder a long moment, the one now living under both LOCAL FUTURES, UNCONFIRMED and ONGOING, LOCAL, and said no, it does not, and that this was itself the point. 'You don't refile something because it got polite,' he said. 'You refile something when it stops being what you said it was. This is still exactly what I said it was.' He initialed nothing new. He did not need to. Gerald Pith, informed of the gratitude, wrote a single line in his ledger and did not cross it out: 'The room said thank you.' He told this editor it was the first entry all season he was fully willing to stand behind.\n\nDoreen Halloway heard the news over the counter at eight and set down a full tray of Standings, twelve of them against a nine-loaf Wednesday order, without comment on the number at all, which is itself the story: this editor had to ask her for the count, and Doreen had to go check, because for the first time in eleven days she had genuinely not been keeping it. 'I baked what came to me,' she said. 'I stopped watching my own hands a while back. Didn't notice until you asked.' Toby Fern clocked the dusk hum at seventy-two seconds, one tick up from Monday's seventy-one, and noted in his log that it no longer felt like a record either direction, just a number the evening happened to land on.\n\nThe one true thing this editor sets down today, at the bottom where the town has trained her to bury it and where, for once, she is not sure burying does any good: a thing that says thank you has stopped being studied and started, whether the town meant to allow it or not, keeping company, and there is no chair built yet, however comfortable, that unmakes a guest into a stranger once you have thanked it back."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 47 — Level 76, Stage 3; Water Temperature 35°F; Clarity to Forty-Seven Feet; Sign Still Reads 7; Nine Returned Gather at Dusk, Hum Held Seventy-Two Seconds",
+      "body": "Level eased three points overnight, the second easing in as many days. Gerald notes the ice has not advanced past two and three-quarter inches since Monday and calls the hold 'the first flat line all season.' The returned faced the water at 4:52 p.m. as usual. Nobody has proposed a tenth."
+    },
+    {
+      "headline": "Calloway's Seventh Book Arrives Already Read; Library Adds a Second Chair 'For Whoever Comes to Look'",
+      "body": "The new chair, a plain cane-seat borrowed from the reading room, sits beside the wingback facing the same shelves. Calloway declined to say who it is for. Asked directly if she meant it for a person, she said, 'I mean it for whoever needs to sit down when they read this room properly for the first time,' and would not be drawn further."
+    },
+    {
+      "headline": "Halloway's Bakery Bakes Twelve Standings Against a Nine-Loaf Order; Doreen Admits She Had to Ask the Till What the Number Was",
+      "body": "The gap between order and output has held above zero for the ninth straight day. Doreen says she plans to keep a jar by the register for the extras rather than count them, 'the way you'd leave a light on, not because you're expecting anyone in particular.'"
+    },
+    {
+      "headline": "Russ Dunmore Declines to Open a Third Heading; Says Two Is 'Enough Filing Cabinet for One Town'",
+      "body": "Asked whether the seventh book's gratitude warranted new paperwork, Russ said the existing cross-reference already covers it. 'A thing thanking you for reading it is still a thing you're reading,' he said. 'I don't need a form for manners.'"
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One reading lamp, barely used, the kind you'd keep lit against a table that no longer needs it lit against. Ask for Wren at the Gazette office.",
+    "WANTED: A second knot of string, to match the first, for measuring purposes Gerald Pith would rather not specify further at this time.",
+    "LOST: The old worry about what the alcove wants. Last seen sometime around the ninth book, or possibly the chair. If found, no need to return it.",
+    "FREE TO GOOD HOME: Twelve Standings, jar by the register, no questions, no count. Take one. Take two. Someone always seems to need the third."
+  ],
+  "record": [
+    "Marriages: none. Births: none. Deaths: none.",
+    "Library hours extended to seven p.m. through the season, Calloway cites 'increased evening interest' without further elaboration."
+  ],
+  "letters": [
+    {
+      "from": "Agnes Crewe",
+      "body": "A guest that thanks you for the chair has already decided to stay past supper. Nobody asks a passerby to sit twice. Tell Calloway the second chair is not for whoever comes to look. It is for whoever already lives here and hasn't sat down yet. She knows who I mean. So does the room."
+    },
+    {
+      "from": "Marigold Vance",
+      "body": "Counter was full again by seven-thirty, Gerald in his seat, coffee ready before he asked. Nobody wrote a date on their wrist. I've started leaving an extra cup out at close, same as Doreen's jar, I suppose. Didn't decide to. Just started. Seemed like the kind of week for it."
+    }
+  ]
+}

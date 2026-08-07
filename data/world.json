@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 65,
-  "weather": "Overcast, 8°F, the flurries stopped sometime before dawn and did not resume",
+  "dayNumber": 66,
+  "weather": "Overcast, 7°F, the flurries holding off, the air very still",
   "undercurrent": {
-    "level": 80,
+    "level": 76,
     "stage": 3,
     "phenomenon": "the east alcove",
-    "note": "Calloway's spoken answer to the sixth book is the crest's actual peak, held one day past the chair. The hum's first backward tick (74 to 71 seconds) and Doreen's shift to reporting from memory rather than verification are the first true easing signals, small and easy to miss. Russ's cross-filing formalizes accommodation further, no new escalation left to spend. Begin the glide to stage 2 tomorrow or the day after; level should continue easing by small increments, this was the last full-strength stage 3 day."
+    "note": "Second full-strength day past the crest's actual peak (Calloway's spoken answer, Day 65). Level easing by small increments as directed: 80 to 76. Gerald's ice plateau and the hum's near-flat hold (71 to 72) reinforce the glide toward stage 2, expected within a day or two. Doreen's unverified count and Marigold's mirrored extra-cup gesture are the clearest signs the town has moved from vigilance to hospitality; nothing left to escalate at full stage 3, next beats should begin softening toward stage 2 without any single dramatic turn."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -20,8 +20,8 @@
   },
   "season_arc": {
     "number": 3,
-    "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls — and they are set in years that have not happened yet.",
-    "day_in_season": 20,
+    "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls, and they are set in years that have not happened yet.",
+    "day_in_season": 21,
     "target_length": 32,
     "next_premise": ""
   }
