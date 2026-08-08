@@ -1,0 +1,49 @@
+{
+  "day": 68,
+  "dateline": "Friday, December the 12th",
+  "weather": "Overcast, 5°F, flurries settling instead of holding at the edges, the first snow this town has actually let land",
+  "stage": 3,
+  "lead": {
+    "headline": "Friday; the Ninth Book Arrives With No Question and No Thanks, Only a Guest List, and Agnes Confirms It",
+    "byline": "By Wren Aldercott",
+    "body": "Calloway found the ninth book at dawn, not in either chair but laid open on the little table between them, spine cracked to a page near the middle rather than the front, as though someone had been reading it aloud and set it down mid-sentence to answer the door. It contained no question this time, and no thanks. It contained a list. Calloway copied it out for this editor exactly as it appeared, in the book's own strange non-alphabetical order: Doreen Halloway. Gerald Pith. Hank Mossley. Marigold Vance. Esmé Okonkwo. Toby Fern. Russ Dunmore. Wren Aldercott. Agnes Crewe. Nine names. The town's census, not the sign's.\n\nThis editor went to Agnes first, on the theory that a woman who has told this paper the truth in riddles all season might, faced with her own name on a list from a book that does not exist yet, finally say something plain. She did not. She read the list, nodded once as if checking it against a tally she'd already kept privately for ninety-one years, and said, 'Well, now they've written it down too.' Asked whether the list meant something was coming, she said, 'It means someone's finally keeping the right count.' She would not be pressed further, though she smiled in a way this editor found harder to sit with than any of her riddles have been.\n\nRuss Dunmore, shown the list at the station, did not reach for a new folder, which by now surprises no one. He read the nine names twice, set the page down, and said, 'That's not evidence of anything. That's a roster.' Asked a roster of what, he allowed, after a long pause with his hat off for once, that he did not intend to guess in an official capacity, and that unofficially he'd rather not guess at all. Doreen, told her own name appeared first, laughed the short laugh she uses when she means the opposite of amused, and said only, 'Of course it's me first. Somebody has to open the door.' She did not elaborate, and for the first time all season, this editor did not ask her to.\n\nThe one true thing this editor sets down today, at the bottom, where thirty-two years of practice have taught this town to let a sentence pass unremarked if it is filed low enough: a welcome sign at the edge of town has read seven for as long as anyone can measure, over a census of nine, and a book that has never been published, set in a year that has not happened, has now written down the same nine names the sign has always refused to say out loud, in an order that starts with the woman who bakes bread and ends with the woman who was here the last time the lake came home."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 49 — Level 68, Stage 3; Water Temperature 34°F; Clarity to Forty-Nine Feet; Sign Still Reads 7; Nine Returned Gather at Dusk, Hum Held Sixty-Five Seconds, Down Three",
+      "body": "Snow held at the edges of town rather than blowing through it, the first since November to actually settle. Toby Fern reports the hum shortening for the second night running and notes, without further comment, that the returned faced the water for sixty-five seconds and then simply stopped, as if the note had finished rather than been dropped."
+    },
+    {
+      "headline": "Calloway Adds No New Heading for the Ninth Book, Files It Under 'Local Futures, Unconfirmed' Beside the Rest",
+      "body": "Asked whether a book containing the town's own names required special handling, Calloway said the alcove's job was cataloguing, not curating, and that a list was still just a book as far as the shelf was concerned. She has begun a card index of the nine names cross-referenced to Russ's station file, 'so the two of us stop doing the same work twice,' she said."
+    },
+    {
+      "headline": "Halloway's Bakery Bakes Seven Standings Against an Eight-Loaf Friday Order; Doreen Calls the Jar 'About Even Now'",
+      "body": "Doreen drew one loaf from the register jar to cover the gap, the fourth draw in five days, and said the jar has stopped feeling like an emergency measure and started feeling like a second till. 'It gives when we're short and takes when we're long,' she said. 'That's not a jar anymore. That's an arrangement.'"
+    },
+    {
+      "headline": "Russ Dunmore Opens a Cross-Index, Not a Third Heading, for 'The Nine'; Calls It 'The Same Filing, Alphabetized Differently'",
+      "body": "Russ has begun keeping a copy of Calloway's card index at the station, filed under the existing ONGOING, LOCAL heading with a paperclip note reading only 'see also: everyone.' He declined to characterize this as an escalation. 'A list isn't a warning,' he said. 'It's just a list. I've read worse at town meeting.'"
+    }
+  ],
+  "classifieds": [
+    "FOUND: one storm lantern, barely used, on the Mossley Hardware step this morning. No name attached. Hank says it isn't his stock and he isn't selling it, only holding it, 'in case somebody comes looking, which they usually do around here.'",
+    "WANTED: someone to sit with Mrs. Vance's cat while she's at the bakery mornings. The cat is no trouble. It only wants a lap and does not mind if the lap runs a little cold. Inquire at the green house on Pell Road.",
+    "FOR SALE: nine jars, quart size, good for keeping a reserve of anything you'd rather not run out of. Ask for Doreen. She'll know why you're asking.",
+    "NOTICE: The Kettle now closes with one cup left on the counter overnight, unpoured, unclaimed. Marigold asks that nobody read too much into it. She also asks that nobody move it."
+  ],
+  "record": [
+    "Marriages: none. Births: none. Departures: none recorded. Returns: nine, gathering nightly at the shore, unchanged in number since the eighth.",
+    "Library sign-in sheet: two new names since March, both this week."
+  ],
+  "letters": [
+    {
+      "from": "Agnes Crewe, Pell Road end of the shore",
+      "body": "A list is just a count that finally got tired of hiding as a sign. Nine was always the number. Seven was only ever the town being polite about it. I don't mind being ninth on somebody's list. I've been first on my own for ninety-one years, and that's the harder seat to hold."
+    },
+    {
+      "from": "Toby Fern, unofficial correspondent",
+      "body": "Everybody wants to know if the list is scary. I filmed the returned again tonight and they stopped humming at the same second they stopped last night, which is new, and which is the actual story if you ask me, except nobody's asking me. I know what Agnes meant on the steps. I'm still not writing it down. Some things you let a person say themselves or you didn't really let them say it at all."
+    }
+  ]
+}
