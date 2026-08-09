@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 68,
-  "weather": "Overcast, 5°F, flurries settling instead of holding at the edges, the first snow this town has actually let land",
+  "dayNumber": 69,
+  "weather": "Overcast easing to pale sun by afternoon, 6°F, the flurries from yesterday settled and staying, an inch on the ground that has not melted",
   "undercurrent": {
-    "level": 65,
+    "level": 60,
     "stage": 3,
     "phenomenon": "the east alcove",
-    "note": "Crest fully spent as planned; today's ninth book (the roster) is the arc's final, most resonant image, not a new escalation, so level continues its glide down (68 to 65). Hum shortened again (68 to 65) and Lake Watch dropped in step. Every institution in town (Calloway's catalogue, Russ's cross-index, Doreen's jar, Marigold's cup) has now built a permanent, calm accommodation for the strange rather than a crisis response. Nothing left to escalate; the list naming all nine names including the sign's hidden two is the season's clearest statement and should be followed by easing, not by a bigger reveal. Next few days should move toward stage 2 and resolution proper."
+    "note": "Crest fully spent as of Day 68's roster. Today the alcove goes quiet for the first time in nine days rather than producing a tenth book, which is the deliberate first step of the glide down to stage 2. Level drops 65 to 60. Institutions (Calloway's open book, Doreen's balanced jar, Russ's closed cross-index, the shore's shortening hum) are all settling into calm permanent accommodation rather than crisis response. Agnes's 'set the table, not a summons' framing is the season's reassurance beat — next days should continue easing toward resolution, letting residents sit with the roster rather than react further to new escalations."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 3,
     "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls, and they are set in years that have not happened yet.",
-    "day_in_season": 23,
+    "day_in_season": 24,
     "target_length": 32,
     "next_premise": ""
   }

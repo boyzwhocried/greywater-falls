@@ -1,0 +1,50 @@
+{
+  "day": 69,
+  "dateline": "Saturday, December the 13th",
+  "weather": "Overcast easing to pale sun by afternoon, 6°F, the flurries from yesterday settled and staying, an inch on the ground that has not melted",
+  "stage": 3,
+  "lead": {
+    "headline": "Saturday; No Tenth Book Comes, and the Alcove, for the First Time in Nine Days, Simply Waits",
+    "byline": "By Wren Aldercott",
+    "body": "Calloway opened the library at eight this morning to an alcove that had not changed overnight for the first time since the seventh book arrived already read. No new spine on the shelf. No page left open on the little table between the two chairs. She told this editor she checked twice, then a third time, not out of alarm but out of what she called 'the opposite of alarm, which I don't have a better word for yet.' The ninth book, the one with the list, remains where it was set down four days ago, spine still faintly cracked to its middle page. Nobody has moved it. Nobody has closed it.\n\nThis editor spent the morning doing the thing this paper has spent all season declining to do, which is ask the nine people named on that list, plainly, whether they believe it. Six answered. Doreen said she'd stopped waiting to be told what to believe and started baking instead, which is not an answer but is, this editor has learned, the only kind Doreen gives when she means it. Gerald wrote, and let stand, a single new line in his ledger: 'The list agrees with the sign the way the ice agrees with December.' Russ said the roster is still filed exactly where it was filed, that filing something correctly once does not require you to keep re-filing it, and that he considers this a kind of peace, though he would not use that word himself. This editor is using it for him.\n\nAgnes Crewe, visited last at the cottage nearest the water, was mending a coat by the stove and did not look up right away. Asked whether the alcove's silence today meant the story was finished, she said, 'A held note isn't a stopped one. Listen for what it's resting on.' Asked what it was resting on, she said only that the town had been handed the whole guest list and had not yet learned to read a guest list as an invitation rather than a warning, and that this was the last thing she intended to explain this season, because some things a person has to sit with rather than be told.\n\nThe one true thing this editor sets down today, at the bottom, closer to plain than she has allowed herself all year: the alcove did not add a tenth name today, and did not need to, because the list already named every soul left in this town who has not yet been taken and given back, and a shelf that has finished its guest list has not gone quiet, it has simply finished setting the table."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 50 — Level 63, Stage 3; Water Temperature 34°F; Clarity to Fifty Feet; Sign Still Reads 7; Nine Returned Gather at Dusk, Hum Held Sixty-One Seconds, Down Four",
+      "body": "The count at the shore held steady overnight. Toby Fern reports the hum settling shorter for the third evening running and notes, without further comment, that the returned turned to face the water at exactly 5:14 p.m., same as every dusk this month."
+    },
+    {
+      "headline": "Calloway Leaves the Ninth Book Open on the Table, Refuses to Reshelve It; Calls It 'Still Being Read By Someone'",
+      "body": "The head librarian has declined three times this week to close the book or return it to the shelf, saying a book left open mid-sentence is a courtesy to whoever set it down, not an oversight to correct."
+    },
+    {
+      "headline": "Halloway's Bakery Bakes Exactly Nine Standings Against a Nine-Loaf Saturday Order, First Match in Eleven Days",
+      "body": "Doreen confirmed the number herself at the till, unprompted, and called the exact match 'the jar taking a day off.' The extras jar by the register held its balance for the first time this season."
+    },
+    {
+      "headline": "Russ Dunmore Closes the Cross-Index to New Entries, Not the File; Says 'Nine Was the List, Not a Quota'",
+      "body": "The constable confirmed the roster file remains open under Ongoing, Local, but says he will not add further names to the cross-index called 'see also: everyone,' calling the list complete rather than paused."
+    }
+  ],
+  "classifieds": [
+    "LOST: one garden trowel, green handle, last seen by the Pell Road fence line. No urgency. It'll turn up, or it won't, and either way I've made peace with the shed. — G. Pith",
+    "FOUND: a second cup, clean, at the back of The Kettle's shelf, not accounted for in inventory. If it's yours, it's still yours. — M. Vance",
+    "Extras jar at Halloway's Bakery reports even balance for the first time all season. Take a loaf if you need one. Leave one if you don't. No questions either direction.",
+    "Firewood for sale, split and stacked, delivered. Ask for Hank. He'll tell you the ice numbers whether you ask or not."
+  ],
+  "record": [
+    "Library visits, past 7 days: 41 (up from 29). East alcove specifically: 41.",
+    "Bakery extras jar: balance even, first time this season."
+  ],
+  "letters": [
+    {
+      "from": "Doreen Halloway, Halloway's Bakery",
+      "body": "Somebody asked me this morning if nine loaves against nine loaves meant the trouble was over. I told them trouble was never the word I'd have used for it, and a jar that balances isn't empty, it's just resting. Come Monday I expect it'll tip again. I'll bake to whatever shows up. I always have, whether I called it that or not."
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "A guest list isn't a summons. Nobody's been called anywhere. You set a table because you love the people coming to it, not because you're afraid of who might show up instead. I've known that since I was nine years old myself, which some of you are only now doing the arithmetic on."
+    }
+  ],
+  "editorNote": "A reader asked this week why the Gazette keeps printing the Lake Watch numbers next to the bake sale results. The honest answer is that I no longer know how to separate them, and I have stopped believing that separating them was ever the job."
+}
