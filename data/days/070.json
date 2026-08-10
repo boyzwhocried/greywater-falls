@@ -1,0 +1,49 @@
+{
+  "day": 70,
+  "dateline": "Sunday, December the 14th",
+  "weather": "Clear and bright, 8°F, sun on the snow all afternoon, the first plainly sunny day since the flurries came",
+  "stage": 2,
+  "lead": {
+    "headline": "Sunday; Calloway Moves the Second Chair Six Inches Closer to the Table, and Nobody Puts It Back",
+    "byline": "By Wren Aldercott",
+    "body": "Calloway did the smallest thing this editor has recorded all season, and it may be the truest one. She came in before the library opened, found the alcove exactly as it has sat since Saturday, the ninth book still open to its middle page, the two chairs still facing the shelves rather than each other, and she moved the second chair, Agnes's chair, six inches to the left, so that it now faces the first chair instead of the wall. She told this editor she did not plan it. She said she was dusting and her hands did it before she'd decided anything, and that when she stepped back and saw what she'd made, she did not move it back. Two chairs facing each other over a low table with an open book between them is not an alcove anymore. It is a room where somebody visits.\n\nThis editor went to the library at noon, when the light comes in low through the east window and lands square on the table, to see it for herself, and found half the guest list already there without having arranged to be. Gerald was in the first chair with his ledger closed on his knee, not writing, which for Gerald is its own kind of headline. Doreen stood in the doorway with a bakery box she did not offer to anyone, and did not explain, and set down finally on the little table beside the book, where it sat unopened the whole visit. Toby sat on the floor with his back against the shelf, not filming anything, just there. Nobody spoke for a long while. Calloway said afterward that it was the fullest the alcove has been since 2009 and that no one had told anyone else to come.\n\nRuss stopped by near four, off duty, hat in hand out of what looked like habit rather than ceremony, and stood in the doorway the way a man stands in a doorway he has decided is not, today, a scene. He read the ninth book's list once more where it lay, said nothing about it, and instead asked Calloway whether the library needed a second lamp, since two chairs facing each other read darker than two chairs facing a wall. She said she'd take one. He brought it by an hour later. This editor notes, because the record should, that a constable delivering a reading lamp to a haunted alcove is either the strangest thing that has happened in Greywater Falls this season or the least strange, and that by December the town could no longer tell her which.\n\nThe one true thing this editor sets down today, low, where a sentence can pass without anyone having to look at it straight on: a room built for nine names finally became, on its own and without a ceremony, a room people wanted to sit in, and that is a stranger ending than any this paper expected to write, and a kinder one."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 51 — Level 60, Stage 3; Water Temperature 34°F; Clarity to Fifty-One Feet; Sign Still Reads 7; Nine Returned Gather at Dusk, Hum Held Fifty-Eight Seconds, Down Three",
+      "body": "The lake held its shape today under a clear sky for the first time since the flurries settled, and the returned kept their evening posture at the shore precisely as long as they have every night this week, which this editor has stopped calling remarkable and started calling Tuesday."
+    },
+    {
+      "headline": "Calloway Turns the Second Chair to Face the First; Reclassifies the Alcove as 'Reading Room, Shared'",
+      "body": "The new catalogue card, taped beneath the old 'Reserved, Local' one rather than replacing it, reads simply: two chairs, one table, open to whoever comes. Calloway says she is not removing the old card because a room can have more than one true thing written about it."
+    },
+    {
+      "headline": "Halloway's Bakery Bakes Eight Standings Against a Nine-Loaf Sunday Order; Doreen Draws the Last One from the Jar Without Comment",
+      "body": "Doreen said only that the jar has stopped surprising her, which she called 'the nicest thing an arrangement can do for a person,' and went back to icing."
+    },
+    {
+      "headline": "Russ Dunmore Delivers a Reading Lamp to the East Alcove, Off the Clock; Declines to File the Errand",
+      "body": "Asked whether the lamp constitutes town business, Russ said, 'A man can bring a lamp to a room without it going in a folder,' and left before anyone could argue the point."
+    }
+  ],
+  "classifieds": [
+    "WANTED: someone to sit in the first chair on Mondays, since Gerald has claimed Thursdays and won't say why. Inquire at the library.",
+    "FOUND: one bakery box, unopened, on the alcove table. Owner knows who she is. No rush.",
+    "FOR SALE: one storm lantern, barely used, from Hank Mossley, who admits the cold came and went on schedule this time and he'd like the shelf space back.",
+    "NOTICE: The Kettle now keeps an extra cup out at close, no charge, no questions. Take it or don't."
+  ],
+  "record": [
+    "Sunday: high 8°F, clear, first full sun in eleven days.",
+    "Library visitors, east alcove, unofficial count: six, the most since 2009."
+  ],
+  "letters": [
+    {
+      "from": "Calloway, Head Librarian",
+      "body": "I did not decide to turn the chair. I want that in the paper exactly as I told your editor, because I think it matters that some of this season was decided by hands and not by anyone's nerve. The room is warmer now. I don't mean the lamp."
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "Tell Calloway the table was always going to turn toward itself eventually. A guest list is only cold until somebody pulls up a chair. I won't be visiting the alcove. I don't need to sit across from a book to know what it's saying. But I'm glad the rest of them do."
+    }
+  ]
+}

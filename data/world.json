@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 69,
-  "weather": "Overcast easing to pale sun by afternoon, 6°F, the flurries from yesterday settled and staying, an inch on the ground that has not melted",
+  "dayNumber": 70,
+  "weather": "Clear and bright, 8°F, sun on the snow all afternoon, the first plainly sunny day since the flurries came",
   "undercurrent": {
-    "level": 60,
-    "stage": 3,
+    "level": 54,
+    "stage": 2,
     "phenomenon": "the east alcove",
-    "note": "Crest fully spent as of Day 68's roster. Today the alcove goes quiet for the first time in nine days rather than producing a tenth book, which is the deliberate first step of the glide down to stage 2. Level drops 65 to 60. Institutions (Calloway's open book, Doreen's balanced jar, Russ's closed cross-index, the shore's shortening hum) are all settling into calm permanent accommodation rather than crisis response. Agnes's 'set the table, not a summons' framing is the season's reassurance beat — next days should continue easing toward resolution, letting residents sit with the roster rather than react further to new escalations."
+    "note": "Stage steps down to 2 today: the alcove has stopped producing books and started producing gathering, which is the season's real resolution beat. No new text, no new list, just residents arriving on their own to sit in a room built for them. Level eases 60 to 54. Keep descending gently over remaining days; Agnes has said her last explanatory piece (Day 69) and should mostly hold that ground now rather than add new riddles. Doreen's jar, Russ's lamp, Calloway's re-cataloguing are all small acts of permanent accommodation, not new escalations. Aim for stage 1-2 and level in the 40s by the coda."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 3,
     "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls, and they are set in years that have not happened yet.",
-    "day_in_season": 24,
+    "day_in_season": 25,
     "target_length": 32,
     "next_premise": ""
   }
