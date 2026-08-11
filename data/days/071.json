@@ -1,0 +1,49 @@
+{
+  "day": 71,
+  "dateline": "Monday, December the 15th",
+  "weather": "Overcast and mild for the season, 22°F, the first snow since the flurries expected by nightfall",
+  "stage": 2,
+  "lead": {
+    "headline": "Monday; the Bakery Box Opens Itself, More or Less, and the Alcove Has Its First Ordinary Monday",
+    "byline": "By Wren Aldercott",
+    "body": "The bakery box Doreen Halloway set down on the alcove table Sunday and did not open sat there, by all accounts, until this morning, when Calloway arrived to find it open, empty, and folded flat beside the ninth book, as though someone had eaten what was inside and tidied up after themselves out of courtesy. Calloway did not report this with alarm. She reported it the way she has reported everything since the second chair turned to face the first: as a fact of the room, filed and moved past. Doreen, told the box had been emptied, said, \"Well, I didn't bring it for the shelf,\" and would not say who she thought she'd brought it for, though she allowed, unprompted, that she has started baking one extra Standing on Mondays now on purpose, not from the jar's arithmetic but from her own, and that she intends to keep doing it whether anyone asks her to or not.\n\nThis editor went to the library at midday and found the alcove doing something it has not done all season: nothing notable. Gerald sat in the first chair with his ledger open but idle on his lap, watching the window. Toby was not there; he had, Calloway said, come by before school and left a paperback of his own on the little table, face-down, as though he meant to come back for it, which this editor suspects is itself a kind of gift, though he declined to characterize it as one when asked at three. The ninth book remained open to its middle page, unchanged, and for the first time since it arrived, nobody in the room seemed to be waiting on it to do anything further.\n\nRuss Dunmore stopped by near noon, in uniform this time, and this editor asked him plainly whether the file on 'the alcove' as a whole was still open. He said it was, that he saw no reason to close a file just because the thing it described had stopped being alarming, and that some files stay open the way a porch light stays on, not because anyone expects a caller but because it would feel wrong to switch it off. He did not file today's visit. He did note, off the record and then, after a pause, on it, that the lamp he brought Sunday has been left on since, and that nobody has turned it off either.\n\nThe one true thing this editor sets down today, low, where thirty-two years have taught this paper a fact can pass unremarked if it is filed plainly enough: a room that spent all autumn deciding who belonged in it has stopped asking the question, and a town that spent all autumn afraid of an answer has started leaving pie for whoever eats it, which is not the same as forgetting to be afraid, but is, this editor thinks, very close to forgiving the fear its keep."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 52 — Level 54, Stage 2; Water Temperature 35°F; Clarity to Fifty-Two Feet; Sign Still Reads 7; Nine Returned Gather at Dusk, Hum Held Fifty-Two Seconds, Down Six",
+      "body": "Level continues its gentle ease. Hank Mossley, asked at the hardware store whether the drop tracks his projections, said only, 'It's supposed to, this time of year,' and did not elaborate further, which this editor takes as a man declining to be surprised twice in one season."
+    },
+    {
+      "headline": "Calloway Reports the Alcove's Bakery Box Emptied and Folded Overnight; Declines to Reshelve the Ninth Book Regardless",
+      "body": "The head librarian says the box's tidy state changes nothing about her filing. 'It's still Local Futures, Unconfirmed,' she said. 'It's just also, apparently, a place that does dishes.'"
+    },
+    {
+      "headline": "Halloway's Bakery Adds a Standing Monday Ninth Loaf, Jar or No Jar; Doreen Calls It 'My Own Arithmetic Now'",
+      "body": "The mayor says the extra loaf will continue regardless of the day's order count. 'The jar taught me something,' she said. 'I'd rather learn it than keep being taught it.'"
+    },
+    {
+      "headline": "Toby Fern Leaves a Paperback Face-Down on the Alcove Table; Won't Say What It Is or Who It's For",
+      "body": "The library's youngest regular declined comment beyond, 'Some things you don't caption.' Calloway confirms the book remains untouched as of press time."
+    }
+  ],
+  "classifieds": [
+    "WANTED: One (1) porch light bulb, long-burning, does not need to be bright, just needs to stay on. Inquire Dunmore, off the clock.",
+    "FOR SALE: Assorted storm lanterns, gently used, Hank Mossley's Hardware. 'Ahead of the season again, probably. Ask me if you want to know why I keep saying that.'",
+    "LOST: One theory about what the alcove is for. Last seen making sense sometime in October. If found, no need to return it — G. Pith has stopped looking.",
+    "NOTICE: The Kettle's extra cup at close is not a mistake and does not need explaining. Sit if you're cold. — M. Vance"
+  ],
+  "record": [
+    "Snow expected by nightfall, first since the flurries; town crews report roads clear and salted",
+    "Library hours unchanged; the east alcove remains open to the public during regular hours, no appointment required"
+  ],
+  "letters": [
+    {
+      "from": "Doreen Halloway, Halloway's Bakery",
+      "body": "Now — I have had three people ask me this week whether the extra Monday loaf 'means something.' It means I baked bread. Some of you have spent a whole season looking for a sentence under everything, and I'll tell you what I told the jar: not everything is a sentence. Some of it is just bread, left where somebody might need it. Come by. It's warm."
+    },
+    {
+      "from": "Agnes Crewe, cottage by the water",
+      "body": "You asked me again, child, whether the story's finished. I'll tell you the only new thing I have to say this month: a table set from love doesn't need a last course to be a good meal. Eat what's in front of you. I intend to."
+    }
+  ]
+}
