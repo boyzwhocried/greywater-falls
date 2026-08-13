@@ -1,0 +1,48 @@
+{
+  "day": 72,
+  "dateline": "Tuesday, December the 16th",
+  "weather": "Snow began overnight and settled by morning, three inches, windless, 24°F",
+  "stage": 2,
+  "lead": {
+    "headline": "Tuesday; the First Snow Reaches the Alcove Window and Nobody Thinks to Photograph It",
+    "byline": "By Wren Aldercott",
+    "body": "The snow that was promised Monday night held off until nearly two in the morning and then came down straight and unhurried, the kind that used to make this paper's front page on its own merits before this season gave it competition. By seven it had laid three inches over the welcome sign, which still reads 7, and over the shore where the returned gather at dusk, and over the library roof above the east alcove, where Calloway says the light through the window this morning was the flat white kind that makes a room look like it has always been exactly as it is. Gerald was in the first chair by eight-thirty. He did not measure the snow with his stick and string. He said, asked why, that some things don't need a number attached to be true, which this editor considers the single largest sentence Gerald Pith has ever said without a ledger in his hand.\n\nThe ninth book remains open to its middle page. It has not changed in eight days now, which Calloway has stopped remarking on entirely; she dusts around it the way a person dusts around a photograph on a mantel, present, expected, no longer a question. Toby's face-down paperback is still where he left it Monday, and this editor can report, having finally asked him outright, that he does not intend to say what it is until, in his words, 'somebody else needs to read it more than I need to keep it a secret,' which is as close to a season's thesis as this paper is likely to get from a sixteen-year-old.\n\nDoreen's Tuesday loaf, the standing extra she announced Monday as her own arithmetic, came out of the oven at six and went to the alcove table by seven-fifteen, wrapped, unlabeled, no jar involved at any point in the transaction. She told this editor she has stopped thinking of it as an offering and started thinking of it as a Tuesday. Russ, stopping by near noon to check that the lamp Calloway mentioned was still burning (it was), noted the snow had not caused a single complaint at the station, which he said was itself worth filing, then didn't.\n\nThe one true thing this editor sets down today, low, in the plainest ink this paper owns: a town that spent a season afraid of a list has arrived, by the first snow, at the ordinary business of keeping a room warm for whoever is in it, and the strangest part of a haunting, it turns out, is how quickly it becomes a chore somebody is glad to do."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 53 — Level 47, Stage 2; Water Temperature 35°F; Clarity to Fifty-Three Feet; Sign Still Reads 7; Nine Returned Gather at Dusk, Hum Held Forty-Nine Seconds, Down Three",
+      "body": "First snow of the season did not stir the shoreline gathering from its routine. The nine returned arrived at their usual hour, faced the deepest water as always, and held the note for forty-nine seconds, three fewer than Monday. Toby, resuming his log after a night off, called the shortening trend 'not worrying, just winding down,' and declined to elaborate further than that."
+    },
+    {
+      "headline": "Calloway Reports the Ninth Book Unchanged for the Eighth Straight Day; Says She's Stopped Checking It Like News",
+      "body": "The library's cataloguer confirmed the list-bearing volume remains open to its middle page, in the same position it has held since last Saturday. Asked whether she still checks it each morning, Calloway said she does, but the way she checks the thermostat, not the way she used to check it for a sign."
+    },
+    {
+      "headline": "Halloway's Bakery Delivers the Tuesday Loaf on Schedule; No Jar Consulted",
+      "body": "Doreen Halloway confirmed her standing extra Tuesday Standing reached the alcove table by mid-morning, the fourth consecutive day the loaf has been produced independent of the register jar. She declined to say whether she still counts against a nine-name order, calling the counting itself 'retired.'"
+    },
+    {
+      "headline": "Russ Dunmore Confirms the Alcove Lamp Remains Lit; Calls the Snow 'A Quiet Night for Once'",
+      "body": "The constable's evening rounds included a stop at the library to confirm the lamp delivered Sunday continues to burn. He noted no complaints, calls, or incidents connected to the first snowfall, and characterized the whole night as 'the kind of quiet this job used to mean before autumn.'"
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One (1) barely-used snow shovel, never needed one this small before this year. Ask for Hank at the hardware.",
+    "LOST: A green wool scarf, somewhere between the diner and the shore. If found humming faintly, keep it anyway. — M. Vance",
+    "WANTED: Someone to sit in the library's east alcove Wednesday afternoons. No experience necessary. Chair provided. — L. Calloway"
+  ],
+  "record": [
+    "Snowfall: 3 inches overnight, first of the season, no accumulation-related incidents reported.",
+    "Alcove visitation, informal count: five residents through midday, unscheduled."
+  ],
+  "letters": [
+    {
+      "from": "Calloway, Head Cataloguer",
+      "body": "People keep asking me when the alcove will go back to being empty. I've stopped answering because I don't think that's the right question anymore. A room doesn't go back to empty once somebody's left a lamp on in it. It just becomes the room with the lamp."
+    },
+    {
+      "from": "Gerald Pith",
+      "body": "Mrs. Vance says I've stopped bringing my ledger to the counter. I have not stopped. I have simply stopped needing it to agree with anything before I sit down."
+    }
+  ]
+}

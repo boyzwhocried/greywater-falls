@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 71,
-  "weather": "Overcast and mild for the season, 22°F, the first snow since the flurries expected by nightfall",
+  "dayNumber": 72,
+  "weather": "Snow began overnight and settled by morning, three inches, windless, 24°F",
   "undercurrent": {
-    "level": 49,
+    "level": 45,
     "stage": 2,
     "phenomenon": "the east alcove",
-    "note": "Level continues its planned descent (54 to 49). The alcove has fully shifted from producing texts to producing quiet domestic gestures - the emptied bakery box, Toby's unexplained paperback, Gerald's idle ledger. No new escalation; residents are folding the room into ordinary life rather than treating it as an event. Hold stage 2 for one or two more days, then step to 1 as the coda approaches. Agnes continues to hold her ground rather than add new riddles, offering only warmth. Doreen's arc has essentially completed (her own arithmetic replacing the jar's). Keep easing toward stage 1 and level low-to-mid 40s by the coda."
+    "note": "Continuing the planned glide down (49 to 45). First snow gave the town a natural, non-lake reason to gather indoors, which let the alcove's domestication finish another notch without anyone remarking on strangeness at all: Calloway checks the book 'like a thermostat,' Doreen calls her counting 'retired,' Russ files nothing. Hold stage 2 one more day, then drop to 1 tomorrow or the day after as the coda nears. Agnes did not feature today, deliberately, to let the ensemble carry the resolution without her riddles; reintroduce her briefly for the coda proper. Keep hum duration shortening by small increments and level in the low-to-mid 40s."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 3,
     "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls, and they are set in years that have not happened yet.",
-    "day_in_season": 26,
+    "day_in_season": 27,
     "target_length": 32,
     "next_premise": ""
   }
