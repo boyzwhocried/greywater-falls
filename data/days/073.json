@@ -1,0 +1,49 @@
+{
+  "day": 73,
+  "dateline": "Wednesday, December the 17th",
+  "weather": "Clear and hard-cold, 19°F, the snow gone squeaky underfoot",
+  "stage": 2,
+  "lead": {
+    "headline": "Wednesday; Agnes Crewe Sits in the Alcove for the First Time Since the Chair Turned, and Brings Her Own Cup",
+    "byline": "By Wren Aldercott",
+    "body": "Agnes Crewe walked to the library this morning under her own power, refused Toby's arm at the door on principle, and sat down in the second chair, the one that has faced the first since Calloway's hands moved it without asking her permission back in October, as though she had an appointment she'd made with herself some time ago and was simply, finally, keeping it. She brought her own cup, a chipped blue one this editor recognizes from the cottage, and set it on the little table beside the ninth book without comment, the way a woman sets down a thing she intends to use more than once.\n\nCalloway said she did not fuss over the visit and did not want it treated as an event, which is itself a kind of event, this town having spent a season learning the difference between a thing that is happening and a thing that is merely true. Agnes stayed an hour. She did not read the ninth book, though it lay open at her elbow the whole time, still on its middle page, unchanged now for nine days running. She looked out the east window at the snow on the shore instead, and when Gerald, in the first chair as always, asked her gently what she made of the room, she said only that a table set from love doesn't ask who's coming, it just gets set, and that she'd been slow to sit down in her own life's version of it and saw no reason to keep being slow now that the weather had made its decision plain.\n\nDoreen's Wednesday loaf arrived at the alcove by seven, as it does now without remark, and Agnes, told of the standing arrangement, said she remembered Doreen's mother doing the same thing forty winters ago for a different room, though she wouldn't say which one, and Doreen, when this editor mentioned it at the bakery counter, went very quiet and then said only, 'Now,' which from Doreen is either the start of a sentence or the whole of one, and this editor has learned not to ask which.\n\nThe one true thing this editor sets down today, low, in the plainest ink the paper owns: the last person in Greywater Falls who remembers what the lake is capable of finally sat down in the room the town built without knowing why it was building it, and did not flinch, and drank her tea, and that is either the end of the story or the part where the town realizes it was never a story that needed ending, only a chair that needed someone old enough to fill it."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 54 — Level 43, Stage 2; Water Temperature 34°F; Clarity to Fifty-Four Feet; Sign Still Reads 7; Nine Returned Gather at Dusk, Hum Held Forty-Four Seconds, Down Five",
+      "body": "The ice held steady at two and three-quarter inches for the ninth straight morning. Gerald did not measure it. He did not need to."
+    },
+    {
+      "headline": "Calloway Adds a Third Chair to the Alcove, Unasked; Says the Room 'Told Her To'",
+      "body": "Delivered by handcart before opening, the third chair sits at present angle to neither of the others, facing the window instead. Calloway declined to say who it is for and did not seem bothered by not knowing."
+    },
+    {
+      "headline": "Halloway's Bakery Delivers Wednesday's Loaf; Doreen Says the Jar 'Can Retire Properly Now'",
+      "body": "Asked whether the jar still holds any loaves in reserve, Doreen said it hasn't been touched in five days and she's decided that's the same as empty on purpose."
+    },
+    {
+      "headline": "Russ Dunmore Logs Agnes Crewe's Library Visit Under 'No Action Required,' Calls It the Best Entry He's Filed All Season",
+      "body": "The constable stopped by near two, saw the third chair, said nothing about it, and left the file open."
+    }
+  ],
+  "classifieds": [
+    "FOUND: One chipped blue teacup, if anyone's missing one from a shelf near the water. Ask at the library desk. — R. Calloway",
+    "WANTED: Firewood, seasoned, any quantity. Will trade bread. — D. Halloway",
+    "The Kettle: extra cup left out at close each night, no charge, no questions. Come as you are.",
+    "Mossley Hardware: pipe insulation restocked. Coffee still on, still free, still going fast."
+  ],
+  "record": [
+    "Library hours unchanged: 9 to 5, Tuesday through Saturday, alcove accessible whenever the front door is.",
+    "Town council meets Thursday, 7pm, agenda includes the winter road-salt budget and, unofficially, whether the alcove needs its own line item."
+  ],
+  "letters": [
+    {
+      "from": "Agnes Crewe",
+      "body": "Wren — you'll want to know I brought my own cup because the library's are too thin for real tea, not for any reason you're about to print low and quiet at the bottom of your column. Though I expect you'll print something anyway. You always do. Good girl."
+    },
+    {
+      "from": "Calloway",
+      "body": "For the record: I did not plan the third chair. I was reshelving the returns cart and my hands did what my hands do now, which is apparently furnish rooms without consulting me. I've stopped arguing with them."
+    }
+  ]
+}
