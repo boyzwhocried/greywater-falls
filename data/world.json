@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 73,
-  "weather": "Clear and hard-cold, 19°F, the snow gone squeaky underfoot",
+  "dayNumber": 74,
+  "weather": "Overcast and mild for the season, 28°F, a slow thaw softening the squeak out of the snow",
   "undercurrent": {
-    "level": 41,
+    "level": 37,
     "stage": 2,
     "phenomenon": "the east alcove",
-    "note": "Agnes's visit was the last major thread of the resolving phase; her presence in the room closes the loop between the lake's oldest witness and the town's newest ritual space without a word of exposition. The third chair (Calloway's, unbidden) signals the alcove is still gently expanding its accommodation rather than sealing itself, which is fine at stage 2 but should not escalate further. Drop to stage 1 tomorrow or the day after, easing level into the mid-to-high 30s, as the coda approaches. Reserve Agnes's plainest possible statement of the season's thesis (love, the order of taking and giving, eating what's in front of you) for the coda day itself, delivered directly rather than in riddle, alongside a small warm image (spring thaw mention, or the sign, or the jar) that can serve as the next_premise seed without escalating anything new this season."
+    "note": "Easing toward stage 1 as planned; level nudged from 41 to 37, in the mid-to-high 30s per directive. Gerald's undefended question and Toby's retrieval of his own book both model 'letting a thing be finished without needing to prove it.' Reserved Agnes's plainest thesis statement (love, the order of taking and giving, eating what's in front of you) and the next_premise seed for the coda day itself, per the private note. Tomorrow or the day after: drop to stage 1, keep warming, prepare for the coda's direct, unriddled Agnes moment."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 3,
     "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls, and they are set in years that have not happened yet.",
-    "day_in_season": 28,
+    "day_in_season": 29,
     "target_length": 32,
     "next_premise": ""
   }

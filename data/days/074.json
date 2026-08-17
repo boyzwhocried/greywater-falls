@@ -1,0 +1,49 @@
+{
+  "day": 74,
+  "dateline": "Thursday, December the 18th",
+  "weather": "Overcast and mild for the season, 28°F, a slow thaw softening the squeak out of the snow",
+  "stage": 2,
+  "lead": {
+    "headline": "Thursday; Gerald Pith Asks Agnes a Question and Doesn't Write Down the Answer, and Toby Fern Finally Says What the Book Was",
+    "byline": "By Wren Aldercott",
+    "body": "Gerald Pith has spent this whole season turning the world into a ledger entry, a habit this paper has documented with something between affection and alarm since October. This morning, in the alcove's first chair, with Agnes Crewe settled into the second and her chipped blue cup already steaming, he asked her something instead of measuring it. This editor was not permitted to hear the question. Calloway, dusting nearby, said only that it was short, that Agnes answered it in fewer words than she used to buy a loaf of bread, and that Gerald sat with the answer a long moment and then closed his ledger, not to write, but because he was, for once, simply finished with it. He has not reopened it since. Asked at noon what he'd asked her, he said, mildly, that some questions are like the waterline: you don't need the number once you've felt it rise past your ankle.\n\nToby Fern, meanwhile, retrieved his face-down paperback from the alcove table this afternoon, three days shy of a week since he left it there, and told this editor, without being pressed for once, what it was. It was his own copy of the sixth of the ninth books, the one about a Greywater Falls that has not happened yet, transcribed by hand from the library shelf into a school notebook over two nights in November, because, he said, 'I wanted a copy that was mine and not the room's.' He left it as an offering the same week Agnes sat down in the second chair, though he insists the timing was coincidence and this editor, for the first time all season, is inclined to let a coincidence stand as one.\n\nDoreen's Thursday loaf went to the alcove at its usual hour, unremarked, though she mentioned at the counter that the jar under the register has sat five full days without a hand near it, and that she is prepared, as of today, to call it retired rather than merely resting, the way a thing is retired when everyone in the room has quietly agreed it did its job. She said her mother kept a similar arrangement once, for a sewing circle that met in a room nobody else remembered was haunted, and would say no more than that, which is, from Doreen, a great deal.\n\nThe one true thing this editor sets down today, low, where the plainest ink in this shop has learned to keep it: a boy stopped needing his secret to be a secret, a man stopped needing an answer to be written down to be true, and a jar that spent a whole autumn being watched has finally been allowed to simply sit there, which is, this editor has come to believe, what most hauntings are actually asking for all along."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 55 — Level 38, Stage 2; Water Temperature 35°F, Warmer With the Thaw; Clarity to Fifty-Six Feet; Sign Still Reads 7; Nine Returned Gather at Dusk, Hum Held Thirty-Nine Seconds, Down Five",
+      "body": "The undercurrent continues its slow retreat with the thaw. Toby logged the dusk hum at thirty-nine seconds, the shortest of the season, and noted without elaboration that the returned barn cat sat closest to shore tonight, as though it meant to come the rest of the way in but changed its mind."
+    },
+    {
+      "headline": "Doreen Halloway Declares the Bakery Jar Retired, Five Days Untouched; Cites a Mother's Sewing Circle She Won't Name Further",
+      "body": "The mayor confirmed at the counter this morning that the loaf jar has gone five days without a withdrawal and that she considers the matter settled rather than paused. She declined, again, to say which room her mother once kept the same arrangement for."
+    },
+    {
+      "headline": "Toby Fern Reveals the Face-Down Paperback Was His Own Hand-Copied Sixth Book; Retrieves It After Nearly a Week on the Alcove Table",
+      "body": "The boy told this paper the notebook was a private transcription made in November, offered without expectation of anyone reading it, and taken back today because, in his words, 'it did what I needed it to do.'"
+    },
+    {
+      "headline": "Calloway Notes the Ninth Book Still Open to Its Middle Page, Ten Days Running; Says She No Longer Dusts Around It Differently Than Anything Else",
+      "body": "The librarian reports the alcove's centerpiece unchanged and, for the first time, uninteresting to her in the specific way old furniture becomes uninteresting: present, familiar, no longer a question worth asking daily."
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One glass mason jar, hardware store label peeling, 'RETIRED' written on masking tape across the lid in Doreen Halloway's hand. Not actually for sale. She just wanted it labeled properly. Inquire at the bakery if you'd like to see it anyway.",
+    "LOST: A school notebook, hand-copied, returned to its rightful owner this afternoon. No longer lost. Filing this anyway because Toby Fern asked me to, once, for the record, and I don't like to go back on a promise to a sixteen-year-old with a camera and better instincts than most adults in this town.",
+    "WANTED: Someone to sit in the alcove's third chair on purpose, rather than by Calloway's unbidden arrangement of the furniture. Gerald says it's comfortable. Nobody's proven him wrong yet.",
+    "NOTICE: The lamp Russ Dunmore delivered to the east alcove remains lit, unbilled, unfiled, and, as of this week, unremarkable. The town thanks him anyway."
+  ],
+  "record": [
+    "Library, east alcove: no incidents. Third chair occupied intermittently, no schedule kept.",
+    "Bakery jar: retired, per proprietor. No further entries expected."
+  ],
+  "letters": [
+    {
+      "from": "Gerald Pith, Ledger (Formerly) of Record",
+      "body": "I asked her what she made of the room and she told me, and I am not writing it down, and that is the whole letter. Some things you keep because they're true, not because you measured them. Mari, the coffee's fine, don't worry about me."
+    },
+    {
+      "from": "Toby Fern",
+      "body": "It wasn't a big deal. I wrote a book about a town that hasn't happened yet because I live in one, and I wanted to see if I could get it right without anybody else's ending in it. I got it back today. It's mine again. That's it. Don't make it a bigger thing than it was, Wren, I know you're going to anyway."
+    }
+  ]
+}
