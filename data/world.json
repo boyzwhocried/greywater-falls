@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 74,
-  "weather": "Overcast and mild for the season, 28°F, a slow thaw softening the squeak out of the snow",
+  "dayNumber": 75,
+  "weather": "Overcast easing to pale sun by afternoon, 31°F, the thaw holding steady",
   "undercurrent": {
-    "level": 37,
+    "level": 30,
     "stage": 2,
     "phenomenon": "the east alcove",
-    "note": "Easing toward stage 1 as planned; level nudged from 41 to 37, in the mid-to-high 30s per directive. Gerald's undefended question and Toby's retrieval of his own book both model 'letting a thing be finished without needing to prove it.' Reserved Agnes's plainest thesis statement (love, the order of taking and giving, eating what's in front of you) and the next_premise seed for the coda day itself, per the private note. Tomorrow or the day after: drop to stage 1, keep warming, prepare for the coda's direct, unriddled Agnes moment."
+    "note": "Dropped to stage 1 as planned, level eased from 37 to 29. Agnes delivered the season's plainest, unriddled thesis today (love, the order of taking and giving, eating what's in front of you) one day ahead of the coda per revised pacing, which gives tomorrow room to be the quiet close rather than the reveal. The ninth book closing itself is the visual punctuation, not an escalation. Reserve the sign, the census gap, and the next_premise seed proper for the coda day tomorrow. Keep warming, keep clarity rising, keep the hum shortening. Everything should feel like it is settling into its shape rather than building toward one."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 3,
     "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls, and they are set in years that have not happened yet.",
-    "day_in_season": 29,
+    "day_in_season": 30,
     "target_length": 32,
     "next_premise": ""
   }

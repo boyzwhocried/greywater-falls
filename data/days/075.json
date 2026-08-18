@@ -1,0 +1,49 @@
+{
+  "day": 75,
+  "dateline": "Friday, December the 19th",
+  "weather": "Overcast easing to pale sun by afternoon, 31°F, the thaw holding steady",
+  "stage": 2,
+  "lead": {
+    "headline": "Friday; Agnes Crewe Says Plainly What She Has Spent a Season Saying Sideways, and Nobody Asks Her to Repeat It",
+    "byline": "By Wren Aldercott",
+    "body": "This editor has spent thirty days now transcribing Agnes Crewe's riddles into print and trusting the town to do the arithmetic on its own, because that has always been the arrangement between them: Agnes speaks like weather and Wren writes it down like a forecast, and between the two of them the truth gets where it needs to go without anyone having to say it outright. This morning, in the alcove's second chair, with Gerald in the first and Toby cross-legged on the floor because the third chair was, for once, occupied by nobody, Agnes set down her chipped blue cup and said the thing plainly. This editor will print it exactly as it was heard, because a woman who has spoken in riddles for ninety-one years has earned the right to be quoted straight the one time she chooses to be. She said: 'It takes what it takes in the autumn and it gives back in the spring, and you love what comes back anyway, and that is the whole of it, and I am tired of saying it sideways.' Nobody in the room asked her to say it again.\n\nCalloway reports that the ninth book, still open to its middle page after eleven days unchanged, closed itself sometime between yesterday evening and this morning. Not slammed, not vanished, just closed, the way a book closes when a reader is finished with it and sets it down gently on their way out of a room. She has not reopened it. She dusted it once, same as the others on the shelf, and left it where it sat.\n\nDoreen's Friday loaf went to the alcove at its hour, and this time she stayed to watch it set on the table, which she has not done since the arrangement started, and told this editor afterward, without being asked, that her mother's room was the front parlor, closed up the winter after Doreen's little brother didn't come home from the lake, and reopened the following spring when somebody came back who wasn't quite him but was close enough to love, and that the sewing circle met there every winter after that whether anyone needed sewing done or not. She said it once, plainly, the way Agnes says things now, and asked this editor not to make a production of it, and this editor is obliging her by setting it down here in the same plain ink and letting it be exactly as large as it is and no larger.\n\nThe one true thing this editor sets down today, low, in the plainest ink this shop owns: a woman who lived through the lake's last waking finally said out loud what she has been teaching the town in riddles all along, that love is not a puzzle to be solved but a bill that comes due and gets paid gladly, and a book that had waited eleven days to be finished closed itself the same morning she said so, as if it had only been waiting to be told it could."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 56 — Level 33, Stage 1; Water Temperature 36°F, Warmest Reading This Season; Clarity to Sixty Feet; Sign Still Reads 7; Nine Returned Gather at Dusk, Hum Held Thirty-Four Seconds, Down Five",
+      "body": "The level continues its steady give-back. Clarity has not been this good since October. Hank notes the ice held at two and three-quarter inches through the thaw and calls that, too, a kind of holding."
+    },
+    {
+      "headline": "Calloway Reports the Ninth Book Closed of Its Own Accord After Eleven Days Open; Declines to Reopen It",
+      "body": "The cataloguer says she checked the shelf out of habit this morning and found the book shut, spine square, as though someone had finished it properly. She has filed it back among the other eight and stopped counting the days."
+    },
+    {
+      "headline": "Doreen Halloway Names the Retired Jar's Room at Last: Her Mother's Front Parlor, Closed One Winter, Reopened the Next",
+      "body": "Doreen told this paper the parlor sat shut the winter her brother did not come home, and reopened for good the following spring. She asked that no fuss be made of the telling, and none has been."
+    },
+    {
+      "headline": "Toby Fern Starts a New Notebook, Says It Isn't a Secret This Time",
+      "body": "The boy has begun a fresh log at the diner counter, this one left open on the table for anyone to read. He says the dusk hum held at thirty-four seconds, same as the Lake Watch count, and that he's stopped needing to be the only one who knows it."
+    }
+  ],
+  "classifieds": [
+    "FOUND: One chipped blue teacup, alcove, second chair. Owner already knows.",
+    "WANTED: A fourth chair for the alcove, in case. Calloway says the room hasn't asked yet but she's measuring the corner anyway.",
+    "FOR SALE: Storm lanterns, hardware store, half price, the cold having settled its accounts early this year. — H. Mossley",
+    "NOTICE: The extra cup left out at close at the Kettle is not lost property. Leave it be. — M. Vance"
+  ],
+  "record": [
+    "Library, east alcove: ninth book found closed, filed among the others. No further entries pending.",
+    "Halloway's Bakery: Friday loaf delivered and witnessed delivered, first time this season. Jar remains retired."
+  ],
+  "letters": [
+    {
+      "from": "Doreen Halloway, Mayor and Baker",
+      "body": "Now. I said I'd name the room and I have, and I'll thank the town not to make a Sunday sermon of it. My mother kept that parlor warm for a season she never explained and I understood her better this December than I did my whole life before it. That's all I've got to say about it, and I mean all."
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "I have said the same thing nine hundred ways this season because I thought the town needed the long way round to believe it. I was wrong. You already knew. You've been baking bread for it and lighting lamps for it and adding chairs for it since October. I just hadn't said the short version out loud. Now I have. Eat what's in front of you."
+    }
+  ]
+}
