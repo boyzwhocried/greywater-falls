@@ -1,0 +1,49 @@
+{
+  "day": 76,
+  "dateline": "Saturday, December the 20th",
+  "weather": "Pale sun holding through the afternoon, 33°F, the thaw settled in for good",
+  "stage": 2,
+  "lead": {
+    "headline": "Saturday; the East Alcove Gets a Fourth Chair Nobody Asked For, and the Town Decides That's Simply How Many Chairs a Room Needs",
+    "byline": "By Wren Aldercott",
+    "body": "Calloway confirmed this morning what half the town had already guessed from the doorway: the east alcove now holds four chairs, the fourth arriving sometime between Thursday's closing and this morning's opening with no delivery logged, no purchase order, and no one willing to claim credit for the carpentry. Asked what she made of it, Calloway said only that she'd stopped keeping an inventory of the room's opinions back around the third chair, and that a table set from love, to borrow a phrase this paper has printed more than once this season, apparently seats however many show up. Russ came by at noon, looked at the chair for a while, and logged it under the same open file as the lamp, the loaf, and the visits, calling it, not unkindly, 'more of the same good nothing.'\n\nThe ninth book has not reopened. Nor have any of the other eight shown further signs of narration, which Calloway reports with something closer to relief than disappointment. She has begun shelving the alcove properly now, spines out, in the order the last cataloguer would have used in 2009, and says the room finally looks like a room instead of a question. Doreen's Saturday loaf, half the usual size on weekends per the old arrangement, arrived at its hour and sat on the fourth chair rather than the table, an adjustment nobody discussed and everybody understood.\n\nAt dusk the returned gathered at the shore as they do, nine of them, facing the water, the hum shorter than it has been all season and easier to mistake, if a person wanted to mistake it, for wind finding the gap under a door. Agnes did not come down to watch this time. Toby reported she told him from her porch that she'd said her piece and intended to let the water say the rest of it without her standing over its shoulder, and that a woman her age has earned the right to watch a sunset instead of a shoreline once in a while.\n\nThe one true thing this editor sets down today, low, where it has learned to keep such things: a haunting, given enough winters, stops being a story the town tells about itself and becomes instead a piece of furniture, and the strange, patient mercy of Greywater Falls is that it will always, eventually, pull up a chair."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 57 — Level 27, Stage 1; Water Temperature 37°F; Clarity to Sixty-Three Feet; Sign Still Reads 7; Nine Returned Gather at Dusk, Hum Held Twenty-Nine Seconds",
+      "body": "Continued easing across every measure Gerald used to keep and no longer writes down. This editor confirms the figures by her own count at the shore, taken plainly, without ceremony, because someone in this town still ought to."
+    },
+    {
+      "headline": "Calloway Reports a Fourth Chair in the East Alcove, Origin Unclaimed; Begins Shelving the Room Spines-Out, 2009 Order",
+      "body": "No invoice, no carpenter, no comment from anyone willing to take the credit. Calloway says the room has stopped surprising her, which she considers a professional achievement."
+    },
+    {
+      "headline": "Doreen Halloway's Saturday Loaf, Half-Size Per the Old Arrangement, Placed on the New Chair Rather Than the Table",
+      "body": "Doreen declined to explain the change in placement, saying only, 'Now,' and returning to the ovens."
+    },
+    {
+      "headline": "Agnes Crewe Skips the Dusk Shore for the First Time All Season, Watches the Sunset From Her Porch Instead",
+      "body": "Told Toby Fern she has said her piece and intends to let the water manage the rest of the telling without her supervision."
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: one (1) reading lamp, barely used, still burning nightly in the library east alcove — not actually for sale, Russ, put the pen down. — R.D.",
+    "WANTED: someone to explain the fourth chair. Reward: a Saturday loaf, half-size. — Calloway, Public Library",
+    "LOST: the urge to write things down. Last seen in Gerald Pith's ledger, Thursday last. If found, no need to return it. — G.P.",
+    "NOTICE: The Kettle now keeps an extra cup out at close, every night, no explanation offered or required. Come as you are. — M. Vance"
+  ],
+  "record": [
+    "Library Board: east alcove furnishing count updated to four chairs, one table, nine volumes, origin of newest chair unlogged.",
+    "Constable's Office: alcove file remains open under Ongoing, Local; no action required, day thirty-one running."
+  ],
+  "letters": [
+    {
+      "from": "Calloway, Head Librarian",
+      "body": "I have stopped asking the alcove to justify itself. It is a room in a library. Rooms in libraries get used, and get furniture, and get quiet, and this one has simply arrived at all three at once, which I am told is called settling. I intend to keep dusting it like any other shelf, because that is my job, and because a haunted room, in my professional opinion, deserves the same courtesy as a boring one."
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "The water doesn't need me standing over it to do what it does every year. I said my piece. Now I'll sit on my porch and watch the sun go down over my own shoulder for once, and let the lake keep its own counsel same as it's always kept mine. A held note doesn't need a witness to finish holding."
+    }
+  ]
+}

@@ -5,8 +5,8 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 75,
-  "weather": "Overcast easing to pale sun by afternoon, 31°F, the thaw holding steady",
+  "dayNumber": 76,
+  "weather": "Pale sun holding through the afternoon, 33°F, the thaw settled in for good",
   "undercurrent": {
     "level": 30,
     "stage": 2,
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 3,
     "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls, and they are set in years that have not happened yet.",
-    "day_in_season": 30,
+    "day_in_season": 31,
     "target_length": 32,
     "next_premise": ""
   }
