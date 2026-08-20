@@ -1,0 +1,49 @@
+{
+  "day": 77,
+  "dateline": "Sunday, December the 21st",
+  "weather": "Overcast, mild, 34°F, the pale sun sitting out today without complaint",
+  "stage": 1,
+  "lead": {
+    "headline": "Sunday; the Alcove Keeps Its Own Winter Solstice, and This Editor Closes the Ledger on a Season That Learned to Sit Still",
+    "byline": "By Wren Aldercott",
+    "body": "The longest night of the year fell quietly over Greywater Falls, and the east alcove, for the first time since Calloway began shelving it, produced nothing overnight. No book, no chair, no closed page, no unaccounted furniture. Calloway reported this to this editor at eight this morning the way a person reports good weather, without ceremony, and said she intends to finish shelving the room properly this week, spines out, 2009 order, the last cataloguer's ghost of a system restored at last by a living hand. The ninth book sat closed on its shelf where it has sat since Friday. Nobody has asked it to open again, and it has, so far, obliged.\n\nFour chairs sat in the alcove this afternoon, and four people used them without discussing whose idea that was. Gerald brought his ledger, closed, and did not open it once in an hour. Agnes brought her chipped blue cup and no riddle to go with it. Toby brought his open notebook and wrote almost nothing in it, which he says is its own kind of entry now. Doreen's Sunday loaf, full-size again per the old weekday arrangement, went not to the table and not to the chair but simply into the room, set down by Doreen herself for the first time all season, who stayed long enough to see whether anyone minded and left when nobody did.\n\nAt dusk the nine returned gathered at the shore, as they have every evening since the thaw settled in, and the hum held for eleven seconds before the water went quiet the way a held breath goes out when a person finally believes they are safe letting it. Agnes did not go down. Nor did Toby, who watched from his own porch instead and reported the same thing she once told him: that the water doesn't need supervision to keep doing what it does, and neither, it turns out, does a town that has finally learned what it is watching for.\n\nThe one true thing this editor sets down today, low, in the last ink of this season: nothing arrived in the alcove overnight, and that emptiness was not a haunting ending, it was a haunting finished, the difference being that the first leaves a hole and the second leaves a room, and Greywater Falls, true to its nature, has already started deciding what else the room might be for."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 62 — Level 19, Stage 1; Water Temperature 38°F; Clarity to Sixty-Eight Feet; Sign Still Reads 7; Nine Returned Gather at Dusk, Hum Held Eleven Seconds",
+      "body": "The count has not moved. The lake has not asked it to."
+    },
+    {
+      "headline": "Calloway Reports an Empty Alcove Overnight for the First Time Since the Shelving Began; Resumes Finishing the 2009 Order",
+      "body": "'It looked like a room again,' she said, 'instead of a held breath.' She expects to finish by Wednesday."
+    },
+    {
+      "headline": "Doreen Halloway Delivers the Full Sunday Loaf Herself, Sets It in the Room Rather Than on Any One Chair or Table",
+      "body": "Asked why, she said, 'Now,' and then, unusually for her, nothing else at all."
+    },
+    {
+      "headline": "Toby Fern's Notebook Sits Mostly Blank at the Diner Counter; He Calls This 'Also a Kind of Logging'",
+      "body": "The dusk hum, he notes, held eleven seconds. He did not otherwise comment, and did not need to."
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One reading lamp, gently used, currently on loan to the east alcove and not coming back anytime soon. Inquire with Russ if you must, though he'll tell you it's filed under Ongoing, Local and that's the end of it.",
+    "WANTED: Someone to teach a retired jar what it's retired to. Doreen Halloway, ask at the counter, bring nothing but time.",
+    "NOTICE: The Kettle diner will hold Sunday supper hours through the new year. Extra cup left out at close, no explanation required to claim it.",
+    "LOST: A season's worth of questions, last seen circling the east alcove. Presumed answered. Finder need not return them."
+  ],
+  "record": [
+    "Births: none. Deaths: none. Returned: nine, unchanged, gentle, accounted for.",
+    "Alcove chairs: four, occupied without incident. Books on shelf: eight open, one closed, none new."
+  ],
+  "letters": [
+    {
+      "from": "Agnes Crewe",
+      "body": "Wren — you asked me once at the start of this what the room wanted. I told you it wanted a chair. It has four now and it isn't asking anymore, which is the whole trick of wanting anything: you feed it and eventually it just sits with you instead of at you. Tell the town I said thank you for finally pulling one up. I won't be saying it again. — A.C."
+    },
+    {
+      "from": "Calloway (Head Librarian)",
+      "body": "For the record, since people keep asking: I did not build the fourth chair, did not write the ninth book, and did not close it either. I only dusted, and shelved, and waited for the room to decide it was a room and not a message. It has decided. I intend to put a nice lamp in the corner and call it done. — C."
+    }
+  ]
+}

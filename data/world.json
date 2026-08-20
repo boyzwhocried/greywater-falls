@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 76,
-  "weather": "Pale sun holding through the afternoon, 33°F, the thaw settled in for good",
+  "dayNumber": 77,
+  "weather": "Overcast, mild, 34°F, the pale sun sitting out today without complaint",
   "undercurrent": {
-    "level": 30,
-    "stage": 2,
-    "phenomenon": "the east alcove",
-    "note": "Dropped to stage 1 as planned, level eased from 37 to 29. Agnes delivered the season's plainest, unriddled thesis today (love, the order of taking and giving, eating what's in front of you) one day ahead of the coda per revised pacing, which gives tomorrow room to be the quiet close rather than the reveal. The ninth book closing itself is the visual punctuation, not an escalation. Reserve the sign, the census gap, and the next_premise seed proper for the coda day tomorrow. Keep warming, keep clarity rising, keep the hum shortening. Everything should feel like it is settling into its shape rather than building toward one."
+    "level": 14,
+    "stage": 1,
+    "phenomenon": "the east alcove, now simply the alcove",
+    "note": "Season closed clean. East alcove produced nothing overnight for the first time; four chairs, eight open books, one closed book at rest, no new arrivals. Level eased to 14, stage settled to 1 (something off, gently, permanently, the way a house settles). Reserving true stage 0 for next season's opening calm. Planted next_premise around Calloway finishing the 2009 reshelving and the lamp she mentioned in her letter — a small, ordinary detail (a lamp 'in the corner') that can seed a new strangeness: the library itself, or the lamp, or what 2009 actually interrupted. Town is at rest, changed, still watching the water out of habit rather than fear."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,8 +21,8 @@
   "season_arc": {
     "number": 3,
     "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls, and they are set in years that have not happened yet.",
-    "day_in_season": 31,
+    "day_in_season": 32,
     "target_length": 32,
-    "next_premise": ""
+    "next_premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand."
   }
 }
