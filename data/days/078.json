@@ -1,0 +1,49 @@
+{
+  "day": 78,
+  "dateline": "Monday, December the 22nd",
+  "weather": "Clear and cold, 28°F, the first hard frost of the season sitting on every windshield in town",
+  "stage": 0,
+  "lead": {
+    "headline": "Monday; Calloway Finishes the 2009 Order at Last, and a Library Card Nobody Can Place Turns Up Due That Same Afternoon",
+    "byline": "By Wren Aldercott",
+    "body": "Calloway reached the last shelf of the east alcove this morning, the ninth and final section in what she calls the last cataloguer's order, a system she has been quietly restoring by hand since the season turned. It was, by her account, an unremarkable morning's work, spines out, call numbers ascending, the kind of task that rewards patience more than attention. Then, tucked behind the space where the ninth book had sat all autumn, she found a library card. It was a checkout slip of the old style, the kind with a due date stamped by hand rather than printed, made out to a name Calloway did not recognize and could not, after an hour of asking around, get anyone else in town to recognize either.\n\nThe due date on the card, this editor can confirm after examining it directly at the circulation desk, is today's date. Not a date some fourteen years past when the card was presumably issued, but today, December the 22nd, stamped in ink that Calloway swears has not been touched or refreshed. Folded inside the card's paper sleeve was a small pocket calendar, the kind banks used to give away free, with a due-date stamp pressed into it once a year for what Calloway counted as fourteen consecutive years, each stamp in a visibly different hand. She has put both items in the drawer behind the desk for now, under, she says, no particular theory, and gone back to reshelving the last three books on the cart.\n\nMost of Greywater Falls spent the day on other business entirely. Doreen ran a Monday special on cinnamon loaves to clear out the weekend's flour order. Hank sold out of ice scrapers by ten and ordered more without comment. The geese that have wintered on the north pond this year rather than continuing south, a small oddity in its own right that nobody has thought worth remarking on twice, spent the morning arguing with a dog on Pell Road and losing. Gerald came by the alcove out of habit, found no cause to sit, and went home for lunch instead.\n\nThe one true thing this editor sets down today, low, at the start of a ledger she has not yet decided how to keep: a name nobody living has ever spoken turned up owing something to this town on the very day it was found, and the strangest part is how ordinary an afternoon it otherwise was."
+  },
+  "briefs": [
+    {
+      "headline": "Calloway Completes the 2009 Reshelving, Finds an Uncollected Library Card Behind the Ninth Book's Old Space",
+      "body": "The card is made out to a name no current resident recognizes. Calloway has filed no report with Russ, calling it, for now, 'a filing question, not a police one.'"
+    },
+    {
+      "headline": "First Hard Frost of the Season Arrives Overnight; Hank Reports Ice Scrapers Sold Out by Mid-Morning",
+      "body": "Hank says the timing lines up with his projections 'closer than usual, even for me.' He declined to elaborate further."
+    },
+    {
+      "headline": "North Pond Geese, Wintering Over for a Second Year, Lose an Argument With a Dog on Pell Road",
+      "body": "No injuries reported on either side. The dog's owner, who asked not to be named, called it 'a fair fight, honestly.'"
+    },
+    {
+      "headline": "Doreen Halloway Runs a Monday Cinnamon Special to Clear Weekend Flour Stock; No Word Yet on Whether the Jar Returns",
+      "body": "Doreen says the jar question is 'closed for the season, and possibly longer,' and declined to discuss the alcove at all."
+    }
+  ],
+  "classifieds": [
+    "FOUND: One pocket calendar, bank-issue, fourteen years of stamps in as many hands. Inquire at the library circulation desk. No reward offered; none seems appropriate.",
+    "FOR SALE: Ice scrapers, restocking Wednesday. Mossley Hardware. Come early.",
+    "WANTED: Anyone with knowledge of a 2009-era library patron. Discretion assured. See Calloway.",
+    "LOST: One dog's dignity, Pell Road, Monday morning. Presumed recoverable."
+  ],
+  "record": [
+    "Library circulation desk: one checkout card and pocket calendar logged as found property, pending claim.",
+    "Mossley Hardware: ice scraper stock, zero units, reorder placed."
+  ],
+  "letters": [
+    {
+      "from": "Calloway, Town Librarian",
+      "body": "For the record, since people will ask: I am not alarmed. A misfiled card behind a shelf is the kind of thing that happens in libraries older than this one, and ours is old enough. I intend to treat it exactly as I would any other overdue item, which is to say, patiently, and with a note in the file. If the name means something to somebody, my door is the second one past the checkout desk, same as always."
+    },
+    {
+      "from": "Hank Mossley",
+      "body": "For anyone asking, no, I did not order extra scrapers because I knew the frost was coming early. I ordered extra scrapers because I always order extra scrapers in December. This year it happened to matter sooner. That is not the same thing as being right. I would appreciate that distinction being kept."
+    }
+  ]
+}

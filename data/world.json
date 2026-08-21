@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 77,
-  "weather": "Overcast, mild, 34°F, the pale sun sitting out today without complaint",
+  "dayNumber": 78,
+  "weather": "Clear and cold, 28°F, the first hard frost of the season sitting on every windshield in town",
   "undercurrent": {
-    "level": 14,
-    "stage": 1,
-    "phenomenon": "the east alcove, now simply the alcove",
-    "note": "Season closed clean. East alcove produced nothing overnight for the first time; four chairs, eight open books, one closed book at rest, no new arrivals. Level eased to 14, stage settled to 1 (something off, gently, permanently, the way a house settles). Reserving true stage 0 for next season's opening calm. Planted next_premise around Calloway finishing the 2009 reshelving and the lamp she mentioned in her letter — a small, ordinary detail (a lamp 'in the corner') that can seed a new strangeness: the library itself, or the lamp, or what 2009 actually interrupted. Town is at rest, changed, still watching the water out of habit rather than fear."
+    "level": 6,
+    "stage": 0,
+    "phenomenon": "an uncollected library card, due today, made out to nobody the town remembers",
+    "note": "Reserved true stage 0 for this exact morning. The card and calendar are the whole of the new thread so far, small and administrative and easy to set in a drawer. No lake activity spiked, no returned behavior changed, no sign discrepancy referenced today. Letting it sit quiet and procedural for several days before anyone treats it as more than a filing oddity. Calloway is the load-bearing character for the opening stretch; Wren has not yet started her private notes on this one."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -19,10 +19,10 @@
     "voice": "Dry, precise, allergic to drama, which is unfortunate given recent events. Writes like a person holding a clipboard while standing in rising water. Lets one true thing slip per edition, usually in the last line."
   },
   "season_arc": {
-    "number": 3,
-    "premise": "The library's east alcove has been empty since 2009, when the last cataloguer left in the middle of a Wednesday with no explanation. Calloway has begun shelving it. The books that appear on the new shelves overnight are not books the library owns, and they are not books that have ever been published, but they are about Greywater Falls, and they are set in years that have not happened yet.",
-    "day_in_season": 32,
+    "number": 4,
+    "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
+    "day_in_season": 1,
     "target_length": 32,
-    "next_premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand."
+    "next_premise": ""
   }
 }
