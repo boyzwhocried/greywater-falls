@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 78,
-  "weather": "Clear and cold, 28°F, the first hard frost of the season sitting on every windshield in town",
+  "dayNumber": 79,
+  "weather": "Clear and cold, 24°F, frost holding through midday in the shaded lots",
   "undercurrent": {
-    "level": 6,
+    "level": 8,
     "stage": 0,
     "phenomenon": "an uncollected library card, due today, made out to nobody the town remembers",
-    "note": "Reserved true stage 0 for this exact morning. The card and calendar are the whole of the new thread so far, small and administrative and easy to set in a drawer. No lake activity spiked, no returned behavior changed, no sign discrepancy referenced today. Letting it sit quiet and procedural for several days before anyone treats it as more than a filing oddity. Calloway is the load-bearing character for the opening stretch; Wren has not yet started her private notes on this one."
+    "note": "Advanced the calendar's stamp count by one, unprompted, dated to today's date, in a hand matching none of the prior fourteen or anyone currently living. This is the first sign the card is not a static artifact but an active, ongoing arrangement. Keeping it small: no lake activity, no sign discrepancy, no returned behavior change. Calloway remains load-bearing; Russ's filing habit is doing useful denial-work; Wren has still not started her private notes but is circling the idea. Reserve the next visible beat (Wren's private notes, or someone recognizing a name in the fourteen hands) for a few days out."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 4,
     "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 1,
+    "day_in_season": 2,
     "target_length": 32,
     "next_premise": ""
   }

@@ -1,0 +1,49 @@
+{
+  "day": 79,
+  "dateline": "Tuesday, December the 23rd",
+  "weather": "Clear and cold, 24°F, frost holding through midday in the shaded lots",
+  "stage": 0,
+  "lead": {
+    "headline": "Tuesday; the Card Goes Back in the Drawer, and the Pocket Calendar Gets a Fifteenth Stamp Nobody Pressed",
+    "byline": "By Wren Aldercott",
+    "body": "Calloway opened the circulation desk drawer this morning expecting to find the library card and its calendar exactly where she'd left them, under no particular theory, as she put it yesterday. She found them exactly where she'd left them. That is not the news. The news is that the pocket calendar now carries fifteen stamps rather than fourteen, the newest dated to today, pressed in an ink this editor is not prepared to call fresh but is prepared to call recent, in a hand that matches none of the other fourteen and, so far as anyone in this town can determine, none of the hands presently attached to anyone living in it.\n\nCalloway's response to this was, by her own account, to close the drawer, finish stocking the returns cart, and open the library at nine as scheduled. She has declined, so far, to describe this as remarkable. 'The book got put back on time for fourteen years running,' she told this paper. 'I don't see why the calendar should be the exception.' She did concede, when pressed, that she has begun leaving the desk lamp on the checkout counter after closing, a small thing, unbudgeted, that she says simply seemed like the courteous arrangement for whoever is doing the stamping.\n\nElsewhere the town kept its ordinary Tuesday. Hank restocked ice scrapers ahead of schedule and sold three before lunch, a pace he called 'about right for the season' and did not elaborate on further. Doreen's bakery ran its standard weekday line, no specials, no jar mentioned, the flour order back to its usual proportions after Monday's cinnamon push. Russ came by the library at noon, looked at the drawer without opening it, and told Calloway he'd log the whole business under the same Ongoing, Local file as the lamp and the loaf, on the grounds that a card being returned on time is, technically, the opposite of an incident.\n\nThe one true thing this editor sets down today, low, where such things keep best: a debt fourteen years overdue was found, by every measure, to be current, and a town that has learned to pull up a fourth chair for company it cannot name did not so much as blink at being asked to keep a lamp on for it too."
+  },
+  "briefs": [
+    {
+      "headline": "Calloway Finds a Fifteenth Stamp on the Pocket Calendar, Dated Today, in an Unmatched Hand",
+      "body": "The card and calendar remain in the circulation desk drawer. Calloway has begun leaving the checkout lamp lit overnight, calling it 'the courteous arrangement' rather than a precaution."
+    },
+    {
+      "headline": "Hank Mossley Restocks Ice Scrapers Ahead of Schedule, Sells Three by Noon, Declines to Elaborate",
+      "body": "The hardware store's coffee pot stayed on the front counter through the lunch rush. No further frost is forecast before the weekend."
+    },
+    {
+      "headline": "Russ Dunmore Logs the Returned Library Card Under Ongoing, Local, Citing the Precedent of the Lamp and the Loaf",
+      "body": "Russ described a card returned on time, even fourteen years late in its issuing, as 'technically the opposite of an incident' and closed the file for the week."
+    },
+    {
+      "headline": "Doreen Halloway's Bakery Runs an Ordinary Weekday Line; No Jar, No Special, No Comment on the Alcove",
+      "body": "Doreen confirmed the flour order has returned to standard weekday proportions and said only, when asked about the alcove, 'That's a settled matter, now.'"
+    }
+  ],
+  "classifieds": [
+    "FOUND: One pair of children's mittens, north pond side, near where the geese have been holding court. Claim at the Gazette office.",
+    "WANTED: A second pair of hands at the hardware counter Thursday afternoons through the new year. Ask for Hank.",
+    "NOTICE: The library will keep its usual hours through the holiday week. The checkout lamp will remain on after close until further notice.",
+    "FOR SALE: One (1) large coffee pot, barely used, from the diner's back burner rotation. Marigold says it's earned its retirement."
+  ],
+  "record": [
+    "Library circulation desk, overnight: one unexplained stamp entry, pocket calendar, dated December 23rd, hand unmatched to prior fourteen.",
+    "Hardware store inventory: ice scrapers, 3 units sold, restocked same day."
+  ],
+  "letters": [
+    {
+      "from": "Calloway, Head Librarian",
+      "body": "People keep asking me if I'm frightened of the drawer. I have worked in this building for eleven years. I am not frightened of a well-kept record. I would be frightened of a poorly kept one. This one, whatever else it is, has never once missed a date."
+    },
+    {
+      "from": "Gerald Pith",
+      "body": "Walked past the library at nine this morning out of the old habit and saw the lamp lit through the window before anyone had unlocked the door. Did not write it down. Felt fine about that."
+    }
+  ]
+}
