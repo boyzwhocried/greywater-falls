@@ -1,0 +1,50 @@
+{
+  "day": 80,
+  "dateline": "Wednesday, December the 24th",
+  "weather": "Clear and cold, 22°F, a light skin of ice on the north pond by mid-morning",
+  "stage": 0,
+  "lead": {
+    "headline": "Wednesday; the Name on the Card Turns Out to Be Nobody's Business but the Calendar's, and Calloway Puts the Drawer Back Under the Counter",
+    "byline": "By Wren Aldercott",
+    "body": "Christmas Eve arrived in Greywater Falls the way it generally does, which is to say with more errands than the day strictly has room for. Calloway spent the morning behind the circulation desk fielding the annual rush of last-minute gift books, and reports that she did not check the drawer until nearly noon, at which point she found the pocket calendar exactly as it was yesterday, fifteen stamps and no sixteenth, the ink on the newest one no longer striking her, she says, as recent so much as settled. She has stopped calling this remarkable at all. She has started calling it Wednesday.\n\nThis editor asked Calloway directly, for the record, whether she had made any further attempt to identify the name on the card itself. She had not. 'I've got a library to run,' she said, not unkindly, and went back to stamping the due dates on twenty-three copies of a paperback about a sled dog that this town, for reasons known only to itself, orders in bulk every December. Russ stopped by at his usual noon hour, glanced at the drawer, and asked whether the file needed updating. Calloway told him no change to report, and he wrote that down as though no change were itself a fact worth filing, which, in this town, it generally is.\n\nElsewhere the day kept its shape. Doreen's bakery ran a full holiday line, the ovens going since four, and by all accounts nobody asked about any jar. Hank closed the hardware store at three for the holiday and told this paper the ice scrapers were, for once, not the story, gesturing instead at a modest run on batteries and candles that he called 'ordinary as they come.' The geese on the north pond, still declining to fly south, spent the afternoon standing on the new ice looking, Toby reported, mildly betrayed by their own decision.\n\nThe one true thing this editor sets down today, low, where it will keep: a debt with no living creditor has now gone quiet for a second day running, and a town accustomed to worrying about the wrong things has, without deciding to, simply added it to the list of things it no longer worries about."
+  },
+  "briefs": [
+    {
+      "headline": "Calloway Reports No Change to the Pocket Calendar for a Second Day; Files the Drawer Back Under the Counter",
+      "body": "The fifteenth stamp remains the calendar's last. Calloway says she intends to let the matter rest through the holiday and revisit it, if it wants revisiting, in the new year."
+    },
+    {
+      "headline": "Doreen's Bakery Runs Full Holiday Line; Ovens On Since Four, No Word on the Jar",
+      "body": "Cinnamon, gingerbread, and the standard Christmas Eve stollen sold out by two. Doreen declined, cheerfully, to discuss anything not currently in a display case."
+    },
+    {
+      "headline": "Hank Mossley Closes Hardware Early for the Holiday; Reports a Modest Run on Batteries and Candles",
+      "body": "Ice scrapers, for the first time all week, were not the story. Hank called the day 'ordinary as they come' and did not appear to mean it as a complaint."
+    },
+    {
+      "headline": "North Pond Geese Stand on New Ice, Looking, by Toby Fern's Account, Betrayed by Their Own Decision Not to Fly South",
+      "body": "The wintering-over geese have not yet reconsidered. Toby says he'll keep watching, though he admits it isn't really news."
+    }
+  ],
+  "classifieds": [
+    "WANTED: someone to run the church hall's Christmas Eve raffle table 6-8pm, previous experience with a cash box appreciated. See Mrs. Okafor.",
+    "FOR SALE: one artificial tree, pre-lit, missing the star, free to whoever hauls it off the porch on Larch Street.",
+    "LOST: a red mitten, child's size, somewhere between the school and the diner. Reward: a cup of Marigold's hot cocoa, no questions asked.",
+    "NOTICE: the library will keep normal hours through the holiday except Christmas Day itself. The drawer, per Calloway, is not open to public inspection."
+  ],
+  "record": [
+    "Marriage license issued: none this week.",
+    "Building permit renewed: Mossley Hardware, storefront awning, routine."
+  ],
+  "letters": [
+    {
+      "from": "Calloway, Head Librarian",
+      "body": "To the editor: I would like it noted, for whatever it's worth to future readers of this paper, that a library operates on due dates whether or not anyone can explain who set them. I intend to keep doing my job. The drawer will keep doing whatever it's doing. I see no conflict there and would ask the town to extend me the same courtesy it extends the lake."
+    },
+    {
+      "from": "Hank Mossley",
+      "body": "For the record, I was not stockpiling candles out of any particular concern. A man closes early on Christmas Eve and sells what people need for a holiday. That is the whole of it. I was misquoted on the ice scrapers too, for what it's worth, though I notice nobody ever prints the correction."
+    }
+  ],
+  "editorNote": "A brief holiday note: the Gazette will run a slimmer edition tomorrow, as is custom, and return to its usual accounting the day after. Merry Christmas to those keeping the ovens on, the lamps lit, and the drawers, for now, closed."
+}
