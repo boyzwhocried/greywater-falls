@@ -1,0 +1,49 @@
+{
+  "day": 81,
+  "dateline": "Thursday, December the 25th",
+  "weather": "Clear and cold, 19°F, frost feathering the diner windows by dawn",
+  "stage": 0,
+  "lead": {
+    "headline": "Christmas Day; the Calendar Keeps Its Own Sabbath, and the Town Keeps Its Usual Kindnesses",
+    "byline": "By Wren Aldercott",
+    "body": "The library was closed today, as it is every Christmas, which meant the pocket calendar in Calloway's drawer went unobserved for the first full day since it was found. Calloway herself spent the holiday at her sister's in the next county and could not be reached for comment on whether this troubled her, though this editor suspects, based on four days of conversation, that it did not trouble her at all. A due date that has kept itself for fourteen years does not, apparently, require supervision on the one day the supervisor takes off.\n\nThe rest of Greywater Falls observed the day in its usual fashion, which is to say generously. Doreen delivered loaves door to door before the ovens had properly cooled, a private tradition she declined, again, to connect to any jar. Marigold opened The Kettle for two hours at midday for anyone without somewhere warmer to be, and reported a full counter and, for the second week running, an extra cup left out at close that she says she does not remember pouring. Agnes received visitors on her porch in the cold sunlight and told at least one of them, Toby, that a good winter is one where everybody gets fed and nobody has to ask twice. He wrote it down without comment, which from Toby now counts as high praise.\n\nRuss drove the plow route himself before breakfast, more out of habit than necessity, since the roads were clear, and stopped by the shuttered library on his way home to confirm through the window that the drawer, and the lamp above it, were exactly where Calloway had left them. He did not go in. He told this paper he saw no reason to check a thing that wasn't open to be checked, which is either the soundest logic in town or the same logic he has been using on the alcove all season.\n\nThe one true thing this editor sets down today, low, on a day built for setting things down gently: a debt fourteen years old took its first day entirely off, the same as everyone else in this town, and nobody thought to ask it for the day back."
+  },
+  "briefs": [
+    {
+      "headline": "Library Closed for the Holiday; Calendar's Sixteenth Stamp, If Any, Will Wait Until Friday",
+      "body": "Calloway confirmed by phone from her sister's that the drawer was locked and the lamp left burning per the arrangement she began last week. She does not expect anything to have changed by Friday morning. She has been wrong about that expectation exactly zero times, which she calls either a comfort or a warning depending on the hour."
+    },
+    {
+      "headline": "Doreen Halloway Delivers Christmas Loaves Door to Door; Jar Question Remains, by Her Word, Closed for the Season",
+      "body": "The mayor made her rounds before nine, leaving loaves on porches from Pell Road to the school lane. Asked whether the alcove's fourth chair figured into her route, she said only, 'Now,' and kept walking."
+    },
+    {
+      "headline": "The Kettle Opens Two Hours at Midday; Marigold Reports a Full Counter and an Extra Cup Nobody Recalls Pouring",
+      "body": "Marigold Vance says the extra cup has appeared at close three times this month without her deciding to set it out. She has stopped trying to stop it and started simply washing it in the morning with the rest."
+    },
+    {
+      "headline": "Russ Dunmore Confirms the Library Drawer Undisturbed Through a Window He Did Not Open",
+      "body": "The constable logged the drive-by under the Ongoing, Local file, noting that a locked door observed from outside constitutes, in his words, 'a complete and satisfactory inspection.'"
+    }
+  ],
+  "classifieds": [
+    "FOUND: One (1) mitten, child-sized, red, near the north pond ice. Ask at The Kettle.",
+    "Halloway's Bakery will resume normal hours Friday. Cinnamon stock replenished for the new year.",
+    "Mossley Hardware: post-holiday sale on batteries, half off, while the surplus lasts.",
+    "WANTED: Someone to walk Mrs. Calloway's cat while she's away through the weekend. Modest pay, ample pie."
+  ],
+  "record": [
+    "Waterline, north shore stake: no measurable change since last recorded.",
+    "Library: closed for the holiday; drawer and lamp confirmed undisturbed by exterior inspection."
+  ],
+  "letters": [
+    {
+      "from": "Calloway, Head Librarian",
+      "body": "For those asking: yes, the library is closed today, same as every Christmas since before I had the job. The drawer will keep. Fourteen years says it knows how."
+    },
+    {
+      "from": "Marigold Vance, The Kettle",
+      "body": "To whoever needed the extra cup and didn't come by — it'll be there tomorrow too. No charge, no questions, same as it's always been around here for anybody who's short a chair."
+    }
+  ]
+}

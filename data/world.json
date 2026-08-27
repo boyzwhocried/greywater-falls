@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 80,
-  "weather": "Clear and cold, 22°F, a light skin of ice on the north pond by mid-morning",
+  "dayNumber": 81,
+  "weather": "Clear and cold, 19°F, frost feathering the diner windows by dawn",
   "undercurrent": {
     "level": 9,
     "stage": 0,
     "phenomenon": "an uncollected library card, due today, made out to nobody the town remembers",
-    "note": "Held flat for a second day: no sixteenth stamp, no new hand, no escalation. This is deliberate — the calendar's stamp count advancing unprompted was the beat for this stretch, and it needs to sit unremarked long enough to become furniture before the next visible tell (Wren's private notes, or a resident recognizing one of the fourteen hands). Calloway continues absorbing it into routine ('the library operates on due dates'), which is exactly the accommodation move the town makes. Russ's filing habit still doing denial-work. Wren's private notes still un-begun but she is now explicitly circling them in her own arc note. Reserve the recognition beat and the private-notes beat for a few days further out, ideally not on consecutive days."
+    "note": "A deliberate rest day: the library's own closure gave the town a clean, plausible reason for the calendar to go unobserved, which lets the level hold flat a third day without anyone needing to notice the streak. Marigold's extra cup is quietly doing the same accommodation work as Doreen's jar and the alcove chair; worth letting it recur once more before naming it outright. Reserve the recognition beat (someone placing one of the fifteen hands) and the private-notes beat for later this week, not tomorrow, so they don't crowd the reopening of the library, which should carry its own small charge on Friday."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 4,
     "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 3,
+    "day_in_season": 4,
     "target_length": 32,
     "next_premise": ""
   }
