@@ -1,0 +1,49 @@
+{
+  "day": 82,
+  "dateline": "Friday, December the 26th",
+  "weather": "Overcast and mild for the season, 28°F, a soft haze sitting on the water since morning",
+  "stage": 0,
+  "lead": {
+    "headline": "Friday; the Library Reopens, the Drawer Gets Its First Look Since Wednesday, and Calloway Finds Exactly What She Expected, Which Is Nothing New",
+    "byline": "By Wren Aldercott",
+    "body": "The library reopened this morning on its usual post-holiday schedule, and Calloway, by her own account, went straight for the circulation desk drawer before she'd so much as taken her coat off. What she found there was the pocket calendar sitting at fifteen stamps, same as Wednesday, the sixteenth square still blank. She called this 'about what I figured,' logged the returns cart, and got on with a morning made mostly of people bringing back the sled-dog paperback three days late and apologizing for it as though the fine mattered, which it does not, this being Greywater Falls, where the fines have not been enforced in a decade and everyone still apologizes.\n\nThis editor asked whether the empty sixteenth square struck her as significant, given the calendar's habit of filling itself precisely on schedule for fourteen years running before Wednesday. Calloway considered this at the counter for a moment before answering that Friday isn't over yet, and went back to shelving. It is, this editor will note, a fair point, and one this editor intends to hold her to.\n\nElsewhere the town eased back into its own routine the way it tends to after a stretch of days spent mostly indoors. Marigold reported the counter at The Kettle back to its ordinary Friday crowd, no extra cup this time, though she says she checked twice before admitting it. Doreen's bakery ran its standard end-of-week line, the holiday flour order finally worked through, and declined once more to discuss the jar, the alcove, or anything shut for the season, on the grounds that she has already said her piece on all three. Gerald sat an hour at the diner counter, mentioned the library's reopening once, in passing, and did not walk over to look.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a calendar that has never once needed correcting sat blank for its first business day in fourteen years, and nobody in Greywater Falls has yet worked up the nerve to call that anything but early."
+  },
+  "briefs": [
+    {
+      "headline": "Library Reopens on Schedule; Pocket Calendar Holds at Fifteen Stamps, Sixteenth Square Still Blank",
+      "body": "Calloway confirmed the drawer unchanged from Wednesday and declined to speculate before the day is out."
+    },
+    {
+      "headline": "Marigold Vance Reports an Ordinary Friday Counter at The Kettle; No Extra Cup, Though She Checked Twice",
+      "body": "The first uninterrupted service since the extra cup began appearing at close, by her own count."
+    },
+    {
+      "headline": "Doreen Halloway's Bakery Clears the Holiday Flour Order; Standard Friday Line, No Comment on the Jar",
+      "body": "Doreen said only that she's already said her piece on the matter, and got back to the ovens."
+    },
+    {
+      "headline": "Gerald Pith Sits an Hour at the Diner Counter, Mentions the Library's Reopening Once, Does Not Go Look",
+      "body": "Marigold called it the longest he's gone without checking on anything all season."
+    }
+  ],
+  "classifieds": [
+    "LOST: One (1) urge to open a drawer that isn't mine to open. Last seen Wednesday. Reward: peace of mind. — G. Pith",
+    "FOR SALE: End-of-holiday flour, slightly reduced, no jar attached. Inquire at Halloway's.",
+    "WANTED: Someone to tell this editor the sixteenth square stays blank before deadline tomorrow. — W. Aldercott",
+    "NOTICE: The Kettle's Friday special returns to its usual self. No cup, no comment, no charge for asking why."
+  ],
+  "record": [
+    "Lake level: holding, per Gerald's stick and string, unchanged since Wednesday.",
+    "Library circulation: normal Friday volume, twenty-three sled-dog paperbacks returned three days late apiece."
+  ],
+  "letters": [
+    {
+      "from": "Calloway, Head Librarian",
+      "body": "Someone asked me today if I was worried the calendar hadn't filled itself in yet. I told them Friday isn't over. I stand by that. A thing that's kept its own schedule for fourteen years has earned the benefit of the doubt through at least one business day."
+    },
+    {
+      "from": "Gerald Pith",
+      "body": "I want it on record that I thought about walking over to the library today and decided against it, and that deciding against it felt, for once, like the more interesting fact. I don't know what to do with that yet. I'm not writing it down either, which is new for me."
+    }
+  ]
+}
