@@ -5,11 +5,11 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 82,
-  "weather": "Overcast and mild for the season, 28°F, a soft haze sitting on the water since morning",
+  "dayNumber": 83,
+  "weather": "Overcast and mild for the season, 29°F, the haze on the water thicker than yesterday and slow to burn off",
   "undercurrent": {
-    "level": 10,
-    "stage": 0,
+    "level": 20,
+    "stage": 2,
     "phenomenon": "an uncollected library card, due today, made out to nobody the town remembers",
     "note": "First business day back and the sixteenth square sits blank, which is the streak's first real interruption rather than a holiday alibi. Keeping level nearly flat (9 to 10) since Wren's own framing ('Friday isn't over yet') gives the town one more clean, deniable day before the blank square becomes a fact rather than a pause. Save the recognition beat (a hand placed) and the private-notes beat for after this squares one way or the other; if the sixteenth stamp does appear late Friday or over the weekend, that's the moment to start naming the pattern outright. Gerald's private aside about not writing something down is a small, deliberate crack worth returning to."
   },
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 4,
     "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 5,
+    "day_in_season": 6,
     "target_length": 32,
     "next_premise": ""
   }

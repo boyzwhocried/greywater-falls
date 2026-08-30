@@ -1,0 +1,49 @@
+{
+  "day": 83,
+  "dateline": "Saturday, December the 27th",
+  "weather": "Overcast and mild for the season, 29°F, the haze on the water thicker than yesterday and slow to burn off",
+  "stage": 2,
+  "lead": {
+    "headline": "Saturday; the Sixteenth Square Fills Itself Sometime Overnight, and Calloway Declines, for the First Time, to Call It About What She Figured",
+    "byline": "By Wren Aldercott",
+    "body": "The pocket calendar in the circulation desk drawer now reads sixteen stamps, not fifteen, and Calloway cannot say when the change occurred, only that it had not occurred at closing Friday and had occurred by opening Saturday. This editor examined the new stamp herself this morning: same faded red ink as the others, same square, dated today, in a hand that matches none of the fourteen before it and, notably, does not match the hand Wren logged making the fifteenth stamp back on Day 79 either. Calloway looked at it for a long moment before she said anything at all, which for Calloway is itself a kind of statement.\n\nWhat she finally said was this: 'I don't think Friday ending was the interesting part.' Pressed on what she meant, she pointed out that the library was locked, alarmed, and by her own testimony unvisited from six o'clock Friday evening until seven-forty this morning, when she let herself in with the only key she has ever known to exist. She has stopped offering the phrase 'about what I figured.' She would not offer a replacement.\n\nGerald, at the diner counter, heard the news secondhand from Marigold before eight and did something this paper has not seen him do all season: he took out his ledger, opened it to a blank page, looked at it for a while, and closed it again without writing anything down. He told this editor afterward that the ledger, lately, has become less a record of what he notices and more a record of what he decides not to write, and that today the second kind of entry felt, for once, like the more honest one. He would not say more, and did not seem troubled by his own reticence.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a calendar that took its first day off in fourteen years has now taken its first unwitnessed one, and the town has quietly stopped asking who is filling in the squares and started, instead, wondering who used to."
+  },
+  "briefs": [
+    {
+      "headline": "Circulation Desk Drawer Yields a Sixteenth Stamp Overnight; No Witness, No Explanation, Calloway Declines Comment Beyond the Fact of It",
+      "body": "The library was locked and alarmed from six Friday evening to seven-forty Saturday morning, by Calloway's account and the alarm log both. The stamp was not there at close. It was there at open."
+    },
+    {
+      "headline": "Gerald Pith Opens His Ledger to a Blank Page at the Diner Counter, Then Closes It Again Without Writing Anything",
+      "body": "Asked what he'd meant to record, Gerald said he was no longer sure the not-writing wasn't the record. Marigold kept his coffee coming and did not press further."
+    },
+    {
+      "headline": "Russ Dunmore Reviews the Library's Overnight Alarm Log Line by Line, Finds Nothing, Logs the Nothing as Confirmation",
+      "body": "The constable spent forty minutes with the printout and pronounced the system 'functioning as designed,' which he says settles the matter, at least for the file."
+    },
+    {
+      "headline": "Doreen Halloway Notes the Bakery's Own Ledger Balanced to the Penny for the First Time Since October, Offers No Further Comment",
+      "body": "Asked if this meant anything, the mayor said only 'Now,' in the tone this paper has learned means the conversation is over."
+    }
+  ],
+  "classifieds": [
+    "FOUND: one pocket calendar's worth of curiosity, no longer accepting new theories. Inquire within, or don't. — R. Dunmore",
+    "WANTED: someone to explain to me why a locked room needs a witness to change. — G. Pith",
+    "Half-size Saturday loaf again on the alcove's fourth chair. Take it or don't. Either way, it goes. — D. Halloway",
+    "Ice melt, batteries, candles: in stock, ordinary, no further comment. — Mossley Hardware"
+  ],
+  "record": [
+    "Lake level: steady overnight, no measurable rise since Thursday, per G. Pith's stick-and-string.",
+    "Library alarm log: no entries, no gaps, six p.m. Friday to seven-forty a.m. Saturday."
+  ],
+  "letters": [
+    {
+      "from": "Calloway, Head Librarian",
+      "body": "I have run this library eleven years and never once had a stamp appear I didn't make myself. I am not frightened. I am, for the first time since Wednesday, genuinely curious, which I understand is not the same thing, though this town seems to treat them as cousins. I intend to keep the drawer open a little longer each night this week and see what that gets us. Nothing, probably. Probably."
+    },
+    {
+      "from": "Gerald Pith",
+      "body": "A man can spend forty years writing everything down and call it diligence, and then spend six months writing nothing down and start to wonder if that was the diligence all along. I don't have an answer. I have a blank page. For now that seems like enough."
+    }
+  ]
+}
