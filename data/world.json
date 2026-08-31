@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 83,
-  "weather": "Overcast and mild for the season, 29°F, the haze on the water thicker than yesterday and slow to burn off",
+  "dayNumber": 84,
+  "weather": "Overcast and mild for the season, 30°F, haze on the water thinner but slow to lift, a smell in the air Marigold calls 'lakewater on a stovetop'",
   "undercurrent": {
-    "level": 20,
+    "level": 24,
     "stage": 2,
-    "phenomenon": "an uncollected library card, due today, made out to nobody the town remembers",
-    "note": "First business day back and the sixteenth square sits blank, which is the streak's first real interruption rather than a holiday alibi. Keeping level nearly flat (9 to 10) since Wren's own framing ('Friday isn't over yet') gives the town one more clean, deniable day before the blank square becomes a fact rather than a pause. Save the recognition beat (a hand placed) and the private-notes beat for after this squares one way or the other; if the sixteenth stamp does appear late Friday or over the weekend, that's the moment to start naming the pattern outright. Gerald's private aside about not writing something down is a small, deliberate crack worth returning to."
+    "phenomenon": "an uncollected library card, due today, made out to nobody the town remembers, and now sixteen due-date stamps in sixteen different hands",
+    "note": "Calloway's own inventory of the handwriting is the first time a resident has actively investigated rather than merely witnessed the phenomenon, which nudges the level up a notch. Agnes's refusal of Toby today is a deliberate held breath, not a retreat; it should pay off soon, possibly as her last riddle of the season, possibly delivered in writing again per her arc. Keep Russ's deflections sturdy but starting to sound rehearsed even to him. The 'warm to the touch' detail on the calendar cover is new and should recur or be confirmed/denied next time someone touches it. Do not let Gerald's not-writing calcify into a new ritual; give him one more small temptation to break it soon."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 4,
     "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 6,
+    "day_in_season": 7,
     "target_length": 32,
     "next_premise": ""
   }

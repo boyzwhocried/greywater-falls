@@ -1,0 +1,49 @@
+{
+  "day": 84,
+  "dateline": "Sunday, December the 28th",
+  "weather": "Overcast and mild for the season, 30°F, haze on the water thinner but slow to lift, a smell in the air Marigold calls 'lakewater on a stovetop'",
+  "stage": 2,
+  "lead": {
+    "headline": "Sunday; Calloway Counts Backward, and Finds the Fourteen Stamps Before Wren's Watch Were Never in the Same Hand Twice",
+    "byline": "By Wren Aldercott",
+    "body": "With the library closed for the Sabbath and no new square to fill, Calloway spent the quiet morning doing something this paper had not thought to ask of her until now: she went back through all sixteen stamps, side by side, under the desk lamp, with a magnifying glass borrowed from Hank's shop drawer of odds and ends. Her finding, delivered to this editor by phone before noon, is this: no two of the sixteen stamps were made by the same hand. Not the two Wren personally witnessed. Not any of the fourteen that came before. Fourteen years, fourteen different due-date renewals, and now two more on top of it, and not a single repeat signature, pressure, or angle of the stamp pad among them.\n\nCalloway called this 'the part I should have checked in October,' which this editor takes as an admission that she has been putting it off. She has photographed all sixteen squares and intends, she says, to lay them out on the circulation desk in order, 'like a lineup where nobody shows up twice.' She would not speculate further, though she did say, unprompted, that the calendar's cover has begun to feel warm to the touch in the mornings, 'the way a mug feels after somebody's just set it down.'\n\nRuss, reached at home on his day off, said he saw no call to reopen the file over a stack of old photographs, and that fourteen different handwritings across fourteen years was, if anything, evidence the system was working as designed, since somebody has clearly been renewing the thing on schedule the whole time. Asked who that somebody might be, he allowed that this was, in his words, 'above the file's pay grade,' and referred further questions to Monday.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: fourteen years of a debt being paid on time is not, on its own, strange, but fourteen years of it being paid by fourteen different hands, none of whom anyone in this town can name, stopped being a coincidence somewhere around stamp number three, and the town has simply chosen, until today, not to count that high."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 84: Level Holds at 20, Water 30°F, Haze Thinning Slowly; Sign Still Reads 7; No New Returned",
+      "body": "The waterline gauge Gerald no longer writes down but still, by his own admission, checks out of habit shows no change overnight. The welcome sign at the town line continues to read 7. No animals came to shore at dusk beyond the usual small gathering, which remains gentle, humming, and unbothered by the cold."
+    },
+    {
+      "headline": "Calloway Photographs All Sixteen Stamps for Comparison; Confirms No Two Hands Match, Including the Two Made Since Wednesday",
+      "body": "The library, closed for Sunday, nonetheless occupied its keeper's full morning. Calloway declined to say what she intends to do with the photographs beyond 'have them, in case somebody asks properly.'"
+    },
+    {
+      "headline": "Agnes Crewe Spends the Day Quietly at Home; Declines a Visit from Toby for the First Time This Season",
+      "body": "Toby reports he was turned away gently at the porch door with the message that Agnes was 'saving her voice for something that isn't a question.' He did not press further, and logged the refusal itself as the day's entry."
+    },
+    {
+      "headline": "Hank Mossley Reports a Quiet Sunday at the Hardware Store; No Batteries, No Scrapers, Just an Ordinary Slow Day He Says He's Grateful For",
+      "body": "Hank kept the shop open two hours out of habit, sold a box of nails to a single customer, and closed early without incident, which he called, on the record, 'the nicest kind of nothing all season.'"
+    }
+  ],
+  "classifieds": [
+    "FOUND: one magnifying glass, borrowed from Mossley Hardware's odds drawer, currently in Calloway's possession. Return not urgent. — Hank",
+    "WANTED: a fourteen-year-old with excellent penmanship and no memory of ever being here. Inquire at the circulation desk. — a joke, Calloway insists, though she filed it under Lost and Found anyway",
+    "The Kettle: Sunday soup is lentil. Extra cup still not appearing at close, and Marigold would like it noted she is now slightly disappointed rather than relieved.",
+    "Halloway's Bakery closed Sundays, as always. The fourth chair loaf resumes Monday, 'Now,' by Doreen's own word."
+  ],
+  "record": [
+    "Library: closed. Overnight alarm log clean, per Russ's Saturday review, unreviewed today by his own choice.",
+    "Welcome sign: 7. Census: 15."
+  ],
+  "letters": [
+    {
+      "from": "Calloway, Head Librarian",
+      "body": "For the record, since Wren will print it anyway: I should have looked at all sixteen stamps together weeks ago instead of one at a time as they came in. It's a different thing, seeing them in a row. I don't have a better word for it than 'lineup,' and I don't love that I reached for that word first."
+    },
+    {
+      "from": "Toby Fern",
+      "body": "Agnes has never once turned me away. I'm not scared, I just think she's saving something up, and I think it's going to be for all of us at once, not just me. I logged it anyway. Barely news, she'd say."
+    }
+  ]
+}
