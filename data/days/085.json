@@ -1,0 +1,50 @@
+{
+  "day": 85,
+  "dateline": "Monday, December the 29th",
+  "weather": "Overcast, mild, 31°F, haze on the water nearly gone, that stovetop smell stronger by evening",
+  "stage": 2,
+  "lead": {
+    "headline": "Monday; Calloway Lays the Sixteen Squares Out in Order and Finds the Ink Gets Warmer the Further Back You Go",
+    "byline": "By Wren Aldercott",
+    "body": "Calloway made good on Sunday's promise this morning, laying all sixteen photographed stamps end to end along the circulation desk in chronological order, 'like a lineup where nobody shows up twice,' as she'd put it. What she found, and what this editor confirmed by touch at half past ten, is that the calendar's cover, warm since Sunday morning by her account, is not warm evenly. The corner nearest stamp number one runs noticeably warmer to the hand than the corner nearest stamp sixteen, a gradient Calloway measured, crudely, with the back of her wrist moved square by square, and which she says held steady across three separate passes.\n\nShe has no theory for this and said so plainly, which is new for her. What she did offer, unprompted, is that the fourteen-year-old stamps, the ones predating the interrupted Wednesday altogether, feel 'closer to a person's hand than a cover ought to,' and that she has started leaving the drawer open during business hours rather than shut, on the grounds that a closed drawer felt, this week, like it was keeping something in rather than keeping something safe.\n\nGerald came by the library at noon, the first time all season he has walked in rather than past. He did not sit. He held his hand flat against the calendar's cover for perhaps four seconds, said 'yes, that's about right,' to no one who had asked him a question, and left without further comment. Marigold, informed of this at the counter an hour later, said only that Gerald has started answering questions nobody puts to him out loud, and that she is choosing, for now, to think of it as a symptom of retirement rather than anything the paper needs to print a correction on. This editor prints it anyway.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a book that has waited fourteen years to be returned is, by any ordinary arithmetic, further from being late with every day that passes, and yet the calendar has begun to feel, to the two people willing to touch it, exactly as urgent as the day it was due."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 85: Level Rises to 24, Water Holds at 30°F, Haze Nearly Cleared; Sign Still Reads 7; No New Returned",
+      "body": "The lake's surface haze thinned to almost nothing by midday, the clearest water this paper has logged since October, though the temperature held steady and the level ticked up two inches on Hank's borrowed gauge, unremarked by rain. The welcome sign continues to read 7. No animals returned to the shore overnight."
+    },
+    {
+      "headline": "Calloway Measures a Warmth Gradient Across the Calendar's Sixteen Squares; Oldest Stamps Warmest to the Touch",
+      "body": "The library's circulation desk drawer stays open during business hours now, by Calloway's own new policy. She declined to speculate on the gradient's cause and asked this editor, for the first time, whether the Gazette intended to keep running the story or 'let it lie a while,' a question this editor answered by continuing to run the story."
+    },
+    {
+      "headline": "Gerald Pith Touches the Calendar Cover at Noon, Says 'Yes, That's About Right' to No One, Declines to Elaborate",
+      "body": "Gerald's first walk into the library all season lasted under a minute. He confirmed to this editor afterward only that he has not reopened his ledger, and does not intend to, though he allowed that 'the checking and the answering are starting to feel like the same habit wearing two coats.'"
+    },
+    {
+      "headline": "Doreen Halloway Runs a Standard Monday Line, Reports the Fourth Chair Loaf Gone Before She Set It Down",
+      "body": "For the first time this season, the half-loaf Doreen leaves on the alcove's fourth chair was, by her account, missing from the bag before she'd finished setting the other three down. She said only 'Now,' straightened the remaining chairs, and left."
+    }
+  ],
+  "classifieds": [
+    "FOUND: one wristwatch, stopped at a time nobody can agree on, left at the diner counter Saturday night. Ask Marigold.",
+    "WANTED: a second magnifying glass, Hank's is spoken for indefinitely by the library. Will trade a box of nails.",
+    "The Kettle: Monday special, lentil soup, bottomless coffee, extra cup poured whether or not anyone claims it.",
+    "Hardware store now stocking wrist thermometers by request. Ask Hank; he will not explain why he ordered them."
+  ],
+  "record": [
+    "Library circulation desk drawer: open during business hours, effective today, by Calloway's order.",
+    "Alcove fourth chair: half-loaf reported missing before placement, first occurrence this season."
+  ],
+  "letters": [
+    {
+      "from": "Calloway, Head Librarian",
+      "body": "For the record, since the paper keeps asking: I don't think the warmth is dangerous. I think it's old. Those aren't always the same thing but they aren't always different either. I'll keep the drawer open. Somebody should be able to see in."
+    },
+    {
+      "from": "Marigold Vance",
+      "body": "Gerald answered a question I didn't ask him today and I laughed before I thought about it, which tells you something about where my nerves are. The coffee's still on. Come sit if you're worried. Worrying alone in this town has never once worked."
+    }
+  ],
+  "editorNote": "A note on method: this editor confirmed the temperature gradient herself, wrist to cover, corner to corner, three times, and found what Calloway found. It is printed here not as proof of anything beyond itself. It is printed because the paper's job is to say what is true whether or not anyone has worked out what it means yet."
+}

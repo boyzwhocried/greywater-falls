@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 84,
-  "weather": "Overcast and mild for the season, 30°F, haze on the water thinner but slow to lift, a smell in the air Marigold calls 'lakewater on a stovetop'",
+  "dayNumber": 85,
+  "weather": "Overcast, mild, 31°F, haze on the water nearly gone, that stovetop smell stronger by evening",
   "undercurrent": {
-    "level": 24,
+    "level": 28,
     "stage": 2,
-    "phenomenon": "an uncollected library card, due today, made out to nobody the town remembers, and now sixteen due-date stamps in sixteen different hands",
-    "note": "Calloway's own inventory of the handwriting is the first time a resident has actively investigated rather than merely witnessed the phenomenon, which nudges the level up a notch. Agnes's refusal of Toby today is a deliberate held breath, not a retreat; it should pay off soon, possibly as her last riddle of the season, possibly delivered in writing again per her arc. Keep Russ's deflections sturdy but starting to sound rehearsed even to him. The 'warm to the touch' detail on the calendar cover is new and should recur or be confirmed/denied next time someone touches it. Do not let Gerald's not-writing calcify into a new ritual; give him one more small temptation to break it soon."
+    "phenomenon": "an uncollected library card, due days ago, made out to nobody the town remembers; the pocket calendar's sixteen stamps run warm to the touch in a gradient, oldest warmest, and the drawer is now kept open rather than shut",
+    "note": "Calloway's warmth gradient is the first physical, measurable escalation beyond handwriting comparison, which is why level jumps four points. Gerald touching the cover and answering unasked questions is the temptation-to-break-the-ritual paying off exactly as planned, but gently, not as a full relapse into writing. Doreen's vanished fourth-chair loaf is a new small wrongness seeded for tomorrow, ideally tied back to the alcove's ninth-book origin. Agnes remains held in reserve; her last riddle should land within the next few days, possibly in writing, possibly timed to when the level crosses into stage 3 territory. Keep Russ's file-closing sturdy but let one crack show soon, maybe about the open drawer specifically since it violates his 'system worked as designed' logic."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 4,
     "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 7,
+    "day_in_season": 8,
     "target_length": 32,
     "next_premise": ""
   }
