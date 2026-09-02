@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 85,
-  "weather": "Overcast, mild, 31°F, haze on the water nearly gone, that stovetop smell stronger by evening",
+  "dayNumber": 86,
+  "weather": "Overcast, mild, 33°F, the last of the haze gone off the water entirely, that stovetop smell now a fixed feature of evenings",
   "undercurrent": {
-    "level": 28,
+    "level": 32,
     "stage": 2,
-    "phenomenon": "an uncollected library card, due days ago, made out to nobody the town remembers; the pocket calendar's sixteen stamps run warm to the touch in a gradient, oldest warmest, and the drawer is now kept open rather than shut",
-    "note": "Calloway's warmth gradient is the first physical, measurable escalation beyond handwriting comparison, which is why level jumps four points. Gerald touching the cover and answering unasked questions is the temptation-to-break-the-ritual paying off exactly as planned, but gently, not as a full relapse into writing. Doreen's vanished fourth-chair loaf is a new small wrongness seeded for tomorrow, ideally tied back to the alcove's ninth-book origin. Agnes remains held in reserve; her last riddle should land within the next few days, possibly in writing, possibly timed to when the level crosses into stage 3 territory. Keep Russ's file-closing sturdy but let one crack show soon, maybe about the open drawer specifically since it violates his 'system worked as designed' logic."
+    "phenomenon": "an uncollected library card and a bread loaf that both traveled distances they should not have without a hand to carry them; the drawer stays open, and now a second drawer beneath it stays open too",
+    "note": "Escalation via a second, independent object (the loaf) rather than more calendar detail keeps the rising phase varied. The geometry linking the ninth book's shelf to the Petrakis house plants a spatial thread (things moving along a line, not just through time) for tomorrow. Russ's crack about the open drawer bothering him more than the stamps is the promised fracture in his logic, small and private. Doreen said only 'nothing further' rather than her usual 'Now' -- a tell that she's more rattled than her line allows; worth returning to. Agnes still held in reserve; the level is close to stage 3 threshold, so her last riddle should probably land within 2-3 days, possibly triggered by the loaf/geometry thread. Gerald's noon vigil at the calendar continues without further ledger-writing, holding the temptation at its current, gentle level rather than escalating it further today."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 4,
     "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 8,
+    "day_in_season": 9,
     "target_length": 32,
     "next_premise": ""
   }

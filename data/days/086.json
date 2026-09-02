@@ -1,0 +1,49 @@
+{
+  "day": 86,
+  "dateline": "Tuesday, December the 30th",
+  "weather": "Overcast, mild, 33°F, the last of the haze gone off the water entirely, that stovetop smell now a fixed feature of evenings",
+  "stage": 2,
+  "lead": {
+    "headline": "Tuesday; the Fourth Chair Loaf Turns Up After All, Two Streets Over, in a Bread Box Nobody in That House Owns",
+    "byline": "By Wren Aldercott",
+    "body": "The bread box in question belongs, or did not belong until yesterday, to the Petrakis place on Elm, which has sat empty since the Petrakises moved to be near their daughter in the spring. Hank Mossley found it while checking the property's pipes ahead of the cold snap, a chore he does every winter as a favor to nobody in particular. The half-size loaf inside was, by his description, still soft, still smelling of Doreen's Monday cinnamon, and sitting in a bread box that has not held bread, by his own memory, since the Petrakises left. He brought it to Doreen rather than the paper first, which this editor only learned of secondhand, and Doreen confirmed by sight and by smell that it was hers before saying, characteristically, nothing further.\n\nThis editor pressed for distance and time: Elm Street runs roughly six hundred feet from the library alcove where the loaf was left Monday morning, and the bread box was, per Hank, cold to an ordinary touch but the shelf beneath it was not, a detail he offered without being asked and then seemed to regret offering. Calloway, informed of the find, walked the distance herself this afternoon and reported it took her four minutes at a normal pace, which she noted was 'not nothing, for something that vanished before Doreen's hand was off the plate.'\n\nGerald, still working the noon shift he has assigned himself at the calendar's side though he touches nothing else these days, offered an observation this editor is printing exactly as delivered: that the ninth book on the east alcove shelf, the one the interrupted cataloguer never reached, sits directly behind the wall that the Petrakis house backs onto, if you draw the line straight through and don't mind what's between. Calloway confirmed the geometry is correct. She would not confirm what, if anything, it means, only that she has started keeping a second drawer open now, the one beneath the first, though it holds nothing but a spare stamp pad and has never, to her knowledge, needed watching before.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a loaf that traveled six hundred feet without a door being opened has done something the calendar has been doing for sixteen years in smaller, slower increments, and the town has started drawing lines on maps instead of asking what kind of hand could carry bread that far without leaving a print in the flour."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 86: Level Rises to 28, Water Holds at 31°F, Haze Fully Cleared; Sign Still Reads 7; No New Returned",
+      "body": "The lake's surface remains glass-clear for the second straight day, the season's first such clarity this early. Gerald's waterline gauge, checked though not recorded, shows no further rise since Sunday. The welcome sign at the north road continues to read 7."
+    },
+    {
+      "headline": "Hank Mossley Finds Doreen's Missing Fourth-Chair Loaf in an Empty House's Bread Box, Reports the Shelf Beneath It Warm",
+      "body": "Mossley was checking the vacant Petrakis property's pipes ahead of the cold snap when he made the find. He has declined, so far, to check the property again, calling once enough for one week."
+    },
+    {
+      "headline": "Calloway Opens a Second Drawer Beneath the First, Says It Holds Only a Spare Stamp Pad, Keeps It Open Anyway",
+      "body": "The circulation desk now shows two open drawers where one closed drawer stood a week ago. Calloway offered no further comment on the second."
+    },
+    {
+      "headline": "Russ Dunmore Notes the Open Drawer Policy in His File Under 'Ongoing, Local,' Admits Privately It Bothers Him More Than the Stamps Do",
+      "body": "Asked why an open drawer troubles him more than a warm calendar, the constable said only that a closed drawer is a decision and an open one is a habit, and habits are harder to log as nothing."
+    }
+  ],
+  "classifieds": [
+    "FOUND: one half-size cinnamon loaf, provenance disputed, currently residing at the bakery under armed pastry guard (Doreen's words). Owner known. Explanation not.",
+    "WANTED: someone willing to check the Petrakis pipes so Hank doesn't have to go back. Apply at the hardware store, no questions about the shelf.",
+    "The Kettle: full breakfast, half-price for anyone who can explain a bread box to Marigold's satisfaction. Nobody has qualified yet.",
+    "Gazette wants a second typesetter or a second pair of hands, whichever comes cheaper. Neither has applied in nine years and Wren has stopped asking."
+  ],
+  "record": [
+    "Petrakis property, Elm St.: routine winter pipe check performed by H. Mossley; one item of unclear provenance recovered and returned to owner.",
+    "Circulation desk, public library: second drawer opened by staff discretion; contents unchanged (one stamp pad, spare)."
+  ],
+  "letters": [
+    {
+      "from": "Marigold Vance",
+      "body": "I keep telling people worrying alone doesn't work in this town and then Hank walks in with a loaf that walked six hundred feet on its own and I laugh before I can stop myself, which I think means I believe him. I don't know what that says about me. I've started leaving two extra cups out at close instead of one. Don't ask me why the second one, I don't have an answer that sounds like anything."
+    },
+    {
+      "from": "Hank Mossley",
+      "body": "For the record I did not go looking for anything. I check that house every winter, same week, same pipes, has nothing to do with anything else going on. The shelf was warm. I'm not going to tell you what I think that means because I don't think it, I just noticed it, and there's a difference the paper never seems to want to print."
+    }
+  ]
+}
