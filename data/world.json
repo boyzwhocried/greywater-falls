@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 86,
-  "weather": "Overcast, mild, 33°F, the last of the haze gone off the water entirely, that stovetop smell now a fixed feature of evenings",
+  "dayNumber": 87,
+  "weather": "Overcast, mild, 34°F, no wind at all, the stovetop smell settled over the water like a lid left on too long",
   "undercurrent": {
-    "level": 32,
+    "level": 37,
     "stage": 2,
-    "phenomenon": "an uncollected library card and a bread loaf that both traveled distances they should not have without a hand to carry them; the drawer stays open, and now a second drawer beneath it stays open too",
-    "note": "Escalation via a second, independent object (the loaf) rather than more calendar detail keeps the rising phase varied. The geometry linking the ninth book's shelf to the Petrakis house plants a spatial thread (things moving along a line, not just through time) for tomorrow. Russ's crack about the open drawer bothering him more than the stamps is the promised fracture in his logic, small and private. Doreen said only 'nothing further' rather than her usual 'Now' -- a tell that she's more rattled than her line allows; worth returning to. Agnes still held in reserve; the level is close to stage 3 threshold, so her last riddle should probably land within 2-3 days, possibly triggered by the loaf/geometry thread. Gerald's noon vigil at the calendar continues without further ledger-writing, holding the temptation at its current, gentle level rather than escalating it further today."
+    "phenomenon": "a confirmed line running from the ninth book's shelf through wall and hedge to the Petrakis house, now proven twice, and a second loaf that arrived before the baker had lit her ovens",
+    "note": "The string-walk gives Wren her own physical confirmation of the geometry, deepening her arc without yet cracking her discipline. Doreen's caught voice on 'nothing further' is the second tell in two days; she is close to a real break, possibly tomorrow or the day after, likely tied to the loaf outpacing her own baking schedule. Russ's private admission (a line is a road, and roads go somewhere) is his fracture widening beyond the drawer alone. Held Agnes in reserve one more day per the plan; level is close enough to stage 3 that her last riddle should land within 1-2 days now, likely triggered by the road/line thread Russ named. Gerald's coat-two-sleeves line keeps his temptation exactly at its current gentle simmer, now witnessed by Marigold rather than Wren, which threads a new relay of information through the town without escalating his ledger habit itself."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 4,
     "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 9,
+    "day_in_season": 10,
     "target_length": 32,
     "next_premise": ""
   }

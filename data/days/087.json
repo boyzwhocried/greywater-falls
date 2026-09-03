@@ -1,0 +1,49 @@
+{
+  "day": 87,
+  "dateline": "Wednesday, December the 31st",
+  "weather": "Overcast, mild, 34°F, no wind at all, the stovetop smell settled over the water like a lid left on too long",
+  "stage": 2,
+  "lead": {
+    "headline": "Wednesday; a Second Line Draws Itself, and This Time the Bread Box Is Full When Hank Checks It Empty",
+    "byline": "By Wren Aldercott",
+    "body": "This editor walked the geometry herself today, at Calloway's suggestion and against her better judgment, because a claim printed twice without independent confirmation starts to feel less like reporting and more like rumor with a byline. The line holds. Standing at the ninth book's empty shelf with a length of butcher's twine borrowed from Doreen (who did not ask what it was for, which this editor notes as its own kind of answer), and sighting straight through the alcove wall, out past the Pell Road hedge, the string terminates, if you don't mind what's between, at the Petrakis house's kitchen window. Calloway held the far end. Neither of us minded what was between, out loud, though this editor minded it considerably to herself the whole four minutes it took to walk it.\n\nWhat is new today is this: Hank, checking the Petrakis pipes again this morning as he has taken to doing daily since Tuesday, found the bread box empty, exactly as he'd left it, and photographed it as such at 9:12 a.m. by his phone's timestamp. At 9:40, checking a second time before he'd even left the property, the box held a full loaf, not the half-size one recovered Tuesday but a whole one, crusted dark the way Doreen only bakes on Wednesdays. Doreen had not yet opened the bakery. She confirmed by phone, reached at home, that she had not baked it, had not left it, and had, in fact, not yet turned on her ovens. She said, when pressed for more, only 'nothing further,' the same two words she has offered since Tuesday, though this editor notes her voice caught on the second word in a way it did not on Monday.\n\nGerald's noon visit to the calendar produced no new touch and no new sentence, which this editor is inclined to call the day's steadiest fact. He did say, unprompted and to Marigold rather than to this editor, that he has started thinking of the ledger and the calendar as 'the same coat, two sleeves,' and that he isn't sure anymore which sleeve he has his arm in. Marigold laughed at this before she could stop herself, then apologized for laughing, then admitted she isn't sure the apology was necessary. Russ, informed of both the geometry and the loaf, logged them as a single entry under Ongoing, Local, and told this editor off the record that a drawer he can close is a decision he can live with, but a line he can walk with a piece of string is starting to feel like a road, and roads go somewhere, and he does not care for where this one points.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a line drawn once is geometry, and a line confirmed twice by two different people holding two different ends of the same string is no longer a coincidence anyone in this town can afford to call one, though everyone in this town, this editor included, is still going to try."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 87: Level Rises to 32, Water Holds at 31°F, Surface Glass-Still Since Dawn; Sign Still Reads 7; No New Returned",
+      "body": "The lake has not risen in temperature since Tuesday but has risen two inches by Gerald's old gauge, which he confirmed to this editor he checked 'out of the same habit as always' though he declined, again, to write the number down himself. This paper does it for him. The welcome sign at the town line was inspected personally this morning and reads 7, as it has all season, against a census this paper continues to hold at 15."
+    },
+    {
+      "headline": "Wren Aldercott and Calloway Walk the Alcove-to-Petrakis Line with String, Confirm It Holds Through Wall and Hedge",
+      "body": "Four minutes at a normal pace, matching Calloway's Tuesday figure exactly. Neither party would speculate on what, if anything, travels the line, though Calloway noted that the string, once removed, was warm along its full length, 'the way rope is warm after somebody's hands have been on it a good while.'"
+    },
+    {
+      "headline": "Petrakis Bread Box Yields a Full Wednesday Loaf Before Doreen Has Lit Her Ovens; Mayor Offers 'Nothing Further,' Voice Catches",
+      "body": "Hank photographed the box empty at 9:12 and full at 9:40. Doreen confirmed the loaf's crust and crumb as her own Wednesday recipe by phone, then declined further comment, though this editor notes the pause before she hung up ran longer than her usual practice."
+    },
+    {
+      "headline": "Gerald Pith Calls the Ledger and the Calendar 'the Same Coat, Two Sleeves,' Unsure Which Arm Is In Which",
+      "body": "Said to Marigold at the diner counter, not to this paper directly, and relayed with her permission. Marigold laughed, apologized for laughing, then withdrew the apology as unnecessary."
+    }
+  ],
+  "classifieds": [
+    "LOST: One length of butcher's twine, four minutes' worth, last seen warm. Return to the Gazette office; no questions that can be answered will be asked.",
+    "FOR SALE: Ice scrapers, batteries, candles. Hank Mossley Hardware. Ask about the pipes at the Petrakis place if you must, but he'd rather you didn't.",
+    "NOTICE: The Kettle diner will hold its regular New Year's Eve hours. Extra cups poured as needed. No explanation offered, none required.",
+    "WANTED: A drawer that stays shut. Reward: peace of mind. Apply Calloway, the library, either drawer."
+  ],
+  "record": [
+    "Library: circulation desk, both drawers open, second drawer's stamp pad undisturbed. Calendar cover warm, gradient unchanged from Monday's reading.",
+    "Municipal file, Ongoing, Local: geometry entry and loaf entry combined under a single case number for the first time this season, per Constable Dunmore."
+  ],
+  "letters": [
+    {
+      "from": "Doreen Halloway, Mayor",
+      "body": "Nothing further. Though I will say this much and only this much: a loaf I did not bake is not the same trouble as a loaf that walked off, and I am tired, and it is New Year's Eve, and I have a shop to open. Now."
+    },
+    {
+      "from": "Hank Mossley, Mossley Hardware",
+      "body": "I photograph what I find and I say what I see. I saw an empty box and I saw a full one, twenty-eight minutes apart, and I am not going to tell you what I think happened in between because I don't think it, I just know the time on the phone. Ask Wren. She walked the string herself."
+    }
+  ]
+}
