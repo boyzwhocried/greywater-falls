@@ -1,0 +1,49 @@
+{
+  "day": 88,
+  "dateline": "Thursday, January the 1st",
+  "weather": "Overcast, mild, 35°F, no wind, the surface of the lake dark and unreflective even at noon",
+  "stage": 2,
+  "lead": {
+    "headline": "Thursday; Agnes Crewe Walks the Line Herself, Says Nothing, and Leaves a Riddle for Russ Instead of Wren",
+    "byline": "By Wren Aldercott",
+    "body": "This editor did not walk the string today. Agnes Crewe did, unannounced, sometime before nine this morning, according to Calloway, who found the twine still tied off at the ninth book's shelf but the far end no longer looped through the Pell Road hedge, rather laid flat and deliberate across the Petrakis threshold, as though someone had wanted it known that the line had been checked and found still true. Calloway did not touch it further. She called this editor instead of the constable, which the constable, informed later, did not appreciate.\n\nRuss Dunmore, reached at the station at noon, said he'd found Agnes on his porch step at seven this morning, before he'd had coffee, and that she'd told him only, 'A road you can walk both ways isn't a road, it's a table, and someone is setting yours.' He wrote it down word for word, he says, because it sounded like the kind of thing a man wants on record even if he can't file it, and then he did not file it, which this editor is inclined to call the most honest entry in the Ongoing, Local folder yet. Agnes would not repeat the riddle for this editor when asked directly this afternoon, saying only that she'd said it once to the man who needed to hear it and twice would be flattery.\n\nThe day's other new wrongness was smaller and arrived at The Kettle: Marigold found a third extra cup out at close, set beside the first two rather than replacing either, and this time with a faint ring of tea, not coffee, cooling in the bottom, though she keeps no tea on the premises and has not for years. She reported it to this editor laughing, then stopped laughing halfway through the sentence, which this editor notes without further comment because Marigold asked her not to make one.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a table set for someone who has not yet arrived is a kindness right up until the day you start setting a third place without deciding to, and nobody in Greywater Falls has yet worked out which day that was."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 88: Level Rises to 37, Water Holds at 32°F, Surface Dark Rather Than Clear; Sign Still Reads 7; No New Returned",
+      "body": "The lake's usual glass-clarity gave way overnight to a darkness Hank Mossley describes as 'the color of the mill pond before we drained it,' though the water tested no colder and no shallower than yesterday. The welcome sign held its count. No new returned came to the shore at dusk; the regulars who do come, mostly cats and one aging retriever, faced the water twenty minutes longer than usual before turning for home."
+    },
+    {
+      "headline": "Agnes Crewe Walks the Alcove-to-Petrakis Line Unannounced, Leaves the String Laid Flat Across the Threshold",
+      "body": "Calloway confirmed the twine undisturbed at the shelf end and repositioned at the Petrakis end sometime before library hours. Agnes, asked directly, said only that a line checked once by an old hand doesn't need checking by a young one, and declined to say which hand had checked it last."
+    },
+    {
+      "headline": "Marigold Vance Reports a Third Extra Cup at Close, This One Holding Tea She Does Not Stock",
+      "body": "The cup joined the two already left standing rather than replacing them. Marigold has stopped writing the day's headcount on the specials board entirely as of this week, a decision she says she made 'for the board's sake, not mine.'"
+    },
+    {
+      "headline": "Russ Dunmore Declines to File Agnes's Porch-Step Riddle, Keeps the Notebook Page Instead",
+      "body": "The constable confirmed the visit and the words but would not read them aloud a second time for the record, calling the sentence 'true enough that writing it twice felt like asking for it.'"
+    }
+  ],
+  "classifieds": [
+    "FOUND: one length of butcher's twine, still knotted, at the ninth-book shelf. Owner (this paper) declines to reclaim it. — Calloway, Public Library",
+    "WANTED: any resident willing to sit the alcove's fourth chair after dark, for research purposes only. Tea will not be provided by request of the proprietor. — Halloway's Bakery",
+    "LOST: the specials board's headcount habit, sometime this week. No reward offered; a good decision doesn't need one. — M. Vance, The Kettle",
+    "FOR SALE: one (1) waterline stick with knotted string, gently used, now retired. Ask for Gerald."
+  ],
+  "record": [
+    "Library circulation desk, overnight alarm log: no entries, no gaps, twine repositioned between closing and opening.",
+    "Constable's log, Ongoing Local: one riddle received, not transcribed a second time, filed under 'heard, not held.'"
+  ],
+  "letters": [
+    {
+      "from": "Marigold Vance, The Kettle",
+      "body": "Wren — I know you'll print the cup. Print it. I just want it on record that I did not laugh this time, or if I did, it wasn't the funny kind. I don't know whose tea that is. I don't drink tea. Nobody who comes in here drinks tea. Set it out anyway tomorrow, I suppose. Seems rude not to."
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "Wren — you'll want the whole sentence and I gave you half on purpose. A table set from love doesn't ask who's coming. A road walked twice by the same person isn't curiosity anymore, it's an appointment. Russ has his half. You'll get the rest when it's time to print it, not before. Patience was never the town's strong color but try it on."
+    }
+  ]
+}
