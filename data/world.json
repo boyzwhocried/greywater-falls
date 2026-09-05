@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 88,
-  "weather": "Overcast, mild, 35°F, no wind, the lake dark rather than clear",
+  "dayNumber": 89,
+  "weather": "Overcast, mild, 36°F, no wind, the lake dark and holding still",
   "undercurrent": {
-    "level": 42,
+    "level": 44,
     "stage": 2,
-    "phenomenon": "Agnes's unannounced confirmation of the alcove-to-Petrakis line, a riddle delivered whole to Russ and withheld in half from Wren, and a third cup at The Kettle holding tea nobody stocks",
-    "note": "Agnes has now made her first direct physical intervention (repositioning the string) rather than just speaking in riddles from her porch, signaling her held-in-reserve arc is beginning to release on her own schedule, not the town's. Her riddle to Russ ('a table someone is setting') plants the language Wren will likely need for the coda naming later. Russ's refusal to transcribe it twice is his fracture becoming active avoidance rather than passive discomfort, a step past yesterday's 'bothers him more.' Marigold's third cup with tea (a substance escalation, not just a repeated cup) should compound tomorrow, possibly with the cup no longer being found empty. Hold Doreen's next real break 1-2 more days; she was absent today by design to let Agnes and Russ carry the escalation. Level nudged to 42, comfortably mid-stage-2, room to crest over next several days before stage 3."
+    "phenomenon": "The loaf's return completes a round trip, closing the outbound line Agnes walked with an unasked-for homecoming; the second drawer shuts itself; a faint ring surfaces on the lake with no stone thrown.",
+    "note": "Escalation shifts today from things leaving to things RETURNING on their own initiative, which is a more intimate wrongness than the outbound line was, because it implies address, memory, intent to come specifically home. Doreen's near-crack ('I may have something' tomorrow) is the strongest tell yet that her forty-year discipline is failing on a delay, not a wall; pay it off in 1-2 days, not today. Gerald's 'schedule nobody showed you yet' line quietly reframes the whole season's wrongness as punctuality rather than trespass, useful vocabulary for Wren to pick up later. The drawer closing itself and the lake's ring are small stage-2 compounding details, not yet stage-3 tells; hold Doreen's real break and Marigold's cup escalating further (perhaps someone drinking from it, or a second person seeing it move) for the next couple of days as the crest approaches. Level nudged to 44."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 4,
     "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 11,
+    "day_in_season": 12,
     "target_length": 32,
     "next_premise": ""
   }

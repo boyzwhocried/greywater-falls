@@ -1,0 +1,49 @@
+{
+  "day": 89,
+  "dateline": "Friday, January the 2nd",
+  "weather": "Overcast, mild, 36°F, no wind, the lake dark and holding still",
+  "stage": 2,
+  "lead": {
+    "headline": "Friday; Doreen's Lost Loaf Comes Home to Her Own Kitchen, and She Has No Word Ready for It",
+    "byline": "By Wren Aldercott",
+    "body": "This editor has learned to expect the strange to travel outward from the alcove, toward the Petrakis house, toward the shore. Today it came back the other way. Doreen Halloway opened her own kitchen this morning to find, sitting on the cooling rack where she'd have set it herself if she'd baked it, a half-size loaf she confirms, without hesitation this time, is the same loaf lost from the alcove's fourth chair six days ago. It was warm. She had not turned on her ovens. She stood in her own doorway, by her account, for the better part of a minute before she came to fetch this editor herself, which she has not done all season.\n\nDoreen has answered every question this editor has put to her since Tuesday with 'nothing further,' and the town has learned to read the two words as a door closing gently but firmly. Today, for the first time, the door did not close. She sat at her own counter, floured apron and all, and said only, 'I have run this bakery forty years and I have never once had a loaf find its own way home. I don't have a 'now' for this. I looked for one on the walk over and there wasn't one.' She would not elaborate further, but she did not say nothing further, either, and this editor is noting the distinction because it may be the only ground given all week.\n\nGerald, informed of the loaf's return at the diner counter, said it put him in mind of a letter that comes back marked undeliverable and then turns up in the box a week later anyway, 'the way mail used to, before they got strict about it.' He touched nothing, wrote nothing, but sat with his coffee a long while and told Marigold, when she asked if he was all right, that he was 'trying to work out whether the loaf went out and came back, or whether it only ever looked like it left.' Calloway, asked whether the alcove's fourth chair showed any disturbance overnight, said it did not, and that the drawer beneath the first drawer was, this morning, closed, though she does not recall closing it.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a thing that can find its own way home from six hundred feet, through walls, through a hedge, and back again, was never lost in any sense this town has a word for, and the town's continuing insistence on calling it 'missing' is starting to look less like habit and more like mercy, extended to itself."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 89: Level Rises to 44, Water Holds at 33°F, Surface Dark and Faintly Ringed; Sign Still Reads 7; No New Returned",
+      "body": "The lake's surface this morning showed a faint concentric ring near the center, gone by midmorning, that Calloway describes as 'the kind of thing a stone makes, if the stone were the size of a house and nobody threw it.' No returned reported overnight. The welcome sign still reads 7."
+    },
+    {
+      "headline": "Doreen Halloway's Missing Fourth-Chair Loaf Turns Up Warm on Her Own Cooling Rack",
+      "body": "The half-size loaf lost six days ago from the alcove's fourth chair, later found in the Petrakis bread box, returned again overnight to Doreen's own kitchen, warm, unbaked by her hand. She confirmed it was the same loaf by sight and smell, and, for the first time this week, offered more than 'nothing further.'"
+    },
+    {
+      "headline": "Calloway Reports the Second Drawer Closed This Morning; She Does Not Recall Closing It",
+      "body": "The spare drawer opened beneath the alcove's stamp-pad drawer on Tuesday was found shut at opening today. Calloway says she did not close it and has no memory of anyone else in the building overnight. The library's alarm log, per Russ, shows no gaps."
+    },
+    {
+      "headline": "Marigold Vance's Third Cup Goes Untouched at Close Two Nights Running; She Sets It Out Again Anyway",
+      "body": "The tea cup first found Wednesday remains on the counter each morning exactly where left, the ring of tea neither drying nor deepening. Marigold says she has stopped trying to explain it to herself and started simply washing it each night and setting it back out, 'the way you'd set a place at Christmas for someone you know isn't coming, except you're not sure of that anymore.'"
+    }
+  ],
+  "classifieds": [
+    "LOST: One certainty regarding where things go when they leave a room. Last seen sometime around Tuesday. Reward: a slice of whatever comes back. — D. Halloway",
+    "FOR SALE: Ice scrapers, batteries, candles, and one box of nails nobody needed. Ask for Hank. Nothing further to report, and he means it this time.",
+    "NOTICE: The Kettle will remain open its usual hours. The third cup will be set out regardless of custom. Regulars who wish to sit near it are welcome; those who don't are equally welcome elsewhere at the counter.",
+    "WANTED: A hand to match against fourteen years of stamps. Bring your library card. Bring nothing else. — Calloway, Circulation Desk"
+  ],
+  "record": [
+    "Bakery ledger: balanced, though the count of loaves baked does not match the count of loaves accounted for by one, in the bakery's favor for once.",
+    "Library alarm log: no gaps, no entries, second drawer closed without record of closing."
+  ],
+  "letters": [
+    {
+      "from": "Doreen Halloway",
+      "body": "Now. I have said that word to this paper more times this week than in the forty years before it, and I want it on record that I know exactly what it's been standing in for. It found its way home. I don't have a word for a loaf that does that, so I am borrowing 'now' one more time, and after today I am putting it down for a while and seeing what I say instead. Ask me tomorrow. I may have something."
+    },
+    {
+      "from": "Gerald Pith",
+      "body": "A letter that comes back a week late isn't lost, it's delayed, and delay is a schedule nobody showed you yet. I am not writing anything else down about the loaf. I am only saying that if a thing keeps its own schedule long enough, calling it strange starts to say more about the calendar than the thing."
+    }
+  ]
+}
