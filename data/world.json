@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 89,
-  "weather": "Overcast, mild, 36°F, no wind, the lake dark and holding still",
+  "dayNumber": 90,
+  "weather": "Overcast, mild, 37°F, no wind, the lake dark and faintly ringed since Tuesday",
   "undercurrent": {
-    "level": 44,
+    "level": 48,
     "stage": 2,
-    "phenomenon": "The loaf's return completes a round trip, closing the outbound line Agnes walked with an unasked-for homecoming; the second drawer shuts itself; a faint ring surfaces on the lake with no stone thrown.",
-    "note": "Escalation shifts today from things leaving to things RETURNING on their own initiative, which is a more intimate wrongness than the outbound line was, because it implies address, memory, intent to come specifically home. Doreen's near-crack ('I may have something' tomorrow) is the strongest tell yet that her forty-year discipline is failing on a delay, not a wall; pay it off in 1-2 days, not today. Gerald's 'schedule nobody showed you yet' line quietly reframes the whole season's wrongness as punctuality rather than trespass, useful vocabulary for Wren to pick up later. The drawer closing itself and the lake's ring are small stage-2 compounding details, not yet stage-3 tells; hold Doreen's real break and Marigold's cup escalating further (perhaps someone drinking from it, or a second person seeing it move) for the next couple of days as the crest approaches. Level nudged to 44."
+    "phenomenon": "The loaf's homecoming settles into a held ring on the lake's surface, unfed by wind or stone; Doreen's forty-year discipline breaks not into fear but into resignation, the first resident to answer the season's wrongness by stepping back from her post rather than holding it.",
+    "note": "Doreen's retirement is the real turn: not a crack answered by more discipline, but the first voluntary surrender of a standing role in response to the strangeness. This reframes the season's escalation as attrition rather than confrontation. Hold Marigold's cup (someone drinking from it, or a second witness) and Doreen's actual departure/successor question for the next 2-3 days as the crest builds. The ring holding steady rather than widening or fading is a good stage-2 texture beat: stillness as its own kind of wrongness. Gerald's 'schedule nobody showed you yet' language is now doing real work; let it recur near the crest as the vocabulary the town reaches for. Level nudged to 48, still short of crest threshold; save the real surge for days 14-18ish."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 4,
     "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 12,
+    "day_in_season": 13,
     "target_length": 32,
     "next_premise": ""
   }

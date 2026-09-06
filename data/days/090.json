@@ -1,0 +1,50 @@
+{
+  "day": 90,
+  "dateline": "Saturday, January the 3rd",
+  "weather": "Overcast, mild, 37°F, no wind, the lake dark and faintly ringed since Tuesday",
+  "stage": 2,
+  "lead": {
+    "headline": "Saturday; Doreen Finds Her Word, and It Is 'Retiring,' and Nobody at the Counter Laughs",
+    "byline": "By Wren Aldercott",
+    "body": "Doreen Halloway said it plainly this morning, standing behind her own counter with flour still on her hands from a batch she insists she baked herself: she is retiring, effective the town's own convenience, and she has decided this not because of the loaf, or not only because of the loaf, but because forty years of having a ready word for everything has left her, this week, with none, and she has decided she would rather stop having the job that requires one than keep failing at it in public. She did not say 'now.' This editor noticed the absence before she noticed anything else Doreen said, which may be the whole story in one sentence, though this editor is not yet willing to set it that low.\n\nThe town took the news the way it takes most things lately, which is to say it fed it. By ten o'clock there was a sign-up sheet at the diner for a retirement bake sale, organized without apparent instruction by Marigold, who says she needed something to do with her hands that wasn't washing the third cup. Gerald signed up to bring nothing and bring it early, which he says is a joke about punctuality that only he and, he suspects, the calendar in the alcove will find funny. Hank offered the hardware store's back room for the folding tables. Nobody asked Doreen if she wanted a sale. She did not object, which this editor is choosing to read as consent rather than exhaustion, though she notes it could be either.\n\nThe loaf did not return again today, nor has the second drawer reopened, nor has Calloway reported any new geometry. What did happen, small and easy to miss beside a mayor's retirement, is that the ring on the lake's surface, first noted Friday, held steady rather than fading, a faint concentric mark with no stone to account for it and no wind to disturb it, sitting on the water the way a coin sits on a countertop after someone has set it down deliberately and walked away.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a woman who has spent four decades feeding a town so it would never have to look too hard at what feeds it back has finally run out of bread for the occasion, and the town's answer, without being asked, was to bring bread of its own."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 90: Level Holds at 44, Water Warms Slightly to 34°F, Surface Ring Persists Without Wind or Cause; Sign Still Reads 7; No New Returned",
+      "body": "The ring first observed Friday neither widened nor faded overnight, holding its diameter to within an inch by Gerald's unrecorded but still-practiced eye. No animals returned to the shore today. The welcome sign was repainted by no one and reads, as ever, 7."
+    },
+    {
+      "headline": "Doreen Halloway Announces Retirement at the Bakery Counter, Offers No 'Now' in Its Place",
+      "body": "The mayor's announcement came unprompted, mid-morning, to whichever customers were present. She named no successor and no date, saying only that the town would know when, which several residents noted is the closest she has come all season to a riddle of Agnes's own make."
+    },
+    {
+      "headline": "Marigold Vance Organizes Impromptu Retirement Bake Sale, Third Cup Unremarked Upon by Request",
+      "body": "The sign-up sheet filled by noon. Marigold asked this editor directly not to mention the cup in the same breath as the sale, a request this editor is honoring by mentioning it here instead, separately, as asked."
+    },
+    {
+      "headline": "Gerald Pith Calls Doreen's Retirement 'The Ledger Closing Its Own Drawer,' Declines to Say More",
+      "body": "Pressed for elaboration at the diner counter, Gerald said only that some things balance themselves eventually if you stop reaching for the pencil, and returned to his coffee."
+    }
+  ],
+  "classifieds": [
+    "RETIREMENT BAKE SALE — Saturday next, Kettle Diner, all proceeds to nothing in particular, Doreen's choice. Bring pans, not questions.",
+    "WANTED: folding tables, six, sturdy. Inquire Hank Mossley, hardware store, back room already promised.",
+    "FOUND: nothing today, which this office notes as its own small relief. — R. Dunmore, Constable",
+    "LOST: one word for what happens when a thing comes home on its own. Reward: a slice, first cut, whoever finds it."
+  ],
+  "record": [
+    "Births: none. Deaths: none. Departures: none logged.",
+    "Mayor Halloway files notice of intent to retire; council to determine process at next sitting."
+  ],
+  "letters": [
+    {
+      "from": "Doreen Halloway",
+      "body": "Wren — print it plain, the way you always do, and don't dress it up as more than it is. I am tired of having a word ready for everything. I would like, for once, to be somewhere a thing can happen to me and I don't have to say anything about it at all. — D."
+    },
+    {
+      "from": "Gerald Pith",
+      "body": "To the editor: A schedule nobody showed you yet is still a schedule. I don't know when I started believing that, but I find I do, and I find it steadies me more than the not-writing ever did. — G. Pith"
+    }
+  ],
+  "editorNote": "This office will run the retirement announcement without further comment on the timing, though it notes, for its own private record, that the mayor has never once in this editor's tenure made an announcement on the same week the lake grew a ring it didn't earn."
+}
