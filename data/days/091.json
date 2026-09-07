@@ -1,0 +1,49 @@
+{
+  "day": 91,
+  "dateline": "Sunday, January the 4th",
+  "weather": "Overcast, mild, 38°F, no wind, the lake dark and still faintly ringed",
+  "stage": 2,
+  "lead": {
+    "headline": "Sunday; The Cup Gets a Fourth, and Marigold Stops Pretending It's About the Cups",
+    "byline": "By Wren Aldercott",
+    "body": "The bake sale ran long, ran warm, and by every account this editor gathered ran well, which made it stranger that the day's real news arrived after close, when Marigold Vance found not a third cup waiting on The Kettle's back shelf but a fourth, set beside the other three in a neat row she says she did not arrange herself. She called this editor at half past nine, which she has never done, and said only, 'I need you to see it before I wash it,' which this editor did, and can confirm: four cups, four rings of cooling liquid, the newest one plain water, clear enough to see the counter through it, sitting in a line like place settings at a table nobody has sent invitations for.\n\nDoreen's retirement sale, held earlier at the hardware store's back room on Hank's tables, raised forty-one dollars for a fund nobody has named a purpose for yet, and Doreen herself stayed the full two hours, ate a slice of her own retirement cake without commentary, and left without her usual goodbye, which several residents noted and none pressed her on. Gerald arrived, as promised, with nothing, and early, and told this editor it was the first joke of the season that landed exactly as flat as he'd intended, which he seemed to find more satisfying than a laugh would have been. He did not mention the cups. He mentioned Doreen's ledger instead, calling her retirement, again, 'the drawer closing itself,' and this time added, quietly, that he wonders whether a schedule can close its own drawer before anyone's shown you the schedule.\n\nMarigold, asked directly what she thought the fourth cup meant, said she has stopped asking what it means and started asking who it's for, which she says is a worse question to sit with but an easier one to answer honestly: she doesn't know, and she has stopped pretending the not-knowing bothers her less than it does. She is keeping the row as it stands. She will not wash the fourth cup tonight. She asked this editor, again, to leave the matter to a single paragraph, and this editor has obliged, mostly.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a table set for three can be generosity, and a table set for four is a guest list, and Greywater Falls has stopped being asked whether it wants to host."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 91: Level Rises to 51, Water Holds at 34°F, Surface Ring Widens by Roughly a Foot; Sign Still Reads 7; No New Returned",
+      "body": "The ring first noted Friday, which had held its width steady through Saturday, was measured by Gerald this morning at roughly a foot wider than yesterday in every direction, the first movement it has shown since arriving. He reported the number to Russ, who logged it, and to no one else, calling the widening 'the kind of thing you write down and then don't bring up at supper.'"
+    },
+    {
+      "headline": "Doreen Halloway's Retirement Bake Sale Raises $41 for an Unnamed Fund; Mayor Attends, Eats Cake, Leaves Without Her Usual Goodbye",
+      "body": "The sale ran two hours at Hank's back room. Doreen stayed the full length, declined to name what the money is for, and departed quietly enough that Marigold says she didn't notice until the door had already closed."
+    },
+    {
+      "headline": "Marigold Vance Reports a Fourth Cup at The Kettle, Holding Plain Water; Declines to Wash the Row Tonight",
+      "body": "The cup joined three others left over recent nights without explanation. Marigold says she has stopped asking what the cups mean and started asking who they're for, and has no answer to either question she is willing to print."
+    },
+    {
+      "headline": "Gerald Pith Extends His 'Ledger' Language to a New Question: Whether a Schedule Can Close Before It's Been Shown to You",
+      "body": "Gerald, at the bake sale, called Doreen's retirement 'the drawer closing itself' for the second time this week, then asked aloud, to no one in particular, whether a schedule could close its own drawer before anyone had shown you the schedule. He wrote nothing down."
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One (1) folding table, hardware-store surplus, still smells faintly of Doreen's retirement cake. Inquire Mossley Hardware.",
+    "LOST: A morning's worth of quiet. Last seen at The Kettle around half past nine. Reward: coffee, on the house, if you can explain the fourth cup.",
+    "WANTED: Someone to tell Gerald Pith what the schedule is, if anyone has seen it.",
+    "NOTICE: The alcove's fourth chair remains set. Management (Calloway) asks that patrons not move it, sit in it, or count it among the library's official seating."
+  ],
+  "record": [
+    "Bake sale proceeds: $41.00, purpose undesignated, held by Town Hall pending Council decision.",
+    "Lake level: 51 (up from 44). Surface ring: widened approx. 1 ft in all directions, first movement since forming."
+  ],
+  "letters": [
+    {
+      "from": "Marigold Vance",
+      "body": "Wren — print the cup if you have to, but print it small, and don't make it sound like an invitation, because I am not ready to think of it as one, even though I already have. I'll keep the row as it is. I won't wash the fourth one tonight. Ask me again tomorrow and I might have a different answer, or I might have the same one and just be tireder saying it."
+    },
+    {
+      "from": "Gerald Pith",
+      "body": "A schedule that closes its own drawer before you've been shown it isn't early, it's just been running longer than you knew to look. I don't say this to worry anyone. I say it because Doreen didn't have a 'now' and I've been sitting with that instead of my coffee going cold, and it seemed only fair to sit with it out loud once."
+    }
+  ]
+}

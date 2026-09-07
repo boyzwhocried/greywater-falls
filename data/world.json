@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 90,
-  "weather": "Overcast, mild, 37°F, no wind, the lake dark and faintly ringed since Tuesday",
+  "dayNumber": 91,
+  "weather": "Overcast, mild, 38°F, no wind, the lake dark and still faintly ringed",
   "undercurrent": {
-    "level": 48,
+    "level": 53,
     "stage": 2,
-    "phenomenon": "The loaf's homecoming settles into a held ring on the lake's surface, unfed by wind or stone; Doreen's forty-year discipline breaks not into fear but into resignation, the first resident to answer the season's wrongness by stepping back from her post rather than holding it.",
-    "note": "Doreen's retirement is the real turn: not a crack answered by more discipline, but the first voluntary surrender of a standing role in response to the strangeness. This reframes the season's escalation as attrition rather than confrontation. Hold Marigold's cup (someone drinking from it, or a second witness) and Doreen's actual departure/successor question for the next 2-3 days as the crest builds. The ring holding steady rather than widening or fading is a good stage-2 texture beat: stillness as its own kind of wrongness. Gerald's 'schedule nobody showed you yet' language is now doing real work; let it recur near the crest as the vocabulary the town reaches for. Level nudged to 48, still short of crest threshold; save the real surge for days 14-18ish."
+    "phenomenon": "The Kettle's cup count reaches four, and the surface ring, static since Friday, finally widens; the season's stillness gives way to its first visible motion in two days, a small escalation timed just after the town's attempt to metabolize Doreen's departure through cake and ceremony.",
+    "note": "Escalation on schedule for the rising phase: the ring widening is the first visual 'motion' beat since it formed, a good texture shift after two days of held stillness. The fourth cup raises the count past what Marigold can privately absorb as coincidence: hold whether she names a guest, or whether Wren's private notes connect the cup count to the returned-animals' dusk gathering, for a coming day. Gerald's schedule language has now explicitly attached itself to Doreen's retirement as its own phenomenon rather than just a metaphor for the loaf; let this compound toward the crest, possibly with Russ or Agnes engaging his phrase directly. Doreen's post-retirement behavior (staying, eating cake, leaving quietly) suggests she is settling into the 'stepping back' rather than resisting it; consider whether a successor question surfaces in the next few days as promised. Save Agnes's held-back half-riddle for Wren specifically for a day nearer the crest."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 4,
     "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 13,
+    "day_in_season": 14,
     "target_length": 32,
     "next_premise": ""
   }
