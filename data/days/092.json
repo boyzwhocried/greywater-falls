@@ -1,0 +1,49 @@
+{
+  "day": 92,
+  "dateline": "Monday, January the 5th",
+  "weather": "Overcast, mild, 37°F, faint fog off the water by mid-morning",
+  "stage": 2,
+  "lead": {
+    "headline": "Monday; The Library Card Turns Up in the Fourth Cup, and Nobody Will Say Who Put It There",
+    "byline": "By Wren Aldercott",
+    "body": "Marigold Vance called this editor before the diner had opened its doors, which is a thing she has never done twice in one season until this week. In the fourth cup, the one holding plain water since Saturday night, sat a library card, dry, unspotted, as if the water around it had simply declined to touch it. Calloway confirmed within the hour that it is the card, the same one pulled from behind the ninth book in the east alcove, checked out that interrupted Wednesday fourteen years ago and never returned. It had been, as far as anyone can determine, in the library's own card drawer as recently as Friday. Nobody at The Kettle admits to moving it. Marigold says she locked the diner herself Saturday night and found the doors locked Sunday morning.\n\nCalloway, reached at the library, would only say that the drawer it came from is now the third drawer to have closed or reopened this season without her hand in it, and that she has stopped noting which drawer does what and started simply noting that a drawer did something. She showed this editor the little pocket calendar stapled inside the card's sleeve. It now carries a fifteenth stamp, dated today, in a hand nobody in this town recognizes, pressed into ink that was, Calloway swears, dry when she checked the drawer Friday.\n\nGerald, informed of the card's movement at the diner counter over a coffee he let go cold, said this was 'the first time the ledger has skipped a location instead of a date,' and when pressed to clarify said only that a thing which used to travel from shelf to house to kitchen has now, apparently, learned to travel to a cup of water at a diner counter, and that he no longer believes distance is the variable worth tracking. He would not write this down. He asked this editor to do it for him, which he has never done before.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a card overdue for fourteen years does not, by any ledger this editor has ever kept, become more urgent with each passing year, and yet everyone who has touched it since Friday has described the same feeling, not of finding a debt, but of being finally, gently, called upon to pay one."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 92: Level Rises to 55, Water Holds at 34°F, Surface Ring Widens Past the Public Dock's Second Piling; Sign Still Reads 7; No New Returned",
+      "body": "The ring first noted Friday has widened again, now reaching within a few feet of the second dock piling, though the water beneath it remains, by all reports, dark and undisturbed. No new returned were noted at dusk; the regular gathering held its usual number and its usual hum."
+    },
+    {
+      "headline": "Calloway Reports a Third Drawer Event, Declines to Specify Which Drawer or Which Event",
+      "body": "The librarian confirmed only that 'something happened to a drawer again' and that she has stopped keeping separate notes for separate drawers. She has, however, kept the library card's pocket calendar in a locked case rather than its usual sleeve, the first time this season she has changed how she stores anything."
+    },
+    {
+      "headline": "Marigold Vance's Fourth Cup Yields a Library Card; She Has Washed None of the Four",
+      "body": "Marigold says she intends to leave the row as it stands 'until somebody tells me otherwise or comes to collect,' and confirmed she has begun setting a fifth cup out of what she calls 'not superstition, just arithmetic.'"
+    },
+    {
+      "headline": "Doreen Halloway Opens the Bakery Late for the First Time This Season, Cites No Reason",
+      "body": "Doreen arrived forty minutes past her usual hour, unlocked the door herself, and told the small line waiting outside only that she'd 'lost track of the morning,' a phrase several residents noted she has never once used in living memory."
+    }
+  ],
+  "classifieds": [
+    "LOST: One morning, Monday, roughly forty minutes of it. If found, return to D. Halloway, no questions, no reward necessary. — D.H.",
+    "FOR SALE: Folding tables, lightly used at a bake sale, good condition, will deliver. — H. Mossley",
+    "WANTED: Anyone who recognizes the handwriting on a certain calendar stamp to come forward, in confidence if preferred. — The Gazette",
+    "NOTICE: The Kettle now seats five at close whether you're hungry or not. — M. Vance"
+  ],
+  "record": [
+    "Library card (14 years overdue) recovered from The Kettle diner's fourth cup, returned to Calloway's custody, Day 92.",
+    "Lake level: 55 (rising). Surface ring approaching second dock piling."
+  ],
+  "letters": [
+    {
+      "from": "Calloway",
+      "body": "I did not move the card. I want that in print exactly as I've said it, plainly, because I am tired of being asked gently whether I'm certain. I am certain. The drawer is not certain of anything, and I have stopped expecting it to be."
+    },
+    {
+      "from": "Gerald Pith",
+      "body": "Wren, put this in if you like, or don't. A thing that skips its own geography to arrive somewhere warmer isn't lost and isn't traveling, it's choosing. I don't know what a schedule wants, but I no longer think 'nothing' is the right word for whatever it's doing instead of waiting."
+    }
+  ]
+}

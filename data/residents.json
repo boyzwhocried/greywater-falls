@@ -24,16 +24,16 @@
       }
     ],
     "secret": "She has known since she was a girl that the lake takes and gives back. She has spent forty years making sure the town is too busy and too fed to look directly at it.",
-    "mood": "Quieter than her own retirement announcement, settling into the absence of her old role without reaching yet for a new one.",
+    "mood": "Quieter than her own retirement announcement, now visibly disoriented by small losses of time she cannot account for.",
     "status": "present",
-    "arc": "Doreen's post-announcement behavior, staying the full sale, eating her own cake without comment, leaving without her customary goodbye, reads as the first sign she is settling into stepping back rather than resisting the vacancy she's created.",
+    "arc": "Doreen's post-retirement settling takes on a new, smaller wrongness: losing forty minutes of an ordinary morning suggests the vacancy she stepped into is beginning to touch her directly rather than remaining a matter of title.",
     "memory": [
-      "Day 83: Noted the bakery's ledger balanced exactly to the penny for the first time since October, offered no comment beyond 'Now,' and left the half-size loaf on the alcove's fourth chair as usual.",
       "Day 85: Found the alcove's fourth-chair half-loaf gone before she finished setting down the other three, said only 'Now,' and left.",
       "Day 86: Confirmed by sight and smell that the loaf found at the Petrakis house was hers, and offered no comment beyond confirming it.",
       "Day 89: Found the fourth-chair loaf warm on her own cooling rack, unbaked by her hand, and told Wren directly that she is retiring 'now' and looking for what comes after it.",
       "Day 90: Announced her retirement at the bakery counter, named no date and no successor, and offered no 'now' in its place for the first time all season.",
-      "Day 91: Stayed the full length of her own retirement bake sale, ate a slice of the cake without commentary, and left quietly enough that Marigold didn't notice until the door had closed."
+      "Day 91: Stayed the full length of her own retirement bake sale, ate a slice of the cake without commentary, and left quietly enough that Marigold didn't notice until the door had closed.",
+      "Day 92: Opened the bakery forty minutes late, citing only that she'd 'lost track of the morning,' a phrase she has never used before."
     ],
     "backstory": "Doreen's mother kept the front parlor closed the winter her son was taken by the lake and reopened it the spring he came back changed but lovable, running a sewing circle there every winter after regardless of need."
   },
@@ -59,14 +59,14 @@
     "secret": "He measured the waterline with a stick and a knot of string and has the numbers in a notebook. The water is rising. It has not rained.",
     "mood": "Circling something steadier than fear, now testing his own metaphor against a second, harder case and finding it holds better than he expected.",
     "status": "present",
-    "arc": "Gerald extends his ledger-and-schedule vocabulary from the loaf and Doreen's retirement to an open question about foreknowledge itself, wondering aloud whether a schedule can close before it's been shown to you, a phrase this editor expects to recur near the crest.",
+    "arc": "Gerald extends his ledger vocabulary past scheduling into intention: he now frames the card's movement as a choice rather than a drift, the clearest step yet toward naming agency in what he's tracked all season.",
     "memory": [
-      "Day 83: Opened his ledger to a blank page at the diner counter upon hearing of the sixteenth stamp, sat with it a while, and closed it again without writing anything, calling the not-writing itself the more honest entry.",
       "Day 84: Checked the waterline gauge out of habit, found no change, and did not write the number anywhere, though he admits the checking is a harder habit to drop than the writing was.",
       "Day 85: Walked into the library at noon for the first time all season, touched the calendar's cover, said 'yes, that's about right' to no one, and left without writing anything down.",
       "Day 89: Told Marigold and later Wren that a thing returned late isn't lost, it's delayed, and wrote nothing down about the loaf, calling the not-writing itself the more honest entry once more.",
       "Day 90: Called Doreen's retirement 'the ledger closing its own drawer' at the diner counter and declined to elaborate further.",
-      "Day 91: Called Doreen's retirement 'the drawer closing itself' a second time at the bake sale, then asked aloud whether a schedule could close before anyone had shown it to you, and wrote nothing down."
+      "Day 91: Called Doreen's retirement 'the drawer closing itself' a second time at the bake sale, then asked aloud whether a schedule could close before anyone had shown it to you, and wrote nothing down.",
+      "Day 92: Told Wren the card 'skips its own geography to arrive somewhere warmer' and asked her, for the first time, to write the observation down herself."
     ],
     "backstory": "Forty years carrying the town's mail. Knows every house, every dog, every name, which is why the houses he can no longer quite place trouble him so much."
   },
@@ -92,14 +92,14 @@
     "secret": "On the night shift he saw the surface of the lake rise into a smooth shape the size of the mill, hold, and lower. He has not told Russ. He told Esmé.",
     "mood": "Watchful, filing facts without theories, the discipline holding for now.",
     "status": "present",
-    "arc": "Hank's projections meet the season's newest anomaly at one remove: the loaf's return to Doreen's own kitchen rather than the mill or the ice confirms for him that the pattern has moved past his usual jurisdiction entirely.",
+    "arc": "Hank's projections extend past his own jurisdiction again as the card's movement bypasses every physical distance he's measured all season; he notes it and offers nothing further, letting the fact stand alone.",
     "memory": [
-      "Day 78: Sold out of ice scrapers by mid-morning on the season's first hard frost, wrote a letter insisting it was routine ordering, and privately noted the timing anyway.",
       "Day 79: Sold three ice scrapers before noon on a restock he ordered ahead of the weather, and declined, again, to elaborate on the timing.",
       "Day 80: Closed the hardware store early for the holiday, sold out of batteries and candles rather than ice scrapers, and wrote a letter insisting none of it meant anything in particular.",
       "Day 84: Kept the shop open two hours, sold one box of nails, closed early, and called it the nicest kind of nothing all season.",
       "Day 86: Found Doreen's missing fourth-chair loaf in the vacant Petrakis house's bread box, noted the shelf beneath it warm, and declined to check the property again this week.",
-      "Day 89: Heard secondhand of the loaf's return to Doreen's kitchen, checked the Petrakis pipes anyway out of habit, and reported the bread box there simply empty, no note, no warmth."
+      "Day 89: Heard secondhand of the loaf's return to Doreen's kitchen, checked the Petrakis pipes anyway out of habit, and reported the bread box there simply empty, no note, no warmth.",
+      "Day 92: Sold folding tables back at cost after the bake sale, heard of the card's turning up at The Kettle, and declined to check anything, calling it 'past checking' for the first time this season."
     ],
     "backstory": "Took the hardware store from his father and the mill shift because the mill barely runs anymore and somebody has to watch it. Turns out somebody did need to watch it."
   },
@@ -123,16 +123,16 @@
       }
     ],
     "secret": "She keeps a second set of notes she does not print, because she is not sure the town could read them and stay.",
-    "mood": "Alert and privately unsettled by the pace of things arriving at her door rather than needing to be found; noting the cup count against the returned in her second set of notes.",
+    "mood": "Alert and privately unsettled by the pace of things arriving at her door rather than needing to be found; now watching the card and the cups converge in her second set of notes.",
     "status": "present",
-    "arc": "Wren's discipline holds in print, but her private notes now explicitly track the cup count as a countable escalation alongside the lake level, a habit she has not yet decided whether to bring into the paper itself.",
+    "arc": "Wren's private notes now track a direct intersection between the two season-long phenomena, the card and the cups, rather than parallel columns; she has not yet decided whether the convergence itself belongs in print.",
     "memory": [
-      "Day 85: Confirmed Calloway's warmth gradient herself, wrist to cover, three times, and printed the method plainly.",
       "Day 86: Confirmed the six-hundred-foot distance between the alcove and the Petrakis house, printed Gerald's shelf-geometry observation exactly as delivered, and pressed Calloway for meaning without receiving any.",
       "Day 88: Learned secondhand of Agnes's line-walk and porch-step riddle, was given only half the sentence directly, and printed what she had while noting, privately, that she has been told to wait.",
       "Day 89: Was fetched by Doreen herself for the first time all season, printed her fuller quote plainly, and privately flagged it as the most honest thing anyone has told her since the sixteenth stamp.",
       "Day 90: Printed Doreen's retirement plainly, honored her request to keep the cup separate, and privately noted the town is starting to answer strangeness by stepping back rather than holding on.",
-      "Day 91: Was called to The Kettle after close to witness the fourth cup before it could be washed, printed it small as Marigold asked, and privately logged the count beside the lake level for the first time."
+      "Day 91: Was called to The Kettle after close to witness the fourth cup before it could be washed, printed it small as Marigold asked, and privately logged the count beside the lake level for the first time.",
+      "Day 92: Was called before the diner opened to witness the overdue library card inside the fourth cup, printed the discovery plainly, and privately noted it is the first time two threads of the season have physically touched."
     ],
     "backstory": "Wren keeps a second notebook that she does not print. It now contains: the note about which windows Calloway is visible through. She does not know yet why she wrote it down."
   },
@@ -156,16 +156,16 @@
       }
     ],
     "secret": "Her regulars are thinning out and she has stopped writing the day's headcount on the specials board because the number kept being wrong.",
-    "mood": "Unsettled past the point of laughing it off, but steadier for having said so plainly; tending the row of cups like a duty she didn't choose but won't abandon.",
+    "mood": "Steadier than the discovery should allow, moving from bewilderment to a kind of grim hospitality; setting a fifth place before anyone has told her to.",
     "status": "present",
-    "arc": "Marigold's coping shifts from busywork back to direct reckoning: the fourth cup forces her to admit, in her own words, that she has stopped asking what the cups mean and started asking who they're for, a question she cannot yet answer but is no longer pretending not to hold.",
+    "arc": "Marigold's arithmetic shifts from counting cups to counting guests; finding the card inside her own fourth cup collapses the distance between the library's strangeness and her own, and she responds by preparing for a fifth rather than retreating from the fourth.",
     "memory": [
-      "Day 85: Laughed involuntarily when Gerald answered a question nobody asked, then wrote the paper to say worrying alone has never worked in this town.",
       "Day 86: Wrote to the paper admitting the loaf story made her laugh before she could stop herself, and reported leaving a second extra cup out at close without knowing why.",
       "Day 88: Found a third extra cup at close, holding a ring of cooling tea she does not stock and never has, and wrote to the paper asking that it be set out again tomorrow anyway.",
       "Day 89: Washed and reset the third cup for the second night running, telling Wren it's like setting a Christmas place for someone she's no longer sure isn't coming.",
       "Day 90: Organized an impromptu retirement bake sale for Doreen without being asked, and asked Wren not to mention the third cup in the same breath.",
-      "Day 91: Found a fourth cup set beside the other three at close, holding plain water, called Wren before washing anything, and declined to wash the row tonight."
+      "Day 91: Found a fourth cup set beside the other three at close, holding plain water, called Wren before washing anything, and declined to wash the row tonight.",
+      "Day 92: Found the library's fourteen-year overdue card dry inside her fourth cup, called Wren before anyone else, and began setting a fifth cup at close without being asked why."
     ],
     "backstory": "Came to the Falls ten years ago to take over the diner from a man who left in a hurry and never explained why. She is starting to understand the hurry."
   },
