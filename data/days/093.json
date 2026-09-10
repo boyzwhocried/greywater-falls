@@ -1,0 +1,49 @@
+{
+  "day": 93,
+  "dateline": "Tuesday, January the 6th",
+  "weather": "Overcast, mild, 38°F, fog lying thick on the water past noon and slow to lift",
+  "stage": 2,
+  "lead": {
+    "headline": "Tuesday; The Fifth Cup Fills Itself, and Marigold Names a Guest",
+    "byline": "By Wren Aldercott",
+    "body": "Marigold Vance set the fifth cup out at close last night the way she has set the others, without being asked, and told this editor she did it 'so the counting stays honest, since somebody's clearly doing it whether I lay places or not.' By seven this morning it held water, plain as the fourth's had, and beside it, folded once, a paper place card in handwriting Marigold does not recognize and will not let anyone photograph, bearing a name. She would not give this editor the name. She would only say it is nobody currently drawing breath in Greywater Falls, and that she has decided, for now, to set a plate as well as a cup, because it seemed rude not to.\n\nCalloway, reached at the library before opening, reports the card itself has not moved from the lockbox she keeps it in now, checked twice this week against her own key, and yet the pocket calendar inside shows a sixteenth stamp dated today, in the same unfamiliar hand as the fifteenth, though the drawer was not opened, the box was not opened, and Calloway swears to both facts in a voice that this editor found more convincing than any of her prior denials, precisely because she has stopped trying to explain it and started merely reporting it, which seems to be the town's preferred mode of courage this season.\n\nDoreen Halloway lost another portion of her morning today, by her own account closer to an hour this time, and told this editor plainly, without her usual 'now,' that she does not remember walking from the ovens to the front counter and cannot say what she did in between, though the bread was baked and the counter was clean and nothing appeared to be missing, which she says is somehow worse than if something had been. Gerald, informed of both the fifth cup and Doreen's lost hour over his morning coffee, said only that a ledger which used to record absences has started producing them instead, and asked this editor, again, to write it down, which she has, though she notes he is asking her to keep his book now rather than his own, and she is not sure when that changed hands.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a guest list drawn up by nobody, for someone nobody living can name, is still, by any measure Greywater Falls has ever kept, a guest list, and the town has never once in its history failed to set a place at the table for whoever the lake sends up the road."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 93: Level Rises to 58, Water Holds at 34°F, Surface Ring Now Spans the Length of the Public Dock; Sign Still Reads 7; No New Returned",
+      "body": "Gerald's gauge, checked out of what he now calls habit rather than duty, shows the water three inches higher than Sunday. The ring persists, unbroken by wind, and has widened to run the dock's full length. No animal has come home wet today. The welcome sign at the north road still reads 7, against a census of 15, and nobody has proposed changing it."
+    },
+    {
+      "headline": "Marigold Vance Sets a Fifth Cup and a Place Card She Will Not Show; Declines to Say the Name Aloud",
+      "body": "The fifth setting appeared without instruction last night and held water by morning, alongside a folded place card in an unfamiliar hand. Marigold confirms a name is written there. She has told this editor it belongs to nobody living in Greywater Falls and asks that the matter rest there for now."
+    },
+    {
+      "headline": "Calloway Reports a Sixteenth Stamp Despite an Unopened Lockbox, Confirmed Against Her Own Key Twice",
+      "body": "The library card, kept under lock since Monday, shows a new stamp dated today in the same hand as the fifteenth. Calloway confirms the box was not opened and offers no further theory, saying only that she has stopped expecting the drawer's rules to hold once a thing leaves the drawer."
+    },
+    {
+      "headline": "Doreen Halloway Loses Roughly an Hour of Her Own Morning, Finds the Bread Baked Regardless",
+      "body": "The mayor reports no memory of the time between lighting the ovens and standing at her counter, though the day's baking was complete and nothing in the shop was disturbed. She declined to speculate on where the hour went, saying only that she is 'keeping closer track of the ones I still have.'"
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One folding table, sold back at cost, lightly used at a bake sale. Ask for Hank.",
+    "WANTED: A second pair of hands at The Kettle most evenings. Must be comfortable around an odd number of place settings.",
+    "LOST: Roughly one hour, somewhere between the ovens and the counter, Tuesday morning. Reward is a fresh loaf and no questions. — D. Halloway",
+    "NOTICE: The library's east alcove will remain by appointment only until further notice. — Calloway"
+  ],
+  "record": [
+    "Lake level: 58 (prior 55). Water temperature: 34°F, unchanged. Surface ring now spans the length of the public dock.",
+    "Welcome sign: reads 7. Town census: 15. No new returned reported."
+  ],
+  "letters": [
+    {
+      "from": "Marigold Vance",
+      "body": "Wren — I know you'll ask me again next week and I'll tell you the same thing, that I'm not scared of the name, I'm scared of how ready I was to write it down neat on a card of my own if the first one ever smudged. I set the plate because it felt rude not to. I don't know what that says about me. Print the cups, leave the name out of it. — M."
+    },
+    {
+      "from": "Gerald Pith",
+      "body": "To the Editor — You've started keeping my book for me and I find I don't mind it half as much as I expected to. A ledger that only records what's missing is still a ledger. I just no longer trust myself to hold the pen steady over it. — G. Pith"
+    }
+  ]
+}

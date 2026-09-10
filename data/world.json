@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 92,
-  "weather": "Overcast, mild, 37°F, faint fog off the water by mid-morning",
+  "dayNumber": 93,
+  "weather": "Overcast, mild, 38°F, fog lying thick on the water past noon and slow to lift",
   "undercurrent": {
-    "level": 58,
+    "level": 60,
     "stage": 2,
-    "phenomenon": "The fourteen-year overdue library card surfaces inside Marigold's fourth cup, dry despite the water, its pocket calendar now bearing a fifteenth stamp in an unrecognized hand dated the same day it was found; the season's central object has crossed from the alcove's stillness into the town's daily commerce, and Calloway has begun locking it away rather than merely noting it.",
-    "note": "Good rising-phase beat: the season's central artifact (the card) has now physically crossed into Marigold's cup sequence, braiding the two established phenomena together for the first time rather than running them in parallel. This should read as compounding, not resolving. Gerald's 'skips geography, chooses warmth' line pushes his ledger metaphor toward agency/intent, which is the right direction ahead of a crest. Doreen's forty lost minutes is a small, cheap escalation, keep her disorientation building without yet naming a cause. Save Agnes's held half-riddle for Wren a little longer still; the card event gives good cover to delay it one more day. Consider next: does the fifth cup Marigold has preemptively set get filled before anyone asks the obvious question of who counts as the fifth guest."
+    "phenomenon": "A fifth cup has been set at The Kettle without instruction, filled overnight, accompanied by a place card in an unrecognized hand bearing a name Marigold will not disclose; simultaneously the library's card, now locked away, gains a sixteenth stamp despite the box remaining unopened and unkeyed, meaning the season's central object has begun producing effects at a distance from its own physical containment, decoupling the phenomenon from the object entirely.",
+    "note": "Good compounding beat: containment (Calloway's lockbox) has failed to stop the stamping, which raises the stakes past 'the card moves' into 'the card's effect no longer needs the card present.' Marigold naming a guest without naming them to the reader keeps the reader hungry without forcing reveal. Doreen's lost hour has now escalated from forty minutes to roughly sixty, and should tip toward a stated cause or a direct confrontation with Agnes/Wren within the next few days rather than repeat the same beat a third time. Agnes's held half-riddle for Wren is now overdue for release; consider delivering it within 2-3 days to keep pace with the crest. The fifth place setting all but names the shape of who fills it: do not answer that outright yet, but the next natural beat is either the place card's name leaking, or the fifth chair being physically occupied at dusk."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 4,
     "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 15,
+    "day_in_season": 16,
     "target_length": 32,
     "next_premise": ""
   }
