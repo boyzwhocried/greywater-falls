@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 93,
-  "weather": "Overcast, mild, 38°F, fog lying thick on the water past noon and slow to lift",
+  "dayNumber": 94,
+  "weather": "Overcast, mild, 39°F, fog sitting on the water since dawn and showing no sign of lifting by dusk",
   "undercurrent": {
     "level": 60,
     "stage": 2,
-    "phenomenon": "A fifth cup has been set at The Kettle without instruction, filled overnight, accompanied by a place card in an unrecognized hand bearing a name Marigold will not disclose; simultaneously the library's card, now locked away, gains a sixteenth stamp despite the box remaining unopened and unkeyed, meaning the season's central object has begun producing effects at a distance from its own physical containment, decoupling the phenomenon from the object entirely.",
-    "note": "Good compounding beat: containment (Calloway's lockbox) has failed to stop the stamping, which raises the stakes past 'the card moves' into 'the card's effect no longer needs the card present.' Marigold naming a guest without naming them to the reader keeps the reader hungry without forcing reveal. Doreen's lost hour has now escalated from forty minutes to roughly sixty, and should tip toward a stated cause or a direct confrontation with Agnes/Wren within the next few days rather than repeat the same beat a third time. Agnes's held half-riddle for Wren is now overdue for release; consider delivering it within 2-3 days to keep pace with the crest. The fifth place setting all but names the shape of who fills it: do not answer that outright yet, but the next natural beat is either the place card's name leaking, or the fifth chair being physically occupied at dusk."
+    "phenomenon": "The card's containment has fully failed (stamps now arrive early, not just despite the locked box), Agnes has split her held riddle between two recipients rather than delivering it whole, and the fifth chair at The Kettle has been pulled out by unseen hands and left that way, tipping the season from 'a place is being set' to 'someone is expected imminently.'",
+    "note": "Escalation is now three-pronged and converging: (1) Agnes's half-to-Russ, half-to-Wren riddle should resolve within 2-3 days into a single sentence Wren finally hears whole — that's the natural crest trigger. (2) The pulled-out chair is the season's clearest 'occupancy imminent' signal yet; next beat should be someone seeing it occupied, however briefly, at dusk. (3) Doreen's lost-hour arc has plateaued (she's now self-monitoring with a notebook) — needs either a direct Agnes/Doreen confrontation or a stated cause within the next few days, not a third repeat of 'lost more time.' Keep Marigold's named guest unnamed for at least one more day for the ache to hold."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 4,
     "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 16,
+    "day_in_season": 17,
     "target_length": 32,
     "next_premise": ""
   }

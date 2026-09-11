@@ -1,0 +1,49 @@
+{
+  "day": 94,
+  "dateline": "Wednesday, January the 7th",
+  "weather": "Overcast, mild, 39°F, fog sitting on the water since dawn and showing no sign of lifting by dusk",
+  "stage": 2,
+  "lead": {
+    "headline": "Wednesday; Agnes Delivers Half a Riddle to Russ, and Keeps the Other Half for Wren",
+    "byline": "By Wren Aldercott",
+    "body": "Russ Dunmore came into this office a little after four with a single sheet of his own department stationery, folded once, and set it on the counter without a word, which this editor takes as evidence of how badly he wanted to be rid of it. On it, in his own hand, was a sentence he says Agnes Crewe gave him whole on his porch step this morning, and which he copied down exactly once because, in his words, 'writing it a second time felt like asking for it twice.' He would not read it aloud. He would not let this editor photograph it either, though he did allow it to be read once, in this office, by this editor alone, and then folded it back up and put it in his coat.\n\nAgnes, reached by telephone this afternoon, confirmed she gave Russ 'the half that keeps,' and said she is holding the other half for this editor specifically, on the grounds that 'a thing said whole to the wrong person just sits there, and a thing said in two pieces to two people has to go looking for itself.' She would not be drawn further, except to say that she walked the alcove-to-Petrakis line again before dawn, for the third time this season, and moved the string six inches, which she described only as 'closer to where it's already going.' This editor asked what that meant. Agnes said, 'You'll get the rest of it when the fifth chair is full and not before,' and hung up.\n\n    Marigold Vance reports the fifth cup and its place card unchanged since yesterday, but says that this morning, for the first time, the fifth chair at the corner table had been pulled out from the table rather than pushed in, as though someone had meant to sit and then not yet arrived. She has not pushed it back in. Calloway, meanwhile, confirms the lockbox remains locked and the card remains inside it, and that the calendar's seventeenth stamp appeared regardless, this time not dated today but dated three days from now, which she says is the first stamp in the whole run to arrive early rather than late. She has stopped opening the box to check. She simply knows, she says, the way you know the kettle's on before it whistles.\n\n    Doreen, asked about her own missing hours, said only that she has started carrying a small notebook of her own, timestamped in pencil each time she notices where she is, 'the way Gerald does it, since he asked me to,' though she would not say whether the gaps between entries have widened or held. Gerald, for his part, declined this evening to make his usual circular remark, and simply thanked this editor for keeping the book, adding that a ledger kept by two hands instead of one is 'twice as likely to be believed, and half as likely to be trusted by the one who isn't holding the pen.'\n\n    The one true thing this editor sets down today, low, where the town keeps such things: a riddle split between two people is not a secret being kept, it is an appointment being scheduled, and Greywater Falls has never yet missed one it was given the date for."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 94: Level Holds at 60, Water Steady at 34°F, Fog Refuses to Lift Past Dusk; Sign Still Reads 7; No New Returned",
+      "body": "The rise paused today for the first time in a week, though Gerald's stick-and-string reading shows the water no higher and no lower than yesterday's mark, which he calls 'the ledger catching its breath, not closing.' The welcome sign was checked twice by two separate residents and reads 7 both times."
+    },
+    {
+      "headline": "Agnes Crewe Delivers a Written Riddle to Russ Dunmore, Withholds the Other Half for This Editor",
+      "body": "Russ declined further comment beyond confirming the paper exists and is in his coat. He has not filed it under 'Ongoing, Local.' Asked why, he said, 'Some things aren't a file, they're a summons,' and would not elaborate."
+    },
+    {
+      "headline": "Marigold Vance Reports the Fifth Chair Pulled Out From the Table, Left Unpushed",
+      "body": "The chair has not moved since this morning. Marigold says she will not push it in herself and will not say why she's certain that's the right call."
+    },
+    {
+      "headline": "Calloway's Locked Card Produces a Seventeenth Stamp, Dated Three Days Ahead",
+      "body": "The first stamp of the season to arrive early. Calloway has stopped opening the lockbox to verify new stamps, saying she 'simply knows' when one has appeared."
+    }
+  ],
+  "classifieds": [
+    "LOST: One porch light bulb, burned out three nights running despite being new each time. Hank suspects nothing, restocks anyway.",
+    "FOR SALE: Six folding chairs, gently used, sold at cost. Inquire Mossley Hardware. Buyer should know a seventh may be needed soon.",
+    "WANTED: Someone willing to sit at the corner table of The Kettle after close, just to see. Apply within, quietly.",
+    "NOTICE: The Gazette will run a Lake Watch column daily until further notice. This is not new information. This is simply now the paper's shape."
+  ],
+  "record": [
+    "Municipal water level gauge, north dock: 60 (previous day: 60)",
+    "Welcome sign census: reads 7 (town), 9 (official count), unchanged"
+  ],
+  "letters": [
+    {
+      "from": "Agnes Crewe",
+      "body": "Wren — you'll get the rest of the sentence when the chair is filled, not a day before. Some things are only true once they've been sat in. Patience isn't a virtue out here, it's a schedule. — A.C."
+    },
+    {
+      "from": "Marigold Vance",
+      "body": "I'm not pushing that chair back in and nobody's going to make me feel foolish about it. If you want to come sit at the counter and watch it with me some evening, the coffee's on the house and I won't ask why you came."
+    }
+  ]
+}
