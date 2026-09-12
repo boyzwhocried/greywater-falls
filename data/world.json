@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 94,
-  "weather": "Overcast, mild, 39°F, fog sitting on the water since dawn and showing no sign of lifting by dusk",
+  "dayNumber": 95,
+  "weather": "Overcast, mild, 41°F, fog lifted for the first time in a week right at dusk, as if to let something see clearly",
   "undercurrent": {
-    "level": 60,
-    "stage": 2,
-    "phenomenon": "The card's containment has fully failed (stamps now arrive early, not just despite the locked box), Agnes has split her held riddle between two recipients rather than delivering it whole, and the fifth chair at The Kettle has been pulled out by unseen hands and left that way, tipping the season from 'a place is being set' to 'someone is expected imminently.'",
-    "note": "Escalation is now three-pronged and converging: (1) Agnes's half-to-Russ, half-to-Wren riddle should resolve within 2-3 days into a single sentence Wren finally hears whole — that's the natural crest trigger. (2) The pulled-out chair is the season's clearest 'occupancy imminent' signal yet; next beat should be someone seeing it occupied, however briefly, at dusk. (3) Doreen's lost-hour arc has plateaued (she's now self-monitoring with a notebook) — needs either a direct Agnes/Doreen confrontation or a stated cause within the next few days, not a third repeat of 'lost more time.' Keep Marigold's named guest unnamed for at least one more day for the ache to hold."
+    "level": 78,
+    "stage": 3,
+    "phenomenon": "The riddle has resolved whole: the overdue borrower is understood to be a woman the lake took and returned, stamp by stamp, across fourteen years, and the fifth chair at The Kettle was briefly, physically occupied at dusk. The card's calendar has run out of stamps. The town has moved from anticipation to acknowledgment without panic, setting a place rather than fleeing one.",
+    "note": "The peak has landed cleanly: Agnes's full riddle, Russ's half reconciled, the chair occupied, the card's calendar exhausted at 18 stamps signed with a name. Tomorrow should reveal the name at the library in daylight and begin the town's accommodation proper (naming her, perhaps welcoming her formally, deciding what a person owed a chair rather than a book is owed next). Doreen's lost hours resolved cleanly tonight, likely tied to the same resolution. Resist further escalation; next beats are about integration, the town absorbing this into routine (a place at Sunday dinner, a line in the sign's ledger) as the arc moves toward resolving."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 4,
     "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 17,
+    "day_in_season": 18,
     "target_length": 32,
     "next_premise": ""
   }

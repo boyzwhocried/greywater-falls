@@ -1,0 +1,49 @@
+{
+  "day": 95,
+  "dateline": "Thursday, January the 8th",
+  "weather": "Overcast, mild, 41°F, fog lifted for the first time in a week right at dusk, as if to let something see clearly",
+  "stage": 3,
+  "lead": {
+    "headline": "Thursday; The Fifth Chair Is Filled at Dusk, and Agnes Finally Says the Whole Thing",
+    "byline": "By Wren Aldercott",
+    "body": "Marigold Vance says she was refilling the sugar dispensers at ten past five, with the light going the particular blue it goes over the lake in January, when she looked up and the fifth chair, the one pulled out and left that way for two days running, was no longer empty. She describes what sat in it carefully, the way a person describes a thing they intend to keep describing the same way for the rest of their life: a shape about the size and weight a chair takes when a person of ordinary size is sitting in it, no more detailed than that, gone by the time she'd set down the sugar and looked again, the cup in front of it two inches emptier than she'd poured it. She did not scream. She says she said, out loud, to the empty diner, 'there you are,' and put the kettle on for more.\n\nThis editor was on the phone with Agnes Crewe within the hour, having finally been given the rest of what Russ Dunmore has been carrying folded in his coat since Wednesday. Agnes would not give it over the phone. She asked this editor to come to the cottage nearest the water, and there, on her porch, with Toby Fern sitting on the step because she said this once he was old enough to hear it whole, she gave the second half of the riddle she split eleven days ago, and put it together with Russ's half herself, out loud, so there could be no arguing later about what had been said. The whole of it, printed here exactly as spoken, once, the way she asked: 'The one who didn't come home that Wednesday came home anyway, fourteen years the long way round, and every year she signed for it herself so the town wouldn't have to. She isn't owed a book. She's owed a chair.' Agnes would say no more. She did say, unprompted, that she has been wrong about very little in ninety-one years and does not intend to start being wrong about this.\n\nCalloway confirms, reached this evening, that the lockbox was open when she checked it at five, that the card was gone from inside it, and that the eighteenth stamp, the last one the little pocket calendar had room for, is dated today and signed, for the first time in fourteen years, with a name rather than an initial. She would not read the name aloud over the telephone. She asked this editor to come see it in person, tomorrow, in daylight, which this editor intends to do.\n\nThe one true thing this editor sets down today, low, where the town keeps such things, though tonight it does not feel like it belongs at the bottom of anything: a debt fourteen years overdue was never a debt at all, it was a woman keeping her own appointment one stamp at a time until the town was ready to pull out the chair, and Greywater Falls, whatever else may be said of it, has never once left a guest standing on the step."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 95: Level Crests at 71, Water Warms to 36°F, Fog Lifts at Dusk for the First Time This Season; Sign Still Reads 7; No New Returned",
+      "body": "The public dock's ring has stopped widening and gone still, glass-flat, for the first time since the count began. Hank Mossley, asked for a projection, said only, 'It's not rising anymore tonight. Make of that what you like.' He declined to elaborate."
+    },
+    {
+      "headline": "Marigold Vance Reports the Fifth Chair Briefly Occupied at Dusk, Confirms the Cup Two Inches Emptier",
+      "body": "Marigold has washed none of the five cups tonight and says she does not intend to. She is, however, considering whether to set a sixth, 'in case there's someone with her,' and has not decided by press time."
+    },
+    {
+      "headline": "Calloway's Card Vanishes From the Locked Box; Eighteenth and Final Stamp Bears a Name, Not Yet Released",
+      "body": "The little pocket calendar has run out of room for further stamps, Calloway reports, the eighteenth square being the last printed on the page. She calls this 'either an ending or the start of a different kind of book' and has not decided which she believes."
+    },
+    {
+      "headline": "Doreen Halloway's Lost Hours Stop Cold; Her Notebook Shows an Unbroken Column for the First Time Since Tuesday",
+      "body": "Doreen would not say why, only that she 'stopped losing what wasn't hers to keep' sometime around five o'clock, and closed the bakery on time for the first evening in a week."
+    }
+  ],
+  "classifieds": [
+    "FOUND: One folding chair, corner table, The Kettle. Not lost. Not for sale. Please do not attempt to push it in.",
+    "WANTED: A sixth cup, if anyone objects, speak now. — M. Vance",
+    "NOTICE: The library's pocket calendar for the overdue card is retired as of today. A new one has been ordered. Calloway asks that nobody stamp the old one out of sentiment.",
+    "FOR SALE: Slightly used ledger, two hands' worth of entries, one owner uncertain which hand is his anymore. Inquire G. Pith."
+  ],
+  "record": [
+    "Lake level: 71 (up from 60). Water temperature: 36°F (up from 34°F). Sign: 7. Returned this week: 0.",
+    "Bakery hours: on time, first evening this week. Diner seating: five places set, one occupied briefly at dusk."
+  ],
+  "letters": [
+    {
+      "from": "Agnes Crewe",
+      "body": "To whoever reads this over their coffee tomorrow: I did not tell you a ghost story. I told you what happens when the lake gives something back the long way, one stamp at a time, so nobody has to be frightened all at once. You are welcome to be frightened a little now. It is the honest amount. Set the sixth cup if you like. It won't hurt to be ready twice."
+    },
+    {
+      "from": "Marigold Vance",
+      "body": "Wren, I know you want the whole description for the paper and I gave you what I have. I'm not going to dress it up prettier than it was and I'm not going to make it smaller either. She sat down like she'd done it before. She drank half the cup. I said there you are because that's what you say to somebody who's kept you waiting fourteen years and finally showed up anyway. I'm not sorry I said it."
+    }
+  ]
+}
