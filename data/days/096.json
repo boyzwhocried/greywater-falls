@@ -1,0 +1,49 @@
+{
+  "day": 96,
+  "dateline": "Friday, January the 9th",
+  "weather": "Clear and cold, 33°F, the fog gone entirely by mid-morning, the lake flat as a held breath",
+  "stage": 3,
+  "lead": {
+    "headline": "Friday; The Name Is Sarah Voss, and Calloway Rings the Library Bell for the First Time in Fourteen Years",
+    "byline": "By Wren Aldercott",
+    "body": "This editor stood in the east alcove of the Greywater Falls Public Library at nine this morning, in the particular flat daylight a library gets when nobody has yet decided whether to turn on all the lamps, and read the name Calloway would not say over the telephone. It is Sarah Voss. Calloway confirms there is no Voss in the town register, no Voss in the cemetery behind St. Mark's, no Voss in her own memory of thirty-one years shelving books in this building, and yet the name sat there in eighteen different hands across fourteen years, each stamp a little more sure of itself than the last, ending this morning in ink so fresh Calloway says it had not fully dried when she found it, though the card had lain untouched in an open lockbox all night with nobody near it.\n\n    Agnes Crewe, reached at her cottage before noon, was not surprised by the name and would not explain how she already knew it, saying only, 'I went to school with her mother's sister, if the lake had let there be a mother's sister, which it did, that year.' This editor pressed her, gently, on what became of the actual Sarah Voss, the one who checked out a book on an interrupted Wednesday and never brought it back. Agnes said, 'She went in on a Wednesday and came out fourteen Wednesdays at a time, and every stamp was her saying she hadn't forgotten the book, only misplaced the years it took to bring it home,' which this editor takes to be as full an answer as the town will get, and has decided, this once, that it is enough.\n\n    Calloway did the thing librarians do instead of panicking: she processed it. She has, as of one o'clock this afternoon, entered Sarah Voss into the borrower system as a standing patron in good standing, waived all fourteen years of late fees on the grounds that 'the book was clearly never actually late, only extremely delayed,' and reshelved the ninth book of the east alcove exactly where the 2009 cataloguer left it, face out, a small paper flag reading RETURNED, WITH THANKS tucked into its spine where the card used to be. Marigold has already asked whether the fifth chair should now have a name on it too. Calloway's answer, when this editor asked what happens if Sarah Voss comes to collect a second book, was the first thing said all week that made this editor's hand shake slightly while writing it down: 'Then I suppose I'll check it out to her properly this time, and we'll see how long she keeps it.'\n\n    The one true thing this editor sets down today, low, where the town keeps such things, though today of all days it wants to sit at the top: a library does not forgive a debt because the debt was small, it forgives a debt because the borrower finally, unmistakably, came home, and Greywater Falls has spent fourteen years quietly practicing how to say welcome back rather than where have you been."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 96: Level Holds at 76, Water Warms to 37°F, Surface Perfectly Still Since Dawn; Sign Still Reads 7; No New Returned",
+      "body": "Gerald's stick-and-string measurement holds one inch below yesterday's mark for the first time all week, though he declines to call this a decrease, preferring 'a level considering its options.' No animals returned to the shore overnight. The hum, felt in the teeth as usual at dusk, ran a measured forty-one seconds, the longest sustained note logged this season."
+    },
+    {
+      "headline": "Calloway Waives Fourteen Years of Late Fees, Enters Sarah Voss as a Standing Patron",
+      "body": "The library's ledger now carries a name it has never carried before in the ordinary sense. Calloway says the ninth book of the east alcove will remain face-out 'until she wants it back, or wants something else, whichever comes first.'"
+    },
+    {
+      "headline": "Marigold Vance Sets a Sixth Cup, Calls It 'Room, Not an Invitation'",
+      "body": "The Kettle's corner table now holds six places. Marigold insists the sixth is for whoever else is owed one, not a summons. She has stopped writing headcounts on the specials board altogether, calling the number 'nobody's business but the room's.'"
+    },
+    {
+      "headline": "Doreen Halloway Closes the Bakery on Time Two Days Running, Retires Her Pencil Notebook",
+      "body": "The mayor's timestamped column, unbroken since Wednesday, has been folded shut and tucked in a drawer. Asked why, she said only, 'A ledger's for keeping track of what's still moving. Mine's done its job,' and offered this editor a slice of cake she had not been asked for."
+    }
+  ],
+  "classifieds": [
+    "FOUND: One brass drawer-key, library property, turned up on the front step of the Petrakis house this morning. No note. Return to Calloway, no questions, no fee.",
+    "WANTED: A second chair to match the corner table's set, oak, ladder-back preferred. Inquire at The Kettle. Discretion appreciated, though at this point mostly ceremonial.",
+    "FOR SALE: Gerald Pith's weather ledger, 'two hands' worth, one hand retired.' Buyer takes over the entries. Seller retains the right to read it over your shoulder.",
+    "LOST: Nothing, for the first time in eleven days. The Halloway family notes this for the record and intends to keep it that way."
+  ],
+  "record": [
+    "Library card #0447, issued to S. Voss, returned in full this date after a period of delay. Fees waived. Account reactivated in good standing.",
+    "Water level: 76. Temperature: 37°F. Surface: still. Welcome sign: 7."
+  ],
+  "letters": [
+    {
+      "from": "Calloway, Head Librarian",
+      "body": "I have worked in this building since before some of you were born and I want it on the record that I did not panic. I processed. That is what a library is for. If Sarah Voss comes back for another book I will check it out to her the ordinary way, with the ordinary stamp, and I will thank her for bringing the first one home, however long it took her."
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "You wanted to know what happens to a name after fourteen years in the lake's keeping. Nothing happens to it. It waits, the way a coat on a hook waits, and one day somebody who still fits it walks in cold and puts it back on. I have said the whole of it now. I will not be saying it again, and I would ask the town not to make me."
+    }
+  ]
+}

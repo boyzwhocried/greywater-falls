@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 95,
-  "weather": "Overcast, mild, 41°F, fog lifted for the first time in a week right at dusk, as if to let something see clearly",
+  "dayNumber": 96,
+  "weather": "Clear and cold, 33°F, the fog gone entirely by mid-morning, the lake flat as a held breath",
   "undercurrent": {
-    "level": 78,
+    "level": 74,
     "stage": 3,
-    "phenomenon": "The riddle has resolved whole: the overdue borrower is understood to be a woman the lake took and returned, stamp by stamp, across fourteen years, and the fifth chair at The Kettle was briefly, physically occupied at dusk. The card's calendar has run out of stamps. The town has moved from anticipation to acknowledgment without panic, setting a place rather than fleeing one.",
-    "note": "The peak has landed cleanly: Agnes's full riddle, Russ's half reconciled, the chair occupied, the card's calendar exhausted at 18 stamps signed with a name. Tomorrow should reveal the name at the library in daylight and begin the town's accommodation proper (naming her, perhaps welcoming her formally, deciding what a person owed a chair rather than a book is owed next). Doreen's lost hours resolved cleanly tonight, likely tied to the same resolution. Resist further escalation; next beats are about integration, the town absorbing this into routine (a place at Sunday dinner, a line in the sign's ledger) as the arc moves toward resolving."
+    "phenomenon": "The name is known and entered into the town's own record as a standing patron; the fifth chair has become six as accommodation rather than anticipation. The riddle has fully surfaced and the town has begun the work of absorbing it into routine ledgers, seating charts, and library cards rather than treating it as an event to survive.",
+    "note": "Peak has crested and the town is already turning toward integration: fees waived, a sixth cup set, Doreen's countermeasure retired outright. Next beats should ease the level down gradually across several days as the season moves into resolving, closing individual threads (Gerald's ledger sale, Toby's blank notebook, Hank's quiet filing) one at a time rather than all at once. No further single-day escalations; the town has already said the biggest true thing it has to say this season."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 4,
     "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 18,
+    "day_in_season": 19,
     "target_length": 32,
     "next_premise": ""
   }
