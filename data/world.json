@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 96,
-  "weather": "Clear and cold, 33°F, the fog gone entirely by mid-morning, the lake flat as a held breath",
+  "dayNumber": 97,
+  "weather": "Clear and mild for the season, 38°F, a soft haze over the water by mid-morning",
   "undercurrent": {
-    "level": 74,
+    "level": 68,
     "stage": 3,
-    "phenomenon": "The name is known and entered into the town's own record as a standing patron; the fifth chair has become six as accommodation rather than anticipation. The riddle has fully surfaced and the town has begun the work of absorbing it into routine ledgers, seating charts, and library cards rather than treating it as an event to survive.",
-    "note": "Peak has crested and the town is already turning toward integration: fees waived, a sixth cup set, Doreen's countermeasure retired outright. Next beats should ease the level down gradually across several days as the season moves into resolving, closing individual threads (Gerald's ledger sale, Toby's blank notebook, Hank's quiet filing) one at a time rather than all at once. No further single-day escalations; the town has already said the biggest true thing it has to say this season."
+    "phenomenon": "The name is fully absorbed into routine ledgers and seating charts; the town's remaining work is closing individual threads one at a time, quietly, rather than treating any of them as ongoing events.",
+    "note": "Easing down on schedule. Gerald's ledger sale closed today; Hank's filing without theory closed today. Remaining threads to close across the next several days: Toby's blank notebook, Doreen's retired countermeasure (already largely closed Day 96, may need one more small beat), Russ's folded riddle, the sixth cup's eventual fate. No new escalations. Move steadily toward resolving/coda by day 26-28."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 4,
     "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 19,
+    "day_in_season": 20,
     "target_length": 32,
     "next_premise": ""
   }

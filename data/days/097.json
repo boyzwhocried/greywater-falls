@@ -1,0 +1,49 @@
+{
+  "day": 97,
+  "dateline": "Saturday, January the 10th",
+  "weather": "Clear and mild for the season, 38°F, a soft haze over the water by mid-morning that Gerald calls 'the lake breathing out'",
+  "stage": 3,
+  "lead": {
+    "headline": "Saturday; Gerald Sells His Ledger, Hank Files a Fact Without a Theory, and the Sixth Chair Waits Politely",
+    "byline": "By Wren Aldercott",
+    "body": "Gerald Pith made good on his joke this morning. He set his weather ledger, thirty-one years of waterline measurements taken with a stick and a knot of string, on the counter at The Kettle and sold it, for one dollar and a promise, to this office. He shook this editor's hand on it twice, which he says is 'once for the sale and once for the part where I stop being the only one responsible for what it says.' Asked whether it felt strange to give away the one thing he has kept more faithfully than his own porch light, he said, mildly, that a ledger recording only what the water did is a lonelier document than a ledger recording who came home, and he has decided he would rather be the second kind of witness from here on, if the town will let him.\n\nHank Mossley came by the office in the early afternoon with a single fact and, notably, no theory attached to it, which his friends will tell you is new. He has been tracking, since the card first turned up at The Kettle, the distances involved: alcove to lockbox, lockbox to diner, diner to the corner table where the sixth cup now sits unpoured. By his own measurements the card's movements bypass every road, every property line, every hour of walking he can account for. 'It gets there faster than anything gets anywhere,' he said, and declined, when pressed, to say what that meant, calling it 'past checking' for the second time this season and the first time he's said it about something other than bread.\n\nCalloway confirms Sarah Voss's standing patron file remains open and untouched, no second book requested, the ninth volume still face out on its shelf with its little paper flag. Marigold reports the sixth cup at the corner table went unfilled again at dusk and she has stopped waiting to see whether it will be. 'It's not for anybody in particular yet,' she said. 'That's what room means.' Doreen brought two boxes of day-old bread to the library this afternoon, unasked, and left them with Calloway 'for whoever's still hungry after fourteen years of it,' which is as close as the mayor has come all season to saying the thing out loud.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a ledger sold for a dollar is not a small transaction, it is a man agreeing that the record was never really his to keep alone, and Greywater Falls has spent all season learning that the truest books are the ones two hands write and neither one owns."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 97: Level Eases to 68, Water Holds at 37°F, Haze Lifts by Noon; Sign Still Reads 7; No New Returned",
+      "body": "Gerald's former ledger, now this office's property, shows the waterline unchanged for the third straight day. The town takes this, for once, as ordinary news."
+    },
+    {
+      "headline": "Gerald Pith Sells His Thirty-One-Year Weather Ledger to the Gazette for One Dollar",
+      "body": "Calls it 'two hands' worth, one owner uncertain which is his anymore,' and means it. This editor has agreed to keep the column running under both names."
+    },
+    {
+      "headline": "Hank Mossley Reports the Card's Travel Outpaces Any Road He Can Measure, Offers No Theory",
+      "body": "Says only that some facts are 'past checking' and files it, without comment, beside the mill logs."
+    },
+    {
+      "headline": "Doreen Halloway Delivers Day-Old Bread to the Library, Unasked, 'For Whoever's Still Hungry'",
+      "body": "Calloway accepted it without asking who she meant. Neither woman elaborated."
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One weather ledger, thirty-one years, waterline measurements only, previous owner retired but consulting. Inquire at the Gazette office. Price already paid.",
+    "WANTED: Someone to teach a sixth place setting what it's for. Apply corner table, The Kettle, after 5pm. No experience required, evidently.",
+    "LOST: The urge to check. If found, please do not return it to Hank Mossley, who has stopped looking for it on purpose.",
+    "FOUND: A quiet Saturday. Whoever misplaced it, the town would like to keep it a while longer."
+  ],
+  "record": [
+    "Library standing patron file (S. Voss): open, no activity, ninth volume shelved.",
+    "Gazette ledger acquisition (G. Pith, weather records, 31 yrs): filed, ongoing."
+  ],
+  "letters": [
+    {
+      "from": "Gerald Pith",
+      "body": "To the Editor: I want it on record, since you're the one keeping the record now, that I don't regret it. A stick and a string told me the truth for thirty-one years and never once explained itself. I've decided I'd rather be believed than be right alone. Yours, still measuring, just not by myself anymore."
+    },
+    {
+      "from": "Marigold Vance",
+      "body": "Wren, for the paper if you want it: the sixth cup isn't sad, whatever it looks like from outside. Some chairs get pulled out for a person. Some just get pulled out so the table looks like it's expecting good company. I've decided that's allowed too."
+    }
+  ]
+}
