@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 97,
-  "weather": "Clear and mild for the season, 38°F, a soft haze over the water by mid-morning",
+  "dayNumber": 98,
+  "weather": "Clear and windless, 39°F, the lake steaming faintly at first light",
   "undercurrent": {
-    "level": 68,
+    "level": 60,
     "stage": 3,
-    "phenomenon": "The name is fully absorbed into routine ledgers and seating charts; the town's remaining work is closing individual threads one at a time, quietly, rather than treating any of them as ongoing events.",
-    "note": "Easing down on schedule. Gerald's ledger sale closed today; Hank's filing without theory closed today. Remaining threads to close across the next several days: Toby's blank notebook, Doreen's retired countermeasure (already largely closed Day 96, may need one more small beat), Russ's folded riddle, the sixth cup's eventual fate. No new escalations. Move steadily toward resolving/coda by day 26-28."
+    "phenomenon": "The name has crossed from ledger to daylight congregation; the town's remaining work is letting the routine hold without needing further proof, one ordinary Sunday at a time.",
+    "note": "Peak beat delivered: the returned appears in open daylight at church, and the town's response is a place setting, not a panic. Easing level down now per schedule toward coda by day 26-28. Remaining small threads: Russ's folded riddle (he still hasn't filed it), the sixth cup's ongoing status, Toby's blank notebook (may get one gentle closing beat). Doreen's arc is essentially closed. Gerald's and Hank's arcs closed Day 97. Agnes has declared her riddling done, which should hold. Move Wren, Russ, Toby toward quiet closure over next several days."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 4,
     "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 20,
+    "day_in_season": 21,
     "target_length": 32,
     "next_premise": ""
   }

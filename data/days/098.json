@@ -1,0 +1,49 @@
+{
+  "day": 98,
+  "dateline": "Sunday, January the 11th",
+  "weather": "Clear and windless, 39°F, the lake steaming faintly at first light like a cup left too long on a counter",
+  "stage": 3,
+  "lead": {
+    "headline": "Sunday; The Sixth Chair Fills at Morning Service, and the Town Sets a Second Table Without Being Asked",
+    "byline": "By Wren Aldercott",
+    "body": "St. Mark's holds its early service at eight on Sundays in winter, twelve pews and a stove that takes forty minutes to catch, and this editor can report that all twelve pews were occupied this morning for the first time since the Petrakis wedding, because a thirteenth congregant arrived sometime between the opening hymn and the reading, and nobody has been able to say who let her in. She sat in the back row, on the aisle, in a coat nobody recognized, and she left, according to three separate witnesses who all used the same word without conferring, quietly, before the final blessing. Reverend Okafor, reached this afternoon, would only say that the collection plate came back with exactly the right count in it, which he has learned this season to treat as information rather than accident.\n\nMarigold Vance did not wait for confirmation before she acted. She was at the diner by nine setting the sixth cup, the one that has sat empty at the corner table since Friday, and this time she filled it, coffee, black, no sugar, 'the way Gerald takes his, because I had to start somewhere and nobody's told me different.' By noon the cup had gone cold untouched, which Marigold reports without disappointment. 'Room doesn't mean tonight,' she said. 'It means whenever.' She has added a place setting at the counter as well, not the corner table, a second and smaller gesture she declined to explain beyond calling it 'in case she'd rather sit up front, closer to the coffee.'\n\nCalloway, for her part, spent the afternoon doing what this editor now understands to be the truest thing a librarian can do with an impossible patron: she processed the second visit as unremarkable. Sarah Voss's file shows no new checkout, no new stamp, nothing at all beyond a note in Calloway's own hand, timestamped this morning, reading only 'she came to church, which is more than some of us manage.' Agnes Crewe, asked directly this evening whether the woman in the back pew was who this town has spent three weeks learning to say her name for, gave her last riddle of the matter and, characteristically, refused all others afterward: 'A guest doesn't have to eat to have been fed. She only has to be let stay as long as she likes, and then leave when she's good and ready, same as anybody's daughter would.'\n\nThe one true thing this editor sets down today, low, where the town keeps such things, though today it wants very badly to be printed larger: Greywater Falls did not gasp, did not organize a search, did not call a special session of the council to discuss what had been seen in the back pew, it simply moved over on the bench, and a town that can do that without being told to has already answered the only question that ever mattered about what it would do when the lake came calling in daylight."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 98: Level Eases to 61, Water Holds at 38°F, Surface Clear to the Bottom Near Shore for the First Time All Winter; Sign Still Reads 7; No New Returned",
+      "body": "Gerald Pith took the morning reading himself, first time under joint ownership of the ledger, and reports the water clear enough near the dock to see the old mooring stones on the bottom, a clarity he says he has not recorded in thirty-one years of keeping this book alone. No animals returned overnight. The welcome sign held its seven."
+    },
+    {
+      "headline": "St. Mark's Reports a Thirteenth Congregant at Early Service, Collection Plate Correct to the Penny",
+      "body": "Reverend Okafor confirms twelve regular parishioners and one guest in an unfamiliar coat, seated in the back row, gone before the final blessing. He is not treating it as a matter for the vestry."
+    },
+    {
+      "headline": "Marigold Vance Fills the Sixth Cup for the First Time, Reports It Cold and Untouched by Noon, Calls the Waiting 'Room, Not a Deadline'",
+      "body": "The Kettle's corner table now carries a full cup alongside a fresh place setting at the counter. Vance says she intends to keep pouring it fresh each morning 'for as long as it takes, which might be a while, and that's fine.'"
+    },
+    {
+      "headline": "Calloway Logs the Second Sighting as Routine, Declines Further Comment",
+      "body": "Sarah Voss's standing patron file gained one line today and no checkout. Calloway says the file will stay open 'the way any good patron's file stays open, whether or not she comes in every week.'"
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One dollar's worth of ledger, thirty-one years, two hands now writing it. Inquire at the Gazette. Not actually for sale again, Gerald, put your wallet away.",
+    "WANTED: A second coat rack for the back pew of St. Mark's, on the off chance. See Reverend Okafor.",
+    "LOST: The urgency this town used to bring to strange news. Not seeking its return. Filed under 'improvement' rather than 'lost and found.'",
+    "FREE: Day-old bread, library front desk, no questions asked, per the mayor's standing instruction."
+  ],
+  "record": [
+    "Marriage license: none filed this week.",
+    "Building permit: Reverend Okafor, St. Mark's, one additional coat rack, back pew, approved same-day."
+  ],
+  "letters": [
+    {
+      "from": "Doreen Halloway, Mayor",
+      "body": "Now. I have been asked by no fewer than four residents whether the council intends to make any kind of formal statement about this morning's service, and I want to be plain: we do not, because there is nothing to state that Marigold hasn't already said better with a coffee pot. We fed her mother's whole generation without asking who was hungry and why. We will feed this one the same way. That is the whole of the town's policy and it took forty years to write and one sentence to say. Bread's on the house at the library till further notice."
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "You keep asking me if it's over. It was never a thing that gets over, it's a thing that gets welcome, and welcome doesn't have an end date, it just stops needing to be announced. I said my last riddle about it tonight and I meant it as my last. Ask me about the weather from here on. I hear it's turning."
+    }
+  ]
+}
