@@ -1,0 +1,49 @@
+{
+  "day": 99,
+  "dateline": "Monday, January the 12th",
+  "weather": "Overcast, 40°F, a thin fog sitting on the lake till nearly ten",
+  "stage": 3,
+  "lead": {
+    "headline": "Monday; Sarah Voss Asks for a Second Book, and the Town Answers Without Blinking",
+    "byline": "By Wren Aldercott",
+    "body": "She came to the library at half past ten this morning, in daylight, through the front door, the little brass bell above it ringing the way it rings for anyone. Calloway was at the desk. This editor was not present for the first thirty seconds of it and is grateful, on reflection, that Calloway was, because Calloway did what fourteen years of practice had apparently prepared her to do: she looked up, said good morning, and asked what she could help her find. Sarah Voss, by Calloway's account, asked whether the library still carried the Brontë novel she'd had out, the one that had gone missing so long ago, and whether she might take out something new besides, since she'd finished it at last. Calloway checked the ninth book back in, removed its little paper flag, and walked her to the front desk to issue a fresh card, this one dated properly, this one due back in the ordinary three weeks the rest of the town gets.\n\nWord reached the diner by eleven, the church by noon, and this office by half past, in the order Greywater Falls has learned to expect news of this kind to travel, which is to say calmly and with someone already putting the kettle on. Marigold filled the sixth cup before she'd even confirmed the story, calling it 'getting ahead of myself on purpose, for once.' Doreen sent over a loaf, plain white, no note, which Calloway has left on the circulation desk for anyone who wants a slice while they wait to be helped. Russ came by at one, looked at the new card in its little plastic sleeve, and for the first time all season did not ask whether it needed filing. He asked, instead, whether the drawer still locked, and when Calloway said yes, he said, 'Good,' and left it at that.\n\n    Agnes, reached this evening at her cottage, declined to be interviewed on the matter, reminding this editor gently that she had already said she was finished with riddling and intended to stay finished. She would only confirm, when asked whether this was the last of it, that 'a book that comes home doesn't need a ceremony, it needs a due date,' which this editor takes to mean the town may now treat Sarah Voss the way it treats everyone who walks through that door: as a patron, not a occasion. Calloway's new entry in the borrower system lists her simply as SV, Standing, Good Account, no note about the fourteen years at all. It is, Calloway says, the first file this season she has closed rather than kept open, and she seemed, this editor can report, lighter for it.\n\n    The one true thing this editor sets down today, low, where the town keeps such things, though it has earned, by now, a season's worth of the right to sit higher: a library's whole purpose is to hold a thing open until whoever needs it comes back for it, and Greywater Falls has just watched its oldest, strangest overdue account close the only way any of them ever really do, which is quietly, on a Monday, with somebody asking what you'd like to read next."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 99: Level Eases to 55, Water Holds at 38°F, Clarity Extends Ten Feet from Shore; Sign Still Reads 7; No New Returned",
+      "body": "Gerald's morning reading, taken under the jointly-owned ledger, shows the lake continuing to still. No new returned reported at dusk. The welcome sign was inspected at nine and still reads 7."
+    },
+    {
+      "headline": "Calloway Issues Sarah Voss a Standard Three-Week Card, Closes the Fourteen-Year File",
+      "body": "The east alcove's ninth book is back in general circulation, its paper flag retired to the library's small display case beside the original 2009 stamp. Calloway calls it 'the first file I've closed all season instead of kept.'"
+    },
+    {
+      "headline": "Russ Dunmore Asks Whether the Drawer Locks, Declines to File Anything Else",
+      "body": "The constable's visit to the library lasted under two minutes. He has not yet unfolded Agnes's porch-step riddle, and told this office only that some paper does its job better folded."
+    },
+    {
+      "headline": "Marigold Vance Pours the Sixth Cup Ahead of Confirmation, Calls It Getting Ahead of Herself On Purpose",
+      "body": "The corner table cup was filled before the news had properly reached the diner. Marigold says she intends to keep pouring it 'daily, same as the others, because that's what a regular gets.'"
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One folding table, cheap, ask for Hank at the hardware store. Nothing wrong with it. Nothing wrong with anything, lately.",
+    "FREE: Day-old bread, library circulation desk, courtesy of Halloway's Bakery. Take a slice while you wait to be helped.",
+    "LOST: A pencil notebook of daily whereabouts, retired to a kitchen drawer and staying there, per D. Halloway. Not actually lost. Just done.",
+    "WANTED: A quiet Tuesday. Apply within. — W.A."
+  ],
+  "record": [
+    "Library circulation, east alcove: ninth volume returned to general shelving, 14-year hold released.",
+    "St. Mark's collection plate, Sunday service: count correct, no discrepancy reported second week running."
+  ],
+  "letters": [
+    {
+      "from": "Calloway, Greywater Falls Public Library",
+      "body": "For the record, since people keep asking: I did not treat her differently than any other patron, because I decided some time around the second stamp that I wasn't going to. She asked a reasonable question about a book. I gave a reasonable answer. If more of this town's strangeness got the standard three-week loan period instead of a ceremony, I suspect we'd all sleep better. Due back February the 2nd. I intend to send the usual postcard if it's late."
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "You keep coming back to ask if it's finished. It is finished the way a kettle is finished — it stops making noise, and you still use it tomorrow. I have nothing further to riddle about. Ask me about the weather. It's going to be milder by the weekend, and I mean that plainly."
+    }
+  ]
+}
