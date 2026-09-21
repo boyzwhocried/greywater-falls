@@ -1,0 +1,49 @@
+{
+  "day": 100,
+  "dateline": "Tuesday, January the 13th",
+  "weather": "Clear and cold, 34°F, first hard frost of the winter silvering every roof by sunrise",
+  "stage": 3,
+  "lead": {
+    "headline": "Tuesday; The Hundredth Edition, and a Town That Has Stopped Waiting to Be Believed",
+    "byline": "By Wren Aldercott",
+    "body": "This is the hundredth issue of this paper under this editor's hand, and this editor had intended, weeks ago, to mark it with something suitably large. Instead the day arrived ordinary, frost thick enough to write your name in on the diner's front window, and the town spent it doing exactly what it has spent the whole season learning to do, which is nothing much, on purpose, together. Sarah Voss returned her second book a day early. Calloway checked it in without comment, as she has every book this month, and it went back on the shelf between two volumes that have never once tried to leave.\n\nGerald took the morning reading alone for the first time under the ledger's joint name and stood at the shore longer than the measurement required. He reports the water clear to twelve feet now, the farthest he has ever seen down into it in thirty-one years of trying, and says he did not feel the need to write anything else beside the number, which he calls, for him, a kind of retirement. Toby, walking home past Agnes's cottage after school, was turned away at the porch again, gently, the old woman saying only that she was saving her voice for the weather and nothing else, and the boy wrote it down in his notebook as its own entry rather than its own refusal, which this editor understands to be a very small door opening rather than closing.\n\nMarigold's sixth cup sat full and steaming at the corner table from opening to close today, poured before anyone asked, taken by no one, and returned to the pot at closing without a word about waste. She says she intends to keep pouring it every morning from here on regardless of whether it is ever drunk, because a diner that only sets a place for the people it can already see isn't much of a diner. Doreen closed the bakery on time, walked the loaf of the day to the library herself, and told this editor, unprompted, that she has stopped keeping her pencil notebook of hours because she no longer feels the need to account for where she's been. Russ confirmed, once more, that the drawer locks, and for the first time did not check it twice.\n\nThe one true thing this editor sets down today, on the hundredth day of setting such things down, low, where the town keeps them, though by now it might as well be printed across the top: a paper that spends a hundred issues teaching its readers to sit calmly with what they cannot explain has not failed to explain it, it has simply finished the harder job of teaching them to live beside it, and that, more than any ledger or riddle or count that will not hold still, is the whole story this town was ever actually telling."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 100: Level Eases to 49, Water Holds at 39°F, Clarity Reaches Twelve Feet, Farthest on Record; Sign Still Reads 7; No New Returned",
+      "body": "Gerald Pith's solo reading under the jointly-owned ledger shows the deepest clarity yet measured, and the level continues its steady fall from the season's peak. The welcome sign, checked this morning by no one in particular, still reads 7."
+    },
+    {
+      "headline": "Sarah Voss Returns Her Second Book a Day Early, Requests a Third Without Ceremony",
+      "body": "Calloway processed the exchange in under two minutes and reports the transaction 'unremarkable in the best possible way.' The new title, per the circulation log, is a gardening manual."
+    },
+    {
+      "headline": "Marigold Vance Declares the Sixth Cup a Permanent Fixture, Poured Whether or Not It's Drunk",
+      "body": "The Kettle's corner table now carries a standing setting each morning at opening. Vance calls it 'just how we do the room now,' and has stopped tracking whether it's used."
+    },
+    {
+      "headline": "Doreen Halloway Retires Her Hours Notebook, Cites No Further Need to Account for Herself",
+      "body": "The mayor's pencil ledger of timestamps, kept since Day 94, has gone back in the drawer for good. She declined further comment beyond offering this office a slice of yesterday's bread."
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One pencil notebook, lightly used, four weeks of timestamps, no gaps in the last two. Owner says she doesn't need it anymore. Inquire Halloway's Bakery.",
+    "WANTED: Someone to teach a sixteen-year-old the proper way to develop old phone footage before the file corrupts. Ask for Toby at the school paper desk.",
+    "NOTICE: The Gazette's hundredth edition is available at the office for the usual price, which remains free, same as the ninety-nine before it.",
+    "LOST: One theory about the water, last seen belonging to Hank Mossley, presumed retired rather than missing. No reward offered or wanted."
+  ],
+  "record": [
+    "Library circulation: 1 standard three-week loan issued, 1 gardening manual, no notes attached.",
+    "Bakery hours notebook: retired, four weeks unbroken, filed in the bottom drawer."
+  ],
+  "letters": [
+    {
+      "from": "Calloway, Head Librarian",
+      "body": "To the Gazette, on its hundredth issue: I have worked this desk under three different roofs and two different card catalogs, and I want it on record that the strangest thing that ever happened here was never the fourteen years. It was watching a town decide, one Tuesday at a time, to just keep the desk open. That's the whole trick. You keep the desk open. Congratulations on the number, Wren. You've kept yours open too."
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "A hundred is a good round number for a kettle to have boiled. Frost tonight, hard, first of the season. Tell them to bring the geraniums in if they haven't already. That's all the news I have, and it's plenty."
+    }
+  ]
+}

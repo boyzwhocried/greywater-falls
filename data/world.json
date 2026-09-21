@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 99,
-  "weather": "Overcast, 40°F, a thin fog sitting on the lake till nearly ten",
+  "dayNumber": 100,
+  "weather": "Clear and cold, 34°F, first hard frost of the winter silvering every roof by sunrise",
   "undercurrent": {
     "level": 60,
     "stage": 3,
-    "phenomenon": "The name has crossed from ledger to daylight congregation to standing patron; the town's remaining work is letting the routine hold without needing further proof, one ordinary Monday at a time.",
-    "note": "Peak beat resolved cleanly: Sarah Voss's file closes as an ordinary loan rather than an occasion, which is the season's real crest, the town choosing paperwork over ceremony. Continuing the scheduled ease toward coda by day 26-28. Remaining threads to close gently: Russ's folded riddle (still unopened, may stay that way as his resolution), Toby's near-blank notebook (due a small closing beat, maybe the one entry that isn't a refusal), the sixth cup as settled ordinary practice. Agnes holding her declared silence. Doreen, Gerald, Hank essentially closed. Wren's dual witness role now easing into simple stewardship of a joint ledger. No new escalation warranted; hold level in the low 50s through mid-arc-close, dropping further as coda nears."
+    "phenomenon": "The name has crossed from ledger to daylight congregation to standing patron; the town's remaining work is letting the routine hold without needing further proof, one ordinary Tuesday at a time.",
+    "note": "Hundredth-edition beat lands as the crest's natural exhale rather than a new peak: no fresh escalation, just accumulated ordinary practices (sixth cup made permanent, hours-notebook retired, Gerald's solo reading, Toby's non-refusal entry) settling into permanence. Level continues its scheduled fall toward coda around day 26-28 of the season (roughly day 105-107 overall). Remaining threads for closing beats: Russ's folded riddle (likely stays unopened as his resolution), Toby's notebook (nearly there with today's non-refusal entry, one more beat could finish it), Agnes's declared silence (holding, steer toward pure weather-talk for coda), the sixth cup now permanent ordinary fixture. Hold level dropping through low 40s to high 30s over next several days."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 4,
     "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 22,
+    "day_in_season": 23,
     "target_length": 32,
     "next_premise": ""
   }
