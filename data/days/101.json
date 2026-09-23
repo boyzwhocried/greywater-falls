@@ -1,0 +1,50 @@
+{
+  "day": 101,
+  "dateline": "Wednesday, January the 14th",
+  "weather": "Clear and cold, 31°F, a thin skin of ice at the shallow edge of the lake for the first time all season",
+  "stage": 3,
+  "lead": {
+    "headline": "Wednesday; The Card Comes Due, and Calloway Closes the Drawer for Good",
+    "byline": "By Wren Aldercott",
+    "body": "It was, of all the dates this season has produced, the plainest one on the calendar: the fourteenth stamp on the little pocket calendar tucked in the card's sleeve fell due today, the same Wednesday it fell due thirteen times before, and Calloway, who has spent three weeks reshelving a decade-old order one book at a time, closed the drawer on it this morning without a single new stamp going in. Sarah Voss did not come in to renew anything. She did not need to. Her account, as Calloway's system has it, is standing, in good order, three books borrowed and returned like anyone's, and the fourteen-year card that started all of this sits now in the same drawer as every other retired card in this library's history, filed under a name and nothing more.\n\nCalloway told this editor, at the circulation desk, in the flat afternoon light that has become this season's favorite light to tell the truth in, that she had gone looking one more time for the pocket calendar's original owner, the Wednesday reader who first checked the book out interrupted in 2009, and found, as she expected, nothing, no record, no name, no forwarding address. 'It isn't a mystery anymore,' she said, closing the drawer with the particular firmness of a woman who has decided a thing is finished and intends to make the drawer agree with her. 'It's a closed account. I've had harder ones from people who are still alive.' She has not thrown the calendar away. She has filed it, fourteen stamps and all, in the archive box marked, in her own hand, ORDINARY.\n\nThe town took its cue from her, as it has all season, without needing to be told twice. Doreen brought bread to the library at nine, same as she has every day since the loaf became free, and left an extra slice on the desk 'in case Calloway forgot to eat again, which she does, on account of being a librarian.' Gerald read the shore at noon under the ledger both his and Wren's names now sit on, found clarity holding steady rather than reaching further, and called that, for the first time all season, good news rather than a milestone. Marigold poured the sixth cup at seven the way she pours it every morning now, without comment, without waiting, and reports, when asked, that she has genuinely stopped counting whether it's touched.\n\nThe one true thing this editor sets down today, low, where the town keeps such things, though by now the town could probably recite it back without looking: a library card fourteen years overdue was never really the strange part of this story, the strange part was always that a town could hold a door open that long without once deciding to lock it, and Greywater Falls, faced today with the chance to finally close that door, chose instead to file it quietly beside all its other ordinary endings and put the kettle on."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 101: Level Falls to 44, Water Holds at 37°F, Clarity Steady at Twelve Feet, First Shore Ice of the Season; Sign Still Reads 7; No New Returned",
+      "body": "Gerald reports the reading unchanged from yesterday for the first time this season and calls the plateau, not the record, the actual milestone. A thin skirt of ice has formed at the shallow edge overnight, the first of the winter, which Gerald notes without further theory beyond the season, at last, behaving like one."
+    },
+    {
+      "headline": "Calloway Retires the 2009 Card, Files the Pocket Calendar Under 'Ordinary'",
+      "body": "The fourteen-stamp calendar that started the season's central question has been boxed and shelved in the library's own archive, no further action noted, no further stamps expected. Calloway declined to comment on who held the pen for any of the fourteen prior years, calling the question 'closed alongside the account.'"
+    },
+    {
+      "headline": "Russ Dunmore Checks the Drawer a Final Time, Marks the File 'No Further Action, Permanently'",
+      "body": "The constable's report, filed this afternoon, reads in full: 'Drawer locks. Card is closed. Nothing further required of this office.' It is, by this editor's count, the shortest entry in a file that has run to eleven pages since September."
+    },
+    {
+      "headline": "Toby Fern Logs a Full Sentence from Agnes's Porch for the First Time in Weeks",
+      "body": "Asked about the calendar, Agnes told the boy only, 'A door held open that long isn't waiting anymore, it's just standing.' Toby copied it whole into his notebook, closed the notebook, and went home for dinner, which he logged, deadpan, as 'the whole entry.'"
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: one archive box, hand-labeled ORDINARY, contents not for further discussion, inquire Calloway at the front desk.",
+    "FREE: day-old bread, library circulation desk, still and always, no card required.",
+    "WANTED: someone to tell Gerald the lake plateauing counts as news, since he insists it does not. See Wren.",
+    "NOTICE: The Kettle's sixth cup is poured daily regardless of company. Management has stopped taking questions about it and would appreciate you doing the same."
+  ],
+  "record": [
+    "Library account SV closed to standing, good order, three items borrowed and returned, no fees, no further notes.",
+    "Constable's file on the east alcove card marked CLOSED, no further action required, permanently."
+  ],
+  "letters": [
+    {
+      "from": "Calloway, Head Librarian",
+      "body": "To the editor: People keep asking me if I'm relieved. I am, but not the way they mean. I'm relieved the way you're relieved when a puzzle you've been carrying in your coat pocket for three weeks finally goes back in its box, edges lined up, nothing missing. The book came home. The card came due. That's the whole story a library is built to hold, and I held it. I'd do it again tomorrow if it asked."
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "To the editor: Ice at the shallows means the lake has decided what it's owed this year and isn't asking twice. Wear your boots this week. That is all I have to say about anything, and I mean it kindly."
+    }
+  ],
+  "editorNote": "A reader asked this office, plainly, whether the card business was 'over.' This editor's honest answer is that it was never a siege to be lifted, it was a book to be returned, and a town that spent fourteen years not noticing an open account has now spent three weeks closing it properly, which is the only kind of ending this paper has ever really been in the business of reporting."
+}
