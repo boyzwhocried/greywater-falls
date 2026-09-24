@@ -1,0 +1,49 @@
+{
+  "day": 102,
+  "dateline": "Thursday, January the 15th",
+  "weather": "Overcast, 29°F, snow threatened but not delivered, the lake's shallow ice holding overnight for the first time",
+  "stage": 2,
+  "lead": {
+    "headline": "Thursday; The Shore Ice Holds Through the Night, and Nobody Goes to Check It Twice",
+    "byline": "By Wren Aldercott",
+    "body": "The thin skin of ice that formed at the shallow edge two mornings ago was still there this morning, a little wider, a little thicker, the first ice of any season this editor can remember that has been allowed to simply exist without a committee forming around it. Gerald walked the shore at his usual hour, found the ledger's numbers holding rather than moving, and wrote, in full, 'Ice held overnight. Good.' He did not measure how far out it extended. He says he intends to let it grow at its own rate and check it again in a week, which is either the most relaxed sentence Gerald Pith has produced in thirty-one years of keeping a ledger, or the first sign that the ledger has finally stopped needing him more than he needs it.\n\nRuss spent the morning at the station doing what he described to this editor as 'paperwork that is actually paperwork,' meaning parking permits and a dispute over a fence line on Kestrel Street that has nothing whatsoever to do with the lake, the alcove, the card, or anyone named Voss. He still carries Agnes's folded riddle in his coat, by his own admission, and says he has stopped expecting to need it. 'A man can carry a thing without it weighing anything,' he told this editor, which this editor notes down not because it is new information but because Russ Dunmore has never once in this whole season said something and then declined to write it up as a formal report, and today he did.\n\nAt The Kettle, the sixth cup went out at seven as it does now, steam rising over a chair nobody has sat in for three weeks, and Marigold reports she has stopped watching the door when she pours it. Doreen brought the loaf to the library, ate a slice herself standing at the counter, and told Calloway she thought she might close the bakery an hour early on Saturdays from now on, not because anything requires it, but because she would like an hour, and there is, at last, nothing keeping her from taking one.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a place can go an entire season believing that peace has to be earned back one crisis at a time, and then wake up one gray Thursday to discover it has simply been living in the peace for days already, unannounced, the way ice forms at the edge of water too gradually for anyone to call the exact moment it happened."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 102: Level Falls to 39, Water Holds at 36°F, Clarity Steady at Twelve Feet, Shore Ice Widens Overnight; Sign Still Reads 7; No New Returned",
+      "body": "Gerald reports the reading as a plateau rather than a milestone for the second consecutive day, and declined, cheerfully, to speculate further."
+    },
+    {
+      "headline": "Doreen Halloway Plans an Early Saturday Closing, Cites Wanting an Hour Rather Than Needing One",
+      "body": "The mayor says the bakery will shut at three on Saturdays going forward. She was asked why. She said, 'Now, why not,' and changed the subject to the price of flour."
+    },
+    {
+      "headline": "Russ Dunmore Spends a Full Day on the Kestrel Street Fence Dispute, His First Ordinary Case in Weeks",
+      "body": "Mr. Aldous and Mrs. Petrie have disagreed about eight inches of property line since October. Russ says he intends to measure it himself this weekend, with an actual tape."
+    },
+    {
+      "headline": "Toby Fern's Notebook, Nearly Full, Gets Its Quietest Entry Yet: 'Ice. Held. Nobody panicked.'",
+      "body": "The boy says he is thinking about starting a second notebook for next year, 'in case there's something in it, or in case there isn't.'"
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: Wooden folding tables, six, good condition, ask Hank at the hardware store, priced to move before spring cleaning starts early this year.",
+    "LOST: One gray wool scarf, somewhere between the church and the diner. Sentimental value only. Ask for Mrs. Petrie.",
+    "NOTICE: The library's free bread continues through winter, courtesy of Halloway's Bakery, no questions asked, none needed.",
+    "WANTED: A second pair of hands for Saturday inventory at Mossley Hardware, three hours, pays in coffee and honesty."
+  ],
+  "record": [
+    "Births: none. Deaths: none.",
+    "Library circulation: 11 items checked out, 9 returned, 0 overdue."
+  ],
+  "letters": [
+    {
+      "from": "Gerald Pith",
+      "body": "To the editor: People keep asking if the plateau means something is finished or something is waiting. I have measured this lake for thirty-one years and I can tell you a flat number is not a sentence, it is just a number that agrees with yesterday. I intend to keep reading it. I no longer intend to explain it. Yours, Gerald."
+    },
+    {
+      "from": "Marigold Vance",
+      "body": "Somebody asked me last week if I felt silly pouring a cup nobody drinks. I told them I've been in the business of feeding people who might not show up my whole life, that's just called running a diner. The sixth cup isn't sad. It's just Tuesday, and Wednesday, and today. Come in, the coffee's good and nobody's watching you eat."
+    }
+  ]
+}
