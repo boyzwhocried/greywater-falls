@@ -1,0 +1,49 @@
+{
+  "day": 103,
+  "dateline": "Friday, January the 16th",
+  "weather": "Overcast, 28°F, light snow finally arriving after a week of threats, shore ice thickening",
+  "stage": 2,
+  "lead": {
+    "headline": "Friday; The Snow Finally Falls, and Nobody Was Waiting on It",
+    "byline": "By Wren Aldercott",
+    "body": "It snowed today, finally, after a week of gray skies that kept promising and not delivering, and the town's response to actual weather arriving on schedule was to go about its business as though this were the least remarkable thing to happen all season, which, this editor notes, it very nearly was. Gerald walked the shore at his usual hour under snow that had just started, found the ice a half-inch thicker than yesterday, the clarity unchanged at twelve feet, and wrote three words in the ledger before folding it under his coat against the weather: 'Snow. Ice. Fine.' He told this editor afterward that a man can only report the same good news so many ways before he starts repeating himself, and that repeating himself, in this case, felt like the whole point.\n\nDoreen took her promised early hour this Saturday-adjacent Friday as a kind of dry run, she said, closing the bakery forty minutes ahead of schedule to walk home in the first snow rather than drive, for no reason she felt like giving anyone, least of all this paper. She did stop at the library on the way, dropped an extra loaf on Calloway's desk, and left before Calloway could ask why, which Calloway reports has become its own kind of answer between them. Russ spent the day finishing his report on the Kestrel Street fence, a genuinely dull document running to four pages, and told this editor he considers it his best work of the season, meant, as far as this editor could tell, entirely without irony.\n\nAt The Kettle, the sixth cup went out at seven as always, and Marigold, pouring it, mentioned to this editor almost as an aside that she'd stopped thinking of it as the sixth cup at all somewhere in the last week; it is simply how many cups she sets out now, the way some counters have six stools. Toby came in after school, ordered pie, and told Marigold he's decided to start his new notebook on the first day of real snow, which today obliged. He showed this editor the last page of the old one before closing it for good: a single line, dated, reading only 'It snowed. Everyone let it.'\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a season doesn't end with a door slamming shut, most of the time, it ends with weather that was always going to come eventually finally showing up on an unremarkable Friday, and a town too settled by then to treat its arrival as anything other than what it plainly is, which is snow, and nothing more, and enough."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 103: Level Falls to 34, Water Holds at 35°F, Clarity Steady at Twelve Feet, Shore Ice a Half-Inch Thicker; Sign Still Reads 7; No New Returned",
+      "body": "Gerald Pith's morning reading, taken under the joint ledger, shows the level continuing its slow ease downward with no new development beyond the season's expected thickening of shore ice under first snowfall."
+    },
+    {
+      "headline": "Doreen Halloway Takes Her Early Hour a Day Ahead, Calls It a Dry Run for Saturday",
+      "body": "The mayor closed Halloway's Bakery forty minutes early to walk home in the first snow of the year, declining to explain herself to anyone who asked, including this paper."
+    },
+    {
+      "headline": "Toby Fern Closes His Notebook for Good, Opens a New One on the First Day of Snow",
+      "body": "The season's last entry in the old notebook reads, in full: 'It snowed. Everyone let it.'"
+    },
+    {
+      "headline": "Russ Dunmore Files His Four-Page Kestrel Street Fence Report, Calls It His Best Work of the Season",
+      "body": "The constable's account of a dispute over eighteen inches of property line contains, by his own count, zero mentions of the lake."
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One sled, barely used, previous owner (a Fern) has outgrown sledding but not, he insists, snow itself. Ask for Toby.",
+    "LOST: A reason to keep the bakery open past 4pm on Saturdays. Not actually lost. Found on purpose. — D. Halloway",
+    "NOTICE: The library will be open regular hours through the snow. Bread on the desk is free, as ever. Take a slice, take a book, take your time. — Calloway",
+    "WANTED: Someone to admit the fence on Kestrel Street was never really about the fence. Constable Dunmore is not taking further statements on the matter."
+  ],
+  "record": [
+    "Kestrel Street fence dispute: resolved, filed, four pages, no further action required.",
+    "First snowfall of the season recorded 6:40 a.m., accumulation light, expected to continue through evening."
+  ],
+  "letters": [
+    {
+      "from": "Gerald Pith",
+      "body": "To the Gazette: I have been asked twice this week whether a flat number is still a finding. I say it is. A stopped clock is right twice a day and a shoreline that holds steady is right every day, which I consider the better trade. Snow won't change my method any. I'll be out there tomorrow same as today, string and stick and all, and if it says the same thing again I will write the same thing again and consider it a good morning's work. — G. Pith"
+    },
+    {
+      "from": "Marigold Vance",
+      "body": "Somebody asked me today if I still call it the sixth cup. Truth is I stopped calling it anything a while back. It's just a cup now, same as the other five, poured because that's how many I pour. I don't know when it stopped being a thing I was doing on purpose and started being a thing the diner does. Might be that's what settling in looks like. — M. Vance"
+    }
+  ]
+}

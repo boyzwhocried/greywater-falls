@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 102,
-  "weather": "Overcast, 29°F, snow threatened but not delivered, the lake's shallow ice holding overnight for the first time",
+  "dayNumber": 103,
+  "weather": "Overcast, 28°F, light snow, shore ice thickening",
   "undercurrent": {
-    "level": 36,
+    "level": 32,
     "stage": 2,
     "phenomenon": "The card is closed and filed under ORDINARY; the town's remaining work is simply letting a quiet season stay quiet, its rituals (sixth cup, free bread, joint ledger) now load-bearing habits rather than watches kept.",
-    "note": "Level continues its planned descent through the mid-30s as directed, on pace for coda around day 105-107. Today intentionally low-incident: Gerald plateaus without milestone language, Russ gets a genuinely mundane case (fence dispute) to signal normalcy returning, Doreen takes a small personal freedom (early Saturday close) as a sign of full unclenching, Toby's notebook entry is minimal and content. Remaining coda threads still open: Russ's folded riddle (stays unopened, that's the resolution), Toby's notebook nearing completion, Agnes holding to weather-talk only. Hold the line on no new returned, sign steady at 7, nothing dramatic for 2-3 more days before the actual coda beat."
+    "note": "Level continues its planned glide down toward coda, now at 32, on pace for the coda beat around day 105-107. Today was intentionally the quietest yet: first snow arrived as a mundane weather event rather than an omen, Gerald's reading plateaus without incident, Doreen's early-hour habit begins to normalize a day ahead of schedule, Toby closes his notebook cleanly and opens a new one (signals full narrative turn to ordinary time), Russ's fence report stands as pure, satisfied procedural closure. Remaining open threads for coda: Russ's folded riddle stays folded and unneeded, Agnes still holding to weather-talk only (not featured today, due a small closing beat soon), sign steady at 7, no new returned. Nothing dramatic expected for 2-3 more days; hold this trajectory into the actual coda."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 4,
     "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 25,
+    "day_in_season": 26,
     "target_length": 32,
     "next_premise": ""
   }
