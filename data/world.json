@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 103,
-  "weather": "Overcast, 28°F, light snow, shore ice thickening",
+  "dayNumber": 104,
+  "weather": "Overcast, 27°F, no new snow, shore ice unbroken",
   "undercurrent": {
-    "level": 32,
+    "level": 30,
     "stage": 2,
     "phenomenon": "The card is closed and filed under ORDINARY; the town's remaining work is simply letting a quiet season stay quiet, its rituals (sixth cup, free bread, joint ledger) now load-bearing habits rather than watches kept.",
-    "note": "Level continues its planned glide down toward coda, now at 32, on pace for the coda beat around day 105-107. Today was intentionally the quietest yet: first snow arrived as a mundane weather event rather than an omen, Gerald's reading plateaus without incident, Doreen's early-hour habit begins to normalize a day ahead of schedule, Toby closes his notebook cleanly and opens a new one (signals full narrative turn to ordinary time), Russ's fence report stands as pure, satisfied procedural closure. Remaining open threads for coda: Russ's folded riddle stays folded and unneeded, Agnes still holding to weather-talk only (not featured today, due a small closing beat soon), sign steady at 7, no new returned. Nothing dramatic expected for 2-3 more days; hold this trajectory into the actual coda."
+    "note": "Continuing the planned glide toward coda around day 105-107. Today deliberately avoided restating Wednesday's drawer-closure or the sixth-cup beat; instead gave Agnes a small, self-contained closing gesture (one voluntary riddle, then permanent redirection to weather) and Russ a genuinely new, unremarked personal beat (the birdfeeder) rather than more procedural closure. Doreen's hour is now taken for its own sake, not framed as achievement, deliberately lower-key than prior entries. Remaining open threads for coda: sign steady at 7, no new returned, zero complaints filed (first time all season) as a quiet population/calm indicator, Esmé's 'tuning' language not yet given its own closing beat, Marigold and Gerald due a light final mention before coda proper. Hold trajectory; next 1-3 days should bring genuine coda with next_premise seeded."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 4,
     "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 26,
+    "day_in_season": 27,
     "target_length": 32,
     "next_premise": ""
   }

@@ -1,0 +1,46 @@
+{
+  "day": 104,
+  "dateline": "Saturday, January the 17th",
+  "weather": "Overcast, 27°F, no new snow, shore ice unbroken",
+  "stage": 2,
+  "lead": {
+    "headline": "Saturday; Agnes Crewe Predicts Mild Weekend Weather, and Is, So Far, Entirely Right",
+    "byline": "By Wren Aldercott",
+    "body": "Agnes Crewe, asked by this editor on her porch step this morning whether she had anything to add to the season, said only that Saturday would be mild, that the wind would come from the west after noon, and that a person ought to bring in the porch chairs before Monday regardless of what the sky did between now and then. She was right about the wind. She has not, in this editor's memory, been asked to be right about anything else in weeks, and seems to prefer it that way. When pressed, gently, on whether she had any riddles left in her at all, she said, 'A well doesn't apologize for running dry. It just waits for rain,' which this editor is choosing to file as the last riddle of the season, offered, notably, without being asked.\n\nDoreen Halloway took her promised early Saturday hour today, the real one this time, closing the bakery at four rather than five and walking the long way home past the lake, where she stood for a while, by Toby's account, not doing anything in particular. She did not stop at the library. She did not leave bread anywhere unasked. When this editor caught her afterward and inquired what the hour had been for, she said, 'Nothing, now,' and smiled in a way that suggested the sentence was not sad, only finished, and changed the subject to flour prices, as is her right and her custom.\n\nRuss spent the day off duty, which is itself notable only because it went entirely unremarked upon by the town, no fence disputes, no drawer checks, no folded riddle produced or discussed. He was seen at the hardware store buying a birdfeeder. Hank sold it to him without comment, which both men agreed afterward was the correct way to sell a birdfeeder.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a season ends less in the big closings, the drawers shut and the cards filed, than in the small ones nobody bothers to announce, an old woman keeping one riddle in reserve for no reason but that she can, a mayor taking an hour that means nothing anymore and is better for it, a constable buying a birdfeeder on a Saturday because the birds, unlike everything else this season, never once needed explaining."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 104: Level Falls to 31, Water Holds at 35°F, Clarity Steady at Twelve Feet, Shore Ice Unbroken; Sign Still Reads 7; No New Returned",
+      "body": "Gerald's reading this morning matched yesterday's within the margin he no longer bothers to note. He called the ledger 'quiet, and getting quieter, which is not the same as empty' and left it at that."
+    },
+    {
+      "headline": "Russ Dunmore Buys a Birdfeeder, Off Duty, Unremarked",
+      "body": "The constable's first purely personal errand in recent memory drew no comment from Hank Mossley beyond the price, which both men agreed was fair."
+    },
+    {
+      "headline": "Agnes Crewe Offers One Riddle, Unprompted, Then Returns to Weather",
+      "body": "Asked for forecasts only, Agnes gave a comment about wells and rain before declining, cheerfully, to elaborate further."
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One (1) hours notebook, lightly used, four unbroken weeks. Ask Doreen. No longer needed.",
+    "BIRDFEEDER, assembled, sold to R. Dunmore. Hank Mossley Hardware regrets nothing.",
+    "PORCH CHAIRS: bring them in before Monday. Advice, not a warning. — A. Crewe",
+    "WANTED: nothing in particular. Ask around. Everyone seems to have some to spare."
+  ],
+  "record": [
+    "Marriages: none. Births: none. Deaths: none.",
+    "Complaints filed with the constable this week: zero, for the first time this season."
+  ],
+  "letters": [
+    {
+      "from": "Hank Mossley",
+      "body": "For the record, I did not misquote myself about the birdfeeder. It was a good birdfeeder. Russ picked it out himself, took his time about it, seemed to enjoy the choosing. I sold it to him same as I'd sell anyone anything. Nothing else to report and for once I mean that the way it sounds."
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "West wind after noon, mild through Sunday, bring the chairs in before Monday. That's the whole forecast. If you want more than that from me you're welcome to wait for spring like everybody else does."
+    }
+  ],
+  "editorNote": "A quiet Saturday, reported at the length it deserves, which is not much. This paper intends to keep it that way as long as the town does."
+}
