@@ -1,0 +1,50 @@
+{
+  "day": 105,
+  "dateline": "Sunday, January the 18th",
+  "weather": "Clear and cold, 24°F, sun on the shore ice by midmorning",
+  "stage": 2,
+  "lead": {
+    "headline": "Sunday; The Town Files Its First Week All Season With Nothing to File",
+    "byline": "By Wren Aldercott",
+    "body": "This editor went looking, as is her habit on a Sunday, for something to put above the fold, and found instead that the week just past closed with zero complaints lodged at the constable's office, the first such week Russ Dunmore can locate in the log going back to spring. He did not make an announcement of it. He mentioned it to this editor the way a man mentions the weather having been fine, and then went back to filling the birdfeeder on his own porch rail, a chore he has apparently decided is now simply his, the way the shore reading is Gerald's and the sixth cup is Marigold's and nobody remembers assigning any of it.\n\nGerald's morning reading held again today, clarity at twelve feet, ice unbroken, the level still easing downward the way it has every day this month, and he told this editor he has stopped calling it a plateau because a plateau implies you are waiting to see what comes after it, and he isn't, particularly, anymore. Agnes was on her porch with a blanket over her knees and the chairs already brought in against a wind that had not yet arrived. Asked whether she had anything left to say about the season, she said she believed she'd said what needed saying, and that from here on a person could simply ask her about tomorrow's weather like anybody else, and mean it, which is as close to a formal retirement notice as this town is likely to get from a woman who has been telling it the truth in riddles since before this editor was born.\n\nDoreen closed the bakery at its ordinary hour today, five o'clock, no early walk, no unasked bread, and when this editor stopped in for the last of the raisin loaf she said only that some weeks the hour is just an hour and the bread is just bread, and looked, saying it, entirely at peace with the fact that this was no longer news. Marigold set out her usual number of cups at seven, six among them, and served all of them to people who ordered coffee, which she says is now simply what a Sunday morning at The Kettle looks like.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a season that spent its middle convinced every ordinary object was a message finally arrives at a week where the birdfeeder is just a birdfeeder, the complaint log is empty because nobody had cause to complain, and the quiet, when you finally stop checking it for meaning, turns out to have been the whole point all along."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 105: Level Falls to 28, Water Holds at 35°F, Clarity Steady at Twelve Feet, Shore Ice Unbroken; Sign Still Reads 7; No New Returned",
+      "body": "Gerald's reading this morning matched yesterday's within the usual margin. He has stopped noting the margin as remarkable."
+    },
+    {
+      "headline": "Constable's Log Shows Zero Complaints Filed All Week, First Time This Season",
+      "body": "Russ Dunmore confirmed the figure without comment and returned to his birdfeeder, which he reports is already visited by two chickadees and, he suspects, a nuthatch."
+    },
+    {
+      "headline": "Agnes Crewe Declines to Riddle, Calls Herself Retired From It, Asks After Tomorrow's Weather Instead",
+      "body": "She predicts clear skies through Tuesday. This editor has learned not to bet against her."
+    },
+    {
+      "headline": "Marigold Vance's Sixth Cup Goes to an Ordinary Customer, First Time All Season",
+      "body": "A trucker passing through on the north road, unaware of any custom, sat in the chair and drank his coffee. Marigold says she nearly told him it was significant, and then didn't, because it wasn't, anymore."
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: Birdfeeder, cedar, one careful owner (self). Inquire R. Dunmore, station house. Comes with two chickadees already attached, no charge.",
+    "WANTED: Someone to help Gerald Pith re-shelve thirty-one years of ledgers now that the daily entries have gotten shorter. Pay in bread.",
+    "The Kettle: six cups poured daily, rain or shine, occupant optional. Always has been, from here on.",
+    "LOST: Nothing. For the first time all season, the constable's office has nothing on file. If you find something anyway, bring it by."
+  ],
+  "record": [
+    "Constable's office: 0 complaints filed, week ending Jan. 18 — first such week on record this season.",
+    "Lake Watch, Day 105: level 28, temp 35°F, clarity 12 ft, sign 7, returned 0."
+  ],
+  "letters": [
+    {
+      "from": "Gerald Pith",
+      "body": "To the Gazette: I have stopped calling it a plateau. A plateau is a thing you are waiting to leave. This is just where the number lives now, and I am content to live near it. Yours, Gerald Pith."
+    },
+    {
+      "from": "Marigold Vance",
+      "body": "Wren, a man from out of town sat in the sixth chair this morning and drank the sixth cup and had no idea. I almost told him. Then I thought, no, let him just be a man having coffee. Some things get to be that again. -M."
+    }
+  ],
+  "editorNote": "A note on this week's shortness: this editor looked hard for a crisis and found a birdfeeder, an empty log, and a stranger drinking coffee in a chair that used to mean something. She is printing that as the news, because it is."
+}
