@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 105,
-  "weather": "Clear and cold, 24°F, sun on the shore ice by midmorning",
+  "dayNumber": 106,
+  "weather": "Clear and cold, 22°F, first hairline crack heard in the shore ice near noon",
   "undercurrent": {
     "level": 30,
     "stage": 2,
-    "phenomenon": "The card is closed and filed under ORDINARY; the town's rituals (birdfeeder, sixth cup, joint ledger) have finished their turn into unremarkable habit, no longer watches kept but simply how the town lives now.",
-    "note": "Glide continues on schedule toward coda around day 106-107. Today gave the season's calm its first fully external witness (the stranger in the sixth chair) rather than another internal resident beat, which lets the ritual's meaning dissolve outward rather than just inward. Zero complaints filed is now on record as the quiet's clearest indicator. Agnes has now formally and completely retired the riddle voice; nothing left to close there but a final wave in the coda itself. Remaining for coda: sign steady at 7 (should be reaffirmed once more, lightly, in the coda lead itself rather than buried in a brief), a closing image that gathers Doreen/Gerald/Marigold/Russ/Agnes together or in parallel, and the season's next_premise planted gently. Suggest coda on day 106 or 107, brief and warm, low undercurrent level (aim high teens to low twenties by then), no new phenomenon introduced, only a fresh small ordinary detail seeded for next season (something is 'due' again, or a new arrival, or a first thaw crack in ice — keep it tiny and unforced)."
+    "phenomenon": "The card is closed and filed under ORDINARY; the season's rituals have finished their turn into unremarkable habit. Today's small note, an overdue book returned without ceremony and a hairline crack that held, are treated by the town as weather, not warning.",
+    "note": "One day out from coda. Level is now in the high teens to low twenties as directed. Today planted the seed for next_premise lightly (the overdue paperback, no fine, no follow-up) without escalating it, and reaffirmed the sign at 7 in a brief rather than the lead per the note. Save the gathered-together closing image and the sign reaffirmation in the LEAD for the coda tomorrow. Agnes should get her final wave; Doreen/Gerald/Marigold/Russ should be gathered once, briefly, in parallel or together. Keep it warm, small, no new phenomenon."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 4,
     "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 28,
+    "day_in_season": 29,
     "target_length": 32,
     "next_premise": ""
   }

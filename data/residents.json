@@ -24,16 +24,16 @@
       }
     ],
     "secret": "She has known since she was a girl that the lake takes and gives back. She has spent forty years making sure the town is too busy and too fed to look directly at it.",
-    "mood": "Quiet, at peace with an hour and a loaf that mean nothing anymore",
+    "mood": "Quiet, at peace with an hour and a loaf that mean nothing anymore.",
     "status": "present",
-    "arc": "Doreen's claimed hour finishes settling into pure ordinary habit, indistinguishable now from any other closing time, no explanation needed or offered",
+    "arc": "Doreen's claimed hour finishes settling into pure ordinary habit; today's ordinary Monday delivery, unremarked, confirms the ritual has fully dissolved into plain life.",
     "memory": [
-      "Day 98: Wrote to the Gazette declaring the town's whole policy toward the guest is to feed her the way it fed everyone else, and made the library bread free until further notice.",
       "Day 100: Retired her hours notebook after four unbroken weeks, filed it away, and brought bread to the office instead of an explanation.",
       "Day 102: Announced she'll close the bakery early on Saturdays for no reason but wanting the hour, and changed the subject to flour prices when pressed.",
       "Day 103: Closed the bakery forty minutes early to walk home in first snow, calling it a dry run for Saturday, and explained nothing.",
       "Day 104: Closed the bakery at four for real, walked the long way past the lake without stopping anywhere, and told Wren the hour was for 'nothing, now' and meant it kindly.",
-      "Day 105: Closed the bakery at its ordinary five o'clock, no early walk, no unasked bread, and told Wren some weeks the hour is just an hour."
+      "Day 105: Closed the bakery at its ordinary five o'clock, no early walk, no unasked bread, and told Wren some weeks the hour is just an hour.",
+      "Day 106: Delivered the loaf at the ordinary hour, no early walk, and told Wren there was genuinely nothing to add."
     ],
     "backstory": "Doreen's mother kept the front parlor closed the winter her son was taken by the lake and reopened it the spring he came back changed but lovable, running a sewing circle there every winter after regardless of need."
   },
@@ -57,16 +57,16 @@
       }
     ],
     "secret": "He measured the waterline with a stick and a knot of string and has the numbers in a notebook. The water is rising. It has not rained.",
-    "mood": "Settled, content to live near a number rather than wait on it",
+    "mood": "Unbothered, almost fond of the crack for giving him one more ordinary thing to measure.",
     "status": "present",
-    "arc": "Gerald retires the word 'plateau' itself, naming the steady number as simply where things live now rather than a waypoint toward some other reading",
+    "arc": "Gerald's arc completes in full: even a new event (the crack) gets folded instantly into his flattened, waiting-for-nothing vocabulary, proof the plateau language has become permanent.",
     "memory": [
-      "Day 100: Took the morning reading alone under the joint ledger, found clarity to twelve feet, the farthest ever recorded, and let the number stand without adding a word beside it.",
       "Day 101: Found the lake's clarity unchanged from yesterday, called the plateau itself the actual milestone, and noted the season's first shore ice without theory.",
       "Day 102: Wrote to the Gazette that a flat number only agrees with yesterday, reported ice widening overnight without comment, and declined once more to explain anything.",
       "Day 103: Took the morning reading in first snow, wrote 'Snow. Ice. Fine,' and called repeating himself the whole point.",
       "Day 104: Read the shore, found it matching yesterday within the margin, and called the ledger 'quiet, and getting quieter, which is not the same as empty.'",
-      "Day 105: Wrote to the Gazette that he has stopped calling the flat reading a plateau, since a plateau implies waiting to leave it, and he no longer is."
+      "Day 105: Wrote to the Gazette that he has stopped calling the flat reading a plateau, since a plateau implies waiting to leave it, and he no longer is.",
+      "Day 106: Found and measured the season's first hairline crack in the shore ice, wrote 'Ice cracked. Held anyway,' and declined to treat it as anything but weather."
     ],
     "backstory": "Forty years carrying the town's mail. Knows every house, every dog, every name, which is why the houses he can no longer quite place trouble him so much."
   },
@@ -123,16 +123,16 @@
       }
     ],
     "secret": "She keeps a second set of notes she does not print, because she is not sure the town could read them and stay.",
-    "mood": "Steadied, and quietly satisfied that an ending arrived without ceremony.",
+    "mood": "Steadied, watching the season's last threads settle without needing to be pulled tight.",
     "status": "present",
-    "arc": "Wren's stewardship holds firm past the hundredth edition: she reports the card's closing as unremarkable, having already said the larger thing she needed to say.",
+    "arc": "Wren's stewardship holds firm into the season's final approach: she reports the crack and the overdue book as ordinary business, saving her larger reflection for the coda itself.",
     "memory": [
-      "Day 96: Read the name Sarah Voss in the east alcove in flat morning light, printed it whole, and noted her hand did not shake until she reached the last line.",
       "Day 97: Accepted Gerald's thirty-one-year ledger for one dollar, agreeing to keep the column running under both their names.",
       "Day 98: Reported the thirteenth congregant at St. Mark's and the sixth cup filled at The Kettle in the same edition, and noted privately that both her notebooks, for the first time, felt like the same book.",
       "Day 99: Reported Sarah Voss issued a standard three-week library card, closing the season's central file as an unremarkable Monday transaction.",
       "Day 100: Marked the Gazette's hundredth edition by writing, plainly, that the paper's real work this season was teaching the town to live beside what it cannot explain.",
-      "Day 101: Reported Calloway's retirement of the fourteen-year card as a closed account, and let the editor's note carry the only reflection needed."
+      "Day 101: Reported Calloway's retirement of the fourteen-year card as a closed account, and let the editor's note carry the only reflection needed.",
+      "Day 106: Reported a hairline ice crack and an overdue library return in the same edition, both filed as unremarkable, and noted privately that the town no longer needs her to say so."
     ],
     "backstory": "Wren keeps a second notebook that she does not print. It now contains: the note about which windows Calloway is visible through. She does not know yet why she wrote it down."
   },

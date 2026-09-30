@@ -1,0 +1,49 @@
+{
+  "day": 106,
+  "dateline": "Monday, January the 19th",
+  "weather": "Clear and cold, 22°F, first hairline crack heard in the shore ice near noon",
+  "stage": 2,
+  "lead": {
+    "headline": "Monday; A Crack in the Ice, and the Whole Town Declines to Read It As News",
+    "byline": "By Wren Aldercott",
+    "body": "Gerald heard it before he saw it: a single crack, thin as a hair, running eight inches out from the shore rock near his usual reading spot, sometime around noon. He knelt, looked at it for a while, measured its length with the same knotted string he has used all season, and wrote in the ledger: 'Ice cracked. Held anyway.' He told this editor, packing up his stick and his notebook, that a crack is not the same as a break, and that he intends to keep saying so until it stops being interesting, which he suspects will be soon, and which he does not mind in the slightest.\n\nThe welcome sign at the county line was repainted this morning, its yearly maintenance, ordered back in November and only now got round to, and the crew that did it confirmed to this editor without being asked that the numeral reads 7, same as it has read all season, same as the town intends to keep it. Nobody at the depot could recall who first decided the number, only that it has always been the town's number rather than the census's, and that changing it now would feel less like an update than an argument nobody wants to have.\n\nAt the library, Calloway mentioned in passing, sorting returns, that a slim paperback came back today three weeks overdue with no fine assessed and no explanation asked, the borrower a name nobody recognized, gone again before the desk bell stopped ringing. Calloway logged it as ordinary and did not, this editor is glad to report, go looking behind any more shelves to see what else might be waiting there. Doreen brought her usual loaf by at closing, no early hour today, no long walk past the lake, just a Monday, bread on a desk, and a short conversation about nothing that both women seemed to enjoy.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a season that spent months teaching itself to live beside the unexplainable has finally learned the smaller, harder lesson underneath it, which is that some cracks are only ever going to be cracks, and a town wise enough to know the difference has earned, at last, the right to stop checking twice."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 106: Level Falls to 24, Water Holds at 35°F, Clarity Steady at Twelve Feet, First Hairline Crack in Shore Ice; Sign Still Reads 7; No New Returned",
+      "body": "Gerald's noon reading found the level down three points from Sunday, clarity unchanged, and a single crack eight inches long near his usual seat, which held under its own weight through the afternoon. No returned animals were reported at dusk; the shore, per Toby's log, was quiet and empty of everything but the usual geese."
+    },
+    {
+      "headline": "Overdue Library Book Returned With No Fine, No Explanation, and No Follow-Up",
+      "body": "Calloway processed a returned paperback three weeks late this morning, waived the fine as a matter of routine, and declined, notably, to investigate the borrower's name further, calling the matter closed the moment the book hit the shelf."
+    },
+    {
+      "headline": "Welcome Sign Repainted, Numeral Unchanged; Depot Crew Confirms It's Always Been the Town's Number, Not the Census's",
+      "body": "The county line sign received its scheduled repaint this morning. The 7 was restored exactly as found. Asked who set the figure originally, the crew foreman said only that it predates his employment and that some things are maintained rather than decided."
+    },
+    {
+      "headline": "Doreen Halloway's Loaf Delivery Returns to Its Ordinary Hour, No Early Walk, No Word Said About It",
+      "body": "The mayor closed the bakery at five and dropped bread at the Gazette office on her way home, same as most Mondays, and told this editor there was, for once, genuinely nothing to add."
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One (1) porch chair, slightly weathered, brought in early against a wind that never showed. Ask for Agnes.",
+    "WANTED: Someone to take the second shift on the north pond ice watch, now that the geese have made it a going concern. Inquire at the constable's office.",
+    "FOUND: A knot of string, waterlogged, near the shore rock. Gerald Pith would like it back if it's his, and suspects it is.",
+    "NOTICE: The Kettle's coffee remains six cups every morning, drunk or not, and will for the foreseeable future. No further comment offered."
+  ],
+  "record": [
+    "Constable's log: zero complaints, second consecutive week.",
+    "Library ledger: one overdue return processed, no fine, no flag."
+  ],
+  "letters": [
+    {
+      "from": "Gerald Pith",
+      "body": "To the Gazette: A crack in ice is not an emergency, it is ice doing what ice does when the temperature does what temperature does. I will keep measuring it because that is the job I gave myself, not because I expect it to become anything else. Yours in the same string and stick as always, Gerald."
+    },
+    {
+      "from": "Calloway",
+      "body": "For the record, since people will ask: the book came back, the fine was waived per policy for any account inactive more than a decade, and no, I did not check behind the ninth book again. Some shelves are better left in the last cataloguer's order. — Calloway, Head Librarian"
+    }
+  ]
+}
