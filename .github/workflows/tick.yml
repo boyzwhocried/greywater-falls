@@ -11,7 +11,7 @@ name: Daily tick
 
 on:
   schedule:
-    - cron: "0 23 * * *" # 06:00 WIB (UTC+7) - a morning paper
+    - cron: "0 23 */3 * *" # 06:00 WIB (UTC+7), every 3rd day-of-month (cost trim 2026-10-01; was daily)
   workflow_dispatch: {} # also runnable by hand from the Actions tab
 
 permissions:
