@@ -1,0 +1,45 @@
+{
+  "day": 107,
+  "dateline": "Tuesday, January the 20th",
+  "weather": "Clear and cold, 20°F, wind out of the west, no new snow",
+  "stage": 2,
+  "lead": {
+    "headline": "Tuesday; The Thursday Game, the Porch Chairs In, and a Town That Has Stopped Waiting for the Other Shoe",
+    "byline": "By Wren Aldercott",
+    "body": "Hank Mossley and Russ Dunmore played their regular Thursday hand two days early this week, on account of Hank's niece visiting Thursday proper, and by all accounts it was the same game it has always been, except that neither man bothered to say the word nothing over cards, because nobody at the table was waiting for either of them to. Hank sold two bags of birdseed before noon and called it, without irony, the whole of his day's news. Russ filled his feeder, found a chickadee already waiting on the rail for him, and logged that in his own private notebook, which this editor happens to know exists and does not intend to go looking in.\n\nDoreen, Gerald, and Marigold were all three at the counter of The Kettle around four o'clock this afternoon, not by arrangement, each having simply wandered in for coffee at the end of an ordinary day, and sat together for the better part of an hour talking about nothing in particular, the price of flour, the width of the ice, a specials board that no longer needs its headcount erased each morning because nobody is counting anymore. Marigold says she did not notice until they'd gone that she'd set out exactly the right number of cups without thinking about it once.\n\nAgnes Crewe brought her porch chairs in this afternoon against a wind that did, in fact, arrive from the west as she'd said it would, and waved to this editor from the window rather than coming to the door, which she explained afterward was not rudeness but economy, she has said what she had to say and sees no reason to keep saying it with her whole body. She asked, unprompted, how the paper was getting along, and seemed satisfied with the answer that it was getting along fine, the way a thing does when it has stopped needing to prove it.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a season ends not when the strange stops happening but when the town stops flinching at its own ordinary Tuesday, and Greywater Falls, this week, flinched at nothing at all."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 107: Level Holds at 22, Water Steady at 35°F, Clarity Twelve Feet, Shore Ice Unbroken Since the Crack; Sign Still Reads 7; No New Returned",
+      "body": "Gerald's reading came in two points below Sunday's, within the margin he no longer bothers to call a margin. The crack from Saturday has neither widened nor closed; it is simply there, the way a scar is simply there. No animal came to the shore at dusk that was not already known to the town."
+    },
+    {
+      "headline": "Welcome Sign, One Day Later, Still Reads 7; Depot Confirms No Further Maintenance Scheduled Until Spring",
+      "body": "Following yesterday's repainting, the county line sign was inspected again today at this paper's request and found unchanged. The depot foreman said, reasonably, that a sign doesn't need checking twice in two days, and this editor agreed, reasonably, and checked anyway."
+    },
+    {
+      "headline": "Hardware Store Sells Out of Birdseed Twice in One Week; Hank Mossley Calls It 'Just Winter'",
+      "body": "Mr. Mossley has ordered a second case for Friday. Asked whether the sudden interest in feeding birds meant anything, he said it meant people had feeders now, and that was the whole of it."
+    }
+  ],
+  "classifieds": [
+    "FOUND: one knitted scarf, grey, on the bench outside the post office. Claim at the Gazette office, no questions asked.",
+    "WANTED: someone to split firewood for the Pell Road green house before the thaw. Pie provided, not negotiable, ask for Mrs. Vance.",
+    "FOR SALE: birdfeeders, in stock, Mossley Hardware. Seed restocking Friday."
+  ],
+  "record": [
+    "Constable's log: zero complaints filed, second consecutive week.",
+    "Births: none. Deaths: none. Returns: none."
+  ],
+  "letters": [
+    {
+      "from": "Gerald Pith",
+      "body": "To the Gazette: the crack held again today. I have decided to stop reporting on it daily, as a crack that doesn't change is no longer an event, it's a feature of the ice, like a knot in wood. I will mention it again if it does something. It has given no indication of planning to."
+    },
+    {
+      "from": "Marigold Vance",
+      "body": "Wren, you'll want to know three of my regulars sat at my counter together today without planning it, and I poured coffee for all of them and didn't think twice about how many cups that made. Felt good not counting. Tell the paper that if you want, or don't, I don't mind either way anymore."
+    }
+  ],
+  "editorNote": "This editor has been asked, more than once this season, what she intends to do with the second set of notes she keeps and does not print. The honest answer is that she is not sure yet they are still necessary. Tomorrow's edition will say more on that score, if there is more to say."
+}

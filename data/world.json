@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 106,
-  "weather": "Clear and cold, 22°F, first hairline crack heard in the shore ice near noon",
+  "dayNumber": 107,
+  "weather": "Clear and cold, 20°F, wind out of the west, no new snow",
   "undercurrent": {
     "level": 30,
     "stage": 2,
-    "phenomenon": "The card is closed and filed under ORDINARY; the season's rituals have finished their turn into unremarkable habit. Today's small note, an overdue book returned without ceremony and a hairline crack that held, are treated by the town as weather, not warning.",
-    "note": "One day out from coda. Level is now in the high teens to low twenties as directed. Today planted the seed for next_premise lightly (the overdue paperback, no fine, no follow-up) without escalating it, and reaffirmed the sign at 7 in a brief rather than the lead per the note. Save the gathered-together closing image and the sign reaffirmation in the LEAD for the coda tomorrow. Agnes should get her final wave; Doreen/Gerald/Marigold/Russ should be gathered once, briefly, in parallel or together. Keep it warm, small, no new phenomenon."
+    "phenomenon": "The season's rituals have finished dissolving into unremarkable habit; today's gathering at the diner counter and the held crack in the ice are treated as nothing more than a Tuesday.",
+    "note": "One day from coda. Level eased to 18, holding stage 2 for one more day per directive. Gathered Doreen/Gerald/Marigold together at the counter as instructed, gave Agnes her near-final wave (window, not door), kept Russ/Hank's Thursday game moved up but unremarkable. Saved the full closing image and sign reaffirmation for tomorrow's coda lead. No new phenomenon introduced. Wren's second notebook teased in editor's note for coda payoff."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 4,
     "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 29,
+    "day_in_season": 30,
     "target_length": 32,
     "next_premise": ""
   }
