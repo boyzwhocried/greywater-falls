@@ -1,0 +1,50 @@
+{
+  "day": 108,
+  "dateline": "Wednesday, January the 21st",
+  "weather": "Clear and cold, 22°F, wind easing out of the west, no new snow",
+  "stage": 2,
+  "lead": {
+    "headline": "Wednesday; The Sign Still Reads 7, and This Editor Finally Says Why That Is Correct",
+    "byline": "By Wren Aldercott",
+    "body": "This editor keeps two notebooks. One of them is this newspaper, which you are holding, and which has spent a season recording a town's slow, deliberate decision to treat the impossible as Tuesday. The other is smaller, kept in a drawer, and has in it things this editor was not sure the town could read and still sleep. Today, with the season closing the way seasons do here, quietly, this editor opened the drawer and found there was less in it than she remembered, because most of what she'd been saving for later had already, somewhere along the way, walked itself into the front-page notebook without her permission. That is, she suspects, the whole trick of this town. It does not hide what frightens it. It feeds it breakfast and gives it a column.\n\nGerald took his reading at the usual hour and found the crack from Monday unchanged, which he says is the last entry he intends to make about it, filing the ledger under 'held' and closing the cover with what this editor can only call satisfaction. The welcome sign stood at the county line all day reading 7, as it has read all season, and as it will read tomorrow, because, as the depot crew said back in November and nobody has disputed since, it has always been the town's number and not the census's, and a town is allowed to count its own heart however it likes.\n\nAgnes Crewe sat on her porch this afternoon with the chairs still in from Tuesday's wind, and when this editor came by with no particular question, she offered none of her own either, just a nod toward the lake and the word 'settled,' which from Agnes Crewe is practically a sonnet. Doreen closed the bakery at five, brought the loaf by at five-fifteen, and when this editor asked if there was anything to add, said, kindly, that there wasn't, and that this was the nicest kind of nothing she could remember having.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a sign that reads 7 when the register reads 9 is not a town lying to itself, it is a town agreeing on what it is willing to carry out loud, and the two extra, whoever they are this season, are carried anyway, just quietly, the way you carry anything you love and do not entirely understand."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 108: Level Holds at 20, Water Steady at 35°F, Clarity Twelve Feet, Crack Unchanged Since Monday; Sign Still Reads 7; No New Returned",
+      "body": "Gerald Pith closed his reading with the word 'held' for the second day running and says, barring a thaw, this will be his final entry of the season. The three returned animals gathered at dusk as they have all month, faced the water, hummed the one note, and went home dry enough by morning."
+    },
+    {
+      "headline": "Calloway Returns the Fourteen-Year Card to the Drawer Behind the Ninth Book, Calls the Matter Closed",
+      "body": "The librarian, finishing the east alcove reshelving begun in autumn, placed the old pocket calendar back where it was found, face down, and told this editor there is nothing further to catalogue. Asked whose hand the final stamp belonged to, Calloway declined to look closely enough to say."
+    },
+    {
+      "headline": "Russ Dunmore's Birdfeeder Draws a Second Chickadee; Constable Declines to Call It a Pattern",
+      "body": "Two birds at the rail this morning, same as yesterday plus one, logged without further comment in a notebook this editor continues not to read."
+    },
+    {
+      "headline": "Diner Counter Sees Its Usual Four by Four O'Clock, Nobody Remarking On the Number",
+      "body": "Doreen, Gerald, and Marigold again, joined today by Hank between deliveries. Marigold reports she has stopped keeping the specials board blank each morning; there is simply, now, a number on it, and it is whatever number shows up."
+    }
+  ],
+  "classifieds": [
+    "FOUND: one knotted length of string, shore-worn, in the depot toolbox. Gerald Pith will not be claiming it; says it's done its work.",
+    "FOR SALE: birdfeeder, barely used, one careful owner. Inquire Mossley Hardware, ask for the display model, not the one on Russ Dunmore's porch rail.",
+    "WANTED: a volunteer to read the shore each morning come spring, when Gerald retires the string for good. No experience necessary. A willingness to write 'held' convincingly is an asset.",
+    "NOTICE: The Greywater Gazette will run a season-closing edition tomorrow. This editor asks that nobody bring her anything new to put in it."
+  ],
+  "record": [
+    "Welcome sign, county line: reads 7. Census: 15. Difference carried, as always, without comment.",
+    "Constable's log: zero complaints filed, second week running."
+  ],
+  "letters": [
+    {
+      "from": "Calloway, Town Librarian",
+      "body": "To the Editor: The card is back where it belongs, behind the ninth book, face down, where I will not be looking at it again this season. Fourteen years of stamps is fourteen years of someone doing their job. I intend to let them keep doing it. — Calloway"
+    },
+    {
+      "from": "Agnes Crewe",
+      "body": "A kettle that's gone quiet hasn't stopped working. It's just stopped shouting about it. Ask me about the weather tomorrow, Wren, and I'll tell you true: clear, and cold, and nothing you need a coat for that you don't already own."
+    }
+  ],
+  "editorNote": "A reader asked this editor, last week, why the second notebook exists at all if its contents keep migrating into the first. This editor has thought about it and has an answer, finally: it exists so there is somewhere to put a thing before you are ready to know it's true. By morning, most things move on their own. Tomorrow's edition will close the season. This editor intends to let it close gently, which is the only way this town has ever closed anything."
+}
