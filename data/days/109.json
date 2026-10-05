@@ -1,0 +1,49 @@
+{
+  "day": 109,
+  "dateline": "Thursday, January the 22nd",
+  "weather": "Clear and cold, 24°F, wind calm, pale sun by midmorning",
+  "stage": 1,
+  "lead": {
+    "headline": "Thursday; the Sign Still Reads 7, the Lake Lies Quiet, and This Editor Closes the Season's Books",
+    "byline": "By Wren Aldercott",
+    "body": "There is no news today, in the sense that the word usually means, and this editor has decided that is the news. Gerald's ledger stays closed. The crack stays held. Agnes's porch chairs stay in, and this afternoon she said the last word she intends to say on the subject of the lake for a good long while, which was not a riddle at all but a plain sentence: 'It's resting. Let it.' This editor wrote it down and did not ask what it was resting from, because by now the whole town could answer that question and has simply decided it doesn't need to, out loud, in order to know it.\n\nAt five o'clock the county crew came through on their last pass before spring and confirmed, as they do every season's end, that the welcome sign reads 7, and will keep reading 7, and that nobody at the depot has ever seen fit to change it to match whatever number the census office prefers to believe. The census, for the record, still says 9. This editor has stopped treating that gap as a story and started treating it as a fact of the town's geography, the way you'd note a sandbar or a bend in the road. It is simply where Greywater Falls keeps its difference between what it shows and what it carries, and the town, this year, carried it well.\n\nThis editor opened the second notebook one final time tonight, the one kept in the drawer, the one meant for what couldn't go to press. It is, as of this evening, empty. Not thrown out, not burned, just empty, every entry having walked itself onto the front page sometime over the last thirty-two days, in Gerald's ledgers and Agnes's weather reports and Doreen's unasked bread. A town that tells itself the truth in public does not need a drawer. This editor is retiring that notebook, not because there will never again be anything to put in it, but because whatever comes next deserves a fresh one.\n\nThe one true thing this editor sets down today, low, where the town keeps such things, on the last page of a season that asked everyone to live beside what they could not explain and found, to its own quiet surprise, that the living was the easy part: the lake gives back in the spring what it takes in the autumn, Agnes says, and what comes back you love anyway, and this year, for the first time this editor can find on record, nobody in Greywater Falls spent the whole winter afraid of which direction that arrow was about to point."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 109: Level Eases to 14, Water Holds at 35°F, Clarity Twelve Feet, Ice Unbroken; Sign Still Reads 7; No New Returned",
+      "body": "Gerald's final season reading, taken this morning as a courtesy rather than a duty, shows the level down two points from Tuesday and the crack from Monday unchanged. He has handed the string and stick to no one in particular, saying only that he expects to want them again come thaw."
+    },
+    {
+      "headline": "Diner Closes the Season With Its Usual Four, Marigold Declares the Sixth Cup Retired Along With the Rest of Winter",
+      "body": "Marigold Vance served coffee to her regulars at the ordinary hour and confirmed, when asked, that she has stopped thinking of any cup on that counter as more than a cup. 'It was never really extra,' she said. 'It was just early.'"
+    },
+    {
+      "headline": "Agnes Crewe, Asked for One Last Word, Gives the Town a Sentence Instead of a Riddle",
+      "body": "Mrs. Crewe, 91, declined this evening to be quoted further on the matter of the lake, the season, or the weather beyond Friday, saying she had said what needed saying and intended to enjoy the quiet she'd earned. She did agree to be quoted on pie, which she said was better warm."
+    },
+    {
+      "headline": "Wren Aldercott Retires the Second Notebook; Gazette to Run One Ledger Going Forward",
+      "body": "This editor confirms the paper's unpublished notes have been folded fully into the public record as of this printing. A new notebook, blank, has been set aside for whatever the spring brings."
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One knotted measuring string, lightly used, excellent condition, ask for Gerald at the usual bench.",
+    "WANTED: Someone to take the porch-chair watch come spring, so Agnes doesn't have to carry them out alone. Apply in person, bring pie.",
+    "LOST: A town's appetite for alarm. Last seen sometime in November. Not being looked for.",
+    "NOTICE: The Kettle will resume its full breakfast menu Monday. The sixth cup, should anyone ask, is simply the fourth, and the fifth, and however many more turn up."
+  ],
+  "record": [
+    "Welcome sign, county line: reads 7. Census: 9. Difference unremarked upon, as is now customary.",
+    "Gerald Pith's shore ledger, season's end: closed, filed under 'held.'"
+  ],
+  "letters": [
+    {
+      "from": "Gerald Pith",
+      "body": "To the Gazette: I have been asked by several parties, none of whom I will name, whether I intend to keep measuring once the ice properly breaks. I do. A man who stops watching a thing because it stopped being interesting was never really watching it for the right reason. I watched it because it was mine to watch. That hasn't changed and I don't expect it to. Held, this week and I expect most weeks. Regards, G. Pith."
+    },
+    {
+      "from": "Doreen Halloway",
+      "body": "To the paper, and to whoever reads it after me: I have run a bakery in this town for forty years and I have never once, in print, said what the five-fifteen hour was for. I'm not going to start now. But I'll say this much, now, because the season's ending and endings make a body generous. Some things you feed so they stay small enough to live with. That's not a confession. That's just baking. — D.H."
+    }
+  ]
+}
