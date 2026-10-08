@@ -1,0 +1,50 @@
+{
+  "day": 110,
+  "dateline": "Friday, January the 23rd",
+  "weather": "Mild for January, 29°F, light snow by late morning, wind out of the south",
+  "stage": 0,
+  "lead": {
+    "headline": "Friday; The Bakery Reopens Its Window Seat, and Mrs. Vance's Plate Comes Back With Company",
+    "byline": "By Wren Aldercott",
+    "body": "Doreen Halloway unstacked the chairs from the bakery's window seat this morning for the first time since the cold set in properly, calling it a test of the south wind rather than an occasion, and by eight o'clock three regulars had claimed it anyway, cradling coffee and watching the snow come down sideways and then not at all. This editor can report no other hardware news, no other sign news, no other anything news, which after last season feels less like an absence than a holiday.\n\nMrs. Vance, who keeps her kitchen on Pell Road and keeps it well, left pie on the step of the green house again last night, as she has for longer than anyone in this town can say with a straight face, the recipe depending on the week and the plate depending on her mood. By her account this morning the plate had been washed, as always, and returned to the step, as always, but this time there was a second plate set beside it, smaller, with a slice already cut and waiting, as if someone had thought to offer her breakfast in return. Mrs. Vance did not seem alarmed. She seemed, if anything, a little pleased, and told this editor only that it was 'about time somebody said thank you properly,' and went back inside before any further question could be asked.\n\nElsewhere the geese on the north pond spent the morning standing on ice that has not yet decided whether to hold them, which Toby Fern logged in his new notebook as 'geese, undecided, same as every year,' and called that the whole of his news as well. Gerald Pith took no reading of the shore today, on the grounds that there is, for the first time all season, nothing he feels obliged to measure, and spent the morning at Marigold's counter instead, drinking coffee and saying almost nothing, which both of them seemed to find restful.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a plate coming back with something on it that was not there before is, by any ordinary measure, the smallest possible event, and Greywater Falls has never once in its history let the smallness of a thing stop it from meaning everything."
+  },
+  "briefs": [
+    {
+      "headline": "Bakery Window Seat Returns; No Further Weather Expected Through the Weekend",
+      "body": "Doreen Halloway reports the south wind held steady enough to warrant unstacking the window chairs, and three regulars took her up on it before the coffee was poured. She declined to call it spring, calling it instead 'a Tuesday that forgot to be cold.'"
+    },
+    {
+      "headline": "Welcome Sign Still Reads 7 at the County Line; No Maintenance Scheduled",
+      "body": "The depot crew's last pass of January confirms the sign unchanged. The census, for its part, continues to insist on 9, a disagreement this paper no longer treats as news so much as weather."
+    },
+    {
+      "headline": "Geese Hold Their Ground on North Pond Ice, Outcome Undecided",
+      "body": "Toby Fern reports the flock neither crossing nor leaving, a condition he describes as 'the usual argument' and expects to resolve itself by Monday, one way or the other."
+    },
+    {
+      "headline": "Diner Counter Quiet, Gerald Takes a Day Off From Measuring Anything",
+      "body": "Marigold Vance reports an unremarkable morning rush and a full pot kept warm past noon. Gerald Pith, in attendance, offered no readings, no ledger entries, and no theories, which Marigold called 'nice, actually.'"
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One pair of folding porch chairs, barely used this winter, ask Agnes Crewe.",
+    "WANTED: Someone to split firewood for the Fern household, pay in pie, inquire with Toby.",
+    "LOST: A single green mitten, child-sized, last seen near the north pond, no reward necessary, just cold hands.",
+    "NOTICE: Bakery window seat is open for business again. Coffee extra, company free."
+  ],
+  "record": [
+    "Births: none. Deaths: none. New arrivals: none.",
+    "Welcome sign: 7. Census: 9. Difference unremarked, as is now custom."
+  ],
+  "letters": [
+    {
+      "from": "Mrs. Vance, Pell Road",
+      "body": "I have left pie on that step for longer than I care to count, and never once minded that nobody said thank you, because the plate always came back clean, which is its own kind of manners. But I'll admit I stood there a long moment this morning looking at that second little plate with the slice cut just so, and I thought, well. Somebody's learning to set a table. I don't know who, and I find I'm not in a hurry to. Some things are nicer left as kindness and not as a question."
+    },
+    {
+      "from": "Toby Fern, north pond correspondent",
+      "body": "New notebook, first real entry: geese still can't decide about the ice. Also Mrs. Vance's plate thing is kind of wild if you think about it for more than a second, which nobody around here ever does, which is sort of the whole town in one sentence if you ask me. Not asking anybody to make it a big deal. Just writing it down."
+    }
+  ],
+  "editorNote": "A new ledger, a clean page, and nothing much to put in it today beyond a slice of pie that cut itself. This editor intends to keep it that way as long as the town will let her."
+}

@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 109,
-  "weather": "Clear and cold, 24°F, wind calm, pale sun by midmorning",
+  "dayNumber": 110,
+  "weather": "Mild for January, 29°F, light snow by late morning, wind out of the south",
   "undercurrent": {
-    "level": 10,
-    "stage": 1,
-    "phenomenon": "The season's strangeness has fully dissolved into the town's ordinary habits; the gap between sign and census sits unremarked, a known thing rather than a watched one.",
-    "note": "Coda executed. Dropped level to 8 and eased stage to 1 to leave the town genuinely at rest, not merely quiet. Closed Wren's second-notebook arc (notebook retired, folded into the public record). Gave Agnes her final line ('It's resting. Let it.') and retired her from riddling on the page, leaving her warm and present rather than vanished. Closed Gerald's ledger fully with one last letter rather than a new beat. Closed Marigold's cup-counting arc for good. Did not reveal the library card borrower's identity, per directive, leaving it gently unresolved as town folklore rather than mystery-to-solve. Planted the coda's forward seed lightly in the lead's closing line (the spring-return framing) and more concretely in next_premise below, pointing at a NEW strangeness (the pie-eating green-house occupant and Mrs. Vance's quiet household) rather than re-running the lake-level/card mechanics of this season."
+    "level": 9,
+    "stage": 0,
+    "phenomenon": "Mrs. Vance's returned plate: a second, smaller plate left on the green house's step, a slice already cut, where before there was only ever an empty washed plate.",
+    "note": "Fresh reseed. Planting the season's first thread lightly, through Mrs. Vance's letter and Doreen's unremarked warmth, nothing pressed. Keeping level near where the coda left it so the town reads as genuinely at rest, with just enough give for the plate detail to register as slightly more than nothing to an attentive reader. No other resident needs to react yet; let it sit one more day before anyone but Mrs. Vance and Toby notices it at all."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -19,10 +19,10 @@
     "voice": "Dry, precise, allergic to drama, which is unfortunate given recent events. Writes like a person holding a clipboard while standing in rising water. Lets one true thing slip per edition, usually in the last line."
   },
   "season_arc": {
-    "number": 4,
-    "premise": "Calloway finishes reshelving the east alcove in the last cataloguer's 2009 order and finds, tucked behind where the ninth book sat, a library card checked out that same interrupted Wednesday and never returned. It is due back today. The borrower's name is nobody currently living in Greywater Falls has ever heard of, and the little pocket calendar stamped inside has fourteen years of due-date stamps on it already, one for every year since, each in a different hand.",
-    "day_in_season": 32,
+    "number": 5,
+    "premise": "Mrs. Vance has left pie on the step of the green house every night for longer than anyone can say, and every morning it is gone, plate washed and returned. This spring, for the first time, the plate comes back with something on it that wasn't there before: a second, smaller plate, set as if in answer, with a slice already cut and waiting for her.",
+    "day_in_season": 1,
     "target_length": 32,
-    "next_premise": "Mrs. Vance has left pie on the step of the green house every night for longer than anyone can say, and every morning it is gone, plate washed and returned. This spring, for the first time, the plate comes back with something on it that wasn't there before: a second, smaller plate, set as if in answer, with a slice already cut and waiting for her."
+    "next_premise": ""
   }
 }
