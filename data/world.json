@@ -5,8 +5,8 @@
   "founded": 1887,
   "population": 15,
   "season": "Early winter",
-  "dayNumber": 110,
-  "weather": "Mild for January, 29°F, light snow by late morning, wind out of the south",
+  "dayNumber": 111,
+  "weather": "Cold and clear, 24°F, no wind to speak of",
   "undercurrent": {
     "level": 9,
     "stage": 0,
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 5,
     "premise": "Mrs. Vance has left pie on the step of the green house every night for longer than anyone can say, and every morning it is gone, plate washed and returned. This spring, for the first time, the plate comes back with something on it that wasn't there before: a second, smaller plate, set as if in answer, with a slice already cut and waiting for her.",
-    "day_in_season": 1,
+    "day_in_season": 2,
     "target_length": 32,
     "next_premise": ""
   }

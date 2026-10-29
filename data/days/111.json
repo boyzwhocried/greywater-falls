@@ -1,0 +1,50 @@
+{
+  "day": 111,
+  "dateline": "Saturday, January the 24th",
+  "weather": "Cold and clear, 24°F, no wind to speak of",
+  "stage": 0,
+  "lead": {
+    "headline": "Saturday; Mrs. Vance Names the Second Plate, and Declines to Say More",
+    "byline": "By Wren Aldercott",
+    "body": "Mrs. Vance's second plate has now appeared on the step of the green house three mornings running, by her count, and this editor can confirm the pattern has acquired, as these things do in Greywater Falls, a name before it has acquired an explanation. She is calling it 'the answer plate,' and says it the way a person says a word they have already decided not to be talked out of. Asked what she thought was leaving it, she said only that whoever it was had manners, and that manners ought to be encouraged wherever they turn up, and went back to her kitchen before this editor could ask the obvious next question, which is also, as it happens, the only one that matters.\n\nElsewhere the day gave the town almost nothing else to print. The bakery's window seat held its three regulars again this morning, the coffee ran hot, and Doreen reported the loaf delivered at its ordinary hour with nothing to add, said this time without the small pause she has lately attached to that sentence, as though for once she meant it all the way through. Gerald sat at Marigold's counter a second day running and did not mention the shore once, which this editor notes only because Gerald not mentioning a thing is, this season, still rare enough to be a sentence worth writing down.\n\nToby Fern stopped by the office this afternoon to report, with the particular seriousness of a boy keeping a ledger he suspects matters more than it looks, that he'd walked past the green house on his way to Agnes's porch and seen the second plate himself, wiped clean already, sitting square in the center of the step rather than beside the first, which he said felt different without being able to say how. Agnes, for her part, offered no riddle on the subject, and when pressed only said that pie answered is still pie, and went back to her porch chairs, which remain, notably, still in.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a plate that answers is, strictly speaking, no longer a gift, it is the opening half of a conversation, and Greywater Falls has a long and comfortable history of pretending not to notice exactly when a conversation starts."
+  },
+  "briefs": [
+    {
+      "headline": "Bakery Window Seat Holds Its Three Regulars for a Second Morning",
+      "body": "Doreen Halloway reports the ordinary hour, the ordinary loaf, and nothing further to add, delivered this time, this editor notes, without her usual trailing pause."
+    },
+    {
+      "headline": "Welcome Sign Still Reads 7 at the County Line; Census Still Insists on 9",
+      "body": "No change, no maintenance scheduled, no comment from the depot, which has not commented on this since November and shows no sign of starting now."
+    },
+    {
+      "headline": "Toby Fern's Notebook Logs the Green House Step, 'Wiped Clean Already, Sitting Square'",
+      "body": "The young correspondent declines to speculate further, noting only that it felt different from Thursday's entry, 'in a way I can't explain yet, which is probably the point.'"
+    },
+    {
+      "headline": "Diner Counter Keeps Gerald and Marigold Company a Second Day Running",
+      "body": "No readings taken, no theories offered. Marigold calls it restful. Gerald calls it, simply, Saturday."
+    }
+  ],
+  "classifieds": [
+    "FOUND: one gray work glove, left hand, Kestrel Street. Claim at the depot.",
+    "FOR SALE: birdfeeder, lightly used, excellent for chickadees specifically. Inquire R. Dunmore.",
+    "WANTED: someone to tell Mrs. Vance's green house 'you're welcome' on her behalf, since she won't.",
+    "The Kettle: Saturday special, chicken and dumplings, counter seats still available, no headcount kept."
+  ],
+  "record": [
+    "Births: none. Deaths: none. Marriages: none.",
+    "Pie register, Pell Road: one slice left, one slice returned, cut and waiting, three days running."
+  ],
+  "letters": [
+    {
+      "from": "Marigold Vance, The Kettle",
+      "body": "Gerald's been at my counter two mornings straight without a single measurement to his name and I want it on record I find it very restorative. Don't let him hear me say that, he'll start measuring it."
+    },
+    {
+      "from": "A Resident of Pell Road (name withheld by request)",
+      "body": "It isn't haunting if it's polite. I don't know what else to tell you people."
+    }
+  ],
+  "editorNote": "This editor will not be pressing Mrs. Vance for more than she offers. A town that waited politely for a cat to stop humming can wait politely for a plate to explain itself."
+}
