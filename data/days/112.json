@@ -1,0 +1,49 @@
+{
+  "day": 112,
+  "dateline": "Sunday, January the 25th",
+  "weather": "Cold and clear, 26°F, a little sun by midmorning",
+  "stage": 0,
+  "lead": {
+    "headline": "Sunday; Mrs. Vance Sets a Third Plate, and the Green House Keeps Its Own Counsel",
+    "byline": "By Wren Aldercott",
+    "body": "Mrs. Vance did something this morning she has not done in longer than this editor can find on record: she left the step with three plates on it instead of two, the usual pie, the usual answer plate, and a third set off to the side, empty, clean, waiting. Asked why, she said she'd decided that if manners were going to be encouraged, they ought to be given room to improve, and that a body offering breakfast might like somewhere to put a cup. She did not say whose cup. She went inside before this editor could ask, which has become something of a Sunday tradition in itself.\n\nThe rest of the town gave the day almost nothing to set beside it. The bakery's window seat held its regulars for a fourth straight morning, the coffee at Marigold's ran its ordinary rounds, and Gerald, for once, mentioned the shore only to say he hadn't been down to it, which this editor is beginning to suspect is simply what a rested man sounds like. Agnes sat on her porch with her chairs still in against a wind that never came, and when Toby asked her, carefully, whether a third plate meant anything, she told him only that company likes to be asked back, and that he should mind his manners too, and went back to her knitting.\n\nToby logged the third plate in his notebook this afternoon, along with the note that it had not been touched by evening, not moved, not filled, just sitting there in the cold doing nothing anyone could call strange on its own. He underlined 'on its own' twice, which this editor thinks is the whole of what a sixteen-year-old can responsibly say about a thing he cannot yet prove is anything at all.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: an empty plate set out on purpose is not a question and is not yet an answer, it is only the shape of a place being kept, and Greywater Falls has always known how to keep a place at the table long after it has stopped being able to say exactly who it's for."
+  },
+  "briefs": [
+    {
+      "headline": "Bakery Window Seat Holds Its Regulars a Fourth Morning Running",
+      "body": "Doreen reports the loaf delivered on time, the coffee hot, and nothing further to add, said plainly and without her old pause."
+    },
+    {
+      "headline": "Welcome Sign Still Reads 7 at the County Line; Census Office Declines to Revisit the Matter",
+      "body": "No maintenance scheduled, no change expected, the gap between 7 and 9 filed, as ever, under geography rather than news."
+    },
+    {
+      "headline": "Toby Fern's Notebook Adds a Third Plate, 'Untouched, On Its Own,' Underlined Twice",
+      "body": "The boy declines to call it strange yet, which this editor considers the most careful sentence printed all week."
+    },
+    {
+      "headline": "Gerald Pith Reports No Shore Visit for the Fifth Day Running, Calls It 'Nothing Worth the Walk'",
+      "body": "Marigold confirms the counter stayed warm and the conversation stayed, by mutual agreement, off the lake entirely."
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One birdfeeder, lightly used, excellent for chickadees that arrive in pairs. Inquire R. Dunmore.",
+    "WANTED: Small clean plate, any pattern, for a kitchen that seems to be running short. Discretion appreciated. — M. Vance",
+    "LOST: One quiet winter. Last seen somewhere around Day 109. No reward offered; it was never ours to keep."
+  ],
+  "record": [
+    "Welcome sign, county line: 7",
+    "Census office count: 9"
+  ],
+  "letters": [
+    {
+      "from": "Marigold Vance",
+      "body": "Gerald hasn't measured a thing in five days and I'll tell you what, the coffee tastes better for it. Print that if you want, or don't. Either way I'm not counting cups and I'm not sorry."
+    },
+    {
+      "from": "Mrs. Vance",
+      "body": "To the editor: a third plate is not a story, it is a courtesy, and I'll thank this paper to let a woman set her own table in peace. That said, if anyone's missing a small white plate with a chip on the rim, I believe I may have found where it's been going."
+    }
+  ],
+  "editorNote": "This editor has resolved, for the time being, to let Mrs. Vance's step keep its own counsel, on the theory that some things answer faster when nobody's watching too hard."
+}
