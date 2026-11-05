@@ -14,7 +14,41 @@
 
 export type Phase = "setup" | "rising" | "cresting" | "resolving" | "coda";
 
+/** One planned story beat: something that MUST happen by day `at` of the season. */
+export type Beat = { at: number; must_happen: string };
+
+/** The first beat due on or after `dayInSeason`, or undefined when none remain. */
+export function beatFor(outline: Beat[] | undefined, dayInSeason: number): Beat | undefined {
+  if (!outline || outline.length === 0) return undefined;
+  return [...outline].sort((a, b) => a.at - b.at).find((b) => b.at >= dayInSeason);
+}
+
+/** Clean model-produced beats: drop invalid ones, clamp `at` to the season length, sort. */
+export function normalizeOutline(raw: unknown, targetLength: number): Beat[] {
+  if (!Array.isArray(raw)) return [];
+  const out: Beat[] = [];
+  for (const b of raw) {
+    if (!b || typeof b !== "object") continue;
+    const at = Number((b as Beat).at);
+    const text = typeof (b as Beat).must_happen === "string" ? (b as Beat).must_happen.trim() : "";
+    if (!Number.isFinite(at) || at < 1 || !text) continue;
+    out.push({ at: Math.min(Math.round(at), targetLength), must_happen: text });
+  }
+  return out.sort((a, b) => a.at - b.at);
+}
+
+export function beatClause(season: SeasonArc): string {
+  const beat = beatFor(season.outline, season.day_in_season);
+  if (!beat) return "";
+  const today = beat.at === season.day_in_season;
+  return today
+    ? ` TODAY IS A BEAT DAY. This must happen in today's lead: ${beat.must_happen}`
+    : ` STORY BEAT (due by day ${beat.at} of the season, build toward it today): ${beat.must_happen}`;
+}
+
 export type SeasonArc = {
+  /** planned beats for this season, set at reseed (or hand-written) */
+  outline?: Beat[];
   /** which season we are in (1-based) */
   number: number;
   /** the strangeness this season is about, e.g. "the lake wakes and counts" */
@@ -118,7 +152,7 @@ export function planNextTick(prev: SeasonArc): TickPlan {
     reseed: false,
     season,
     phase,
-    directive: phaseDirective(phase, season),
+    directive: phaseDirective(phase, season) + beatClause(season),
   };
 }
 
@@ -137,11 +171,11 @@ function phaseDirective(phase: Phase, s: SeasonArc): string {
     case "setup":
       return `${where} Phase: SETUP. Ordinary life with the faintest first thread of strangeness. Keep it low and deniable.`;
     case "rising":
-      return `${where} Phase: RISING. The strangeness compounds, day by day. New small wrong details accumulate; the town starts to notice and rationalize. Escalate, but vary the beats.`;
+      return `${where} Phase: RISING. The strangeness compounds, day by day. New wrong details accumulate; the town notices, argues about what to do, and splits. Escalate with real consequences, and vary the beats. A reversal of what the town believed is welcome.`;
     case "cresting":
-      return `${where} Phase: CRESTING. This is the peak of the arc. The strangeness can no longer be ignored; bring it into the open in the town's cozy, accommodating way. The biggest, most resonant edition of the season.`;
+      return `${where} Phase: CRESTING. This is the peak of the arc. The strangeness can no longer be ignored and it makes a demand: bring it into the open and make the town pay a real price (a loss, a sacrifice, a broken thing that stays broken). The biggest, most resonant edition of the season. Do not defuse it with a bake sale.`;
     case "resolving":
-      return `${where} Phase: RESOLVING. The crest has passed. Wind the arc down: the town accommodates, makes peace, finds the new normal. Quieter, warmer, conclusive. Begin tying threads off.`;
+      return `${where} Phase: RESOLVING. The crest has passed and its cost is still felt. Wind the arc down: the town makes peace with what it paid and finds a new normal that is visibly different from before. Pay off open threads with real answers.`;
     case "coda":
       return [
         `${where} Phase: CODA. This is the FINAL day of the season.`,

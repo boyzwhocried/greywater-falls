@@ -23,6 +23,10 @@ export const BANNED_PHRASES = [
 const WEATHER_OPENERS =
   /^(overcast|clear|cold|mild|grey|gray|fog|foggy|still|snow|cloud|clouded|frost|warm|light snow|thin snow|rain)\b/i;
 
+import { openThreads, type Thread, type ThreadUpdates } from "./threads";
+
+export const SUMMARY_SIMILARITY_MAX = 0.6;
+
 type EditionLike = {
   lead: { body: string };
   editorNote?: string;
@@ -73,4 +77,43 @@ export function styleIssues(ed: EditionLike): string[] {
   }
 
   return issues;
+}
+
+/** The ledger rule: if any thread is open, today must advance or resolve a real one. */
+export function ledgerIssues(updates: ThreadUpdates | undefined, threads: Thread[]): string[] {
+  const open = openThreads(threads);
+  if (open.length === 0) return [];
+  const ids = new Set(open.map((t) => t.id));
+  const touched = [...(updates?.advance ?? []), ...(updates?.resolve ?? [])].some((u) => ids.has(u.id));
+  return touched
+    ? []
+    : ["no open thread was advanced or resolved; use thread_updates.advance with a real thread id from the ledger"];
+}
+
+function tokens(text: string): Set<string> {
+  return new Set(
+    text
+      .toLowerCase()
+      .replace(/[^a-z0-9\s]/g, " ")
+      .split(/\s+/)
+      .filter((w) => w.length > 2)
+  );
+}
+
+/** Jaccard similarity of word sets, 0..1. */
+export function similarity(a: string, b: string): number {
+  const A = tokens(a);
+  const B = tokens(b);
+  if (A.size === 0 && B.size === 0) return 1;
+  let inter = 0;
+  for (const w of A) if (B.has(w)) inter++;
+  return inter / (A.size + B.size - inter);
+}
+
+/** day_summary must exist and must not re-state a recent day. */
+export function summaryIssues(summary: string | undefined, recent: string[]): string[] {
+  const s = (summary ?? "").trim();
+  if (!s) return ["day_summary is empty; state in one sentence what concretely changed today"];
+  const dup = recent.find((r) => similarity(s, r) >= SUMMARY_SIMILARITY_MAX);
+  return dup ? [`today's event repeats a recent day ("${dup.slice(0, 70)}"); advance something new`] : [];
 }

@@ -327,6 +327,57 @@ export type PublishedDay = {
 };
 
 // ---------------------------------------------------------------------------
+// The Season Planner: one call at each reseed that writes the season's beat
+// sheet (inciting thing, escalation, quarrel, midpoint reversal, a real cost,
+// climax, coda) so the days build toward something.
+// ---------------------------------------------------------------------------
+
+export const PLAN_SEASON_SYSTEM = `You are the story planner for Greywater Falls, a cozy-strange daily small-town newspaper. Plan ONE season as a beat sheet the daily writer will follow. Keep the tone: cozy on the surface, strange underneath, never gore. But the season must have real structure and real stakes: an escalation, a quarrel that splits the town, a MIDPOINT REVERSAL that changes what everyone believed, a PRICE the town actually pays (a loss that stays lost), a climax where the central mystery is answered by what characters do, and a coda with a permanent change. Pay off the overdue open threads in the ledger with real answers. Callbacks to earlier seasons are welcome. Do not resolve mysteries by having Agnes say a riddle.`;
+
+export function buildPlanSeasonPrompt(args: {
+  premise: string;
+  number: number;
+  targetLength: number;
+  memoryBlock: string;
+  threadBlock: string;
+}): string {
+  return `Plan Season ${args.number}, about ${args.targetLength} days long.
+
+## Premise
+${args.premise}
+
+## The story so far
+${args.memoryBlock}
+
+## Open threads
+${args.threadBlock}
+
+Write 6 to 8 beats via the plan_season tool. "at" is the day of the season (1 to ${args.targetLength}) by which each beat must have happened. Space them: an early hook by about day 4, escalation by about 10, a quarrel by about 14, the midpoint reversal near day ${Math.round(args.targetLength * 0.5)}, the price near day ${Math.round(args.targetLength * 0.72)}, the climax near day ${Math.round(args.targetLength * 0.88)}, and a coda on day ${args.targetLength}. Each must_happen is one or two concrete sentences about an event, not a mood.`;
+}
+
+export const PLAN_SEASON_TOOL = {
+  name: "plan_season",
+  description: "Return the season's beat sheet.",
+  input_schema: {
+    type: "object" as const,
+    properties: {
+      beats: {
+        type: "array",
+        items: {
+          type: "object",
+          properties: {
+            at: { type: "number", description: "day of the season by which this must have happened" },
+            must_happen: { type: "string", description: "the concrete event, one or two sentences" },
+          },
+          required: ["at", "must_happen"],
+        },
+      },
+    },
+    required: ["beats"],
+  },
+};
+
+// ---------------------------------------------------------------------------
 // The Critic — a cheap second pass that audits a generated day before it is
 // published, against canon and recent headlines. Catches the realistic failure
 // modes: repetition, continuity contradiction, tone drift (lurid or flat).
@@ -335,7 +386,10 @@ export type PublishedDay = {
 export const CRITIC_SYSTEM = `You are the Greywater Gazette's continuity and tone editor. You receive a freshly written edition plus the town's canon, the arc directive it was written to, and recent headlines. Your job is to catch problems before print. Be strict but fair.
 
 Flag the edition (verdict "revise") if ANY of these are true:
-- CONTRADICTION: it breaks canon or contradicts established facts (revives someone taken, mis-counts the sign, forgets the green house occupant, etc.).
+- CONTRADICTION: it breaks canon or contradicts established facts, the season summaries, a resident's recorded state, or the ledger (revives someone taken, mis-counts the sign, resolves a thread inconsistently with its notes, gives a character a history that conflicts with what is recorded).
+- STASIS: nothing concretely changes. A quiet day with "nothing to report", a plate that "stays put", or an ending where everything is simply fine counts as stasis. The lead must report one event that changes something.
+- TEMPLATE: it leans on a recurring formula (a moral closing line, "this editor" repeated, every character withholding or understating, weather-and-date opener) instead of fresh wording.
+- ORACLE: a mystery is resolved by Agnes (or anyone) saying a riddle instead of characters learning, deciding or paying something.
 - REPETITION: its lead or a brief re-runs a beat already in the recent headlines, or just re-states the previous day with no new movement.
 - TONE: it turns gory/violent/shocking, OR it goes flat and eventless with no thread of the strange at all, OR the prose stops sounding like Wren.
 - ARC: it ignores the phase directive (escalates on a resolve/coda, or stalls on a crest).
@@ -349,8 +403,14 @@ export function buildCriticPrompt(args: {
   directive: string;
   recentHeadlines: string[];
   prevDateline: string;
+  memory?: Memory;
+  threads?: Thread[];
+  day?: number;
 }): string {
   const { edition, canon, directive, recentHeadlines, prevDateline } = args;
+  const day = args.day ?? 0;
+  const memoryBlock = memoryPromptBlock(args.memory ?? { seasons: [], days: [] }, day || 9999);
+  const threadBlock = threadsPromptBlock(args.threads ?? [], day);
   const briefs = edition.briefs.map((b) => `* ${b.headline}: ${b.body}`).join("\n");
   return `## Arc directive the day was written to
 ${directive}
@@ -361,6 +421,13 @@ ${prevDateline}
 ## Canon (must not be contradicted)
 IMMUTABLE: ${canon.immutable.join(" | ")}
 TAKEN: ${canon.gone.join("; ") || "(none)"}
+ESTABLISHED FACTS: ${canon.established_phenomena.join(" | ")}
+
+## The story so far (the edition must not contradict this)
+${memoryBlock}
+
+## Open threads
+${threadBlock}
 
 ## Recent headlines (must not be repeated)
 ${recentHeadlines.map((h) => `- ${h}`).join("\n") || "(none)"}
@@ -386,7 +453,7 @@ export const CRITIQUE_TOOL = {
       verdict: { type: "string", enum: ["ok", "revise"] },
       worst: {
         type: "string",
-        enum: ["none", "contradiction", "repetition", "tone", "arc", "dateline"],
+        enum: ["none", "contradiction", "stasis", "template", "oracle", "repetition", "tone", "arc", "dateline"],
       },
       issues: { type: "array", items: { type: "string" }, description: "Short, concrete problems. Empty if ok." },
     },
@@ -396,6 +463,6 @@ export const CRITIQUE_TOOL = {
 
 export type Critique = {
   verdict: "ok" | "revise";
-  worst: "none" | "contradiction" | "repetition" | "tone" | "arc" | "dateline";
+  worst: "none" | "contradiction" | "stasis" | "template" | "oracle" | "repetition" | "tone" | "arc" | "dateline";
   issues: string[];
 };

@@ -23,6 +23,32 @@
     "premise": "Mrs. Vance has left pie on the step of the green house every night for longer than anyone can say, and every morning it is gone, plate washed and returned. This winter, for the first time, the plate comes back with something on it that wasn't there before: a second, smaller plate, set as if in answer, with a slice already cut and waiting for her.",
     "day_in_season": 7,
     "target_length": 32,
-    "next_premise": ""
+    "next_premise": "",
+    "outline": [
+      {
+        "at": 10,
+        "must_happen": "An object appears on the green house step that belongs to someone's real past: a thing a resident lost long ago and mourned. Its owner recognises it and is shaken. The answerer is returning the town's lost things, not just replying to Mrs. Vance."
+      },
+      {
+        "at": 14,
+        "must_happen": "The town quarrels. Hank and Russ want to stake out the step and catch the giver; Mrs. Vance refuses and calls it rude; Doreen and Gerald side with her. A real rift opens between neighbours, and Wren has to decide whether to print it."
+      },
+      {
+        "at": 18,
+        "must_happen": "MIDPOINT REVERSAL. The stakeout is kept and nothing is seen, but the next morning the objects are the watchers' own lost things. Mrs. Vance's secret comes out: for decades she has tucked a note under each pie asking for the town's lost things back. She has been asking the lake all along."
+      },
+      {
+        "at": 23,
+        "must_happen": "THE PRICE. Every returned thing is balanced by something its keeper must give up. Someone pays something that matters (Gerald's ledger of ice notes, Hank's mill, Doreen's recipe book, or similar) and it is not undone. The town does not make this fine with a bake sale."
+      },
+      {
+        "at": 28,
+        "must_happen": "CLIMAX at the green house. The occupant is finally seen or answers. T. Aldercott's purpose is paid off and tied to Wren's surname. The 'who is H' and answer-plate threads get real answers."
+      },
+      {
+        "at": 32,
+        "must_happen": "CODA: a new equilibrium that is visibly different from before, with a permanent change the town carries. Plant a DIFFERENT strangeness for next season via next_premise."
+      }
+    ]
   }
 }

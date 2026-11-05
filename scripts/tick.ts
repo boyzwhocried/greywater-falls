@@ -26,9 +26,9 @@ import Anthropic, {
   APIConnectionTimeoutError,
 } from "@anthropic-ai/sdk";
 import type { Canon, Edition, Resident, Seed, World } from "../lib/data";
-import { styleIssues } from "../lib/guards";
-import { addCanonFacts, addDaySummary, setSeasonSummary, type Memory } from "../lib/memory";
-import { applyThreadUpdates, openThreads, overdueThreads, type Thread } from "../lib/threads";
+import { ledgerIssues, styleIssues, summaryIssues } from "../lib/guards";
+import { addCanonFacts, addDaySummary, memoryPromptBlock, setSeasonSummary, type Memory } from "../lib/memory";
+import { applyThreadUpdates, openThreads, overdueThreads, threadsPromptBlock, type Thread } from "../lib/threads";
 import {
   SYSTEM_PROMPT,
   TICK_MODEL,
@@ -36,6 +36,9 @@ import {
   CRITIC_SYSTEM,
   PUBLISH_DAY_TOOL,
   CRITIQUE_TOOL,
+  PLAN_SEASON_SYSTEM,
+  PLAN_SEASON_TOOL,
+  buildPlanSeasonPrompt,
   buildUserPrompt,
   buildCriticPrompt,
   type PublishedDay,
@@ -43,6 +46,8 @@ import {
 } from "../lib/director";
 import {
   planNextTick,
+  normalizeOutline,
+  beatClause,
   undercurrentBandFor,
   targetLengthForSeason,
   type SeasonArc,
@@ -158,7 +163,7 @@ async function generateDay(
 
 async function critique(
   client: Anthropic,
-  args: { edition: Omit<Edition, "day">; canon: Canon; directive: string; recentHeadlines: string[]; prevDateline: string }
+  args: Parameters<typeof buildCriticPrompt>[0]
 ): Promise<Critique> {
   const message = await client.messages.create({
     model: CRITIC_MODEL,
@@ -241,6 +246,49 @@ async function main(): Promise<void> {
   })();
 
   const client = new Anthropic({ apiKey });
+
+  // New season: plan its beat sheet once, so every day builds toward something.
+  if (plan.reseed) {
+    try {
+      const msg = await withRetry(
+        () =>
+          client.messages.create({
+            model: TICK_MODEL,
+            max_tokens: 2048,
+            system: PLAN_SEASON_SYSTEM,
+            tools: [PLAN_SEASON_TOOL as Anthropic.Tool],
+            tool_choice: { type: "tool", name: "plan_season" },
+            messages: [
+              {
+                role: "user",
+                content: buildPlanSeasonPrompt({
+                  premise: plan.season.premise,
+                  number: plan.season.number,
+                  targetLength: plan.season.target_length,
+                  memoryBlock: memoryPromptBlock(memory, nextDay),
+                  threadBlock: threadsPromptBlock(threads, nextDay),
+                }),
+              },
+            ],
+          }),
+        "planSeason"
+      );
+      totalIn += msg.usage.input_tokens;
+      totalOut += msg.usage.output_tokens;
+      const tu = msg.content.find((b) => b.type === "tool_use");
+      const beats = tu && tu.type === "tool_use" ? normalizeOutline((tu.input as { beats?: unknown }).beats, plan.season.target_length) : [];
+      if (beats.length >= 3) {
+        plan.season.outline = beats;
+        plan.directive += beatClause(plan.season);
+        console.log(`Season ${plan.season.number} planned: ${beats.length} beats.`);
+      } else {
+        console.warn("Season planner returned too few beats; continuing without an outline.");
+      }
+    } catch (err) {
+      console.warn(`Season planning failed: ${(err as Error).message}. Continuing without an outline.`);
+    }
+  }
+
   const basePrompt = buildUserPrompt({
     world,
     residents,
@@ -270,8 +318,14 @@ async function main(): Promise<void> {
     );
   }
   // ---- style guard: kill template loops, keep the best draft ------------
+  const recentSummaries = memory.days.slice(-8).map((d) => d.summary);
+  const allIssues = (r: PublishedDay): string[] => [
+    ...styleIssues(r.edition),
+    ...ledgerIssues(r.thread_updates, threads),
+    ...summaryIssues(r.day_summary, recentSummaries),
+  ];
   if (isValidEdition(result.edition)) {
-    let issues = styleIssues(result.edition);
+    let issues = allIssues(result);
     for (let attempt = 1; attempt <= 2 && issues.length > 0; attempt++) {
       console.log(`Style guard (${issues.length}): ${issues.join("; ")}. Rewriting (${attempt}/2)...`);
       try {
@@ -280,7 +334,7 @@ async function main(): Promise<void> {
           `generateDay (style retry ${attempt})`
         );
         if (isValidEdition(next.edition)) {
-          const nextIssues = styleIssues(next.edition);
+          const nextIssues = allIssues(next);
           if (nextIssues.length <= issues.length) {
             result = next;
             issues = nextIssues;
@@ -303,6 +357,9 @@ async function main(): Promise<void> {
           directive: plan.directive,
           recentHeadlines: recentHeadlines(15),
           prevDateline: recentEditions(1)[0]?.dateline ?? "(none)",
+          memory,
+          threads,
+          day: nextDay,
         }),
         "critique"
       );
@@ -322,6 +379,9 @@ async function main(): Promise<void> {
             directive: plan.directive,
             recentHeadlines: recentHeadlines(15),
             prevDateline: recentEditions(1)[0]?.dateline ?? "(none)",
+          memory,
+          threads,
+          day: nextDay,
           }),
           "critique (retry)"
         );
