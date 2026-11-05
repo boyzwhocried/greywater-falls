@@ -1,0 +1,50 @@
+{
+  "day": 113,
+  "dateline": "Monday, January the 26th",
+  "weather": "Cold and still, 24°F, no wind to speak of",
+  "stage": 0,
+  "lead": {
+    "headline": "Monday; the Cup Goes Unclaimed, and Mrs. Vance Finds a Fourth Thing on the Step",
+    "byline": "By Wren Aldercott",
+    "body": "The third plate on the green house's step went another night without a visitor, by Mrs. Vance's account this morning, but it did not go unanswered. Beside it, this time, sat a folded square of cloth, plain, clean, pressed flat as though ironed, the sort of thing a person might set under a cup to keep it from scratching a good table. Mrs. Vance picked it up, turned it over twice, and told this editor she wasn't going to pretend she understood table manners better than whoever she was dealing with, and took it inside to launder along with everything else.\n\nThis is, by this editor's count, the fourth object to appear on that step this season that nobody put there on purpose, and the first that was not, strictly speaking, a plate. Mrs. Vance does not seem troubled by the distinction. She has started, she said, leaving the porch light on a little longer than she used to, 'in case somebody wants to see what they're doing,' which she delivered as a practical remark about visibility and this editor is choosing, for now, to receive the same way.\n\nMonday otherwise asked little of the town. The bakery's window seat held its regulars a fifth straight morning, Doreen reporting the loaf delivered on time and nothing further to add, the sentence now worn smooth from repetition. Gerald spent a sixth day at Marigold's counter without once mentioning the shore, though Marigold noted he glanced at the window twice during the slow hour, which she is choosing not to call anything either.\n\nThe one true thing this editor sets down today, low, where the town keeps such things: a napkin is a small courtesy to extend to a stranger, and Greywater Falls has never yet met a stranger it did not eventually set a place for."
+  },
+  "briefs": [
+    {
+      "headline": "Bakery Window Seat Holds Its Regulars a Fifth Morning Running",
+      "body": "Doreen Halloway delivered the loaf at the ordinary hour and reported nothing to add, a sentence now in its sixth consecutive day of meaning exactly what it says."
+    },
+    {
+      "headline": "Welcome Sign Still Reads 7 at the County Line; No Change Noted",
+      "body": "The sign remains unmaintained and unaltered by any hand this office can identify. The census office was not consulted, having nothing new to decline."
+    },
+    {
+      "headline": "Toby Fern's Notebook Adds a Folded Napkin, Filed Under 'Table Setting, Ongoing'",
+      "body": "The young correspondent's log now runs to four entries on the green house step. He has begun numbering them."
+    },
+    {
+      "headline": "Diner Counter Keeps Its Sixth Quiet Morning; Gerald Glances at the Window Twice",
+      "body": "Marigold Vance declined to characterize the glance as anything, noting only that the coffee stayed hot regardless."
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One box galvanized nails, barely touched, Mossley Hardware, ask for Hank.",
+    "LOST: A grey wool scarf, somewhere between the school and Pell Road. Sentimental value only. — T. Fern",
+    "WANTED: Someone to split firewood Saturday mornings, modest pay, better pie. Inquire Vance residence, Pell Road.",
+    "NOTICE: The Gazette office will be closed Thursday afternoon for typesetting repairs. Back Friday."
+  ],
+  "record": [
+    "Temperature: 24°F, cold and still, no wind.",
+    "Welcome sign, county line: reads 7. Census: 15."
+  ],
+  "letters": [
+    {
+      "from": "Marigold Vance, The Kettle",
+      "body": "Gerald will tell you he doesn't look at anything out that window, and I'll tell you I've refilled his cup twice during the looking. We're both telling the truth as we understand it. Coffee's on, regardless of what anyone's watching for. — M.V."
+    },
+    {
+      "from": "Toby Fern",
+      "body": "Four things on the step now if you count the napkin, which I do. Agnes says company likes to be asked back. Nobody's asked anybody anything yet. Just thought someone should write that part down."
+    }
+  ],
+  "editorNote": "A reader asked this week whether the Gazette intends to keep covering 'the plate business' as news. This editor intends to keep covering whatever the town sets outside its own door, on the theory that a thing left out overnight has already decided to be looked at."
+}
