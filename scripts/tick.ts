@@ -127,7 +127,7 @@ async function generateDay(
     : basePrompt;
   const message = await client.messages.create({
     model: TICK_MODEL,
-    max_tokens: 4096,
+    max_tokens: 8192,
     system: [{ type: "text", text: SYSTEM_PROMPT, cache_control: { type: "ephemeral" } }],
     tools: [PUBLISH_DAY_TOOL as Anthropic.Tool],
     tool_choice: { type: "tool", name: "publish_day" },
@@ -137,6 +137,10 @@ async function generateDay(
   if (!toolUse || toolUse.type !== "tool_use") {
     throw new Error("The director did not return a published day. Town left untouched.");
   }
+  const input = toolUse.input as Record<string, unknown>;
+  console.log(
+    `generateDay: stop_reason=${message.stop_reason} out_tokens=${message.usage.output_tokens} keys=${Object.keys(input).join(",")}`
+  );
   return toolUse.input as PublishedDay;
 }
 
