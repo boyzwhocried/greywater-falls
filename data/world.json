@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Early winter",
-  "dayNumber": 116,
-  "weather": "Cold, 21°F, a thin fog off the water that did not burn off by noon",
+  "dayNumber": 117,
+  "weather": "Cold, 19°F, clear enough to see the far shore for the first time in a week",
   "undercurrent": {
-    "level": 22,
+    "level": 31,
     "stage": 2,
-    "phenomenon": "Gerald's private phrase 'spoken for' has left his own mouth in front of a stranger for the first time, and Toby has begun logging language, not just objects, as part of the same accumulating sequence.",
-    "note": "The two threads (object sequence, Gerald's shore silence) have now touched directly: his phrase describing the ice is the first verbal artifact to join the object ledger, suggesting the same intelligence behind the plates may be behind his new vocabulary. Keep ambiguous whether Gerald is being fed language or simply noticing something true. Next knob: someone besides Toby starts using 'spoken for,' or the phrase appears written somewhere Gerald didn't write it."
+    "phenomenon": "The green house step has returned a brass button belonging to Gerald's late mother's coat, the first returned object proven to be a specific resident's long-lost, grieved possession rather than a neutral or practical item.",
+    "note": "The sequence has crossed from anonymous courtesy (plates, napkins) into targeted restitution (a named grief, a named owner). This confirms the story beat: the answerer knows the town's private losses, not just its manners. Next knob: a second resident receives a returned object, forcing the town to argue publicly about whether this is a comfort or an intrusion, and whether anyone should try to give something back in turn."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 5,
     "premise": "Mrs. Vance has left pie on the step of the green house every night for longer than anyone can say, and every morning it is gone, plate washed and returned. This winter, for the first time, the plate comes back with something on it that wasn't there before: a second, smaller plate, set as if in answer, with a slice already cut and waiting for her.",
-    "day_in_season": 7,
+    "day_in_season": 8,
     "target_length": 32,
     "next_premise": "",
     "outline": [

@@ -1,0 +1,44 @@
+{
+  "day": 117,
+  "dateline": "Friday, January the 30th",
+  "weather": "Cold, 19°F, clear enough to see the far shore for the first time in a week",
+  "stage": 2,
+  "lead": {
+    "headline": "The Green House Step Returns a Button That Belongs to Gerald Pith's Mother, Dead Thirty Years",
+    "byline": "By Wren Aldercott",
+    "body": "Mrs. Vance found the eighth item on the green house step this morning where the plate usually sits: a single brass button, tarnished dark, stamped with a small anchor. She did not recognize it and brought it straight to this editor rather than Toby, which she said was because 'it felt like it belonged to a person, not a list.' She was right. Gerald Pith identified it within the hour as the top button of his mother's good coat, the one she was buried in, in a plot two counties over that Gerald has not visited since the funeral in 1994. He kept the coat's twin button in a drawer for years until, by his own account, it went missing sometime after he moved into the postal cottage on Finch Lane. He never reported it lost. He never told anyone he still had it, let alone that he'd lost it.\n\nGerald sat with the button a long time at Marigold's counter before he said anything, turning it over with a thumbnail that would not stop moving. 'I didn't put this anywhere,' he told this editor, which is not the same as saying he doesn't know where it's been. He would not speculate further and left without finishing his coffee, which Marigold noted is now twice in three days.\n\nToby Fern logged the button as entry eight, the first object on his list that did not arrive blank, anonymous, or practical, and the first that can be traced to a specific person's specific grief. He underlined that distinction three times and wrote beside it: 'it knows what things mean to people, not just what they are.' Mrs. Vance, for her part, has stopped washing the returned plates before photographing them, saying only that she wants a record 'in case anyone else loses something.'"
+  },
+  "briefs": [
+    {
+      "headline": "Welcome Sign Still Reads 7 at the County Line; No Change Noted",
+      "body": "The sign held its count through another cold morning. The editor notes this for the record and nothing more."
+    },
+    {
+      "headline": "Hank's Chalkboard Clean Two Mornings Running",
+      "body": "No further writing has appeared on the hardware store board since Thursday. Hank opened on schedule both days and has moved the shop's chalk supply to the back room, though he denies this is precaution."
+    },
+    {
+      "headline": "Bakery Window Seat Quiet; Doreen Reports an Ordinary Friday",
+      "body": "One loaf, sold by nine. Doreen called it 'nothing to add' and meant it the plain way this time, not the worn-smooth way."
+    }
+  ],
+  "classifieds": [
+    "LOST: a brass button with an anchor stamp, claimed. No reward needed, but if anyone else is missing something small and old, bring it to the Gazette office. — G. Pith",
+    "WANTED: strong backs for the Kestrel Street woodpile before the next cold snap. See R. Dunmore.",
+    "FOR SALE: assorted chalk, barely used. Inquire at Mossley Hardware, back room only."
+  ],
+  "record": [
+    "Temperature at the shore gauge, 7 a.m.: 34°F, unchanged from Thursday.",
+    "Welcome sign count: 7. Census count: 9."
+  ],
+  "letters": [
+    {
+      "from": "Marigold Vance",
+      "body": "Gerald left half his coffee again today. That's twice this week after three years of never once doing it. I keep refilling the cup like that'll fix something. I don't write this to scare anyone. I write it because somebody besides me should know I'm counting."
+    },
+    {
+      "from": "Toby Fern",
+      "body": "Entry eight isn't like the others. The plates and the napkin could've been anybody's idea of being polite. The button is a specific thing a specific person lost and grieved. Whatever's doing this isn't just answering Mrs. Vance's pie anymore. It's going through what the town's buried and bringing pieces back up. I don't think that's the same kind of strange we've had all season, and I don't think it's finished."
+    }
+  ]
+}
