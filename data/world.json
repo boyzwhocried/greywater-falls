@@ -5,8 +5,8 @@
   "founded": 1887,
   "population": 9,
   "season": "Early winter",
-  "dayNumber": 115,
-  "weather": "Cold and still, 19°F, no wind at all",
+  "dayNumber": 116,
+  "weather": "Cold, 21°F, a thin fog off the water that did not burn off by noon",
   "undercurrent": {
     "level": 22,
     "stage": 2,
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 5,
     "premise": "Mrs. Vance has left pie on the step of the green house every night for longer than anyone can say, and every morning it is gone, plate washed and returned. This winter, for the first time, the plate comes back with something on it that wasn't there before: a second, smaller plate, set as if in answer, with a slice already cut and waiting for her.",
-    "day_in_season": 6,
+    "day_in_season": 7,
     "target_length": 32,
     "next_premise": ""
   }

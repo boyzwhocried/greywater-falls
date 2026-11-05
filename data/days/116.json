@@ -1,0 +1,45 @@
+{
+  "day": 116,
+  "dateline": "Thursday, January the 29th",
+  "weather": "Cold, 21°F, a thin fog off the water that did not burn off by noon",
+  "stage": 2,
+  "lead": {
+    "headline": "Someone Else Says It Now: 'Spoken For' Turns Up on Hank's Chalkboard, and He Swears He Didn't Write It",
+    "byline": "By Wren Aldercott",
+    "body": "Hank Mossley opens his hardware store at seven most mornings by wiping yesterday's specials off the chalkboard by the register and writing the day's in his own blunt capitals. This morning the board already had writing on it when he arrived. Beneath SALT, SHOVELS, STOVE PIPE in his own hand from Tuesday, in different chalk and a hand that was not his, someone had written: ALREADY SPOKEN FOR.\n\nHank told this editor he locked the shop Tuesday night himself and the key never left his pocket. He is not a man given to theatrics, and he did not treat it as one; he photographed the board for Esmé, who has started keeping a file, and then wiped it clean and wrote SALT, SHOVELS, STOVE PIPE underneath, same as always, because a shop has to open. He did say, carefully, that he'd sold Gerald Pith a box of chalk in October and not thought about it since, and that he wasn't accusing Gerald of anything, since Gerald was at Marigold's counter at the hour in question and three people can vouch for him.\n\nToby Fern arrived within the hour, having heard from Marigold, who heard from a customer, and logged the chalkboard as entry seven, the first item in his sequence that was not found at the green house. He drew the letters exactly as they appeared, in blocky unpracticed capitals unlike anyone's handwriting he could match in town, and wrote beside it only: 'it's not just Gerald's anymore.' Hank kept the shop open the rest of the day and did not mention the board again, though he left the chalk, unused, in a different drawer than before."
+  },
+  "briefs": [
+    {
+      "headline": "Welcome Sign Still Reads 7 at the County Line; No Change Noted",
+      "body": "The sign held its count through fog and frost. This editor checked it twice, out of a habit she no longer apologizes for."
+    },
+    {
+      "headline": "Mrs. Vance's Plate Returns Empty for the First Time Since the Second Plate Arrived",
+      "body": "No answer plate, no napkin, no new object. Mrs. Vance called it 'a day off, maybe,' and left a slightly larger slice that evening, just in case larger was the ask."
+    },
+    {
+      "headline": "Bakery Window Seat Sells a Third Loaf to a Regular, Plain and Unremarked",
+      "body": "Doreen's second-loaf habit appears, for now, to have become simply a business decision. She declined to say whether that disappoints her."
+    }
+  ],
+  "classifieds": [
+    "LOST: one box of white chalk, hardware-store brand, last seen in Hank Mossley's register drawer. Reward: an explanation, if anyone has one.",
+    "FOR SALE: porch chairs, four, lightly used this winter. Inquire Agnes Crewe, cottage near the water.",
+    "WANTED: a second opinion on handwriting. Bring samples to the Gazette office; discretion assured.",
+    "FOUND: nothing on the green house step this morning, which Toby Fern insists still counts as an entry."
+  ],
+  "record": [
+    "Welcome sign: 7, unchanged.",
+    "Lake level: steady; no new reading taken."
+  ],
+  "letters": [
+    {
+      "from": "Hank Mossley",
+      "body": "I want it on record I did not write it, I did not dream it, and I am not going to make more of it than a board with some chalk on it. Sell nails, stay open, go home. That's the whole of what I know."
+    },
+    {
+      "from": "Marigold Vance",
+      "body": "Gerald was at my counter the whole time, I'll swear to it on the coffee pot. But I'll say this: when Toby told him about the board, Gerald didn't look surprised. He looked relieved. I don't know what to do with that, so I'm giving it to you, Wren."
+    }
+  ]
+}
