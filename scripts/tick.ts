@@ -322,7 +322,8 @@ async function main(): Promise<void> {
   const allIssues = (r: PublishedDay): string[] => [
     ...styleIssues(r.edition),
     ...ledgerIssues(r.thread_updates, threads),
-    ...summaryIssues(r.day_summary, recentSummaries),
+    // a missing day_summary falls back to the headline later; only repeats justify a costly rewrite
+    ...summaryIssues(r.day_summary?.trim() ? r.day_summary : r.edition?.lead?.headline, recentSummaries),
   ];
   if (isValidEdition(result.edition)) {
     let issues = allIssues(result);
