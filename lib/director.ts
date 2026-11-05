@@ -1,4 +1,5 @@
 import type { Canon, Edition, Resident, Seed, World } from "./data";
+import { threadsPromptBlock, type Thread, type ThreadUpdates } from "./threads";
 
 // ---------------------------------------------------------------------------
 // The Director: everything needed to advance the town by one day, plus the
@@ -37,6 +38,8 @@ DO NOT REPEAT. You are given recent headlines. Do not re-run those beats or reus
 
 THE UNDERCURRENT: level is hidden pressure, 0-100; stage is 0 ordinary, 1 something off, 2 it compounds, 3 the town looks back. Move them to match the arc phase (setup low, cresting high, coda easing back down). The tick will clamp them to the phase, so stay in spirit.
 
+THREADS: the ledger lists open mysteries and promises. Every day, ADVANCE at least one open thread (a clue, a reversal, a cost, a new fact), via thread_updates.advance. RESOLVE a thread, giving a real answer, when its payoff day arrives or it is marked OVERDUE; do not postpone forever and do not dodge with a riddle. Open a new thread only for a genuine new mystery (at most one per day). A character appearing is not a payoff: someone must learn or decide something.
+
 SEEDS: if pending seeds are present, weave each one into TODAY meaningfully and let it begin to ripple. They will be cleared after this tick.
 
 OUTPUT — use the publish_day tool, nothing else. Rules for the edition:
@@ -59,8 +62,10 @@ export function buildUserPrompt(args: {
   recentHeadlines: string[];
   directive: string;
   nextDay: number;
+  threads?: Thread[];
 }): string {
   const { world, residents, recentEditions, seeds, canon, recentHeadlines, directive, nextDay } = args;
+  const threadBlock = threadsPromptBlock(args.threads ?? [], nextDay);
 
   const residentLines = residents
     .map((r) => {
@@ -122,6 +127,9 @@ population (census): ${world.population}
 yesterday's weather: ${world.weather}
 undercurrent: level ${world.undercurrent.level}, stage ${world.undercurrent.stage}, phenomenon "${world.undercurrent.phenomenon}"
 undercurrent note (private): ${world.undercurrent.note}
+
+## Open threads (the ledger: promises the story has made)
+${threadBlock}
 
 ## Residents
 ${residentLines}
@@ -229,6 +237,41 @@ export const PUBLISH_DAY_TOOL = {
           required: ["slug", "mood", "status", "arc", "new_memory"],
         },
       },
+      thread_updates: {
+        type: "object",
+        description:
+          "The thread ledger. Advance or resolve existing threads by id when today touches them; open a new thread ONLY for a genuine new mystery or promise (max 1 per day).",
+        properties: {
+          open: {
+            type: "array",
+            items: {
+              type: "object",
+              properties: {
+                id: { type: "string", description: "short kebab-case id" },
+                text: { type: "string", description: "the open question or promise, one sentence" },
+                payoff_by: { type: "number", description: "day number by which it should pay off" },
+              },
+              required: ["id", "text"],
+            },
+          },
+          advance: {
+            type: "array",
+            items: {
+              type: "object",
+              properties: { id: { type: "string" }, note: { type: "string", description: "what moved, one line" } },
+              required: ["id", "note"],
+            },
+          },
+          resolve: {
+            type: "array",
+            items: {
+              type: "object",
+              properties: { id: { type: "string" }, note: { type: "string", description: "the answer, one line" } },
+              required: ["id", "note"],
+            },
+          },
+        },
+      },
     },
     required: ["edition", "world_update", "season_update", "resident_updates"],
   },
@@ -252,6 +295,7 @@ export type PublishedDay = {
     new_memory: string;
     backstory?: string;
   }[];
+  thread_updates?: ThreadUpdates;
 };
 
 // ---------------------------------------------------------------------------

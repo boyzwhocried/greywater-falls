@@ -1,0 +1,66 @@
+[
+  {
+    "id": "t-aldercott-purpose",
+    "text": "What T. Aldercott (who shares the editor's surname) is typing, why H's letters were addressed to her, and what she is to Wren.",
+    "opened_day": 38,
+    "last_touched": 41,
+    "status": "open",
+    "payoff_by": 135
+  },
+  {
+    "id": "who-is-h",
+    "text": "Who or what is H, the sender of the lost-and-found letters, and what did Calloway collect from the letter ('Thank you. I have it now.').",
+    "opened_day": 24,
+    "last_touched": 36,
+    "status": "open",
+    "payoff_by": 150
+  },
+  {
+    "id": "answer-plate",
+    "text": "Who or what leaves the answer plates, the napkin and the objects for Mrs. Vance on the green house step.",
+    "opened_day": 110,
+    "last_touched": 114,
+    "status": "open",
+    "payoff_by": 140
+  },
+  {
+    "id": "green-house-occupant",
+    "text": "Who is the quiet occupant of the green house on Pell Road, and why does Mrs. Vance feed them?",
+    "opened_day": 5,
+    "last_touched": 110,
+    "status": "open",
+    "payoff_by": 150
+  },
+  {
+    "id": "philippa-crane",
+    "text": "Where did Philippa Crane, the old library cataloguer, go, and why was her own letter delivered before she arrived?",
+    "opened_day": 17,
+    "last_touched": 39,
+    "status": "open",
+    "payoff_by": 125
+  },
+  {
+    "id": "unarrived-addressees",
+    "text": "Oduya, Beaumont and Harrow had letters in the lost-and-found but never arrived. Where are they, or does the town decide they are not coming?",
+    "opened_day": 15,
+    "last_touched": 26,
+    "status": "open",
+    "payoff_by": 145
+  },
+  {
+    "id": "the-experimenter",
+    "text": "Who or what has been running the 'experiment' (Day 63) on the town, and what do they want?",
+    "opened_day": 63,
+    "last_touched": 68,
+    "status": "open",
+    "payoff_by": 170
+  },
+  {
+    "id": "gives-back-in-spring",
+    "text": "Agnes's law: the lake takes in the autumn and gives back in the spring. What exactly will it give back this spring, and what has it taken that the town has not yet counted?",
+    "opened_day": 6,
+    "last_touched": 109,
+    "status": "open",
+    "payoff_by": 180
+  }
+]

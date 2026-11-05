@@ -27,6 +27,7 @@ import Anthropic, {
 } from "@anthropic-ai/sdk";
 import type { Canon, Edition, Resident, Seed, World } from "../lib/data";
 import { styleIssues } from "../lib/guards";
+import { applyThreadUpdates, openThreads, overdueThreads, type Thread } from "../lib/threads";
 import {
   SYSTEM_PROMPT,
   TICK_MODEL,
@@ -211,6 +212,14 @@ async function main(): Promise<void> {
       `${seeds.length ? `, ${seeds.length} seed(s)` : ""}...`
   );
 
+  const threads: Thread[] = (() => {
+    try {
+      return readJson<Thread[]>(path.join(DATA, "threads.json"));
+    } catch {
+      return [];
+    }
+  })();
+
   const client = new Anthropic({ apiKey });
   const basePrompt = buildUserPrompt({
     world,
@@ -221,6 +230,7 @@ async function main(): Promise<void> {
     recentHeadlines: recentHeadlines(15),
     directive: plan.directive,
     nextDay,
+    threads,
   });
 
   // ---- generate, then critique, then regenerate once if flagged --------
@@ -400,6 +410,17 @@ async function main(): Promise<void> {
   writeJson(path.join(DATA, "residents.json"), nextResidents);
   if (newlyGone.length) writeJson(path.join(DATA, "canon.json"), nextCanon);
   writeJson(path.join(DATA, "seeds.json"), []);
+  const nextThreads = applyThreadUpdates(threads, result.thread_updates, nextDay);
+  writeJson(path.join(DATA, "threads.json"), nextThreads);
+  if (result.thread_updates) {
+    const tu = result.thread_updates;
+    console.log(
+      `Threads: +${tu.open?.length ?? 0} opened, ${tu.advance?.length ?? 0} advanced, ${tu.resolve?.length ?? 0} resolved; ` +
+        `${openThreads(nextThreads).length} open, ${overdueThreads(nextThreads, nextDay).length} overdue.`
+    );
+  } else {
+    console.warn("No thread_updates returned today; ledger unchanged.");
+  }
 
   console.log(`Published day ${nextDay}: "${edition.lead.headline}"`);
   console.log(
