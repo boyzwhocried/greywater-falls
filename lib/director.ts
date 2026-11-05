@@ -1,5 +1,6 @@
 import type { Canon, Edition, Resident, Seed, World } from "./data";
 import { threadsPromptBlock, type Thread, type ThreadUpdates } from "./threads";
+import { memoryPromptBlock, type Memory } from "./memory";
 
 // ---------------------------------------------------------------------------
 // The Director: everything needed to advance the town by one day, plus the
@@ -32,11 +33,13 @@ THE LEAD IS NEWS — hard rules (a style guard checks these and rejects drafts t
 
 CANON — never contradict it. The canon block lists immutable facts, residents the lake has taken (never revive them wrong), and phenomena already established. Honor all of it. Honor every resident's personality, voice, relationships, secret, status, arc, and recent memory. Do not contradict published editions.
 
-THE ARC — obey the directive. The arc directive tells you the season, the day within it, and the PHASE (setup, rising, cresting, resolving, coda). Write to that phase. Do not escalate when told to resolve; do not stall when told to crest. On a RESEED (new season) the town is calm and ordinary again with only the faintest new thread; do not re-run the previous season's beats. On a CODA, close the season and plant a DIFFERENT strangeness for next season via season_update.next_premise.
+THE ARC — obey the directive. The arc directive tells you the season, the day within it, and the PHASE (setup, rising, cresting, resolving, coda). Write to that phase. Do not escalate when told to resolve; do not stall when told to crest. On a RESEED (new season) the town is calm and ordinary again with only the faintest new thread; do not re-run the previous season's beats, but DO carry forward what changed (people, scars, debts, open threads). On a CODA, close the season and plant a DIFFERENT strangeness for next season via season_update.next_premise.
 
 DO NOT REPEAT. You are given recent headlines. Do not re-run those beats or reuse those headlines, and do not reuse the shape of a headline ("Weekday; thing; other thing"). Advance something new each day, not a rephrasing of the last three days.
 
 THE UNDERCURRENT: level is hidden pressure, 0-100; stage is 0 ordinary, 1 something off, 2 it compounds, 3 the town looks back. Move them to match the arc phase (setup low, cresting high, coda easing back down). The tick will clamp them to the phase, so stay in spirit.
+
+MEMORY: "The story so far" gives you every finished season in brief and what changed on each recent day. Build on it: callbacks to earlier seasons are welcome and encouraged (people, objects, places and promises from before). Always fill day_summary with what concretely changed today. Add canon_additions only for genuinely new permanent facts. On a coda day, also fill season_update.title and season_update.summary.
 
 THREADS: the ledger lists open mysteries and promises. Every day, ADVANCE at least one open thread (a clue, a reversal, a cost, a new fact), via thread_updates.advance. RESOLVE a thread, giving a real answer, when its payoff day arrives or it is marked OVERDUE; do not postpone forever and do not dodge with a riddle. Open a new thread only for a genuine new mystery (at most one per day). A character appearing is not a payoff: someone must learn or decide something.
 
@@ -63,9 +66,11 @@ export function buildUserPrompt(args: {
   directive: string;
   nextDay: number;
   threads?: Thread[];
+  memory?: Memory;
 }): string {
   const { world, residents, recentEditions, seeds, canon, recentHeadlines, directive, nextDay } = args;
   const threadBlock = threadsPromptBlock(args.threads ?? [], nextDay);
+  const memoryBlock = memoryPromptBlock(args.memory ?? { seasons: [], days: [] }, nextDay);
 
   const residentLines = residents
     .map((r) => {
@@ -127,6 +132,9 @@ population (census): ${world.population}
 yesterday's weather: ${world.weather}
 undercurrent: level ${world.undercurrent.level}, stage ${world.undercurrent.stage}, phenomenon "${world.undercurrent.phenomenon}"
 undercurrent note (private): ${world.undercurrent.note}
+
+## The story so far (memory: season summaries and what changed each recent day)
+${memoryBlock}
 
 ## Open threads (the ledger: promises the story has made)
 ${threadBlock}
@@ -218,8 +226,26 @@ export const PUBLISH_DAY_TOOL = {
             type: "string",
             description: "ONLY on a coda day: the seed of a DIFFERENT strangeness for next season.",
           },
+          title: {
+            type: "string",
+            description: "ONLY on a coda day: a short title for the season that just ended (3-4 words).",
+          },
+          summary: {
+            type: "string",
+            description:
+              "ONLY on a coda day: a 100-150 word summary of the season that just ended: what happened, what it cost, what it left unresolved.",
+          },
         },
         required: ["premise"],
+      },
+      day_summary: {
+        type: "string",
+        description: "One plain sentence: what CHANGED today (who did, found, lost or decided what). Not a headline.",
+      },
+      canon_additions: {
+        type: "array",
+        description: "0-2 NEW permanent facts today established that must never be contradicted. Plain sentences.",
+        items: { type: "string" },
       },
       resident_updates: {
         type: "array",
@@ -273,7 +299,7 @@ export const PUBLISH_DAY_TOOL = {
         },
       },
     },
-    required: ["edition", "world_update", "season_update", "resident_updates"],
+    required: ["edition", "world_update", "season_update", "resident_updates", "day_summary"],
   },
 };
 
@@ -286,7 +312,9 @@ export type PublishedDay = {
     population: number;
     undercurrent: World["undercurrent"];
   };
-  season_update: { premise: string; next_premise?: string };
+  season_update: { premise: string; next_premise?: string; title?: string; summary?: string };
+  day_summary?: string;
+  canon_additions?: string[];
   resident_updates: {
     slug: string;
     mood: string;

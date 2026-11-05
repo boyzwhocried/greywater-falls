@@ -1,0 +1,82 @@
+{
+  "seasons": [
+    {
+      "number": 1,
+      "title": "The Lake Counts",
+      "summary": "Days 1-19. The lake went silent, warm and clear, and rose without rain. Lost pets came home wet, humming and slightly cold. Gerald Pith measured the water; Agnes Crewe, 91, who remembered the last waking, spoke in riddles. On Day 9 the whole town sat at the shore and the lake lit gently from below. It counted nine, was satisfied, and receded. The coda left a first sealed letter in the Gazette's lost-and-found."
+    },
+    {
+      "number": 2,
+      "title": "The Correspondence",
+      "summary": "Days 20-50. Sealed letters from 'H' arrived daily in the lost-and-found, addressed to people not yet in town (Oduya, Beaumont, Harrow) and to residents (Crane, Crewe). The shore ice crept in. Calloway arrived Day 35 as the dock froze; T. Aldercott, who shares the editor's surname and carries a typewriter, arrived Day 38. Calloway took over the library and its east alcove. Oduya, Beaumont and Harrow never came."
+    },
+    {
+      "number": 3,
+      "title": "The Alcove",
+      "summary": "Days 51-82. Green-cloth books began appearing in the library's east alcove, dated in the future and predicting the town's days. The editor named it an experiment (Day 63). On Day 65 Calloway answered aloud: 'We have decided to keep reading.' The books began to thank the town; the ninth listed the real census of nine. Agnes finally stated her law plainly (Day 75). A library card with a pocket calendar of stamps in many hands turned up behind the ninth book."
+    },
+    {
+      "number": 4,
+      "title": "Sarah Voss",
+      "summary": "Days 83-109. The pocket calendar kept stamping itself, each in a different hand. Doreen's loaf wandered to the empty Petrakis house; a line ran from the alcove to its kitchen. Doreen announced her retirement (Day 90) but kept baking. The Kettle's cups multiplied; a fifth chair filled. The stamps ended with a name, Sarah Voss, owed a chair for a book borrowed fourteen years ago. She walked in on Day 99 and borrowed a Bronte novel. The ice held and the town rested."
+    }
+  ],
+  "days": [
+    {
+      "day": 102,
+      "summary": "Thursday; The Shore Ice Holds Through the Night, and Nobody Goes to Check It Twice"
+    },
+    {
+      "day": 103,
+      "summary": "Friday; The Snow Finally Falls, and Nobody Was Waiting on It"
+    },
+    {
+      "day": 104,
+      "summary": "Saturday; Agnes Crewe Predicts Mild Weekend Weather, and Is, So Far, Entirely Right"
+    },
+    {
+      "day": 105,
+      "summary": "Sunday; The Town Files Its First Week All Season With Nothing to File"
+    },
+    {
+      "day": 106,
+      "summary": "Monday; A Crack in the Ice, and the Whole Town Declines to Read It As News"
+    },
+    {
+      "day": 107,
+      "summary": "Tuesday; The Thursday Game, the Porch Chairs In, and a Town That Has Stopped Waiting for the Other Shoe"
+    },
+    {
+      "day": 108,
+      "summary": "Wednesday; The Sign Still Reads 7, and This Editor Finally Says Why That Is Correct"
+    },
+    {
+      "day": 109,
+      "summary": "Thursday; the Sign Still Reads 7, the Lake Lies Quiet, and This Editor Closes the Season's Books"
+    },
+    {
+      "day": 110,
+      "summary": "Friday; The Bakery Reopens Its Window Seat, and Mrs. Vance's Plate Comes Back With Company"
+    },
+    {
+      "day": 111,
+      "summary": "Saturday; Mrs. Vance Names the Second Plate, and Declines to Say More"
+    },
+    {
+      "day": 112,
+      "summary": "Sunday; Mrs. Vance Sets a Third Plate, and the Green House Keeps Its Own Counsel"
+    },
+    {
+      "day": 113,
+      "summary": "Monday; the Cup Goes Unclaimed, and Mrs. Vance Finds a Fourth Thing on the Step"
+    },
+    {
+      "day": 114,
+      "summary": "Tuesday; the Porch Light Stays On, and the Napkin Comes Back Changed"
+    },
+    {
+      "day": 115,
+      "summary": "Wednesday; Gerald Says the Word Out Loud, and the Diner Goes Quiet to Hear It"
+    }
+  ]
+}

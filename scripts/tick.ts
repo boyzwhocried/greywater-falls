@@ -27,6 +27,7 @@ import Anthropic, {
 } from "@anthropic-ai/sdk";
 import type { Canon, Edition, Resident, Seed, World } from "../lib/data";
 import { styleIssues } from "../lib/guards";
+import { addCanonFacts, addDaySummary, setSeasonSummary, type Memory } from "../lib/memory";
 import { applyThreadUpdates, openThreads, overdueThreads, type Thread } from "../lib/threads";
 import {
   SYSTEM_PROMPT,
@@ -119,6 +120,10 @@ function ensureSeasonArc(world: World): SeasonArc {
   };
 }
 
+// Running token totals for this tick, printed at the end so real cost is visible.
+let totalIn = 0;
+let totalOut = 0;
+
 async function generateDay(
   client: Anthropic,
   basePrompt: string,
@@ -141,8 +146,13 @@ async function generateDay(
   }
   const input = toolUse.input as Record<string, unknown>;
   console.log(
-    `generateDay: stop_reason=${message.stop_reason} out_tokens=${message.usage.output_tokens} keys=${Object.keys(input).join(",")}`
+    `generateDay: stop_reason=${message.stop_reason} out_tokens=${message.usage.output_tokens} keys=${Object.keys(input).join(",")}` +
+      ` edition_keys=${Object.keys((input.edition as Record<string, unknown>) ?? {}).join(",")}` +
+      ` lead_type=${typeof (input.edition as Record<string, unknown> | undefined)?.lead}` +
+      ` in_tokens=${message.usage.input_tokens} cache_read=${message.usage.cache_read_input_tokens ?? 0}`
   );
+  totalIn += message.usage.input_tokens;
+  totalOut += message.usage.output_tokens;
   return toolUse.input as PublishedDay;
 }
 
@@ -158,6 +168,8 @@ async function critique(
     tool_choice: { type: "tool", name: "critique" },
     messages: [{ role: "user", content: buildCriticPrompt(args) }],
   });
+  totalIn += message.usage.input_tokens;
+  totalOut += message.usage.output_tokens;
   const toolUse = message.content.find((b) => b.type === "tool_use");
   if (!toolUse || toolUse.type !== "tool_use") {
     // If the critic itself fails, do not block publication.
@@ -220,11 +232,21 @@ async function main(): Promise<void> {
     }
   })();
 
+  const memory: Memory = (() => {
+    try {
+      return readJson<Memory>(path.join(DATA, "memory.json"));
+    } catch {
+      return { seasons: [], days: [] };
+    }
+  })();
+
   const client = new Anthropic({ apiKey });
   const basePrompt = buildUserPrompt({
     world,
     residents,
-    recentEditions: recentEditions(3),
+    memory,
+    // memory carries the long view, so one full edition is enough for voice continuity
+    recentEditions: recentEditions(1),
     seeds,
     canon,
     recentHeadlines: recentHeadlines(15),
@@ -390,9 +412,18 @@ async function main(): Promise<void> {
   });
 
   // Anyone the lake took joins canon.gone so they are never revived wrong.
-  const nextCanon: Canon = newlyGone.length
-    ? { ...canon, gone: [...canon.gone, ...newlyGone] }
+  const factsBefore = canon.established_phenomena;
+  const factsAfter = addCanonFacts(factsBefore, result.canon_additions);
+  const canonChanged = newlyGone.length > 0 || factsAfter.length !== factsBefore.length;
+  const nextCanon: Canon = canonChanged
+    ? { ...canon, gone: [...canon.gone, ...newlyGone], established_phenomena: factsAfter }
     : canon;
+
+  // ---- hierarchical memory: one line per day, one summary per season ----
+  let nextMemory = addDaySummary(memory, nextDay, result.day_summary?.trim() || edition.lead.headline);
+  if (plan.phase === "coda" && su.summary?.trim()) {
+    nextMemory = setSeasonSummary(nextMemory, nextSeason.number, su.title?.trim() || `Season ${nextSeason.number}`, su.summary);
+  }
 
   if (DRY) {
     console.log(`\n--- DAY ${nextDay} (dry run, nothing written) ---`);
@@ -408,7 +439,8 @@ async function main(): Promise<void> {
   writeJson(nextPath, edition);
   writeJson(path.join(DATA, "world.json"), nextWorld);
   writeJson(path.join(DATA, "residents.json"), nextResidents);
-  if (newlyGone.length) writeJson(path.join(DATA, "canon.json"), nextCanon);
+  if (canonChanged) writeJson(path.join(DATA, "canon.json"), nextCanon);
+  writeJson(path.join(DATA, "memory.json"), nextMemory);
   writeJson(path.join(DATA, "seeds.json"), []);
   const nextThreads = applyThreadUpdates(threads, result.thread_updates, nextDay);
   writeJson(path.join(DATA, "threads.json"), nextThreads);
@@ -422,6 +454,7 @@ async function main(): Promise<void> {
     console.warn("No thread_updates returned today; ledger unchanged.");
   }
 
+  console.log(`Token usage this tick: ${totalIn} input, ${totalOut} output.`);
   console.log(`Published day ${nextDay}: "${edition.lead.headline}"`);
   console.log(
     `Season ${nextSeason.number}, day ${nextSeason.day_in_season}/${nextSeason.target_length} (${plan.phase}); ` +
