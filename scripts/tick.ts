@@ -224,8 +224,8 @@ async function main(): Promise<void> {
 
   // ---- generate, then critique, then regenerate once if flagged --------
   let result = await withRetry(() => generateDay(client, basePrompt, null), "generateDay");
-  if (!isValidEdition(result.edition)) {
-    console.warn("Generated edition is missing its lead story or briefs list. Regenerating once...");
+  for (let attempt = 1; attempt <= 2 && !isValidEdition(result.edition); attempt++) {
+    console.warn(`Generated edition is missing its lead story or briefs list. Regenerating (retry ${attempt}/2)...`);
     result = await withRetry(
       () =>
         generateDay(
@@ -233,7 +233,7 @@ async function main(): Promise<void> {
           basePrompt,
           "The previous draft was missing its lead story or briefs list. Return the full edition with every required field filled in, especially `lead` and `briefs`."
         ),
-      "generateDay (malformed retry)"
+      `generateDay (malformed retry ${attempt})`
     );
   }
   if (!NO_CRITIC && isValidEdition(result.edition)) {
