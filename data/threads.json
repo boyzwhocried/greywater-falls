@@ -19,9 +19,12 @@
     "id": "answer-plate",
     "text": "Who or what leaves the answer plates, the napkin and the objects for Mrs. Vance on the green house step.",
     "opened_day": 110,
-    "last_touched": 114,
-    "status": "open",
-    "payoff_by": 140
+    "last_touched": 115,
+    "status": "advanced",
+    "payoff_by": 140,
+    "notes": [
+      "Day 115: The sequence crosses from objects into language: Gerald's private phrase 'spoken for,' used first in isolation, now spoken aloud to a stranger, logged by Toby as entry six alongside the plates and napkin."
+    ]
   },
   {
     "id": "green-house-occupant",
@@ -59,8 +62,11 @@
     "id": "gives-back-in-spring",
     "text": "Agnes's law: the lake takes in the autumn and gives back in the spring. What exactly will it give back this spring, and what has it taken that the town has not yet counted?",
     "opened_day": 6,
-    "last_touched": 109,
-    "status": "open",
-    "payoff_by": 180
+    "last_touched": 115,
+    "status": "advanced",
+    "payoff_by": 180,
+    "notes": [
+      "Day 115: Gerald's phrase implies ownership or claim over the ice itself ('already spoken for'), the clearest verbal hint yet that something considers the lake's contents accounted for, tying his shore silence to Agnes's law of taking and giving back."
+    ]
   }
 ]

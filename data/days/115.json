@@ -1,0 +1,44 @@
+{
+  "day": 115,
+  "dateline": "Wednesday, January the 28th",
+  "weather": "Cold and still, 19°F, no wind at all, which Hank at the hardware store called 'the kind of quiet that costs extra'",
+  "stage": 2,
+  "lead": {
+    "headline": "Wednesday; Gerald Says the Word Out Loud, and the Diner Goes Quiet to Hear It",
+    "byline": "By Wren Aldercott",
+    "body": "Gerald Pith has not spoken the word 'spoken for' to anyone but himself since he used it Tuesday last about the ice. This morning, at Marigold's counter, he said it again, differently. Asked by a tourist passing through on the county road whether the lake was safe to walk on yet, Gerald set down his cup and said, plainly, that no, it wasn't his to speak for, it was already spoken for, and that was that. Marigold, refilling cups three stools down, stopped with the pot in her hand.\n\nIt is the first time, by this editor's count, that Gerald's private phrase has been used in front of someone who did not already know to let it pass. The tourist laughed, uncertain, and asked what he meant. Gerald did not answer. Marigold filled the silence the way she has learned to lately, with coffee and a joke about the weather, but she told this editor afterward that she'd caught herself listening for the phrase to be picked up again, the way you listen for an echo you're not sure you want back.\n\nToby Fern, present for the second half of the exchange on his way home from school, wrote the phrase down verbatim and underlined 'spoken for' once, no further comment, which for Toby now counts as restraint. Mrs. Vance's porch light burned through last night again, the fourth night running, and the napkin stayed in the Gazette's drawer, dry, where she asked it to be kept. Gerald finished his coffee, left the full cup he'd left untouched the night before still untouched today, and walked out without saying where he was going, though Marigold watched him turn, from the window, toward the shore."
+  },
+  "briefs": [
+    {
+      "headline": "Welcome Sign Still Reads 7 at the County Line; No Change Noted",
+      "body": "The sign held steady for another day. The census office, reached by phone, repeated its standing position that it has no further comment on the matter and would appreciate not being asked again this month."
+    },
+    {
+      "headline": "Bakery Window Seat Holds Steady; Doreen's Second Loaf Finds No Taker, Again",
+      "body": "Doreen baked the unassigned loaf a second morning running and delivered it without comment, same as the first. It sat on the counter past noon before a passerby finally bought it as an ordinary loaf, which Doreen reported with what this editor can only call relief."
+    },
+    {
+      "headline": "Toby Fern's Notebook: 'Spoken For' Logged as Entry Six, No Sketch Required",
+      "body": "Toby's running list of objects and phrases on the green house sequence gained its first non-object entry today. He noted that a phrase can accumulate the same way a plate does, and that he intends to watch whether anyone else starts using it."
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One box of nails, barely touched, Mossley Hardware. Ask for Hank.",
+    "LOST: A green mitten, somewhere between the school and the shore. Reward: a thank-you and possibly pie. — T. Fern",
+    "WANTED: Someone to tell Marigold the headcount on the specials board doesn't need updating. She knows. She'd just like to hear it."
+  ],
+  "record": [
+    "Temperature at noon: 24°F, rising slightly through the afternoon.",
+    "Lake level: no new reading taken; Gerald Pith's notebook remains, by his own account, closed."
+  ],
+  "letters": [
+    {
+      "from": "Marigold Vance, The Kettle",
+      "body": "I've poured coffee in this town for eleven years and I have never once wanted to ask a customer to repeat himself the way I wanted to ask Gerald this morning. He didn't, and I didn't make him. But I'll say this much in print since I won't say it at the counter: if something out there is spoken for, I'd like to know by whom, and whether they take requests."
+    },
+    {
+      "from": "Toby Fern",
+      "body": "Writing this down because nobody else will: the napkin got folded into something. Now Gerald's got a phrase nobody taught him that he says like it's a fact he's reading off a label. Those aren't the same kind of thing but they're doing the same kind of job. I don't know what the job is yet."
+    }
+  ]
+}
