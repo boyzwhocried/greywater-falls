@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Early winter",
-  "dayNumber": 113,
-  "weather": "Cold and still, 24°F, no wind to speak of",
+  "dayNumber": 114,
+  "weather": "Cold and clear, 22°F, frost thick on the windows by eight",
   "undercurrent": {
-    "level": 11,
+    "level": 14,
     "stage": 0,
-    "phenomenon": "Mrs. Vance's returned plate: now a fourth object, a folded napkin, set beside the washed plates on the green house's step, where before there was only ever an empty plate returned.",
-    "note": "Nudging the level up by two, no stage change. The object sequence (plate, answer plate, empty cup-plate, napkin) is accruing texture without anyone but Mrs. Vance and Toby treating it as more than curious domestic courtesy. Keep Doreen and Gerald firmly in their routines one more day; let the thread thicken through accumulation of small objects rather than reaction. Porch light detail is the next small knob to turn if needed."
+    "phenomenon": "Mrs. Vance's returned napkin, refolded into a shape with more corners than it had, brought to the Gazette for safekeeping; Gerald's unexplained walk to the shore and his first voluntary silence about what he saw there.",
+    "note": "Two small threads converge today without touching: the object sequence gains intentionality (a fold, not just an addition) and Gerald breaks his counter routine to return to the shore unprompted, leaving without instruments or explanation. Keep both deniable but let them accrue weight. Next natural knob: Gerald's 'spoken for' phrase getting picked up by someone else, or the napkin's shape matching something in the library's east alcove."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 5,
     "premise": "Mrs. Vance has left pie on the step of the green house every night for longer than anyone can say, and every morning it is gone, plate washed and returned. This winter, for the first time, the plate comes back with something on it that wasn't there before: a second, smaller plate, set as if in answer, with a slice already cut and waiting for her.",
-    "day_in_season": 4,
+    "day_in_season": 5,
     "target_length": 32,
     "next_premise": ""
   }

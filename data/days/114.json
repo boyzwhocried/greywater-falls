@@ -1,0 +1,45 @@
+{
+  "day": 114,
+  "dateline": "Tuesday, January the 27th",
+  "weather": "Cold and clear, 22°F, frost thick on the windows by eight",
+  "stage": 0,
+  "lead": {
+    "headline": "Tuesday; the Porch Light Stays On, and the Napkin Comes Back Changed",
+    "byline": "By Wren Aldercott",
+    "body": "Mrs. Vance left her porch light burning through the night for the first time this season, by design rather than oversight, and this morning the napkin she'd laundered and returned to the step came back to her again, folded differently. Where she had pressed it into quarters, it was refolded into a shape she could not immediately name, something with more corners than a napkin strictly requires. She brought it into the Gazette office herself this afternoon, which she has not done with any of the other objects, and set it on the counter the way a person sets down evidence they are not yet willing to call evidence.\n\n\"I folded it one way,\" she said. \"It came back another.\" She would not speculate further, except to say that whoever was answering her plates had, as far as she could tell, opinions about table linen, and that she found this more reassuring than alarming, though she said it in the voice of someone testing whether the sentence held up out loud. She left the napkin on the counter and asked this editor to keep it a day or two, 'somewhere dry,' before she took it back.\n\nToby Fern, shown the refold this evening, counted the corners twice and wrote in his notebook that the shape was 'not a napkin anymore, but not not one either,' which this editor considers as precise a description as the matter currently allows. He has started a new page headed simply OBJECTS, numbered, with the folded napkin logged as entry five and a small sketch beside it. Mrs. Vance's porch light, meanwhile, stayed lit again tonight, visible from the road a little past where the streetlamps give out."
+  },
+  "briefs": [
+    {
+      "headline": "Welcome Sign Still Reads 7 at the County Line; No Change Noted",
+      "body": "The sign held its count through another survey by the highway department, who confirmed the paint is original and the number has not been altered. The census office was not consulted, as is now customary."
+    },
+    {
+      "headline": "Bakery Window Seat Holds Steady; Doreen Adds a Second Loaf to the Morning Run",
+      "body": "Doreen Halloway delivered two loaves at the ordinary hour instead of one, the second bound, she said, 'for nobody in particular, just in case,' and left it at that before the next customer arrived."
+    },
+    {
+      "headline": "Gerald Pith Returns to the Shore, Takes No Reading, Leaves a Note Instead",
+      "body": "After a week at Marigold's counter, Gerald walked down to the water this morning, stood a few minutes, and came back without his stick or his string, saying only that the ice looked 'spoken for.' He declined to elaborate."
+    }
+  ],
+  "classifieds": [
+    "FOR SALE: One birdfeeder, lightly used, two chickadees included at no extra charge. Inquire R. Dunmore.",
+    "WANTED: Clean linens, any pattern, for a purpose the buyer would rather not state. See M. Vance, Pell Road.",
+    "LOST: A morning's worth of ordinary quiet. Last seen Monday. Reward: a slice of pie, cut generously."
+  ],
+  "record": [
+    "Welcome sign, county line: reads 7. Census: 9.",
+    "Lake temperature, shoreline reading: unseasonably mild for January. No further comment filed."
+  ],
+  "letters": [
+    {
+      "from": "Marigold Vance, The Kettle",
+      "body": "Gerald came in this morning, drank half a cup standing up, and left without finishing it, which he has never done in the three years I've poured for him. He said something about the shore being 'spoken for' and wouldn't say more. I kept his seat warm anyway. Some habits a diner owner doesn't give up just because the customer has."
+    },
+    {
+      "from": "Toby Fern, age 16",
+      "body": "Entry five: the napkin came back folded different. Not better, not worse, just different, like whoever did it wanted Mrs. Vance to notice they could. I don't think this is scary yet. I think it's somebody being careful about being noticed. Those aren't the same thing and I want that on the record."
+    }
+  ],
+  "editorNote": "This editor has elected to keep the napkin in a drawer rather than a window, on the theory that some evidence prefers not to be looked at directly while it's still deciding what it is."
+}
