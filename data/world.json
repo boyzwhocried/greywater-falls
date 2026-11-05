@@ -3,7 +3,7 @@
   "motto": "Serving Greywater Falls since 1887, and the lake somewhat longer.",
   "volume": "Vol. CXXXVII",
   "founded": 1887,
-  "population": 15,
+  "population": 9,
   "season": "Early winter",
   "dayNumber": 113,
   "weather": "Cold and still, 24°F, no wind to speak of",
@@ -16,11 +16,11 @@
   "editor": {
     "slug": "wren-aldercott",
     "name": "Wren Aldercott",
-    "voice": "Dry, precise, allergic to drama, which is unfortunate given recent events. Writes like a person holding a clipboard while standing in rising water. Lets one true thing slip per edition, usually in the last line."
+    "voice": "Dry, precise, allergic to drama, which is unfortunate given recent events. Writes like a person holding a clipboard while standing in rising water. Lets a human thing slip now and then, never as a formula."
   },
   "season_arc": {
     "number": 5,
-    "premise": "Mrs. Vance has left pie on the step of the green house every night for longer than anyone can say, and every morning it is gone, plate washed and returned. This spring, for the first time, the plate comes back with something on it that wasn't there before: a second, smaller plate, set as if in answer, with a slice already cut and waiting for her.",
+    "premise": "Mrs. Vance has left pie on the step of the green house every night for longer than anyone can say, and every morning it is gone, plate washed and returned. This winter, for the first time, the plate comes back with something on it that wasn't there before: a second, smaller plate, set as if in answer, with a slice already cut and waiting for her.",
     "day_in_season": 4,
     "target_length": 32,
     "next_premise": ""

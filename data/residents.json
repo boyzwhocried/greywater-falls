@@ -109,7 +109,7 @@
     "age": 43,
     "role": "Editor, sole reporter, and typesetter of The Greywater Gazette",
     "personality": "Dry, exact, professionally calm. Came to the Falls for a quiet posting and got the strangest beat in the country, which she covers as if it were a zoning dispute.",
-    "voice": "Clipboard prose. Buries the one true sentence at the bottom of the column where she hopes no one will make her account for it.",
+    "voice": "Clipboard prose, dry and exact. A human slip shows through now and then, never as a formula.",
     "relationships": [
       {
         "with": "doreen-halloway",
@@ -299,5 +299,107 @@
       "Day 108: Found two chickadees at the rail instead of one and logged it without calling it a pattern."
     ],
     "backstory": "Twenty years keeping a town this small means twenty years of nothing happening, which made him very good at his job and completely unprepared for the one time it didn't hold."
+  },
+  {
+    "relationships": [
+      {
+        "with": "wren-aldercott",
+        "type": "ally",
+        "note": "Phones her first about every new book."
+      },
+      {
+        "with": "agnes-crewe",
+        "type": "respects",
+        "note": "Sat in the second chair together."
+      }
+    ],
+    "status": "present",
+    "memory": [
+      "Day 99: Checked Sarah Voss's book back in and issued her a fresh card."
+    ],
+    "slug": "calloway",
+    "name": "Calloway",
+    "age": 52,
+    "role": "Librarian and keeper of the east alcove; arrived by the lake road on Day 35 after a letter from H",
+    "personality": "Methodical, dry, keeps logs of everything, treats the impossible as a cataloguing problem.",
+    "voice": "Precise and understated, but warms into plain talk with people she trusts. Asks the practical question first.",
+    "secret": "She has never said what she collected from the letter on Day 36 ('Thank you. I have it now.').",
+    "mood": "Settled, watchful",
+    "arc": "Keeper of the alcove; has not yet said what H gave her.",
+    "backstory": "A newcomer. She arrived Day 35. Earlier lines giving her thirty-one years in the building were an error."
+  },
+  {
+    "relationships": [
+      {
+        "with": "wren-aldercott",
+        "type": "namesake",
+        "note": "The editor 'knows her own name when she hears it' and has not asked."
+      },
+      {
+        "with": "calloway",
+        "type": "old acquaintance, somehow",
+        "note": "They resumed a conversation they never started."
+      }
+    ],
+    "status": "present",
+    "memory": [
+      "Day 38: Arrived by the lake road: 'I believe you have something for me.'"
+    ],
+    "slug": "t-aldercott",
+    "name": "T. Aldercott",
+    "age": 40,
+    "role": "Writer with a typewriter, working in the Gazette's layout room; arrived Day 38",
+    "personality": "Quiet, deliberate, shares the editor's surname and has never explained why.",
+    "voice": "Few words, exact ones. Types more than she talks.",
+    "secret": "What she is typing, and why her letters from H were addressed to the Gazette. Not yet revealed; this is the series' biggest open hook and must be paid off.",
+    "mood": "Intent",
+    "arc": "Her purpose must be revealed and tied to Wren's surname.",
+    "backstory": "Unknown."
+  },
+  {
+    "relationships": [
+      {
+        "with": "calloway",
+        "type": "librarian",
+        "note": "Calloway checks her out properly, due in three weeks."
+      }
+    ],
+    "status": "present",
+    "memory": [
+      "Day 99: Walked in by the front door and asked for the Bronte novel she had out."
+    ],
+    "slug": "sarah-voss",
+    "name": "Sarah Voss",
+    "age": 45,
+    "role": "Library patron; came home Day 99 after fourteen years of annual stamps",
+    "personality": "Gentle, plain, unhurried; treats the town as if she never left.",
+    "voice": "Ordinary and polite, ordinary questions.",
+    "secret": "Where the fourteen Wednesdays went.",
+    "mood": "Content",
+    "arc": "Now an ordinary borrower; what she brought home from the lake is unspoken.",
+    "backstory": "Checked out a book on a Wednesday fourteen years ago and did not return it until Day 99."
+  },
+  {
+    "relationships": [
+      {
+        "with": "calloway",
+        "type": "successor",
+        "note": "The reason Philippa left the library is unexplained and must be resolved."
+      }
+    ],
+    "status": "away",
+    "memory": [
+      "Day 24: Became a regular at the Kettle."
+    ],
+    "slug": "philippa-crane",
+    "name": "Philippa Crane",
+    "age": 61,
+    "role": "Former volunteer cataloguer of the library",
+    "personality": "Composed, process-minded; processes the paperwork first.",
+    "voice": "Cataloguer's composure; asks whether there was a postmark.",
+    "secret": "Her letter (Day 17) arrived before she did. She vanished from the story once Calloway took the library.",
+    "mood": "Unknown",
+    "arc": "Open thread: say where she went and why. One sentence will do.",
+    "backstory": "Library volunteer cataloguer for eleven years."
   }
 ]

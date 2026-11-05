@@ -26,6 +26,7 @@ import Anthropic, {
   APIConnectionTimeoutError,
 } from "@anthropic-ai/sdk";
 import type { Canon, Edition, Resident, Seed, World } from "../lib/data";
+import { styleIssues } from "../lib/guards";
 import {
   SYSTEM_PROMPT,
   TICK_MODEL,
@@ -235,6 +236,30 @@ async function main(): Promise<void> {
         ),
       `generateDay (malformed retry ${attempt})`
     );
+  }
+  // ---- style guard: kill template loops, keep the best draft ------------
+  if (isValidEdition(result.edition)) {
+    let issues = styleIssues(result.edition);
+    for (let attempt = 1; attempt <= 2 && issues.length > 0; attempt++) {
+      console.log(`Style guard (${issues.length}): ${issues.join("; ")}. Rewriting (${attempt}/2)...`);
+      try {
+        const next = await withRetry(
+          () => generateDay(client, basePrompt, `Style problems to fix, keep the same events:\n- ${issues.join("\n- ")}`),
+          `generateDay (style retry ${attempt})`
+        );
+        if (isValidEdition(next.edition)) {
+          const nextIssues = styleIssues(next.edition);
+          if (nextIssues.length <= issues.length) {
+            result = next;
+            issues = nextIssues;
+          }
+        }
+      } catch (err) {
+        console.warn(`Style retry failed: ${(err as Error).message}. Keeping current draft.`);
+        break;
+      }
+    }
+    if (issues.length > 0) console.warn(`Publishing with remaining style issues: ${issues.join("; ")}`);
   }
   if (!NO_CRITIC && isValidEdition(result.edition)) {
     let verdict: { verdict: "ok" | "revise"; worst: string; issues: string[] };
