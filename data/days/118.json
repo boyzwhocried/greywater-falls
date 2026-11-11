@@ -1,0 +1,45 @@
+{
+  "day": 118,
+  "dateline": "Saturday, January the 31st",
+  "weather": "Cold, 22°F, a thin fog off the water by midmorning",
+  "stage": 2,
+  "lead": {
+    "headline": "A Second Step, A Second Grief: Esmé Okonkwo Finds Her Father's Compass on the Green House Porch",
+    "byline": "By Wren Aldercott",
+    "body": "Esmé Okonkwo went to the green house this morning at Mrs. Vance's request, to look at a watch that had turned up beside the day's empty plate and to say whether she recognized it. She did not recognize the watch. She recognized the compass sitting under it, brass-cased, glass cracked in the same hairline crack it has always had, because her father carried it on the boats out of Cedar Point until he drowned there when she was twelve, and the compass went down with him and was never recovered by anyone, including the men who dragged that stretch of lake for three days.\n\nEsmé held it a long time without speaking, turned it over once to find the crack where she remembered it, and told this editor only that the needle still points true north, which it should not do after forty years in water. She did not cry in front of Mrs. Vance, who reported this with evident relief, but she did sit down on the porch step rather than the chair offered her, and stayed there until Toby Fern arrived to log the item and found her still sitting.\n\nThe town has now had two objects returned to two separate residents inside three days, which ends any argument that Gerald's button was a singular event tied to one grief. Doreen Halloway, informed at the bakery counter, said only that the lake was 'getting specific,' and would not be drawn further. Esmé took the compass home. She left the watch for Toby's list."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 118",
+      "body": "Level 31, holding. Water 34°F at the public dock. Clarity: clear to the second drop-off, fog obscuring the far shore by late morning. Sign at the county line still reads 7. No new returned animals logged overnight."
+    },
+    {
+      "headline": "Toby's List Reaches Nine, Then Ten",
+      "body": "Toby Fern logged the unclaimed watch as entry nine and the compass as entry ten within the same morning, the first time two items arrived in one delivery. He has started a second column: OWNER, next to OBJECT."
+    },
+    {
+      "headline": "Town Meeting Called for Monday",
+      "body": "Mayor Halloway has called an open meeting at the Grange for Monday evening 'to discuss the green house step as a civic matter.' Russ Dunmore says he will attend in an official capacity and bring no opinion."
+    }
+  ],
+  "classifieds": [
+    "LOST: a man's pocket watch, gold-plated, no engraving. Turned up where it had no business being. Inquire at the Gazette office if it is yours.",
+    "FOR SALE: six folding chairs, Grange storage, suitable for a meeting that may run long. — H. Mossley",
+    "WANTED: anyone willing to say, on the record, whether this should be stopped. — The Gazette"
+  ],
+  "record": [
+    "Births: none. Deaths: none. Marriages: none.",
+    "Grange meeting called, Doreen Halloway presiding, Monday 7 p.m."
+  ],
+  "letters": [
+    {
+      "from": "Esmé Okonkwo",
+      "body": "I have spent twenty years telling this town what its own pulse means. I don't know what mine means this morning, holding my father's compass, and I'm not going to pretend otherwise in print. I would ask, gently, that nobody bring me their sympathy at the clinic this week. I have patients."
+    },
+    {
+      "from": "Marigold Vance",
+      "body": "Gerald came in today and asked after Esmé before he asked for his coffee. First time in three years he's asked after anyone before the coffee. Make of that what you will. I already have."
+    }
+  ],
+  "editorNote": "This editor has stopped calling these returns a courtesy. A courtesy does not know where your father's compass went down."
+}

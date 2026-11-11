@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Early winter",
-  "dayNumber": 117,
-  "weather": "Cold, 19°F, clear enough to see the far shore for the first time in a week",
+  "dayNumber": 118,
+  "weather": "Cold, 22°F, a thin fog off the water by midmorning",
   "undercurrent": {
-    "level": 31,
+    "level": 38,
     "stage": 2,
-    "phenomenon": "The green house step has returned a brass button belonging to Gerald's late mother's coat, the first returned object proven to be a specific resident's long-lost, grieved possession rather than a neutral or practical item.",
-    "note": "The sequence has crossed from anonymous courtesy (plates, napkins) into targeted restitution (a named grief, a named owner). This confirms the story beat: the answerer knows the town's private losses, not just its manners. Next knob: a second resident receives a returned object, forcing the town to argue publicly about whether this is a comfort or an intrusion, and whether anyone should try to give something back in turn."
+    "phenomenon": "A second resident, Esmé Okonkwo, has received a returned object traced to a specific grief: her father's compass, lost with him in the lake forty years ago and never recovered.",
+    "note": "The pattern has moved from one grief to a second, unrelated one, confirming it is not fixated on Gerald alone but reaching broadly into the town's old, uncounted losses. The town has now called a public meeting, which will force the first open argument about whether to let this continue, try to stop it, or attempt to answer back. Next knob: someone tries to leave something FOR the green house step in return, and the town must decide if that is welcome."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 5,
     "premise": "Mrs. Vance has left pie on the step of the green house every night for longer than anyone can say, and every morning it is gone, plate washed and returned. This winter, for the first time, the plate comes back with something on it that wasn't there before: a second, smaller plate, set as if in answer, with a slice already cut and waiting for her.",
-    "day_in_season": 8,
+    "day_in_season": 9,
     "target_length": 32,
     "next_premise": "",
     "outline": [

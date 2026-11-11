@@ -19,12 +19,13 @@
     "id": "answer-plate",
     "text": "Who or what leaves the answer plates, the napkin and the objects for Mrs. Vance on the green house step.",
     "opened_day": 110,
-    "last_touched": 117,
+    "last_touched": 118,
     "status": "advanced",
     "payoff_by": 140,
     "notes": [
       "Day 115: The sequence crosses from objects into language: Gerald's private phrase 'spoken for,' used first in isolation, now spoken aloud to a stranger, logged by Toby as entry six alongside the plates and napkin.",
-      "Day 117: Day 117: The step returns a brass button proven to be Gerald's late mother's coat button, the first object traced to a specific resident's long-held grief, shifting the sequence from anonymous answer to targeted restitution."
+      "Day 117: Day 117: The step returns a brass button proven to be Gerald's late mother's coat button, the first object traced to a specific resident's long-held grief, shifting the sequence from anonymous answer to targeted restitution.",
+      "Day 118: Day 118: A second object, Esmé's father's drowned compass, confirms the sequence targets multiple residents' private griefs, not just Gerald's, forcing the town to call a public meeting."
     ]
   },
   {
@@ -63,12 +64,13 @@
     "id": "gives-back-in-spring",
     "text": "Agnes's law: the lake takes in the autumn and gives back in the spring. What exactly will it give back this spring, and what has it taken that the town has not yet counted?",
     "opened_day": 6,
-    "last_touched": 117,
+    "last_touched": 118,
     "status": "advanced",
     "payoff_by": 180,
     "notes": [
       "Day 115: Gerald's phrase implies ownership or claim over the ice itself ('already spoken for'), the clearest verbal hint yet that something considers the lake's contents accounted for, tying his shore silence to Agnes's law of taking and giving back.",
-      "Day 117: Day 117: The first proven returned object is a dead relative's possession, sharpening the question of what the lake or its intermediary considers owed back, and to whom."
+      "Day 117: Day 117: The first proven returned object is a dead relative's possession, sharpening the question of what the lake or its intermediary considers owed back, and to whom.",
+      "Day 118: Day 118: A compass lost in the lake itself, not merely misplaced, returns via the green house step, tightening the link between Agnes's law and the step's deliveries."
     ]
   }
 ]
