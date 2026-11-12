@@ -9,10 +9,10 @@
   --oxblood: #7c2d2a;
   --lake: #5f7577;
 
-  --font-nameplate: var(--f-nameplate), "Times New Roman", serif;
-  --font-display: var(--f-display), Georgia, serif;
-  --font-body: var(--f-body), Georgia, serif;
-  --font-label: var(--f-label), "Arial Narrow", sans-serif;
+  --font-nameplate: "UnifrakturMaguntia", "Times New Roman", serif;
+  --font-display: "Playfair Display", Georgia, serif;
+  --font-body: "Lora", Georgia, serif;
+  --font-label: "Oswald", "Arial Narrow", sans-serif;
 }
 
 * {

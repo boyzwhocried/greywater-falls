@@ -1,33 +1,26 @@
 import type { Metadata } from "next";
-import { UnifrakturMaguntia, Playfair_Display, Lora, Oswald } from "next/font/google";
+import "@fontsource/unifrakturmaguntia/latin-400.css";
+import "@fontsource/playfair-display/latin-400.css";
+import "@fontsource/playfair-display/latin-700.css";
+import "@fontsource/playfair-display/latin-800.css";
+import "@fontsource/playfair-display/latin-900.css";
+import "@fontsource/playfair-display/latin-400-italic.css";
+import "@fontsource/playfair-display/latin-700-italic.css";
+import "@fontsource/playfair-display/latin-800-italic.css";
+import "@fontsource/playfair-display/latin-900-italic.css";
+import "@fontsource/lora/latin-400.css";
+import "@fontsource/lora/latin-500.css";
+import "@fontsource/lora/latin-600.css";
+import "@fontsource/lora/latin-400-italic.css";
+import "@fontsource/lora/latin-500-italic.css";
+import "@fontsource/lora/latin-600-italic.css";
+import "@fontsource/oswald/latin-300.css";
+import "@fontsource/oswald/latin-400.css";
+import "@fontsource/oswald/latin-500.css";
 import "./globals.css";
 
-const nameplate = UnifrakturMaguntia({
-  weight: "400",
-  subsets: ["latin"],
-  variable: "--f-nameplate",
-  display: "swap",
-});
-const display = Playfair_Display({
-  subsets: ["latin"],
-  weight: ["400", "700", "800", "900"],
-  style: ["normal", "italic"],
-  variable: "--f-display",
-  display: "swap",
-});
-const body = Lora({
-  subsets: ["latin"],
-  weight: ["400", "500", "600"],
-  style: ["normal", "italic"],
-  variable: "--f-body",
-  display: "swap",
-});
-const label = Oswald({
-  subsets: ["latin"],
-  weight: ["300", "400", "500"],
-  variable: "--f-label",
-  display: "swap",
-});
+// Fonts are self-hosted (Fontsource) so a Google Fonts fetch failure can no longer
+// fail the production build (Nov 5 deploy failure). The --f-* vars live in globals.css.
 
 export const metadata: Metadata = {
   title: "The Greywater Gazette",
@@ -44,11 +37,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body
-        className={`${nameplate.variable} ${display.variable} ${body.variable} ${label.variable}`}
-      >
-        {children}
-      </body>
+      <body>{children}</body>
     </html>
   );
 }
