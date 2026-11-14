@@ -27,6 +27,7 @@ import Anthropic, {
 } from "@anthropic-ai/sdk";
 import type { Canon, Edition, Resident, Seed, World } from "../lib/data";
 import { ledgerIssues, styleIssues, summaryIssues } from "../lib/guards";
+import { isValidEdition, normalizePublishedDay } from "../lib/normalize";
 import { addCanonFacts, addDaySummary, memoryPromptBlock, setSeasonSummary, type Memory } from "../lib/memory";
 import { applyThreadUpdates, openThreads, overdueThreads, threadsPromptBlock, type Thread } from "../lib/threads";
 import {
@@ -94,9 +95,7 @@ function clamp(n: number, lo: number, hi: number): number {
 }
 /** Guards the critic prompt (which assumes edition.briefs exists) against a model
  * response that skipped required tool-schema fields, since schemas aren't hard-enforced. */
-function isValidEdition(edition: PublishedDay["edition"] | undefined | null): boolean {
-  return !!edition?.lead?.headline && !!edition.lead.body && Array.isArray(edition.briefs);
-}
+// (isValidEdition now lives in lib/normalize.ts, next to the tolerant normalizer.)
 
 function recentEditions(count: number): Edition[] {
   const files = fs.readdirSync(DAYS).filter((f) => f.endsWith(".json")).sort();
@@ -158,7 +157,12 @@ async function generateDay(
   );
   totalIn += message.usage.input_tokens;
   totalOut += message.usage.output_tokens;
-  return toolUse.input as PublishedDay;
+  // repair string-encoded / numeric-key editions so one odd output does not burn a retry
+  const normalized = normalizePublishedDay(toolUse.input);
+  if (typeof input.edition !== "object" || Array.isArray(input.edition)) {
+    console.warn(`generateDay: edition arrived as ${typeof input.edition}; normalized, valid=${isValidEdition(normalized.edition)}`);
+  }
+  return normalized;
 }
 
 async function critique(
@@ -312,7 +316,7 @@ async function main(): Promise<void> {
         generateDay(
           client,
           basePrompt,
-          "The previous draft was missing its lead story or briefs list. Return the full edition with every required field filled in, especially `lead` and `briefs`."
+          "The previous draft was missing its lead story or briefs list. Return the full edition with every required field filled in, especially `lead` and `briefs`. `edition` must be a real JSON object (never a string or JSON-encoded text), and every top-level field must be its own tool argument."
         ),
       `generateDay (malformed retry ${attempt})`
     );

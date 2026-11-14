@@ -1,6 +1,9 @@
 name: Daily tick
 
-# Greywater Falls advances itself one day each morning: the tick writes a new
+# NOTE: the name is kept as "Daily tick" on purpose (run history, any alerts keyed
+# on it). Since 2026-10-01 the cron is every 3rd day-of-month, not daily.
+#
+# Greywater Falls advances itself every 3rd morning: the tick writes a new
 # edition into data/ and commits it. The repo is PUBLIC, so the push triggers
 # Vercel's native git-integration build and the new day goes live on its own.
 # (On a Hobby plan, a private repo blocks bot-authored commits from deploying;
@@ -26,7 +29,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 12 # hard cap; the tick is ~1-2 min, so this only bites on a hang
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Check gate
         id: gate
