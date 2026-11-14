@@ -1,0 +1,45 @@
+{
+  "day": 119,
+  "dateline": "Sunday, February the 1st",
+  "weather": "Cold, 19°F, flat grey sky, no wind",
+  "stage": 2,
+  "lead": {
+    "headline": "A Child's Shoe Returns to Russ Dunmore After Forty-Four Years, and the Town Meeting Splits Without a Vote",
+    "byline": "By Wren Aldercott",
+    "body": "Russ Dunmore stood at the green house step this morning at Mrs. Vance's request, same as Esmé Okonkwo three days before him, to look at an object left beside the washed plate. It was a child's shoe, brown leather, scuffed at the toe, laces still knotted in a bow too small for adult fingers. Russ did not need Mrs. Vance to tell him whose it was. He said, in a voice this editor has not heard him use in nine years of reporting on him, that it belonged to his brother Daniel, who drowned in the lake the summer Russ was eleven, and whose body came back three days later without either shoe.\n\nThe town's first open meeting on the matter convened at two o'clock in the grange hall, called early by Doreen Halloway after word of the shoe reached her at the bakery counter. Forty-one residents and three out-of-towners attended, by Toby Fern's count, the fullest room the hall has held since the shore-sitting on Day 9. Doreen argued the town should leave something back at the step, in kind, as a matter of courtesy to whatever or whoever was returning what the lake had kept. Russ argued the opposite: that the pie should stop, the step should be left bare, and the town should decline the gift before it asked for something larger in return. Gerald Pith, holding his mother's returned button in his coat pocket, said nothing for either side.\n\nNo vote was called. Doreen adjourned the meeting at four, saying only that the town would reconvene when it had something better than two opinions shouted past each other. Agnes Crewe, asked to speak, said the question was never whether to answer the lake but whether the town could stand to be loved back, and returned to her seat. Russ went home still holding the shoe. He has not yet decided whether to return it to the step or keep it."
+  },
+  "briefs": [
+    {
+      "headline": "Toby's List Reaches Eleven; a New Column Goes Unfilled",
+      "body": "Toby Fern logged the shoe as entry eleven in his object-and-owner ledger, and opened a third column marked DECIDED beneath it. By evening the column held nothing. 'The town doesn't know what it's doing yet,' he wrote beneath the empty space, 'so neither does my notebook.'"
+    },
+    {
+      "headline": "Hank's Board Clean a Third Morning",
+      "body": "Hank Mossley reports no further writing on his chalkboard since the 31st, and says he has stopped wiping it each night out of habit, preferring to leave it as he finds it in the morning and photograph the difference, if any."
+    },
+    {
+      "headline": "Welcome Sign Still Reads 7 at the County Line",
+      "body": "No change noted. The sign has held its count through three returned objects and one unresolved town meeting."
+    }
+  ],
+  "classifieds": [
+    "LOST: One good afternoon's worth of consensus, somewhere in the grange hall between two and four o'clock. Reward: none offered, as nobody present agrees what it would look like.",
+    "FOR SALE: Folding chairs, forty-one used once this season for a meeting that solved nothing. Hank Mossley, at cost.",
+    "WANTED: A second opinion on whether courtesy or caution is the correct response to the lake. Apply within, if you have one that holds."
+  ],
+  "record": [
+    "Attendance at Sunday's town meeting: 41 residents, 3 visitors, 0 motions carried.",
+    "Green house step returns, to date: button (Gerald Pith), compass (Esmé Okonkwo), shoe (Russ Dunmore)."
+  ],
+  "letters": [
+    {
+      "from": "Russ Dunmore, Constable",
+      "body": "I have spent thirty years telling this town that nothing out there is worth a report. I am not revising that statement today. I am saying only that I went to my car after the meeting and sat in it for a while, which I have done exactly once before, and that time I didn't get out either. The shoe is in my desk drawer. I have not decided anything. Print that much and no more."
+    },
+    {
+      "from": "Marigold Vance, The Kettle",
+      "body": "They asked me at the meeting what I'd noticed of Gerald this season, and of Russ, and I told them plain instead of laughing it off the way I do at the counter. Gerald's been asking after other people before himself since Esmé's compass. Russ hasn't finished a cup of coffee since the shoe. I don't know what either fact is worth, but I was tired of holding them alone, so now you all can hold them too."
+    }
+  ],
+  "editorNote": "This editor sat in the back of the grange hall today and took the meeting down verbatim, which filled four full notebook pages and resolved exactly nothing, which is itself the news. The town has, for the first time this arc, disagreed with itself in public about the lake rather than managing the disagreement privately. That seems worth more ink than a fourth returned object would have, so the shoe gets one lead and the argument gets the rest of the page."
+}

@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Early winter",
-  "dayNumber": 118,
-  "weather": "Cold, 22°F, a thin fog off the water by midmorning",
+  "dayNumber": 119,
+  "weather": "Cold, 19°F, flat grey sky, no wind",
   "undercurrent": {
-    "level": 38,
+    "level": 46,
     "stage": 2,
-    "phenomenon": "A second resident, Esmé Okonkwo, has received a returned object traced to a specific grief: her father's compass, lost with him in the lake forty years ago and never recovered.",
-    "note": "The pattern has moved from one grief to a second, unrelated one, confirming it is not fixated on Gerald alone but reaching broadly into the town's old, uncounted losses. The town has now called a public meeting, which will force the first open argument about whether to let this continue, try to stop it, or attempt to answer back. Next knob: someone tries to leave something FOR the green house step in return, and the town must decide if that is welcome."
+    "phenomenon": "The green house step has returned a third object, this one reaching forty-four years into the town's past, and the town has split publicly over whether to answer the gesture or end it.",
+    "note": "The sequence has now proven depth as well as breadth: it is not limited to living grief or recent loss, which unsettles the town more than a third repetition would on its own. The meeting produced no resolution, which means the pressure carries forward unspent rather than discharged. Next knob: someone acts unilaterally before the town decides anything together, likely Doreen or Russ, forcing the other faction's hand."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -20,8 +20,8 @@
   },
   "season_arc": {
     "number": 5,
-    "premise": "Mrs. Vance has left pie on the step of the green house every night for longer than anyone can say, and every morning it is gone, plate washed and returned. This winter, for the first time, the plate comes back with something on it that wasn't there before: a second, smaller plate, set as if in answer, with a slice already cut and waiting for her.",
-    "day_in_season": 9,
+    "premise": "Mrs. Vance has left pie on the step of the green house every night for longer than anyone can say, and every morning it is gone, plate washed and returned. This winter, for the first time, the plate comes back with something on it that wasn't there before: a second, smaller plate, set as if in answer, with a slice already cut and waiting for her. Now the step has begun returning the town's own lost things.",
+    "day_in_season": 10,
     "target_length": 32,
     "next_premise": "",
     "outline": [
