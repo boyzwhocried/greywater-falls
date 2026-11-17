@@ -1,0 +1,46 @@
+{
+  "day": 120,
+  "dateline": "Monday, February the 2nd",
+  "weather": "Cold, 21°F, thin sun breaking through grey by midday",
+  "stage": 2,
+  "lead": {
+    "headline": "Russ Dunmore Stakes Out the Green House Step; Hank Brings a Thermos and a Camera",
+    "byline": "By Wren Aldercott",
+    "body": "Russ Dunmore parked his cruiser across from the green house at eleven last night, lights off, and stayed there until Mrs. Vance's porch light went dark at one in the morning. Hank Mossley joined him at midnight with a thermos of coffee and the camera he uses to photograph his shop's chalkboard. Neither man asked Mrs. Vance's permission first. She found out at six, when she went out in her housecoat to collect the night's plate and found Russ still parked at the curb, the engine off, his breath fogging the windshield.\n\nMrs. Vance did not shout. She walked to the cruiser's window, knocked once, and told Russ that whatever he was waiting to catch, he would not catch it by sitting there, and that it was rude regardless, like watching a man open his own mail over his shoulder. Russ said he was doing his job. Mrs. Vance said his job did not extend to her porch at midnight without her say-so, and that if he wanted to know who left the pie answered, he could ask her, not stake out her step like she was running something illegal. He had no answer for that. The plate, this morning, was washed and returned as always, with nothing new on it. Toby Fern, who biked past at seven on his way to school, logged it as the first morning in eleven entries with no new item, and wrote beside it: 'Because they were watched?'\n\nWord reached Doreen Halloway by eight. She drove straight to Mrs. Vance's and stayed an hour. By mid-morning Doreen and Gerald Pith had both told this editor plainly that Russ's stakeout was an insult dressed as caution, and that Mrs. Vance deserved better than being surveilled by her own town. Russ, reached at the station, said only that someone had to do something, and that waiting for a vote that never came was not a plan. He has not said whether he intends to sit outside the green house again tonight."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 120",
+      "body": "Level steady at the ice line marked last week. Water temperature 34°F, up one degree from Saturday's reading. Clarity unchanged, clear to the second stone shelf. The welcome sign at the county line still reads 7. No returned animals logged at dusk; the shore was empty at six, the first such evening in nine days."
+    },
+    {
+      "headline": "Doreen and Gerald Side Openly With Mrs. Vance",
+      "body": "Both told this paper they consider Russ's overnight watch a breach of neighbourly conduct, not a civic measure. Doreen called it 'exactly the kind of thing that makes a thing worse,' though she declined to specify which thing."
+    },
+    {
+      "headline": "Toby's Column Stays Blank a Second Day",
+      "body": "The DECIDED column in Toby Fern's notebook remains empty after entry eleven. He has added a twelfth line for 'the night nothing happened,' with a question mark where the object would go."
+    }
+  ],
+  "classifieds": [
+    "LOST: one good night's sleep, somewhere between the cruiser and the curb. — R.D.",
+    "FOR SALE: thermos, barely used, if anyone still wants to sit in a cold car for love or spite. Ask Hank.",
+    "WANTED: a neighbour who still trusts me. Reward: pie, same as always. — M. Vance",
+    "NOTICE: Grange hall available Thursday evening if anyone has 'something better than two opinions.' — D. Halloway"
+  ],
+  "record": [
+    "Welcome sign, county line: 7 (unchanged)",
+    "Lake temperature: 34°F, up 1° from Saturday"
+  ],
+  "letters": [
+    {
+      "from": "Marigold Vance, The Kettle",
+      "body": "I kept the coffee coming this morning same as every morning, but I'll say what I saw: Gerald came in looking like he hadn't slept either, and when Hank told him about the stakeout he didn't say a word, just stirred his coffee till it went cold. I don't know who's right. I know Mari Vance has been feeding this town for thirty years without asking it to earn the pie first, and I don't like watching her get treated like a suspect on her own porch."
+    },
+    {
+      "from": "Russ Dunmore, Constable",
+      "body": "I am not apologizing for doing my job. Somebody is coming onto a woman's property at night and leaving things that belong to the dead. I'd stake out any other house in this town under the same circumstances and nobody would call it rude. I'll say the rest to Doreen's face Thursday, if she wants a meeting that bad."
+    }
+  ],
+  "editorNote": "This paper does not referee neighbours. It reports when they stop being neighbourly, which is today."
+}
