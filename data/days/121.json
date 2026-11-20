@@ -1,0 +1,45 @@
+{
+  "day": 121,
+  "dateline": "Tuesday, February the 3rd",
+  "weather": "Cold, 19°F, flat grey sky, no wind",
+  "stage": 2,
+  "lead": {
+    "headline": "Mrs. Vance Takes the Plate In Early, and Russ Finds Doreen at His Door Instead",
+    "byline": "By Wren Aldercott",
+    "body": "Mrs. Vance brought the pie plate in at nine last night, two hours ahead of her usual hour, and did not set it back out this morning. She told this editor only that she'd 'had enough of being watched by people who claim to love her,' and that the step could wait a night for its answer. No new plate went out. No old plate came back. For the first time since the sequence began, the green house gave nothing because nothing was offered.\n\nDoreen Halloway walked to Russ's house at seven with a loaf under one arm and did not bring it inside. She stood on his porch and told him, by his own account, that he had cost the town something it couldn't easily get back, and that his thermos and his camera were a poor trade for whatever had been coming. Russ said he'd only meant to protect Mrs. Vance, not frighten her off the step. Doreen told him protection that nobody asked for has another name, and left the loaf on his rail the way the green house leaves its plates, which both of them noticed and neither mentioned again.\n\nGerald Pith, asked at the counter whether he'd pick a side now that Mrs. Vance herself had acted, said only that he'd rather measure something than argue about it, and went to the shore instead. Toby Fern biked past the green house twice today, logged the empty step as entry thirteen, and wrote beside it, for the first time, a question with no object: 'What happens when she stops asking?' Marigold Vance wrote the Gazette a short, unsigned note that arrived signed anyway: 'She's allowed to be tired. Print that.'"
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 121",
+      "body": "Level steady, 56. Water temperature 44°F, warmer than the air by a wide and unexplained margin. Clarity: glass-clear to the bottom near the dock, the first such reading this winter. Welcome sign still reads 7. No returned seen at dusk; Agnes says they are 'waiting on her too.'"
+    },
+    {
+      "headline": "Doreen's Loaf Left On a Rail, Not a Table",
+      "body": "Witnesses confirm Doreen Halloway left an unsliced loaf on Russ Dunmore's porch rail this morning rather than hand it to him directly. Russ has not said whether he ate it."
+    },
+    {
+      "headline": "Toby's Column Opens a New Line",
+      "body": "Toby Fern's running list of returned objects gains, for the first time, an entry marked 'WITHHELD' rather than 'RETURNED.' He declined to say more to this editor except that the plate itself counts as data."
+    }
+  ],
+  "classifieds": [
+    "LOST: one evening's peace of mind, somewhere between a porch rail and a cruiser window. Reward: an apology, publicly, if anyone's offering.",
+    "FOR SALE: birdfeeder, lightly used, two chickadees included at no extra charge. Inquire R. Dunmore.",
+    "WANTED: someone to tell Hank Mossley his chalkboard is just a chalkboard. Compensation negotiable.",
+    "NOTICE: The Kettle will hold a table open after close for anyone who needs to sit without talking. No charge. — M. Vance"
+  ],
+  "record": [
+    "Pie plate: not set out, Monday night into Tuesday. First such night on record.",
+    "Welcome sign, county line: 7."
+  ],
+  "letters": [
+    {
+      "from": "Marigold Vance",
+      "body": "She's allowed to be tired. She has fed this whole town's grief for eleven days running and nobody thought to bring HER a plate. Print that, and print my name under it, I don't care anymore who it upsets."
+    },
+    {
+      "from": "A Resident Who Asked Not to Be Named",
+      "body": "Some of us think Russ was right to try. The rest of you can call it rude. I call it the only one of us brave enough to ask the question out loud instead of leaving pie on a step like it'll answer back politely forever."
+    }
+  ]
+}
