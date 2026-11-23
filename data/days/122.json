@@ -1,0 +1,45 @@
+{
+  "day": 122,
+  "dateline": "Wednesday, February the 4th",
+  "weather": "Cold, 21°F, thin sun breaking through flat cloud by noon",
+  "stage": 2,
+  "lead": {
+    "headline": "Mrs. Vance Resets the Plate, and Asks the Town to Stop Deciding For Her",
+    "byline": "By Wren Aldercott",
+    "body": "Mrs. Vance set the plate out again last night at her usual hour, pie and all, and said nothing about it to anyone beforehand. She told this paper only that she'd slept on it and decided the step wasn't the town's to referee. 'I didn't stop because I was afraid,' she said. 'I stopped because everyone kept asking me whether I should.' The plate was gone by dawn, washed and returned the way it has always come back, with a folded square of brown paper in its place where the second plate usually sits. Nobody has opened it yet. Toby logged it as entry fourteen and left the OBJECT column blank until someone does.\n\nThe reset did not settle anything between neighbors. Russ came by the diner counter at seven and asked Marigold, not unkindly, whether Mrs. Vance's decision meant his stakeout had been forgiven or simply overruled. Marigold told him those weren't the same question and she wasn't going to answer either one for him. Doreen, reached at the bakery, said she was glad of the pie's return but still expected Russ at Thursday's meeting to account for himself properly, loaf or no loaf. Gerald came in, ordered his coffee, and when asked where he stood now that the plate was back, said only that a thing resuming doesn't mean the argument underneath it has.\n\nThe paper square went untouched through the morning. By early afternoon Mrs. Vance had moved it to her kitchen table, where she said she meant to open it alone, 'without an audience doing my thinking for me.'"
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 122",
+      "body": "Level 58, holding. Water temperature 34°F at the dock, clarity unchanged, visibility to roughly four feet. The welcome sign at the county line still reads 7. No new returned animals reported at dusk; the usual four gathered at the shore and hummed the held note as always."
+    },
+    {
+      "headline": "Marigold Declines to Keep Score",
+      "body": "Asked at the counter to settle whether Russ was forgiven, Marigold Vance said she pours coffee, not verdicts, and that both men were welcome at her tables regardless of what they decided about each other."
+    },
+    {
+      "headline": "Toby's Fourteenth Entry Arrives Unopened",
+      "body": "Toby Fern logged the brown paper square as entry fourteen in his notebook, OBJECT column marked 'unknown, folded,' and wrote that for the first time the town may not get to see what came back before the person it came back to does."
+    }
+  ],
+  "classifieds": [
+    "FOUND: one brown paper square, folded twice, origin unknown. If this is yours, you already know where it's been. — M. Vance",
+    "Halloway's Bakery: window seat open again, second loaf baked daily, no questions asked of who it's for.",
+    "Birdfeeders restocked, Mossley Hardware. Chickadees extra this week, no charge.",
+    "WANTED: a quiet Thursday. Apply within. — R. Dunmore"
+  ],
+  "record": [
+    "Town meeting rescheduled to Thursday, 6pm, the green at Pell and Second.",
+    "Welcome sign inspected, reads 7, census unchanged at 9."
+  ],
+  "letters": [
+    {
+      "from": "Marigold Vance",
+      "body": "She's not a referee and neither am I. Mari tired of being asked to score it. The plate's back. Let that be the news."
+    },
+    {
+      "from": "Russ Dunmore",
+      "body": "I ate the loaf. Didn't say so before because I wasn't sure it was an apology or a bill. Figure it was both. I'll say my piece Thursday, plain, and that'll have to do."
+    }
+  ]
+}

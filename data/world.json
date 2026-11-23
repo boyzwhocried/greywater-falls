@@ -5,13 +5,13 @@
   "founded": 1887,
   "population": 9,
   "season": "Early winter",
-  "dayNumber": 121,
-  "weather": "Cold, 19°F, flat grey sky, no wind",
+  "dayNumber": 122,
+  "weather": "Cold, 21°F, thin sun breaking through flat cloud by noon",
   "undercurrent": {
-    "level": 58,
+    "level": 60,
     "stage": 2,
-    "phenomenon": "Mrs. Vance withheld the plate entirely for the first time, and the step's silence has stopped being Russ's fault alone and become everyone's: Doreen's rebuke of Russ, delivered in the shape of the very gesture under dispute, shows the town starting to mimic the green house's own language of offering and withholding.",
-    "note": "The quarrel has found its center of gravity: not whether to answer the lake, but whether Mrs. Vance herself is allowed to stop. If she doesn't reset the plate by Thursday's meeting, the town will have to reckon with the possibility that the sequence was never guaranteed to continue, and that they've been taking her nightly labor for granted the way they take the lake's patience for granted. Someone will have to apologize in public soon, or the rift outlasts the strangeness that caused it."
+    "phenomenon": "Mrs. Vance reset the plate on her own terms, but the green house answered with something unopened for the first time, a folded paper instead of a visible object, deepening the sense that the sequence is now withholding its meaning from the town even as it resumes its rhythm.",
+    "note": "The rift between Russ and Doreen has not closed, only paused for Thursday. The real pressure now sits in that unopened square on Mrs. Vance's kitchen table: whatever it says, she means to read it alone, and the town will have to decide whether it can bear not knowing first. If she tells no one, the quarrel over watching versus trusting gets its sharpest test yet."
   },
   "editor": {
     "slug": "wren-aldercott",
@@ -21,7 +21,7 @@
   "season_arc": {
     "number": 5,
     "premise": "Mrs. Vance has left pie on the step of the green house every night for longer than anyone can say, and every morning it is gone, plate washed and returned. This winter, for the first time, the plate comes back with something on it that wasn't there before: a second, smaller plate, set as if in answer, with a slice already cut and waiting for her. Now the step has begun returning the town's own lost things.",
-    "day_in_season": 12,
+    "day_in_season": 13,
     "target_length": 32,
     "next_premise": "",
     "outline": [
