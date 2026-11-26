@@ -19,7 +19,7 @@
     "id": "answer-plate",
     "text": "Who or what leaves the answer plates, the napkin and the objects for Mrs. Vance on the green house step.",
     "opened_day": 110,
-    "last_touched": 122,
+    "last_touched": 123,
     "status": "advanced",
     "payoff_by": 140,
     "notes": [
@@ -29,7 +29,8 @@
       "Day 119: Day 119: A third object, a child's shoe belonging to Russ Dunmore's brother drowned 44 years ago, confirms the pattern reaches further back than living memory of grief, and forces the town's first open meeting on what to do about the step, which ends in a split rather than a decision.",
       "Day 120: Day 120: Russ staked out the step overnight without consent; the plate came back washed but with nothing new on it for the first time in eleven entries, which the town reads as the step responding to being watched.",
       "Day 121: Day 121: Mrs. Vance withheld the plate entirely for the first time, raising the question of whether the sequence depends on her continuing to offer, not just on the town's behavior.",
-      "Day 122: Day 122: Mrs. Vance reset the plate unprompted and received a folded paper square in return, the first answer-object withheld from public view, suggesting the sequence may now be speaking to her alone rather than through her to the town."
+      "Day 122: Day 122: Mrs. Vance reset the plate unprompted and received a folded paper square in return, the first answer-object withheld from public view, suggesting the sequence may now be speaking to her alone rather than through her to the town.",
+      "Day 123: Day 123: Mrs. Vance's folded paper square remains unopened and unread aloud even through a meeting that argued directly about the step; the fuse moved sideways instead of forward."
     ]
   },
   {
@@ -68,14 +69,15 @@
     "id": "gives-back-in-spring",
     "text": "Agnes's law: the lake takes in the autumn and gives back in the spring. What exactly will it give back this spring, and what has it taken that the town has not yet counted?",
     "opened_day": 6,
-    "last_touched": 119,
+    "last_touched": 123,
     "status": "advanced",
     "payoff_by": 180,
     "notes": [
       "Day 115: Gerald's phrase implies ownership or claim over the ice itself ('already spoken for'), the clearest verbal hint yet that something considers the lake's contents accounted for, tying his shore silence to Agnes's law of taking and giving back.",
       "Day 117: Day 117: The first proven returned object is a dead relative's possession, sharpening the question of what the lake or its intermediary considers owed back, and to whom.",
       "Day 118: Day 118: A compass lost in the lake itself, not merely misplaced, returns via the green house step, tightening the link between Agnes's law and the step's deliveries.",
-      "Day 119: Day 119: Russ's brother's shoe, the oldest grief returned yet, suggests the lake's ledger of the uncounted runs back decades before this season's objects began, not just within it."
+      "Day 119: Day 119: Russ's brother's shoe, the oldest grief returned yet, suggests the lake's ledger of the uncounted runs back decades before this season's objects began, not just within it.",
+      "Day 123: Day 123: the town's quarrel over watching versus trusting hardened into two named factions with no vote, deepening the question of what accommodation will cost before spring."
     ]
   }
 ]

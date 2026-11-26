@@ -1,0 +1,45 @@
+{
+  "day": 123,
+  "dateline": "Thursday, February the 5th",
+  "weather": "Cold, 19°F, a thin crust of frost on every west-facing step",
+  "stage": 2,
+  "lead": {
+    "headline": "Hank and Russ Propose a Watch; Mrs. Vance Calls It Rude, and the Table Fills to Argue About It",
+    "byline": "By Wren Aldercott",
+    "body": "Thursday's meeting, called for an accounting, became something sharper. Russ stood first and said his piece as promised: that he'd staked out the step once already and been caught and rebuked for it, and that he still believed someone ought to be watching, properly this time, with Hank beside him and the whole business done in the open rather than at 3 a.m. Hank seconded him before Russ finished the sentence, said he'd bring a thermos and a notebook and nothing else, and that a thing walking into people's private grief deserved to be looked at, not merely received.\n\nMrs. Vance did not wait to be asked. She said watching the step was rude the first time and remained rude the second, that whatever answers her pie had nothing to do with being caught, and that she would rather the plate stopped coming back altogether than have it photographed like a suspect. Doreen rose beside her before anyone could object, said she'd spent all week asking Russ to account for himself and would not now watch him demand the same of a woman who owed the town nothing, and Gerald, who has taken no side all season, said quietly that a watch changes what's being watched, which was as close to a side as he has come. \n\nThe room split along the old meeting's line but harder: Russ and Hank on one bench, Doreen, Gerald and Mrs. Vance on the other, and no one in the middle except Agnes, who said nothing and knitted. No vote was called. Russ left saying he'd watch whether or not the town agreed, and Hank, following him out, said only that someone had to. Mrs. Vance walked home alone and did not read her folded paper square aloud to anyone, though she brought it to the meeting in her coat pocket the whole time."
+  },
+  "briefs": [
+    {
+      "headline": "LAKE WATCH, Day 123",
+      "body": "Level steady, 34°F at the shore, water clear to the drop-off. The sign still reads 7. No returned sighted at dusk; Gerald's string marked no further rise overnight."
+    },
+    {
+      "headline": "Toby Logs the Meeting, Not an Object",
+      "body": "For the first time since he began the list, Toby's notebook entry for the day carries no OBJECT line at all. He wrote instead: 'Entry fifteen is the town, not the step.'"
+    },
+    {
+      "headline": "Agnes Keeps Her Needles Moving",
+      "body": "Asked afterward why she hadn't spoken, Agnes said she'd said her piece back on the nineteenth and saw no reason to repeat good weather."
+    }
+  ],
+  "classifieds": [
+    "WANTED: a second pair of eyes for the night shift, reasonable hours, strong stomach for cold coffee. Inquire R. Dunmore.",
+    "FOR SALE: folding card table, lightly used, good for a meeting that needs more chairs than opinions. H. Mossley.",
+    "THE KETTLE: open late Thursdays through February. Coffee for anyone who needs to not be asked a question. M. Vance."
+  ],
+  "record": [
+    "Town meeting, Thursday 7pm, Halloway's Bakery: no vote taken; two factions stated plainly for the record.",
+    "Lake Watch, Day 123: no change in level or sign."
+  ],
+  "letters": [
+    {
+      "from": "Marigold Vance",
+      "body": "I fed both of them tonight, Russ at the counter at six and Doreen at seven, and I'll feed them both tomorrow. I'm not going to tell you who's right. I will tell you the coffee's the same cup either way."
+    },
+    {
+      "from": "Gerald Pith",
+      "body": "A watched thing behaves like a watched thing. I don't know what that means here. I only know I've measured enough water this season to know the stick doesn't lie, and neither, I think, does Mrs. Vance."
+    }
+  ],
+  "editorNote": "This editor printed the meeting whole, both benches, because a rift this plain does the town no favors half-told. Thursday's game is cancelled this week; Hank says there was no card left in anyone to play it with."
+}
